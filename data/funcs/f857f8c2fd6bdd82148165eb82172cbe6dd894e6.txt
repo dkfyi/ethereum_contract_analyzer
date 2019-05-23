@@ -1,0 +1,6 @@
+setGeneScienceAddress(address)
+ideal_warn_timed(uint256,uint128)
+calculateResult(uint256,uint256,uint256)
+geneScience()
+transferOwnership(address)
+mixGenes(uint256,uint256,uint256)

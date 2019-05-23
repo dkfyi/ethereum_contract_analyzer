@@ -1,0 +1,11 @@
+name()
+setOwner(address)
+totalSupply()
+0x22c6741e
+available_assert_time(uint16,uint64)
+0x41b4ffc9
+balanceOf(address)
+getOwner()
+link_classic_internal(uint64,int64)
+0x9bc5302b
+many_msg_babbage(bytes1)

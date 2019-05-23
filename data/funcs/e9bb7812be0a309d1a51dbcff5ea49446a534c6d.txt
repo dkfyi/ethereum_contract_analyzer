@@ -1,0 +1,2 @@
+setAddr(string,address)
+getAddr(string)

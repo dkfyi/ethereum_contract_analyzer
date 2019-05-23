@@ -1,0 +1,17 @@
+companyAddr()
+name()
+approve(address,uint256)
+0x1242f442
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+burn(uint256)
+teamAddr()
+standard()
+0x6ce0c4d9
+balanceOf(address)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xcdc0a252
+0xde9ea1ce
+icoAddr()

@@ -1,0 +1,4 @@
+rate()
+setRate(uint256)
+buyToken()
+many_msg_babbage(bytes1)

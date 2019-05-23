@@ -1,0 +1,4 @@
+getBalance()
+totalSupply()
+claimTokens()
+many_msg_babbage(bytes1)

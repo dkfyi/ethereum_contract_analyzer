@@ -1,0 +1,6 @@
+0x1cd71218
+setHash(string)
+kill()
+0xa35a941e
+getHash()
+0xe2851aff

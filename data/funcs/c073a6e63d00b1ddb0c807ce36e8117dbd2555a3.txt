@@ -1,0 +1,4 @@
+withdrawAll()
+0xd232e9c7
+sealedBids(address,bytes32)
+cancelBid(address,bytes32)

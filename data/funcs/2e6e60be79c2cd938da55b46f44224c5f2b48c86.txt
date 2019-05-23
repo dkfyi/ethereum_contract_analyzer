@@ -1,0 +1,12 @@
+0x68a69681
+0x68a69681
+ideal_warn_timed(uint256,uint128)
+getUsersCount()
+getUser(uint256)
+0xd4b31731
+removeContract()
+getTotalBalance()
+0x13ac986e
+users(uint256)
+0x3929a30b
+0x5c554f1d

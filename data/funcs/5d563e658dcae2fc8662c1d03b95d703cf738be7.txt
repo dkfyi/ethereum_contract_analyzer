@@ -1,0 +1,6 @@
+0x387a2b5e
+kill()
+0x4364b26e
+0x4c9b7c6c
+calculatePayment(uint256)
+0xec831a8e

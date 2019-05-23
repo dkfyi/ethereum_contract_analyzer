@@ -1,0 +1,4 @@
+0x1eb21bfb
+whatWasTheVal()
+kill()
+indexOf(string,string)

@@ -1,0 +1,14 @@
+getPartnerBalance(address)
+0x1f0e33e3
+0x291bfe97
+0x2996d265
+0x2d79f284
+0x2fbe39c1
+0x4954cbb9
+addAffiliate(address,address)
+getAvailableBalance(address)
+0x840d4c20
+ideal_warn_timed(uint256,uint128)
+0xb40f583b
+0xd553df58
+transferOwnership(address)

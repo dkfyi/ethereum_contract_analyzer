@@ -1,0 +1,10 @@
+0x11e132aa
+offers(uint256)
+0x941b055b
+0x99e686ef
+0xa5d7c10a
+0xa9da5f06
+balanceOf(address)
+reserveCoins(address,uint256)
+sendReward(address,address,uint256)
+declineCoins(address,uint256)

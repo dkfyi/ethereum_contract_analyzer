@@ -1,0 +1,6 @@
+isAdministrator(address)
+abortUpdate()
+abortTransaction()
+updateAdministratorKey(address,address)
+many_msg_babbage(bytes1)
+required()

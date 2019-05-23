@@ -1,0 +1,6 @@
+version()
+getAddressAndSharePriceOfFunds()
+getLastFundId()
+getFundById(uint256)
+calcSharePrice()
+getCreationTime()

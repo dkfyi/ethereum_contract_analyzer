@@ -1,0 +1,12 @@
+catalog()
+registerLoan(address)
+registerLoanReplaceDuplicated(address,uint256,uint256)
+registerLoanReplace(address,uint256)
+getAllLoans()
+0xe1ec3c68
+VERSION()
+STATUS_INITIAL()
+status()
+STATUS_INITIAL()
+status()
+validateContract(address)

@@ -1,0 +1,3 @@
+0x1a92927b
+kkk()
+attack()

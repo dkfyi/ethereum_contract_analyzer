@@ -1,0 +1,3 @@
+lastBlock()
+0xfeba894c
+0xfeba894c

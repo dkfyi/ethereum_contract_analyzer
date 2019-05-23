@@ -1,0 +1,13 @@
+0x52bd8764
+changeowner(address)
+destroy()
+0x8726523e
+ideal_warn_timed(uint256,uint128)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

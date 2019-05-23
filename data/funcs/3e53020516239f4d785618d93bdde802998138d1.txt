@@ -1,0 +1,6 @@
+0x2637cd7d
+0x5724e81f
+0x59b804aa
+0xb0d5451b
+0xff1ad72d
+canCall(address,address,bytes4)

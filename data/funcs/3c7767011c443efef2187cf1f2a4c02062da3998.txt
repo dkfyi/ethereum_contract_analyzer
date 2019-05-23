@@ -1,0 +1,15 @@
+cratesSold()
+withdraw()
+getRobotsForUser(address)
+ideal_warn_timed(uint256,uint128)
+MAX_CRATES_TO_SELL()
+getPrice()
+PRESALE_END_TIMESTAMP()
+currentPrice()
+userCrateCount(address)
+purchaseCrate()
+userToRobots(address,uint256)
+appreciationRateWei()
+transferOwnership(address)
+0x5a858450
+0x5a858450

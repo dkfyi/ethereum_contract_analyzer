@@ -1,0 +1,10 @@
+changeBank(address)
+getSender()
+makeWallet(uint256)
+setFee(uint256)
+bank()
+ideal_warn_timed(uint256,uint128)
+0xa5cd17ab
+fee()
+withdraw(address,address,uint256)
+getSender()

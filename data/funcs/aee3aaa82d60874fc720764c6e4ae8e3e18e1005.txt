@@ -1,0 +1,5 @@
+nameRegAddress()
+update()
+named(bytes32)
+getPrice(bytes32)
+addressOf(bytes32)

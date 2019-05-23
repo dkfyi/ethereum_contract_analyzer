@@ -1,0 +1,11 @@
+save(uint256)
+spend(uint256)
+kill()
+available()
+0x4e5e6337
+0x74277a63
+ideal_warn_timed(uint256,uint128)
+0x92e09c89
+isSpender(address)
+0xd9f2e8ce
+transferOwnership(address)

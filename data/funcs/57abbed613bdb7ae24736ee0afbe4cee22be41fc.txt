@@ -1,0 +1,14 @@
+go()
+0x1995ecea
+ideal_warn_timed(uint256,uint128)
+0xd0045353
+buy(address)
+balanceOf(address)
+sell(uint256)
+exit()
+0x702cfb30
+0x1995ecea
+0x702cfb30
+0xd0045353
+exit()
+buy(address)

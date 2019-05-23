@@ -1,0 +1,3 @@
+getBalance()
+0x41e4998d
+Bet(uint256)

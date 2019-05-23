@@ -1,0 +1,11 @@
+setup(address)
+setup(address)
+ideal_warn_timed(uint256,uint128)
+0xefbce030
+transferOwnership(address)
+getRareAddress()
+withdraw()
+kill()
+calculatePrice(uint256,uint16)
+basePrice()
+purchaseFor(address,uint16,address)

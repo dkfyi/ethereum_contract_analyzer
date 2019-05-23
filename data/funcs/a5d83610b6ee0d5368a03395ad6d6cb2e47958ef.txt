@@ -1,0 +1,13 @@
+airdrop(uint8,bytes32,bytes32)
+tokenHolder()
+PER_USER_AMOUNT()
+getAirdropAmount(address)
+ideal_warn_timed(uint256,uint128)
+unlock()
+0xa87430ba
+locked()
+getAirdropStatus(address)
+transferOwnership(address)
+lock()
+token()
+gasprice_bit_ether(int128)

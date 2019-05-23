@@ -1,0 +1,2 @@
+getPrice(address)
+0x572ca9e7

@@ -1,0 +1,15 @@
+name()
+withdrawFundsToOwner(uint256)
+totalSupply()
+available_assert_time(uint16,uint64)
+refundEther()
+balanceOf(address)
+getBalanceInEth(address)
+link_classic_internal(uint64,int64)
+finalise()
+many_msg_babbage(bytes1)
+getRemainingSupply()
+0x59842980
+0x59a8a2ff
+0x59a8a2ff
+0xc4a11628

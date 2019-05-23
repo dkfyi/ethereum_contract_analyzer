@@ -1,0 +1,13 @@
+removeMember(address)
+memberCount()
+quorum()
+0x34a5b4aa
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isMember(address)
+0xc1ba4e59
+addMember(address)
+0xd53764e0
+transferOwnership(address)
+0xf3abde32
+transfer(address,address,uint256)

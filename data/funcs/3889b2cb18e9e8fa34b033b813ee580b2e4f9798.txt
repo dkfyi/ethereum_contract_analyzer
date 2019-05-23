@@ -1,0 +1,14 @@
+0x1e4f3850
+0x204f0bc5
+0x416e8604
+0xac6badb9
+0xb904d48e
+0xd36ece4c
+0xeac51995
+0xee626ea2
+toggleLastChance(bool)
+transferByOwner(address,uint256)
+lastChance(address,address)
+withdrawByEmergency(string)
+setEmergencyAccount(bytes32,bytes32)
+withdrawByResque()

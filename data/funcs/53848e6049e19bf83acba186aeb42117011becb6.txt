@@ -1,0 +1,4 @@
+affiliateCodes(address)
+addAffiliate()
+affiliateAddresses(uint256)
+idx()

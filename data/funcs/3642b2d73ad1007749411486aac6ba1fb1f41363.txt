@@ -1,0 +1,13 @@
+setRelayContractAddress(address)
+setLibraryAddress(address)
+renounceOwnership()
+0x834cc6fc
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0xb816f513
+transferAnyERC20Token(address,uint256)
+relayContractAddress()
+transferOwnership(address)
+0xffea632b
+0xb069bbbb
+many_msg_babbage(bytes1)

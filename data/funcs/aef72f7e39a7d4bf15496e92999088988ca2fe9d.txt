@@ -1,0 +1,6 @@
+0xb1d131bf
+Command(address,bytes)
+0xfedd6092
+SetPass(bytes32)
+PassHasBeenSet(bytes32)
+SetReciver(address)

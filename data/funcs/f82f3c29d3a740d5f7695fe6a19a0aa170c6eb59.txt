@@ -1,0 +1,8 @@
+0x7978b231
+0x7c9cd2bc
+ownerAddr()
+transferOwnership(address)
+getAddress(string)
+0x82d38954
+getAddress(string)
+0x7cc82f20

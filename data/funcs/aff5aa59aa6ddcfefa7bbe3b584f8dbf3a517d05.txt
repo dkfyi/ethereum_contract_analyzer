@@ -1,0 +1,5 @@
+0x2cfb2053
+claimQueen(uint8)
+0x8cd162bf
+spawn()
+0xec15fa7a

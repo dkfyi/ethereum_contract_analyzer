@@ -1,0 +1,11 @@
+totalFee()
+cancel(uint256)
+0x6535436f
+0x83c261fd
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+price()
+many_msg_babbage(bytes1)
+0xde9e9b80
+transferOwnership(address)
+0xfaa9c0f7

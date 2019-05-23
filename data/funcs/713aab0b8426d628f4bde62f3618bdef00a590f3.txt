@@ -1,0 +1,17 @@
+0x09cac2b5
+0x3610fc8c
+0x4cb08fff
+0x5b8efff4
+0x60e4103f
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0xbf3bed54
+0xe77cee3d
+0xe9499555
+0xed3487fe
+transferOwnership(address)
+0xf65a5c1b
+sale()
+token()
+hasRole(address,string)
+ROLE_MINTER()

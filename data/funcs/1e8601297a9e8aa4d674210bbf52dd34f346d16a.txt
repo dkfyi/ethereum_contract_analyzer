@@ -1,0 +1,9 @@
+isSigner(address)
+isSigner(address)
+getNextSequenceId()
+safeMode()
+activateSafeMode()
+signers(uint256)
+0x56a01000
+0x76b8f9c8
+many_msg_babbage(bytes1)

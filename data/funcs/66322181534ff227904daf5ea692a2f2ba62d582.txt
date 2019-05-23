@@ -1,0 +1,4 @@
+lastTimestamp()
+highScore()
+currentWinner()
+claimWinnings()

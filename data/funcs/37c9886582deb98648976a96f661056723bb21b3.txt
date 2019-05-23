@@ -1,0 +1,11 @@
+0x0d80fefd
+0x3dbcc8d1
+sendMessage(string)
+0x723e046e
+ideal_warn_timed(uint256,uint128)
+collectDonations(uint256,address)
+0xe4b79a07
+like(uint256)
+category()
+transferOwnership(address)
+0x1cc41b3b

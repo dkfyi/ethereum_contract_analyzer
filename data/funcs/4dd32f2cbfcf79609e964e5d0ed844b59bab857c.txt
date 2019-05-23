@@ -1,0 +1,3 @@
+setUint(uint256)
+setString(string)
+getString()

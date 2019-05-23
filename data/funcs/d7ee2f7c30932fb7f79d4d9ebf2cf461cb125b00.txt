@@ -1,0 +1,7 @@
+bid()
+reveal()
+h()
+stage()
+creationTime()
+g()
+i()

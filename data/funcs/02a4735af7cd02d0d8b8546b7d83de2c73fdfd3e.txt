@@ -1,0 +1,11 @@
+0x0a009097
+registerUser(address)
+0x81a236f6
+setCoordinator(address)
+0xa1c5c871
+0xc1731b4f
+getAddress(bytes32)
+0x252d5e81
+getAddress(bytes32)
+0x252d5e81
+getAddress(bytes32)

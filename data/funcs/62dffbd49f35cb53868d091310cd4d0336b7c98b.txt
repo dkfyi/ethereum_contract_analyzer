@@ -1,0 +1,7 @@
+getMatchInfo()
+payForYourGladiator(uint256)
+payOff()
+owner2()
+matchCount()
+ideal_warn_timed(uint256,uint128)
+createMatch(string,string,uint256,string)

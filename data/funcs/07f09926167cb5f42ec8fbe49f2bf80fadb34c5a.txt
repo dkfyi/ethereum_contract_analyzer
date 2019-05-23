@@ -1,0 +1,6 @@
+isWhitelisted(address)
+0x4120657a
+removeFromWhitelist(address[])
+addToWhitelist(address[])
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)

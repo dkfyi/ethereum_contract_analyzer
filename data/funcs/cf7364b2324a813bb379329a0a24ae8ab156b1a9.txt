@@ -1,0 +1,7 @@
+tokenFallback(address,uint256)
+wallet()
+retrieveTokens(address,address)
+token()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

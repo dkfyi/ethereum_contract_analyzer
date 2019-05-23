@@ -1,0 +1,12 @@
+onMint(address,address,uint256)
+onBurn(address,uint256)
+onTransfer(address,address,uint256)
+onTransferFrom(address,address,address,uint256)
+onIncreaseApproval(address,address,uint256)
+ideal_warn_timed(uint256,uint128)
+0xb40ed088
+onApprove(address,address,uint256)
+onDecreaseApproval(address,address,uint256)
+onTaxTransfer(address,uint256)
+transferOwnership(address)
+setHookableTokenAddress(address)

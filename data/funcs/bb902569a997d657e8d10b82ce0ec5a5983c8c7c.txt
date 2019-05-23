@@ -1,0 +1,9 @@
+enter(bytes32,bytes8)
+0x1baeee85
+maxEntrants()
+totalEntrants()
+assignAll()
+entrants(uint256)
+getMembershipStatus(address)
+getMemberInformation(uint8)
+newMember(uint8,bytes32,address)

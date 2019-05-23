@@ -1,0 +1,5 @@
+addPersonalCap(address,uint256)
+withdraw()
+getTotalCap()
+getCap(address)
+0xc2b719ee

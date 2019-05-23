@@ -1,0 +1,13 @@
+0x0164ee96
+0x0f0132b8
+functionSignatures()
+0x51fc00ed
+0x5bfc7f77
+0x61455567
+renounceOwnership()
+delegateAddresses()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+totalFunctions()
+0xa3f01e59
+transferOwnership(address)

@@ -1,0 +1,13 @@
+unpause()
+isPauser(address)
+0x4aa4ba9b
+0x501895ae
+paused()
+renouncePauser()
+0x703e905b
+0x755fa815
+addPauser(address)
+0x83442b1e
+pause()
+0x919823df
+0xb0cc0596

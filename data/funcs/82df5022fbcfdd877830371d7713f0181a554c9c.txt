@@ -1,0 +1,5 @@
+transfer(uint8[],uint8[],uint32[])
+setAquarium(address)
+kill()
+slice(uint32[],uint8,uint8)
+receive(address,uint8,uint32[])

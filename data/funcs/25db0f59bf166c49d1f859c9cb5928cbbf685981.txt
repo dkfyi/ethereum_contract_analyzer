@@ -1,0 +1,8 @@
+GetMoney()
+Contribute(bool,uint8)
+ActiveDigger()
+ChangeActiveDigger(address)
+ContributeWithSender(bool,uint8,address)
+ContributeWithSender(bool,uint8,address)
+ContributeWithSender(bool,uint8,address)
+ContributeWithSender(bool,uint8,address)

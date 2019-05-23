@@ -1,0 +1,8 @@
+setOwner(address)
+0x55047ca8
+startVoting(uint256,uint256)
+VOTING_END_TIME()
+state()
+VOTING_START_BLOCKNR()
+VERSION()
+balances(address)

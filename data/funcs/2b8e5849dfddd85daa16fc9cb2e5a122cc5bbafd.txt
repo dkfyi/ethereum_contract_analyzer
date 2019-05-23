@@ -1,0 +1,8 @@
+rate()
+cap()
+getBonus(uint256)
+buyTokens(address)
+token()
+totalSupply()
+mint(address,uint256)
+0x5e0b6270

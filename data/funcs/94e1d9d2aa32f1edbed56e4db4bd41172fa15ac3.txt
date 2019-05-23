@@ -1,0 +1,6 @@
+go()
+0x88156247
+getRandom()
+play(bytes32)
+balanceOf(address)
+many_msg_babbage(bytes1)

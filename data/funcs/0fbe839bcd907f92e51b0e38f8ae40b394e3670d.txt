@@ -1,0 +1,2 @@
+say(string)
+0xe71b8b93

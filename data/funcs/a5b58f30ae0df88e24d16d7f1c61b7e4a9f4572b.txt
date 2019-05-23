@@ -1,0 +1,11 @@
+0x42e94c90
+claimReserveTokens()
+contributedTotal()
+setDepositAddressVerify()
+getContributionOf(address)
+mint(address,uint256)
+getSaleContractDepositAddress(address)
+getSaleContractTokensLimit(address)
+setSaleContractFinalised(address)
+balanceOf(address)
+setSaleContractDepositAddressVerified(address)

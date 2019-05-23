@@ -1,0 +1,11 @@
+getBalance()
+0x13123d52
+house_edge()
+total_wins_wei()
+jackpot()
+total_wins_count()
+stopGame()
+0x9cdb2532
+total_tickets()
+getEntriesCount()
+startGame()

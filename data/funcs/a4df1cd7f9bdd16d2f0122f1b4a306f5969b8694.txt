@@ -1,0 +1,7 @@
+0x454136a8
+RewardEnd()
+MaxMiningReward()
+CurrentMined()
+MaxMiningReward()
+CurrentMined()
+Mine()

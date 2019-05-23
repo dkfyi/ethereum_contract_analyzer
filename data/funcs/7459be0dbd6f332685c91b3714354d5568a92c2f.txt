@@ -1,0 +1,17 @@
+approve(address,uint256)
+0x0d02c82f
+setOwner(address)
+totalSupply()
+0x1817cca4
+gasprice_bit_ether(int128)
+0x2c9adfaf
+0x3f4e8a14
+ownerOf(uint256)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+0x9c30b71e
+0x9fb4d11b
+buy()
+many_msg_babbage(bytes1)
+0xb348355f
+0xea4a1104

@@ -1,0 +1,8 @@
+getHash(uint256)
+0xb47b782b
+hashFirst()
+0x501895ae
+hashesSize()
+hashesSize()
+0x01000000
+hashFirst()

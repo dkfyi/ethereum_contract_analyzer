@@ -1,0 +1,4 @@
+0xa39d716d
+0xf18d1ca0
+getKitty(uint256)
+giveBirth(uint256)

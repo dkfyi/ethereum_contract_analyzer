@@ -1,0 +1,10 @@
+0x1847b7fb
+0x419456ec
+0x5ed86d5c
+setTarget(address)
+ideal_warn_timed(uint256,uint128)
+0xc5563720
+target()
+0xe29940b9
+play(bytes1,bytes1)
+play(bytes1,bytes1)

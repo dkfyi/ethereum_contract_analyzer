@@ -1,0 +1,17 @@
+0x212676f9
+lendEther()
+borrower()
+collateralAmount()
+loanAmount()
+payoffAmount()
+loan()
+loanDuration()
+token()
+payLoan()
+0x786716fe
+repossess()
+borrower()
+collateralAmount()
+lender()
+payoffAmount()
+token()

@@ -1,0 +1,4 @@
+toUint(bytes32)
+test1()
+testDAO()
+read()

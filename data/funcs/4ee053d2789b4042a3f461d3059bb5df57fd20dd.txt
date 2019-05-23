@@ -1,0 +1,6 @@
+isPricingStrategy()
+calculatePrice(uint256,uint256,uint256,address,uint256)
+oneTokenInWei()
+isSane(address)
+isPresalePurchase(address)
+times(uint256,uint256)

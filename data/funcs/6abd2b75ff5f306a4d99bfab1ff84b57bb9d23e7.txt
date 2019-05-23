@@ -1,0 +1,7 @@
+numsuccesses()
+numfails()
+numcalls()
+numcallsinternal()
+selfDestruct()
+failSend()
+doCall(uint256)

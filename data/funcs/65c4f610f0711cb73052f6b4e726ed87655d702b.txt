@@ -1,0 +1,8 @@
+deadline()
+beneficiary()
+close()
+tokenReward()
+amountRaised()
+price()
+crowdsaleClosed()
+gasprice_bit_ether(int128)

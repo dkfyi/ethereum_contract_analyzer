@@ -1,0 +1,3 @@
+pizza_mandate_apology(uint256)
+tokensReceived(address,address,uint256)
+total()

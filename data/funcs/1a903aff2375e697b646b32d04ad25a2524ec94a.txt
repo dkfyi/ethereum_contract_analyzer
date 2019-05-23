@@ -1,0 +1,3 @@
+0xc6ea7c29
+transferToVault(bytes32,address,address,uint256)
+depositCollateralOnBehalfOf(address,bytes32,uint256)

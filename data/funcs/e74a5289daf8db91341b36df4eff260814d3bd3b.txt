@@ -1,0 +1,6 @@
+setMinBlockPurchase(uint256)
+expirations(address)
+setWeiPerBlock(uint256)
+addTime()
+ideal_warn_timed(uint256,uint128)
+blocksForWei(uint256)

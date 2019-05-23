@@ -1,0 +1,7 @@
+endTime()
+tokenReward()
+balanceOf(address)
+fundingGoal()
+amountRaised()
+beginTime()
+many_msg_babbage(bytes1)

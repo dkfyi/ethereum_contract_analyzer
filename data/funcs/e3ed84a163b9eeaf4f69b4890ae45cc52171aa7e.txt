@@ -1,0 +1,11 @@
+calculateTransferFee(address,address,uint256)
+0x5b225526
+revokePermission(address,bytes32)
+revokeMultiplePermissions(address,bytes32[])
+calculateExchangeFee(uint256)
+grantMultiplePermissions(address,bytes32[])
+0xa2e201d4
+transferFee()
+setTransferFees(uint256,uint256,uint256)
+grantPermission(address,bytes32)
+transferWithNarrative(address,uint256,string)

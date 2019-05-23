@@ -1,0 +1,8 @@
+setOwner(address)
+payoutCursor_Id_()
+ideal_warn_timed(uint256,uint128)
+payoutCursor_Id()
+persons(uint256)
+balance()
+enter()
+quick()

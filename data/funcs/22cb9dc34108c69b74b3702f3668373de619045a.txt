@@ -1,0 +1,6 @@
+changeServer(address)
+changeTokenContract(address)
+tokenContract()
+0xe4cea52e
+server()
+0xfda08958

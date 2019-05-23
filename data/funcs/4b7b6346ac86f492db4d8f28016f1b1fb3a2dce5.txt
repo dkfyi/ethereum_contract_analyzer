@@ -1,0 +1,13 @@
+dao()
+setDao(address)
+numberOfAuthorizedPayments()
+ideal_warn_timed(uint256,uint128)
+authorizePayment(string,address,uint256,uint256)
+collectAuthorizedPayment(uint256)
+authorizedPayments(uint256)
+receiveEther()
+timeLock()
+allowedSpenders(address)
+absoluteMinTimeLock()
+0xed12e8ef
+transferOwnership(address)

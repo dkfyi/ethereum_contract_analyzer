@@ -1,0 +1,8 @@
+stop()
+exchangeRate()
+kill()
+ideal_warn_timed(uint256,uint128)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

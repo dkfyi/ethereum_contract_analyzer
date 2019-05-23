@@ -1,0 +1,5 @@
+getByteFromByte8(bytes8,uint8)
+0x2de0385a
+kill()
+getDigitFromByte32(bytes32,uint8)
+getByteFromByte32(bytes32,uint8)

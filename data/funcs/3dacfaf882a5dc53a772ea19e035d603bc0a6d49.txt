@@ -1,0 +1,12 @@
+removeSigner(address)
+unpause()
+paused()
+isSigner(address)
+pause()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+renounceSigner()
+addSigner(address)
+0xeb28fd91
+transferOwnership(address)
+0xfa7ce7c2

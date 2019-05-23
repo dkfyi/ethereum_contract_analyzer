@@ -1,0 +1,13 @@
+0x195340d4
+getMatchInfo(uint256)
+0x5223a290
+renounceOwnership()
+0x72eb1a77
+0x7cba7f51
+ideal_warn_timed(uint256,uint128)
+0x9193d240
+0xa884d268
+0xab3c48f1
+0xdee1f3f1
+transferOwnership(address)
+0xf4f951d6

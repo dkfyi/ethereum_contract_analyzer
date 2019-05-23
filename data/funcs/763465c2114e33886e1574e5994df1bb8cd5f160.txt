@@ -1,0 +1,2 @@
+registerNewPubKeyForHash(string,string)
+getPubKeyByHash(string)

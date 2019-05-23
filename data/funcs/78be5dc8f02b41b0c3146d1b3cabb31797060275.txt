@@ -1,0 +1,12 @@
+setTokenAddress(address)
+isWhitelisted(address)
+withdraw()
+tokenContract()
+ideal_warn_timed(uint256,uint128)
+0xb4c9d9cb
+transferOwnership(address)
+0xf59c3708
+many_msg_babbage(bytes1)
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

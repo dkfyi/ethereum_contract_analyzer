@@ -1,0 +1,11 @@
+endTime()
+0x3b41e19c
+startTime()
+0x7991502e
+0xbf8ca1aa
+state()
+vote(uint256,bool)
+0xd9186e8b
+0xea233645
+0xeb23f18d
+0xef30ce33

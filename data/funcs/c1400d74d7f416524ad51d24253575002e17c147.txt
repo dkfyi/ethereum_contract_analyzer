@@ -1,0 +1,14 @@
+0x1795e988
+0x3e2ab0d9
+0x44854b32
+0x6374b11b
+0x8430e98a
+disableContract()
+0x94d2c21f
+0xd7cf4b62
+0xea29d7e5
+0xfbb2be4c
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

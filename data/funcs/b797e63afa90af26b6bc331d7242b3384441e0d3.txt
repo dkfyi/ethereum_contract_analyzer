@@ -1,0 +1,4 @@
+saveNick(string)
+ownerOf(string)
+nickOf(address)
+deleteNick()

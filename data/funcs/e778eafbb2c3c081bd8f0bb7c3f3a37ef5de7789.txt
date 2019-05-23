@@ -1,0 +1,9 @@
+balanceOf(address)
+Existing(address)
+many_msg_babbage(bytes1)
+indexToAddress(uint256)
+0xe866a9c2
+balanceOf(address)
+transferPunk(address,uint256)
+punkIndexToAddress(uint256)
+totalSupply()

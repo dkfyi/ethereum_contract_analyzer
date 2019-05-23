@@ -1,0 +1,11 @@
+0x058e83c8
+girlOps()
+0x1abe0492
+setServerAddress(address)
+setCFO(address)
+0x55156480
+ideal_warn_timed(uint256,uint128)
+serverAddress()
+transferOwnership(address)
+0x554c9918
+0x554c9918

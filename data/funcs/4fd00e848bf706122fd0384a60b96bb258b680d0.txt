@@ -1,0 +1,7 @@
+isGeneScience()
+0x61a76900
+0x77a74a20
+0x83a197f6
+mixGenes(uint256,uint256)
+randomAddress()
+maxRandom()

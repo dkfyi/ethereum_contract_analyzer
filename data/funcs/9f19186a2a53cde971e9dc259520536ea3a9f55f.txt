@@ -1,0 +1,4 @@
+withdraw()
+0xaf9a1cd2
+getKitty(uint256)
+giveBirth(uint256)

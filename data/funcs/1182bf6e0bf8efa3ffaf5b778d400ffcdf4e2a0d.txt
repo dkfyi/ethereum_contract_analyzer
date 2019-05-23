@@ -1,0 +1,12 @@
+enableContract()
+kill()
+pay(address,uint256,uint256)
+setData(address)
+disableContract()
+ideal_warn_timed(uint256,uint128)
+setProxy(address)
+0xdf3cfa97
+pay(address,uint256)
+generateTokens(address,uint256)
+0xf218313f
+refund(address,uint256)

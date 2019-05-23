@@ -1,0 +1,7 @@
+0x0c6008af
+0x4d77532d
+deploy()
+setupAmbi2(address)
+ambi2()
+hasRole(address,bytes32,address)
+claimFor(address,address)

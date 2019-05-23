@@ -1,0 +1,10 @@
+0x01c43f92
+0x227d0291
+register(address,string)
+appoint(address)
+invalidationBounty()
+registrationBounty()
+pubs(uint256)
+0x772ccf5d
+accept(address)
+pubCount()

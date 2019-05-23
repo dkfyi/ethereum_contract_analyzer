@@ -1,0 +1,8 @@
+getZone(uint256)
+getBalance()
+sellZone(uint256,uint256)
+withdraw()
+transferZone(uint256,address)
+transferContractOwnership(address)
+buyZone(uint256)
+computeInitialPrice(uint256)

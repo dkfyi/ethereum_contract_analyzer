@@ -1,0 +1,8 @@
+getCompte_3()
+setCompte_3(string)
+setCompte_4(string)
+setCompte_1(string)
+getCompte_1()
+setCompte_2(string)
+getCompte_4()
+getCompte_2()

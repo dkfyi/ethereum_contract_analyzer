@@ -1,0 +1,5 @@
+resolver(bytes32)
+owner(bytes32)
+setSubnodeOwner(bytes32,bytes32,address)
+setResolver(bytes32,address)
+setOwner(bytes32,address)

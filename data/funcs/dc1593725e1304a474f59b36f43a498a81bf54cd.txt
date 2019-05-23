@@ -1,0 +1,10 @@
+getTokenAddress()
+setToken(address)
+getContractAddress()
+0x7129da0f
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+getTokenAmount(uint256)
+kill(address)
+buyTokens()
+gasprice_bit_ether(int128)

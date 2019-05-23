@@ -1,0 +1,6 @@
+0x2c27fe99
+0x3c4e5323
+invested(address)
+interestRate()
+0xb113e7ce
+bonus(address)

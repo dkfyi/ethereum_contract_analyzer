@@ -1,0 +1,15 @@
+_setOwner(uint256,address)
+_setBuyTime(uint256,uint32)
+_increaseTotalDivis(uint256,uint256)
+getTotalDivis(uint256)
+getChainLength()
+getCreationTime(uint256)
+0x98e36d8b
+getBuyTime(uint256)
+getOwner(uint256)
+_initBadges(address,uint256,uint256,uint256)
+_createNewBadge(address,uint256)
+getPrice(uint256)
+_increasePrice(uint256)
+roundUp(uint256,uint256)
+0x3b9aca00

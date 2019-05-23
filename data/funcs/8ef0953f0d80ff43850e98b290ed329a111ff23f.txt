@@ -1,0 +1,15 @@
+0x04cc30dd
+certify(address)
+0x25ed62a3
+kill()
+0x52fad4a5
+0x5e679007
+0x632c1045
+acceptOwnership()
+uncertify(address)
+NAME()
+_owner()
+transferOwnership(address)
+getMinBet()
+0x53a2c19a
+0x65ef8f07

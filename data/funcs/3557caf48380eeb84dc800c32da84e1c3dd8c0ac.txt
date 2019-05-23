@@ -1,0 +1,11 @@
+__callback(bytes32,string,bytes)
+ETHUSD()
+update()
+getAddress()
+getAddress()
+cbAddress()
+getAddress()
+getAddress()
+getPrice(string)
+query(uint256,string,string)
+0x4d493333

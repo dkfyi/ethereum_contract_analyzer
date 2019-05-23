@@ -1,0 +1,12 @@
+setTokenReward(address)
+sendTokens(address,uint256,uint256,bytes32)
+0x7cc2c3c1
+addressOfTokenUsedAsReward()
+withdrawTokens()
+ideal_warn_timed(uint256,uint128)
+getReferenceAddressesOfCode(bytes32)
+getReferenceCodesOfAddress(address)
+0xdae0f05e
+transferOwnership(address)
+0xfcdcc9fb
+many_msg_babbage(bytes1)

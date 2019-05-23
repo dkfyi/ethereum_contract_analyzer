@@ -1,0 +1,14 @@
+0x06a4a7d3
+0x083e2eae
+0x1aea6257
+0x514bff62
+getInfo()
+0x5e6cb106
+0x75cd15f6
+setAdministrator(bytes32,bool)
+0xbf50944c
+0xc75f8663
+0xd55ebd3c
+transferOwnership(address)
+getPlayerInfoByAddress(address)
+distribute(address,uint256)

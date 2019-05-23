@@ -1,0 +1,16 @@
+0x0da1e3cb
+ticketPrice()
+endLottery()
+0x31fba143
+participants(uint256)
+0x45855d5f
+0x4628df65
+buyTicket(uint256)
+ticketsSold()
+0x9beb0a34
+0xb2c67621
+0xb63bc3b4
+0xbe9e0602
+0xbfc18194
+0xf71d96cb
+lastWinner()

@@ -1,0 +1,7 @@
+verifyOwnership(address,address)
+register(address,uint8,bytes32,bytes32)
+registerSimple()
+getIdentityWallet(address)
+isRegistered(address)
+getBalance(address)
+balanceOf(address)

@@ -1,0 +1,6 @@
+info()
+getInfo()
+ownerAddress()
+getPrice()
+price()
+buy()

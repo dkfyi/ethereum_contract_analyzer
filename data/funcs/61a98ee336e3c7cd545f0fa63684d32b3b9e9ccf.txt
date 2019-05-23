@@ -1,0 +1,7 @@
+getGoodPreset(bytes32)
+ideal_warn_timed(uint256,uint128)
+goods(bytes32)
+getGoodPrice(bytes32)
+getGoodDecision(bytes32)
+transferOwnership(address)
+setGood(bytes32,uint256,uint256)

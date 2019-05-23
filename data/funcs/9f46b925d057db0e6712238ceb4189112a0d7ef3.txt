@@ -1,0 +1,12 @@
+0x0155b3cb
+0x1b4f6c46
+0x269b6c85
+0x29327a34
+0x33b4dfea
+transferOwnership(address,bytes32)
+ideal_warn_timed(uint256,uint128)
+authorizedCaller()
+execute(address,uint256,bytes)
+authorizedCaller()
+0x0155b3cb
+authorizedCaller()

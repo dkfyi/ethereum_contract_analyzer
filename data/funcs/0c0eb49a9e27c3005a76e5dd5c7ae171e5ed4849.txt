@@ -1,0 +1,17 @@
+name()
+0x1a7afc4b
+0x369e398c
+getInfo(bytes32)
+0x80055708
+0x892b3602
+0x893a04a8
+0xe8860847
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

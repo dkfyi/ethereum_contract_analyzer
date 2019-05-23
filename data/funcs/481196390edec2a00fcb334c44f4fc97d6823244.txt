@@ -1,0 +1,7 @@
+setupairdrop(address,address)
+tokenaddress()
+ideal_warn_timed(uint256,uint128)
+multisend(address[],uint256[])
+transferOwnership(address)
+admin()
+many_msg_babbage(bytes1)

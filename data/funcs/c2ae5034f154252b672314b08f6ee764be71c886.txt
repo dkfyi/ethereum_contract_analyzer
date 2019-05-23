@@ -1,0 +1,4 @@
+rand(uint256)
+0x61f76087
+0xcc00a860
+hireBountyHunter(uint256)

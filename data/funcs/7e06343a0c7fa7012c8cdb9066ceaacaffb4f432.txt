@@ -1,0 +1,4 @@
+0x6c756f0e
+ideal_warn_timed(uint256,uint128)
+tokenFallback(address,uint256,bytes)
+contractAddress()

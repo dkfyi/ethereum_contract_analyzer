@@ -1,0 +1,16 @@
+name()
+stop()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+burn(uint256)
+balanceOf(address)
+stopped()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+start()
+setName(string)
+allowance(address,address)
+0xee0a6c92
+0xc4a11628

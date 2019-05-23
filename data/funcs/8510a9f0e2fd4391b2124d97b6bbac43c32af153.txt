@@ -1,0 +1,9 @@
+kill()
+0x489ffdbc
+balanceOf(address)
+many_msg_babbage(bytes1)
+frozenAccount(address)
+0xb7bc2f34
+0xc9e696c2
+0xcd93d132
+freezeAccount(address,bool)

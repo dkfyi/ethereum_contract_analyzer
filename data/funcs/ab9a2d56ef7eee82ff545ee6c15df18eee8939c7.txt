@@ -1,0 +1,17 @@
+active()
+count()
+name()
+totalSupply()
+0x1eb7caba
+holders(uint256)
+available_assert_time(uint16,uint64)
+kill()
+balanceOf(address)
+0x7d215e32
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+price()
+many_msg_babbage(bytes1)
+0xda4ca413
+setactive(bool)
+tokenFallback(address,uint256,bytes)

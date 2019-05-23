@@ -1,0 +1,15 @@
+0x11e776fe
+enabled()
+rate()
+disable()
+setRate(uint256)
+0x4ea56430
+setForward(address)
+balanceOf(address)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+enable()
+setBalanceOf(address,uint256)
+forward()
+maxTokens()
+transferOwnership(address)

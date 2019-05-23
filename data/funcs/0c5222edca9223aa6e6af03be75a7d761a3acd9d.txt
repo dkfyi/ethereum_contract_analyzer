@@ -1,0 +1,13 @@
+getBet(uint256)
+stopContract()
+isStopped()
+kill()
+0x569f1bfc
+getContractBalance()
+0xb7bbd567
+random(uint256)
+getBetCount()
+resumeContract()
+deposit()
+amountWagered()
+maxRandom()

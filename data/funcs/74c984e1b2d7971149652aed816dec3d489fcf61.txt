@@ -1,0 +1,10 @@
+isValidated(address)
+0x12e7d955
+0x205c2811
+withdraw(uint256)
+0x309118e4
+setData(string)
+validate()
+data()
+0x83789e5a
+paymentOf(address)

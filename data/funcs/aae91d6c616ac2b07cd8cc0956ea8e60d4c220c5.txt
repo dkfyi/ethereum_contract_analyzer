@@ -1,0 +1,7 @@
+ceoAddress()
+buy(uint8)
+getBomb(uint8)
+payout()
+bombs(uint8)
+addBomb(uint8,uint256,uint8,uint8)
+getRandom(uint256)

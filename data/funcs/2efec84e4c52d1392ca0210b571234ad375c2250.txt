@@ -1,0 +1,11 @@
+unregisterToken(address,string)
+getAddressBySymbol(string)
+0x16066e69
+isTokenRegistered(address)
+claimOwnership()
+tokens(uint256)
+ideal_warn_timed(uint256,uint128)
+registerToken(address,string)
+pendingOwner()
+transferOwnership(address)
+isTokenRegisteredBySymbol(string)

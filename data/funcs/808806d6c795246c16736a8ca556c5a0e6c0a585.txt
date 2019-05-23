@@ -1,0 +1,11 @@
+setComponent(string,address)
+getComponent(string,string)
+renounceOwnership()
+0x773645a6
+ideal_warn_timed(uint256,uint128)
+getLatestComponent(string)
+transferOwnership(address)
+version()
+version()
+version()
+version()

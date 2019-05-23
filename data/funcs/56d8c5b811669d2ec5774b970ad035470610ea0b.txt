@@ -1,0 +1,2 @@
+0xc0f709d0
+stringToBytes32(string)

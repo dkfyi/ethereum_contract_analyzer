@@ -1,0 +1,7 @@
+0x302c11ca
+payout()
+getTotal()
+0x91ac4b88
+0xbb328a7d
+0xd31cca93
+getTarget()

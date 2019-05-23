@@ -1,0 +1,16 @@
+0x02a774fd
+removeAdvisor(address)
+0x189181ce
+0x351c5acd
+0x5e68f96b
+0x6970b27d
+renounceOwnership()
+0x86a69935
+ideal_warn_timed(uint256,uint128)
+0xb4b9b74c
+0xbb622a48
+isAdvisor(address)
+0xcff0db7b
+0xe7aad341
+0xe8a25145
+transferOwnership(address)

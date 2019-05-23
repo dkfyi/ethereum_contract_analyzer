@@ -1,0 +1,13 @@
+0x49e1a72e
+sellPrice()
+sellsTokens()
+0x60e5b760
+buyPrice()
+ideal_warn_timed(uint256,uint128)
+units()
+tokenAddress()
+activate(bool,bool)
+buysTokens()
+0xea199ad2
+transferOwnership(address)
+many_msg_babbage(bytes1)

@@ -1,0 +1,3 @@
+expiration()
+redeem()
+lock(uint256)

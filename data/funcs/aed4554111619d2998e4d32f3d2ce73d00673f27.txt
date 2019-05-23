@@ -1,0 +1,16 @@
+register(uint32)
+checkIn()
+withdraw(uint32[])
+getContestStatusForDateAdmin(uint32)
+getEntryStatus(address,uint32)
+calculateWithdrawableAmount()
+addAdmin(address)
+getStartDate()
+getContestStatusForDate(uint32)
+getUsersForDate(uint32)
+withdrawOperationFees(uint32[])
+getWithdrawableOperationFeeDatesAndAmount()
+getUserEntryStatuses()
+getDatesForUser(address)
+0x5ae7ae00
+0x5ae7ae00

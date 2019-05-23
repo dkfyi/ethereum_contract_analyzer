@@ -1,0 +1,6 @@
+ISC()
+unlock(uint256)
+lock(address,uint256,uint256)
+locks(uint256)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

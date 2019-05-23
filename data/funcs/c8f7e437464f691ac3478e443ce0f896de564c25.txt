@@ -1,0 +1,3 @@
+0x58edef4c
+set(bytes,bytes)
+getValue(bytes)

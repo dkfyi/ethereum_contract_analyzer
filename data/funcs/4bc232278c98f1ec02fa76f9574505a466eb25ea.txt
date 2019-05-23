@@ -1,0 +1,8 @@
+updateSettings(uint256,uint256,uint256,uint256,uint256,bool)
+DynamicPyramid()
+play()
+lineOfPlayers(uint256)
+totals()
+collectFees()
+playerByAddress(address)
+settings()

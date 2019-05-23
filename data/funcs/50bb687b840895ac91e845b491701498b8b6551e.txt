@@ -1,0 +1,7 @@
+reward()
+0x2e252e6a
+participants(uint256)
+founder()
+registerParticipant(address)
+winner()
+rewardWinner()

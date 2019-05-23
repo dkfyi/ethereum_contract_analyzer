@@ -1,0 +1,17 @@
+mintingFinished()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+mint(address,uint256)
+0x5a920320
+decreaseApproval(address,uint256)
+balanceOf(address)
+finishMinting()
+ideal_warn_timed(uint256,uint128)
+many_msg_babbage(bytes1)
+deposit(uint256)
+increaseApproval(address,uint256)
+0xdb68aab3
+allowance(address,address)
+transferOwnership(address)
+deposit(address,uint256)

@@ -1,0 +1,6 @@
+vote(uint256)
+register()
+kill()
+getSelection(uint256)
+getResult(uint256)
+getQuestion()

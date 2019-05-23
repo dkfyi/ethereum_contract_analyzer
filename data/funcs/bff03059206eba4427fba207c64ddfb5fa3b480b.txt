@@ -1,0 +1,8 @@
+0x2647b942
+getHistoryLength()
+0x8be2c8c5
+getHistoryAt(uint256)
+toTimestamp(uint16,uint8,uint8,uint8,uint8,uint8)
+getHistoryLength()
+toTimestamp(uint16,uint8,uint8,uint8,uint8,uint8)
+getHistoryAt(uint256)

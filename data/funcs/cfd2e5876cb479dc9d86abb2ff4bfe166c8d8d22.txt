@@ -1,0 +1,6 @@
+0x7f613f78
+0x8ce2d507
+register(bytes32,string)
+0xd1ed74ad
+0xd6544b4d
+0x8ce2d507

@@ -1,0 +1,12 @@
+addVersion(address)
+transferToken(address,address,address,uint256)
+0x55ffdcc2
+getVersions()
+0x87aee00e
+ideal_warn_timed(uint256,uint128)
+0x8ed180ba
+0xa418da31
+transferOwnership(address)
+gasprice_bit_ether(int128)
+balanceOf(address)
+allowance(address,address)

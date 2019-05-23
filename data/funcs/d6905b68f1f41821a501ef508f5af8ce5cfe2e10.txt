@@ -1,0 +1,16 @@
+name()
+getApproved(uint256)
+approve(address,uint256)
+0x0b1714fd
+0x1caaa487
+gasprice_bit_ether(int128)
+withdraw()
+0x56225a09
+ownerOf(uint256)
+0x6b5e2896
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+setApprovalForAll(address,bool)
+isApprovedForAll(address,address)
+0xeb74d2d4

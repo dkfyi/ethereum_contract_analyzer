@@ -1,0 +1,10 @@
+acceptRequest(address)
+0x74adad1d
+ideal_warn_timed(uint256,uint128)
+freezeTokens(address,uint256)
+cancelRequest(address)
+transferOwnership(address)
+token()
+destroyTokens(address,uint256)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

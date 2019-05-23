@@ -1,0 +1,16 @@
+setProviders(address[])
+0x50f3fc81
+setupAmbi2(address)
+removeFromWhitelist(address)
+isTransferToICAPAllowed(address,bytes32,uint256)
+whitelist(address)
+addToWhitelist(address)
+0xe93c602e
+getProviders()
+isTransferAllowed(address,address,uint256)
+hasRole(address,bytes32,address)
+claimFor(address,address)
+isOwner(address,address)
+hasRole(address,bytes32,address)
+hasRole(address,bytes32,address)
+getProperty(address,bytes32)

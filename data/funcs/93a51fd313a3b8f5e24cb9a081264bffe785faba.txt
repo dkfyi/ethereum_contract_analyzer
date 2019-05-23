@@ -1,0 +1,14 @@
+proposals(uint256)
+0x0a9f46ad
+0x2fdae3c5
+0x37f91f23
+question()
+kill()
+0x84f2d403
+ideal_warn_timed(uint256,uint128)
+0x97f16073
+vote(bytes32,uint256)
+0xaffa6f19
+0xb44518aa
+0xda83bfdd
+transferOwnership(address)

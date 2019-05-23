@@ -1,0 +1,6 @@
+messagetodovie()
+thelocation()
+thedate()
+setMessagefromdovie(string)
+parsha()
+getmessagefromdovie()

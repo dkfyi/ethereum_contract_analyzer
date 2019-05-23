@@ -1,0 +1,4 @@
+0x7d346c8c
+0xa5f77914
+recordLog(uint256,address,uint256,uint256,uint8,uint8)
+tickRequiredLog(uint256,address,uint256)

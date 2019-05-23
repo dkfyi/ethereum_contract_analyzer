@@ -1,0 +1,5 @@
+isAdjacent(uint8,uint8,uint8,uint8)
+toTileId(uint8,uint8)
+ceil(uint256,uint256)
+fromTileId(uint16)
+getBoostFromTile(address,address,address,uint256)

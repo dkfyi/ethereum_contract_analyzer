@@ -1,0 +1,6 @@
+setContent(uint8,string,string)
+version()
+setHashes(uint8,string,string,string,string)
+ideal_warn_timed(uint256,uint128)
+getFile(uint8)
+0xf4c714b4

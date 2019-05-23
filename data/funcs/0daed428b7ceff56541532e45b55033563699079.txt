@@ -1,0 +1,6 @@
+beneficiary()
+balanceOf(address)
+amountRaised()
+price()
+knuckReward()
+many_msg_babbage(bytes1)

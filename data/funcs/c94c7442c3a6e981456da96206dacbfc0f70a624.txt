@@ -1,0 +1,10 @@
+0x024f5f0e
+name()
+0x134d22a8
+totalSupply()
+setCrowdsaleAddress(address)
+0x2f3e4713
+available_assert_time(uint16,uint64)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+redeem(uint256)

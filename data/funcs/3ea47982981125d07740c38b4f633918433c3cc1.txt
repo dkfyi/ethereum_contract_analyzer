@@ -1,0 +1,6 @@
+0x09bb42ef
+transferMultisig(address,address,uint256)
+0x78dbc615
+initWallet(address[],uint256,uint256)
+execute(address,uint256,bytes)
+kill(address)

@@ -1,0 +1,6 @@
+getNonce(address)
+removeFromWhitelist(address[])
+addToWhitelist(address[])
+whitelist(address,address)
+relayMetaTx(uint8,bytes32,bytes32,address,bytes,address)
+getAddress(bytes)

@@ -1,0 +1,13 @@
+deadline()
+0x30aa189d
+beneficiary()
+kill()
+tokenReward()
+balanceOf(address)
+fundingGoal()
+amountRaised()
+price()
+numberOfTokens()
+safeWithdrawal()
+balanceOf(address)
+many_msg_babbage(bytes1)

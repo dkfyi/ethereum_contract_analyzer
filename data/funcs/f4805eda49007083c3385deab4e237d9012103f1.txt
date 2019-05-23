@@ -1,0 +1,12 @@
+0x346a9074
+transfer(bytes32,address,uint256)
+0x500d2f6d
+0x7ed9db59
+0x80a98026
+0x85aad644
+0xbf1ed1eb
+0xc2038236
+contractOwner()
+forceChangeContractOwnership(address)
+0xe88a3178
+0xfd8d359d

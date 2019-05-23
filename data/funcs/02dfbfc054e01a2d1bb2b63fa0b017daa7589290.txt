@@ -1,0 +1,6 @@
+addSignature(string,string)
+removeSignature(string)
+getSignature(string)
+removeSdaContract()
+SignedDigitalAsset(string)
+institution()

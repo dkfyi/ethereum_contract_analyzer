@@ -1,0 +1,15 @@
+drawColors(uint256[],uint256[],address)
+name()
+initialPrice()
+finalize()
+wallet()
+version()
+getColors()
+ideal_warn_timed(uint256,uint128)
+0x8da7f232
+getAccountBalance(address)
+getOwners()
+getAccountReferrer(address)
+getTimes()
+withdrawETH(uint256)
+0x5c2aad7f

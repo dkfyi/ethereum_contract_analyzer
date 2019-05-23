@@ -1,0 +1,14 @@
+0x2a096397
+withdraw(uint256)
+sell(uint8,uint256,uint256)
+0x61bad959
+0x829676b8
+ideal_warn_timed(uint256,uint128)
+0xc31f2ad5
+deposit()
+0xf137a564
+transferOwnership(address)
+buy(uint8,uint256,uint256)
+0xfc7e286d
+initiate(address,uint256,bytes32,address)
+initiate(address,uint256,bytes32,address)

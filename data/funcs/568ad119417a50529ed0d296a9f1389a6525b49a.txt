@@ -1,0 +1,9 @@
+removePixelsFromMarket(bytes32)
+buyFreePixels(uint256,uint256,uint256,uint256)
+buyOwnedPixels(bytes32)
+0x4228a1cd
+ideal_warn_timed(uint256,uint128)
+sendPixelsToMarket(bytes32,uint256)
+transferOwnership(address)
+0xf91acaeb
+getPixels(bytes32)

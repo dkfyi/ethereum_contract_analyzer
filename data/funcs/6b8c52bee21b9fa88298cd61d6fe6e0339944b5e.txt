@@ -1,0 +1,17 @@
+owners(uint256)
+isOwner(address)
+confirmations(uint256,address)
+0x49c1005a
+getTransactionCount(bool,bool)
+isConfirmed(uint256)
+getConfirmationCount(uint256)
+0x9ace38c2
+getOwners()
+getTransactionIds(uint256,uint256,bool,bool)
+0xb1e130fc
+getConfirmations(uint256)
+transactionCount()
+MAX_OWNER_COUNT()
+required()
+approvePayment(uint256)
+executeTransaction(uint256)

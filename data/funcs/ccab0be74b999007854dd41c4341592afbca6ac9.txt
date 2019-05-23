@@ -1,0 +1,5 @@
+removeMember(address)
+isMember(address)
+addMember(address)
+isMember(address)
+isMember(address)

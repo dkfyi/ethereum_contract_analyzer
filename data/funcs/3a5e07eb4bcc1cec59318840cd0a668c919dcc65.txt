@@ -1,0 +1,12 @@
+0x071b267c
+0x530e931c
+setAddress(bytes32,bytes32,address)
+getValue(bytes32,bytes32)
+setConstraint(bytes32,address,address,uint256)
+ideal_warn_timed(uint256,uint128)
+getBool(bytes32,bytes32)
+setValue(bytes32,bytes32,uint256)
+getAddress(bytes32,bytes32)
+getConstraint(bytes32,address,address)
+setBool(bytes32,bytes32,bool)
+transferOwnership(address)

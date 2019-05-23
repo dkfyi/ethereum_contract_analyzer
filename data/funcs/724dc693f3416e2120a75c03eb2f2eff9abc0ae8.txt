@@ -1,0 +1,5 @@
+balanceOf(address)
+distributeToken(address[],uint256)
+Owner()
+transferOwnership(address)
+Destroy()

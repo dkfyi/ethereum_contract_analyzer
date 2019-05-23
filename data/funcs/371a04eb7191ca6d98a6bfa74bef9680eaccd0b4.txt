@@ -1,0 +1,3 @@
+compare(string,string)
+equal(string,string)
+indexOf(string,string)

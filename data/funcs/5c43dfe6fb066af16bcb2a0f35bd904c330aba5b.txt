@@ -1,0 +1,12 @@
+rate()
+issueTokens(address,uint256)
+SHNZ()
+ideal_warn_timed(uint256,uint128)
+buyTokens(address)
+transferOwnership(address)
+airDrop(address[],uint256)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+0x05f5e100
+many_msg_babbage(bytes1)
+0x05f5e100

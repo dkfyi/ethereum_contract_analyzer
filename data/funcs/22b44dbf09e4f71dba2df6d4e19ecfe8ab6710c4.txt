@@ -1,0 +1,5 @@
+posts(uint256)
+0x2ad10e19
+getPost(uint256)
+manager()
+0xeca94dec

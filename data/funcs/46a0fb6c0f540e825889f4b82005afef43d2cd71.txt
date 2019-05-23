@@ -1,0 +1,3 @@
+getRecordNameToken(bytes32)
+signArchive(bytes32,string)
+getRecords()

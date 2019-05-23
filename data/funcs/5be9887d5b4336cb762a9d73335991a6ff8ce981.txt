@@ -1,0 +1,8 @@
+propose(address,bytes,uint256)
+getInfo()
+isMember(address)
+confirm(uint256)
+easyPropose(address,uint256)
+addMember(address,bool)
+trigger(uint256)
+getActionStatus(uint256)

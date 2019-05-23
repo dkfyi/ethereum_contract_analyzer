@@ -1,0 +1,8 @@
+tokenTransfer(address,address,uint256)
+version()
+0x5e883509
+0x82fcdbc8
+0x9ff67f70
+0xb04a4848
+0xb3e216ea
+newToken()

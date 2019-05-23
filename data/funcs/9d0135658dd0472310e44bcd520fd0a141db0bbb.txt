@@ -1,0 +1,8 @@
+refund(uint256)
+0x5c475d42
+trustedProposals(uint256)
+mainDAO()
+requiredEndowment()
+balanceOf(address)
+gasprice_bit_ether(int128)
+totalSupply()

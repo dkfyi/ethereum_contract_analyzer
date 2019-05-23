@@ -1,0 +1,14 @@
+0x10754fb1
+0x18c69995
+withdraw(uint256)
+claimOwnership()
+ideal_warn_timed(uint256,uint128)
+0x9487f119
+pendingOwner()
+0xe7016889
+transferOwnership(address)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+withdraw(uint256)
+balanceOf(address,address)
+deposit()

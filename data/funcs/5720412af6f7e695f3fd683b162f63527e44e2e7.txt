@@ -1,0 +1,15 @@
+0x043ca6cc
+0x04ab9ad9
+setToken(address)
+0x3cbb10fa
+buyTicket(uint256)
+getTicket(uint256)
+initialize()
+0x8a8171ed
+ideal_warn_timed(uint256,uint128)
+0xaa8d7a97
+isMigrated(string,string)
+initialize(address)
+transferOwnership(address)
+token()
+mint(address,uint256)

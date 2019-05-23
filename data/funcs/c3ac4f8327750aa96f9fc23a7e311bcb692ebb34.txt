@@ -1,0 +1,7 @@
+Auth(uint8,address)
+0x395c0fda
+RegisterOne(uint32,address,address)
+whitelist(address)
+RegisterTwo(address,address)
+Config(uint8,address)
+mycontracts(uint32,address)

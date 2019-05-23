@@ -1,0 +1,9 @@
+send(address,address,uint256)
+sendToken(address,address,uint256)
+0x64e0b1c4
+0x72f26e95
+sendEth(address)
+token1()
+token()
+send(address,uint256)
+many_msg_babbage(bytes1)

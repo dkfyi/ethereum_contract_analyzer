@@ -1,0 +1,17 @@
+0x051d9955
+0x12460fdd
+0x264da19e
+0x33513739
+custodian()
+erc20Impl()
+limitedPrinter()
+0x8cbf4145
+totalSupplyCeiling()
+0xa94c7c65
+0xc9bc5dbd
+lockRequestCount()
+confirmCustodianChange(bytes32)
+confirmPrint(bytes32)
+totalSupply()
+confirmPrint(bytes32)
+requestPrint(address,uint256)

@@ -1,0 +1,11 @@
+0x205223d8
+0x27811fee
+0x2cb52649
+0x5f8670d7
+0xce7d6b05
+0xef89aff3
+0x59988dce
+StopGame()
+0x2f092a3f
+NewQuestion(string,bytes32)
+NewQuestion(string,bytes32)

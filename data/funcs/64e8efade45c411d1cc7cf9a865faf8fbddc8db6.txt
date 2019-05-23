@@ -1,0 +1,11 @@
+ownerCount()
+removeOwner(address)
+isOwner(address)
+ownerHistoryCount()
+historyCount()
+0x461fc090
+addOwner(address)
+removeMany(address[])
+history(uint256)
+addMany(address[])
+isAllowed(address)

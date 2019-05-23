@@ -1,0 +1,15 @@
+endTime()
+setBeginTime(uint256)
+tokenReward()
+balanceOf(address)
+beginTime()
+ideal_warn_timed(uint256,uint128)
+WithdrawalToken(uint256)
+0xc63e563b
+setEndTime(uint256)
+0xd9b9bc30
+WithdrawalETH(uint256)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

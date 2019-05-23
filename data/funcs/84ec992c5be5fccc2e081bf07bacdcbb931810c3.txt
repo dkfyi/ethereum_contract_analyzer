@@ -1,0 +1,10 @@
+0x0e09797e
+0x3185981a
+withdrawEther(uint256)
+0x60de8d87
+ideal_warn_timed(uint256,uint128)
+allowed(address)
+0xd7803fda
+transferOwnership(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

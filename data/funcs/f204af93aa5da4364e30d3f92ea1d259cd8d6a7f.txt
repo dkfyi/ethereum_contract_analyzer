@@ -1,0 +1,12 @@
+0x07120679
+buyPuzzle(uint8)
+jackpot()
+0x7a1b0a8b
+initNewGame()
+0x9f986c53
+getPuzzle(uint8)
+coOwner()
+PayWins(address)
+transferCoOwnership(address)
+payments(address)
+changePuzzle(uint8,uint8,uint8,uint8,uint8)

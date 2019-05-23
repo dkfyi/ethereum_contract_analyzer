@@ -1,0 +1,9 @@
+0x0d49f50d
+0x6d204631
+0x6d9501d4
+description()
+0x7a5be237
+publisher()
+price()
+0xa5d360fd
+0xf0054a13

@@ -1,0 +1,5 @@
+createLoveBlock(string,bool)
+myLoveBlocks()
+myLoveBlockCount()
+totalLoveBlocks()
+locks(uint256)

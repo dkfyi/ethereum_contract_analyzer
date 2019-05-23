@@ -1,0 +1,4 @@
+name()
+getName()
+kill()
+setName(string)

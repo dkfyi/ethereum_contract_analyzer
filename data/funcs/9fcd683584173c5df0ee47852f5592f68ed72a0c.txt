@@ -1,0 +1,6 @@
+creator()
+close()
+lastPricePaid()
+previousOwner()
+buyBottle()
+currentOwner()

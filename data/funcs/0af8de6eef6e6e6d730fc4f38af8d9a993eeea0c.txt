@@ -1,0 +1,10 @@
+getStatus()
+getInfo()
+closeContract()
+getExchangeRate()
+invest()
+getStatus()
+0xdfccdcd0
+0x85e74fed
+0xec26fe84
+0x85e74fed

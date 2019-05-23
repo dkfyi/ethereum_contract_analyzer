@@ -1,0 +1,13 @@
+withdraw()
+0x3ee2d7c2
+kill()
+setOwnerTwo(address)
+initBank(uint256)
+0x6ccf301a
+returnDeposit()
+setOwnerThree(address)
+setOwnerOne(address)
+deposit()
+withdrawDepositorFunds(address,uint256)
+getNumberOfDeposits()
+0x09660180

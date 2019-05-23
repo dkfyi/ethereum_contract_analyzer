@@ -1,0 +1,3 @@
+update(bytes32)
+current()
+0xaff4d27e

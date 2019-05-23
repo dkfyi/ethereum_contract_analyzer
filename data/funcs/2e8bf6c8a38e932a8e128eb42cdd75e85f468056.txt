@@ -1,0 +1,4 @@
+destroy()
+getDataRequest(uint256)
+addDataPoint(uint256,bool,string)
+0xe5c82672

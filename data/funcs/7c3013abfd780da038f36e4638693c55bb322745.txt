@@ -1,0 +1,6 @@
+gamesPlayed(uint256)
+kill()
+play(uint256)
+ownerAddr()
+lastPlayed()
+betPrice()

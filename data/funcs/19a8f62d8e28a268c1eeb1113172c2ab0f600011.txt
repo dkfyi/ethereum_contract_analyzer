@@ -1,0 +1,10 @@
+registerByList(address[],bool)
+setAdmin(address,bool)
+unregisterByList(address[],bool)
+admin(address)
+ideal_warn_timed(uint256,uint128)
+0xab01b469
+isRegistered(address,bool)
+0xd897db24
+transferOwnership(address)
+registeredAddress(address,bool)

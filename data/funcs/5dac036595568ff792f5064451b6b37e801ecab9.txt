@@ -1,0 +1,7 @@
+SetPass(bytes32)
+GetGift(bytes)
+PassHasBeenSet(bytes32)
+hashPass()
+GetHash(bytes)
+Revoce()
+SetGiftTime(uint256)

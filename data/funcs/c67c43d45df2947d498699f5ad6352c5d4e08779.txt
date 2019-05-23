@@ -1,0 +1,13 @@
+wallet()
+renounceOwnership()
+recoverERC20(address,uint256)
+0x8bd37902
+ideal_warn_timed(uint256,uint128)
+isOwner()
+setPrice(uint256)
+price()
+setWallet(address)
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)
+0x568d67e3

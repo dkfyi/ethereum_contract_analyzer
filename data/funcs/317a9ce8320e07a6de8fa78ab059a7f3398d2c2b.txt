@@ -1,0 +1,8 @@
+unpause()
+user()
+cancelCall(bytes32)
+pause()
+0xaef18bf7
+isPaused()
+0xc0c6c33d
+0xe73c35b1

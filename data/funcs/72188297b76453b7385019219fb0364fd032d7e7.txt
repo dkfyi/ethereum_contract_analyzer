@@ -1,0 +1,15 @@
+setOwner(address)
+registrationFee()
+payEther(uint256)
+register()
+adjustTransactionFee(uint256)
+retrieveFunds()
+rate(uint256,uint256,string)
+ideal_warn_timed(uint256,uint128)
+0x9ace38c2
+adjustRegistrationFee(uint256)
+transactionFee()
+sellers(uint256)
+askForEther(uint256)
+donate()
+0x290decd9

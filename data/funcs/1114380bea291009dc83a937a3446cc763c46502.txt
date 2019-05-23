@@ -1,0 +1,3 @@
+calculateTokenAmount(uint256,uint256)
+isPricingStrategy()
+rate()

@@ -1,0 +1,14 @@
+upgrade(address)
+isContractMiniGame()
+withdraw(address)
+0x68caca82
+0x8a56b230
+0xa4db9e7d
+0xaa8dcc3b
+addCrystal(address,uint256)
+0xffa651b6
+0x05f5e0ff
+claimPrizePool(address,uint256)
+prizePool()
+addCrystal(address,uint256)
+isContractMiniGame()

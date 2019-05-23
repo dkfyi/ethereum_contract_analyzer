@@ -1,0 +1,7 @@
+time()
+number()
+withdrawAll()
+many_msg_babbage(bytes1)
+0xbe190032
+0xd0095cc6
+deposit()

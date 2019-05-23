@@ -1,0 +1,7 @@
+setMessage(string)
+kill()
+withdraw(address)
+setFee(uint256)
+ideal_warn_timed(uint256,uint128)
+fee()
+message()

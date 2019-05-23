@@ -1,0 +1,5 @@
+kill()
+0x6a67498e
+oraclize_setProof(bytes1)
+getAddress()
+setProofType(bytes1)

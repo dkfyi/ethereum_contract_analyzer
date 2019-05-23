@@ -1,0 +1,3 @@
+exchangeOwner(uint256,uint256)
+createDog(uint256,uint256)
+getOwner(uint256)

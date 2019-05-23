@@ -1,0 +1,14 @@
+getBalance()
+0x1f1742d1
+withdraw(address,uint256,bytes)
+tokenContract()
+0x6b415343
+deposit(bytes)
+getNonce()
+0xe59a70ab
+0xf47f43fd
+balanceOf(address)
+balanceOf(address)
+melt(address,uint256)
+mint(address,uint256)
+mint(address,uint256)

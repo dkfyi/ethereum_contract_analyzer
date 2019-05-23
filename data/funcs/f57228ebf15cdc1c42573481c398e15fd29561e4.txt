@@ -1,0 +1,8 @@
+setOwner(address)
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+takeFee(uint256,address)
+authority()
+setDefaultFee(uint256)
+setFee(address,uint256)
+canCall(address,address,bytes4)

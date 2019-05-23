@@ -1,0 +1,5 @@
+rate()
+collect(uint256)
+token()
+0x02faf080
+many_msg_babbage(bytes1)

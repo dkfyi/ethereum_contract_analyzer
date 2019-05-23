@@ -1,0 +1,16 @@
+goalAchieved()
+wallet()
+burnToken(uint256)
+ideal_warn_timed(uint256,uint128)
+setGoalAchieved(bool)
+saleStart()
+saleEnd()
+transferOwnership(address)
+token()
+0x5b4d3180
+0x5c2aad7f
+many_msg_babbage(bytes1)
+BurnMe()
+0x5b4d3180
+0x5c2aad7f
+BurnMe()

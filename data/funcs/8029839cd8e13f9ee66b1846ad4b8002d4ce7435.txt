@@ -1,0 +1,7 @@
+rate()
+wallet()
+totalSales()
+0xa67e8358
+buyTokens(address)
+token()
+many_msg_babbage(bytes1)

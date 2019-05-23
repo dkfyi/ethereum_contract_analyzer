@@ -1,0 +1,13 @@
+grantAccess(address)
+withdraw(uint256)
+0x405d0c2e
+ideal_warn_timed(uint256,uint128)
+0xb4a37a14
+0xc8617d22
+deposit()
+exchange()
+isAuthorized(address)
+withdraw(uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+deposit()

@@ -1,0 +1,16 @@
+currentPeriod()
+ticketPrice()
+jackPotFunds()
+jackPotPercents()
+benefitPercents()
+benefit()
+finishRoundAndStartNew()
+benefitFunds()
+jackPotBestHash()
+ideal_warn_timed(uint256,uint128)
+buyTicket(uint256,string)
+maxTicketAmount()
+0xa374e43f
+maxPeriodDuration()
+0xea4a1104
+transferOwnership(address)

@@ -1,0 +1,10 @@
+0x08a6d790
+position()
+0x16dc7668
+0x2290a2c6
+identifier()
+0xe9ae57e5
+0x365a86fc
+0x9624e83e
+0x0194497f
+getOwnedAssetsLength()

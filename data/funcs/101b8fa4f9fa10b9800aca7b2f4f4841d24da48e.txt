@@ -1,0 +1,14 @@
+owners(uint256)
+0x0f2cc599
+isOwner(address)
+confirmations(uint256,address)
+delayedOwner()
+REQUIRED()
+isConfirmed(uint256)
+0x9ace38c2
+getTransactionIds(uint256,uint256,bool,bool)
+transactionCount()
+confirmTransaction(uint256)
+submitTransaction(address,uint256,bytes)
+replaceOwner(address,address)
+executeTransaction(uint256)

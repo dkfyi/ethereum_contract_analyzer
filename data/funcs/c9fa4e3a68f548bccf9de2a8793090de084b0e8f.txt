@@ -1,0 +1,3 @@
+userBalance(address)
+balanceOf(address)
+deposit(address)

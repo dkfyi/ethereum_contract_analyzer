@@ -1,0 +1,6 @@
+ideal_warn_timed(uint256,uint128)
+getParameter(string)
+setIPFSParameter(string,string)
+setParameter(string,string)
+transferOwnership(address)
+setParameter(string,string)

@@ -1,0 +1,10 @@
+MULTIPLIER()
+0x19e8c03f
+0x2d95663b
+0x310e8924
+0x388736c9
+0x4c76361e
+getDeposits(address)
+getDeposit(uint256)
+getQueueLength()
+0xc67f7df5

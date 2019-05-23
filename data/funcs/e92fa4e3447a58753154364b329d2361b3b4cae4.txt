@@ -1,0 +1,13 @@
+regularTransfer(bytes32,bytes32)
+reparametrizeMultisig(bytes32,uint256)
+convertIntoHtlc(bytes32,address,uint256,uint256,uint256,bytes32)
+earlyResolve(bytes32,uint256,bytes)
+reclaimExpiredSwap(bytes32,bytes32)
+batchConvertIntoHtlc(bytes32[],address[],uint256[],uint256[],uint256[],bytes32[])
+0x8b555789
+timeoutResolve(bytes32,uint256)
+batchReclaimExpiredSwaps(bytes32,bytes32[])
+initialiseMultisig(address,uint256)
+0xee5e4159
+batchRegularTransfers(bytes32[],bytes32[])
+0xf71d0669

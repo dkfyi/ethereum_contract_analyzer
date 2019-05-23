@@ -1,0 +1,14 @@
+0x06b30959
+0x0dba3bd0
+0x33d0ebdc
+0x4a3b5f8b
+0x74fef201
+0x844ef6f9
+ideal_warn_timed(uint256,uint128)
+icoContractAddress()
+0xec8cdb8b
+transferOwnership(address)
+0xfa9fc5f8
+0xfd121737
+getBalance(address)
+getBalance(address)

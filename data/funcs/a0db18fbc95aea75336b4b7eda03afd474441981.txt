@@ -1,0 +1,14 @@
+eliminate(address)
+0x27ab09a5
+idle()
+0x6b5f533f
+cashOut()
+0xa7947534
+join()
+claimReward()
+0xed0c45a4
+eliminate(address)
+idle()
+join()
+claimReward()
+eliminate(address)

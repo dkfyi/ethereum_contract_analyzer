@@ -1,0 +1,9 @@
+0x06675a51
+roll(uint256)
+kill()
+0xe6b0eaf1
+0x5eb32945
+claim(bytes32)
+0x5eb32945
+claim(bytes32)
+roll(uint256,bytes32)

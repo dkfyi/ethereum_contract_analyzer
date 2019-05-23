@@ -1,0 +1,6 @@
+setOwner(address)
+newContract(address,address,uint256)
+swap()
+0x94e6fd60
+setVars(address,address)
+0x46639dba

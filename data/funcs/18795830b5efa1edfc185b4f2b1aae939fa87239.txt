@@ -1,0 +1,10 @@
+0x0555ff41
+0x1f4339d8
+chairperson()
+0x701456bc
+fundingGoal()
+amountRaised()
+0x7d525f42
+0x7ef30520
+funders(uint256)
+token()

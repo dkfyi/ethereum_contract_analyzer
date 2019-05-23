@@ -1,0 +1,11 @@
+0x301a8bad
+0x395d5170
+0x401bd3fe
+setAdmin(address,bool)
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+0x9ad95b8c
+transferOwnership(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

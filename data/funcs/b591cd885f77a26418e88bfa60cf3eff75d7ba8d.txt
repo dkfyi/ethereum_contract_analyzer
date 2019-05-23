@@ -1,0 +1,3 @@
+destroyContract()
+withdraw()
+0x446a37e0

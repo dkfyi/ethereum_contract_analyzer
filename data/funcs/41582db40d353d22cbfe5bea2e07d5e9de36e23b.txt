@@ -1,0 +1,4 @@
+makeComment(string)
+content()
+numComments()
+0xd41994b4

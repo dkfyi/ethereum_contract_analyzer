@@ -1,0 +1,6 @@
+multiTransfer(address[],uint256[])
+addManager(address)
+0xa7a2173f
+isManager(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

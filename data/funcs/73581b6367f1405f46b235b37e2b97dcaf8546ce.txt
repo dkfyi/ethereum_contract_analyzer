@@ -1,0 +1,8 @@
+ended()
+auctionEnd()
+auctionExpired()
+startTime()
+highestBidder()
+highestBid()
+itemType()
+endAuction()

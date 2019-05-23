@@ -1,0 +1,16 @@
+0x0526679c
+setToken(address)
+0x24eafb62
+0x28686b18
+0x6f11fea6
+0x7ba953b7
+currentRound()
+0x8c65c81f
+0x968de141
+0xcca5fc10
+sendTokens(address[],uint256[])
+roundDuration()
+admin()
+token()
+balanceOf(address)
+many_msg_babbage(bytes1)

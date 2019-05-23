@@ -1,0 +1,6 @@
+richest()
+withdraw(uint256)
+getBalanceContract()
+mostSent()
+becomeRichest()
+ideal_warn_timed(uint256,uint128)

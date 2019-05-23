@@ -1,0 +1,5 @@
+getRandomForContractClanwar(uint256,uint256)
+getEtherDiceProfit(uint256)
+getRandomUint(uint256)
+getRandomForContract(uint256,uint256)
+getRandomUint256(uint256)

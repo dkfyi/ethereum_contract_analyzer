@@ -1,0 +1,6 @@
+validate(address)
+getVersionLength()
+getVersionByte(uint256)
+versionCode()
+0xf7155345
+validateContract(address)

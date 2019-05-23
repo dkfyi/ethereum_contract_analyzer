@@ -1,0 +1,16 @@
+name()
+0x1494ea38
+totalSupply()
+available_assert_time(uint16,uint64)
+0x3e283432
+burn(uint256)
+close()
+manager()
+balanceOf(address)
+bonus()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+issue(uint256)
+0xd369a899
+investorInfo(address)
+0xf5eb42dc

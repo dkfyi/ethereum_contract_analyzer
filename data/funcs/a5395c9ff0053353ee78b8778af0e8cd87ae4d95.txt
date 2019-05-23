@@ -1,0 +1,10 @@
+addBankroll()
+WithdrawEther()
+0x4418d0b7
+ideal_warn_timed(uint256,uint128)
+Game()
+0xaf150c25
+Kill()
+0xc3d0c5d3
+totalPlayers()
+0xfec64649

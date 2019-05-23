@@ -1,0 +1,6 @@
+insert(bytes,bytes)
+getNode(bytes32)
+getProof(bytes)
+getRootEdge()
+root()
+verifyProof(bytes32,bytes,bytes,uint256,bytes32[])

@@ -1,0 +1,11 @@
+migrate(uint256)
+migrationIndex()
+replaceOwner(address)
+totalSupply()
+migrate(address,uint256)
+getStage(uint256)
+migrate(address,uint256)
+migrate(address,uint256)
+ownerOf(uint256)
+0x1068361f
+migrate(address,uint256)

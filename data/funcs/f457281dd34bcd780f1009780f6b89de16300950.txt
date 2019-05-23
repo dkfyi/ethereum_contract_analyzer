@@ -1,0 +1,8 @@
+withdraw()
+MaxMiningReward()
+CurrentMined()
+RewardEnd()
+MiningReward()
+Mine()
+many_msg_babbage(bytes1)
+balanceOf(address)

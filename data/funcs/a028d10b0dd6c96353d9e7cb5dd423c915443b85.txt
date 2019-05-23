@@ -1,0 +1,17 @@
+callContract(address,bytes)
+setTime(uint256)
+0x4efdac37
+0x5629d258
+ico()
+0x83b8511d
+0x87cea3ae
+ideal_warn_timed(uint256,uint128)
+dev()
+withdrawToken(address,uint256)
+setICO(address)
+0xcfbbe427
+0xe088d322
+0xfb6acf56
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

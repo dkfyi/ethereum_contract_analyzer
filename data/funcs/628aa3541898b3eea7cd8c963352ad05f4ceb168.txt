@@ -1,0 +1,4 @@
+0xe753858a
+buyObject(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

@@ -1,0 +1,2 @@
+executePure()
+executeConstant()

@@ -1,0 +1,2 @@
+totalInvestment()
+kill()

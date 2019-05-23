@@ -1,0 +1,3 @@
+getContractBalance()
+getNumInvestors()
+0xb521a81d

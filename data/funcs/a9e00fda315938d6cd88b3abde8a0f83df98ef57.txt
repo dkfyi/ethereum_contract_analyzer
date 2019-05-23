@@ -1,0 +1,10 @@
+ledger(bytes32)
+viewXCAT(address,address,bytes32)
+version()
+0x9a7f8d2a
+digest()
+version()
+refund()
+timeOut()
+dest()
+claim(string)

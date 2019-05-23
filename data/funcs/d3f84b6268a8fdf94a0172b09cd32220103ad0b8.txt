@@ -1,0 +1,4 @@
+0x361839f9
+multisend(address,address[],uint256)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

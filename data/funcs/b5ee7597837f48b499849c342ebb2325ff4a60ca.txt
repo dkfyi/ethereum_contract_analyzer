@@ -1,0 +1,6 @@
+hasBeenDeployed(address)
+0x69dc9ff3
+newPaymentAddress(address)
+semanticVersion()
+0xa0e5cf8e
+collector()

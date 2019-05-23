@@ -1,0 +1,13 @@
+unpause()
+withdrawTokens(address)
+paused()
+withdrawBalance()
+revokeAccess(address,uint8)
+0x742f0688
+printCertificate(string,string,string,uint16,string)
+invalidateCertificate(bytes32)
+pause()
+grantAccess(address,uint8)
+hasAccess(address,uint8)
+many_msg_babbage(bytes1)
+balanceOf(address)

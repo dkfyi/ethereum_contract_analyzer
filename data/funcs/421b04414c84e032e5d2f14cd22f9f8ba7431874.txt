@@ -1,0 +1,6 @@
+length()
+0x303eaeed
+add(string,uint256)
+remove(uint256)
+0x7cd9ffe3
+cash()

@@ -1,0 +1,11 @@
+setOwner(address)
+getAddress(bytes32)
+unregisterAddress(bytes32)
+0x3ca6bb92
+registerAddress(bytes32,address)
+itemCount()
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+addressOf(bytes32)
+newOwner()
+transferOwnership(address)

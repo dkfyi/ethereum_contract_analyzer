@@ -1,0 +1,9 @@
+creator()
+0x31feb671
+kill()
+0x507ffba5
+creator()
+0x36cb8477
+kill()
+company()
+setCompany(address)

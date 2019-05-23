@@ -1,0 +1,3 @@
+getCreator()
+kill()
+getNumber()

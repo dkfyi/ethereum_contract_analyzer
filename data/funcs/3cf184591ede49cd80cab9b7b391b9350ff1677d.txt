@@ -1,0 +1,3 @@
+getID()
+0xd58f94cd
+sign()

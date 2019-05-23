@@ -1,0 +1,13 @@
+setOwner(string,address)
+0x23b08296
+0x2f1b5eac
+0x35764552
+0x40866ac4
+0x47d23419
+0x534f9c53
+0x67a0204f
+0x7e3fcc69
+getOwners()
+disableContract(address)
+0xa3c4d460
+0xb30cbef9

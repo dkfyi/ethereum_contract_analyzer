@@ -1,0 +1,8 @@
+0x2ee17b2f
+0x36c019ef
+0x6d99aa74
+0x84a5054d
+ideal_warn_timed(uint256,uint128)
+0xa9395540
+_destroyContract()
+setNewOwner(address)

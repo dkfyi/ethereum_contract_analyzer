@@ -1,0 +1,14 @@
+0x01ae803e
+0x6aba7d82
+0x6bf591fd
+0x81f5d247
+ideal_warn_timed(uint256,uint128)
+0xad117d18
+0xc4091236
+0xc491cdcd
+transferOwnership(address)
+0xfc5960fa
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+allowance(address,address)
+balanceOf(address)

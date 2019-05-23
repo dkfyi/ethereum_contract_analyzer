@@ -1,0 +1,16 @@
+registerAddress()
+0x1dd0563e
+0x22d9e450
+0x2e7700f0
+0x46a6991e
+0x58ed548a
+0x5a42e75c
+0x83a4f47d
+0x9f994ec9
+0xac1410c1
+0xbf0f2c44
+getAvailableSupply()
+getTotalSupply()
+0xddfd2145
+0xdffbed65
+getBalance(address)

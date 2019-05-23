@@ -1,0 +1,12 @@
+ViewOffer(address,uint8)
+SetHFee(uint16)
+CancelSimpleOffer(uint256)
+PlaySimpleGame(uint8,bool)
+0x685807a4
+0x81d20caa
+OfferCancel(uint8)
+UserOffers(address)
+CreateOffer(uint8)
+SetDevFee(uint16)
+OfferPlay(address,uint8,uint8)
+0xffff0000

@@ -1,0 +1,4 @@
+files(bytes32,uint256)
+GetFileLocation(bytes32)
+0x99ed120a
+Kill()

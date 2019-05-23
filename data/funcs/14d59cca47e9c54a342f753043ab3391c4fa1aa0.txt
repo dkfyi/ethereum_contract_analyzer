@@ -1,0 +1,4 @@
+getPrices(address,address[],address[])
+getBalances(address,address[])
+getPairInfo(address,address)
+balanceOf(address)

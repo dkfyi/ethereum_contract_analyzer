@@ -1,0 +1,6 @@
+Donated()
+Donate(string)
+DonatorSetBanner(string)
+Withdraw()
+DonatorInteract(string)
+DonatedBanner()

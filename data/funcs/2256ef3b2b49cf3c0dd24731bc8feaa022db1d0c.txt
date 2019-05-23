@@ -1,0 +1,17 @@
+0x0c109635
+tokenBalance(address,address)
+0x268bc649
+destruct()
+withdraw()
+multiDeltaBalances(address[],address,address[])
+deltaBalances(address,address,address[])
+walletBalances(address,address[])
+withdrawToken(address,uint256)
+whitelistAddress(address[])
+allBalances(address,address,address[])
+balanceOf(address,address)
+balanceOf(address)
+balanceOf(address,address)
+balanceOf(address,address)
+many_msg_babbage(bytes1)
+balanceOf(address,address)

@@ -1,0 +1,2 @@
+sendToken(address,uint256)
+balanceOf(address)

@@ -1,0 +1,11 @@
+0x1485e4ce
+isContract(address)
+kill()
+contractState()
+ideal_warn_timed(uint256,uint128)
+activateContract()
+changeOwner(address)
+0xafc5cc0f
+0xb6428fe1
+0xbb1f8ae0
+0xfbbc1171

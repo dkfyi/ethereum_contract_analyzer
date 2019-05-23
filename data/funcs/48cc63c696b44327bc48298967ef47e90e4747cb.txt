@@ -1,0 +1,10 @@
+0x3636080b
+totalInvest()
+getUser(address)
+ideal_warn_timed(uint256,uint128)
+0x959cf2ac
+0xa814cdf9
+0xab116318
+0xc791fbb7
+fee()
+totalPaid()

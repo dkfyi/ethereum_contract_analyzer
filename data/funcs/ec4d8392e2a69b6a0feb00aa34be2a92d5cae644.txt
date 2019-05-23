@@ -1,0 +1,7 @@
+Try(string)
+NewQuestion(string,bytes32)
+question()
+0x59988dce
+start_quiz_game(string,string)
+StopGame()
+0x38383837

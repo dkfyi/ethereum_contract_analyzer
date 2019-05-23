@@ -1,0 +1,12 @@
+0x176e9ccc
+0x189bd4b9
+0x26d7a034
+0x30cdfeb3
+0x43d11202
+0xc8086f25
+0xf235a194
+amountFilled(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32)
+getWord()
+testTrade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256,address)
+getWord()
+availableVolume(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32)

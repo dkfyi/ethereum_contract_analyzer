@@ -1,0 +1,2 @@
+getBonusPercentage(uint256)
+0xe19e4489

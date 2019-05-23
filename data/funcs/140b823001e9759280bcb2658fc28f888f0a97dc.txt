@@ -1,0 +1,11 @@
+post(string,string)
+balances(address)
+withdraw(string,uint256)
+login(string)
+register(string,string)
+logout(string)
+userSecurity(address)
+loginState(address)
+deposit(string)
+0xa87430ba
+latestPost(address)

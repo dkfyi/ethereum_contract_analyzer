@@ -1,0 +1,6 @@
+flush()
+0x771c21f0
+checkBalance()
+destinationAddress()
+balanceOf(address)
+many_msg_babbage(bytes1)

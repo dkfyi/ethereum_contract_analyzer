@@ -1,0 +1,8 @@
+donateToLovers(bytes32)
+addLovers(bytes32,string,string)
+destroy()
+getLovers(bytes32)
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+getPrice()
+getNumLoveItems()

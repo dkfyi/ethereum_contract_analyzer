@@ -1,0 +1,4 @@
+myAddress()
+0x3fd78cb9
+wait()
+getCurrentRoundInfo()

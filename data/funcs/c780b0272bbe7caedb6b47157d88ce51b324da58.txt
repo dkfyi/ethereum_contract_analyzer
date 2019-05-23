@@ -1,0 +1,6 @@
+setOwner(address)
+depositAddress()
+withdraw(uint256)
+ideal_warn_timed(uint256,uint128)
+setDepositAddress(address)
+ownerkill()

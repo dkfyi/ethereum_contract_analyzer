@@ -1,0 +1,16 @@
+name()
+pool()
+totalSupply()
+gasprice_bit_ether(int128)
+setEtherPrice(uint256)
+available_assert_time(uint16,uint64)
+balanceOf(address)
+tokenPrice()
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+etherPrice()
+deposit(address)
+setMarketAddress(address)
+totalDeposited()
+0x0fdad680
+0x0fdad680

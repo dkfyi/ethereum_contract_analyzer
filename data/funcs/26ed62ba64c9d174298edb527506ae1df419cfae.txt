@@ -1,0 +1,10 @@
+getNumRefundTransactions()
+getNumTransactions()
+getPrice(string)
+refundTransactions(uint256)
+setPrice(string,uint64,uint8)
+0x9ace38c2
+calculateAmount(string,uint64)
+addTransaction(string,uint64,string)
+addRefundTransaction(uint256,uint88)
+calculatePrice(string,uint88)

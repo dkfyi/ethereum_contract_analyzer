@@ -1,0 +1,6 @@
+endRegisterTime()
+registerDuration()
+registered(uint256,address)
+numPlayers()
+0x998f1b80
+gameNumber()

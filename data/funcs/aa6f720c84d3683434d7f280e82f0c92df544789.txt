@@ -1,0 +1,12 @@
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+0x48ae238f
+balanceOf(address)
+0x8f6948a3
+many_msg_babbage(bytes1)
+transferERC20Token(address,uint256)
+allowance(address,address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

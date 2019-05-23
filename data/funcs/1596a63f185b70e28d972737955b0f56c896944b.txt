@@ -1,0 +1,6 @@
+0x09e2d1a6
+addEntry(string)
+0x3cdba68f
+0x4a1bca7b
+getOwner()
+remove()

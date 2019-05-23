@@ -1,0 +1,3 @@
+0x6c0f59a3
+getTokenBalance(address,address)
+balanceOf(address)

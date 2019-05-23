@@ -1,0 +1,15 @@
+0x3a6e9bd9
+0x42df2c2e
+numberOfPixels()
+setMessageStatus(bool)
+getColors()
+feeRate()
+0x97fdb5a5
+0x98c634fe
+width()
+0xaa29850d
+0xad0764be
+0xbd11f69d
+0xcf8d3e25
+0xef2ac786
+isMessageEnabled()

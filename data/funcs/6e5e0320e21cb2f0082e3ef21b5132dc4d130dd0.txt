@@ -1,0 +1,17 @@
+0x361a1dd0
+withdraw()
+manager()
+0x4b860ff6
+0x596e3382
+0x7664e5ec
+0x83c4d2bc
+0x87c20c30
+ideal_warn_timed(uint256,uint128)
+0x8db012fa
+setPrice(uint256)
+0xa4ca7748
+0xb653654c
+totalUsers()
+0xd0843033
+setManager(address)
+transferOwnership(address)

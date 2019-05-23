@@ -1,0 +1,9 @@
+getOwnerAddress()
+setOwnerAddress(address)
+kill()
+getContractOwner()
+getContractVersion()
+0x901a66e2
+0xa2407de3
+0xebfad501
+getContractName()

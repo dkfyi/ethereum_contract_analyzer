@@ -1,0 +1,4 @@
+kill()
+approve(bytes32)
+balance()
+0xfc82dcb9

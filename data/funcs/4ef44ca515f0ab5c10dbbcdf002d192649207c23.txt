@@ -1,0 +1,11 @@
+0x01948f71
+0x1f617541
+0x274cdd5c
+0x428b8617
+etherdelta()
+0x8b5b1064
+ideal_warn_timed(uint256,uint128)
+0xa19df58b
+0xbcad777d
+0xc4b528f2
+balanceOf(address)

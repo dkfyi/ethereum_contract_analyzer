@@ -1,0 +1,10 @@
+name()
+approve(address,uint256)
+0x1f88f1d1
+gasprice_bit_ether(int128)
+standard()
+decimal()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+allowance(address,address)
+0xe2049157

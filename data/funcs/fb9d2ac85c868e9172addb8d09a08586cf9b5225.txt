@@ -1,0 +1,15 @@
+rate()
+weiRaised()
+wallet()
+0x6eb84cd4
+renounceOwnership()
+0x7c2849a9
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0xbf1c0ec0
+0xcf2d90d5
+0xd36d7665
+0xe79e6de3
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)

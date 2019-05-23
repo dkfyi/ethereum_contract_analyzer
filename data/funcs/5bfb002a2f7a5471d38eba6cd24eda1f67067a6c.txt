@@ -1,0 +1,11 @@
+removeUpdater(address)
+nameRegAddress()
+getPrice(bytes32)
+kill()
+addUpdater(address)
+named(bytes32)
+changeOwner(address)
+getTimestamp(bytes32)
+0xd5064ed1
+updateTime()
+addressOf(bytes32)

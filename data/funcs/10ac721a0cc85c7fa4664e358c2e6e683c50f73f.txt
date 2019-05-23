@@ -1,0 +1,8 @@
+setBank(address)
+0x2e64cec1
+getMoney()
+0xcca955a0
+CashOut(uint256)
+balances(address)
+Deposit()
+CashOut(uint256)

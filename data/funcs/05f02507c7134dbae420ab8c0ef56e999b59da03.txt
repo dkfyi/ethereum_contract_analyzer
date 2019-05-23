@@ -1,0 +1,8 @@
+name()
+upgradeTo(address)
+implementation()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+link_classic_internal(uint64,int64)
+transferOwnership(address)

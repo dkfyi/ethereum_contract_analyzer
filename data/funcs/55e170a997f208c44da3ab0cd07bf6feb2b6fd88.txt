@@ -1,0 +1,7 @@
+0x2c29bbe9
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+setCrowdsaleStartBlock(uint256)
+crowdsaleStartBlock()
+newOwner()
+transferOwnership(address)

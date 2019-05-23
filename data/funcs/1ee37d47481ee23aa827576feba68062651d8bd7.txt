@@ -1,0 +1,9 @@
+getProblem(uint256)
+addProblem(string,string,string,string,string)
+castVote(uint256,uint256)
+addSolution(uint256,string,string,string,string,string)
+0x5df81330
+claimGrant(uint256)
+getSolution(uint256,uint256)
+solutions(uint256)
+0xeba4f366

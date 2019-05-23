@@ -1,0 +1,4 @@
+setOwner(address)
+child()
+kill()
+0x8bf88de6

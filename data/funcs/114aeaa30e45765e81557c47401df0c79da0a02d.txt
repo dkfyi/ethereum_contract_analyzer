@@ -1,0 +1,5 @@
+kill()
+0x550959d0
+Transfer(address,address,uint256)
+balanceOf(address)
+many_msg_babbage(bytes1)

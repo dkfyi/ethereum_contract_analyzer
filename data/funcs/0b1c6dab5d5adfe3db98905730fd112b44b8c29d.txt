@@ -1,0 +1,10 @@
+0x11ad7a21
+0x52f5ad77
+ideal_warn_timed(uint256,uint128)
+0xc87045a1
+nonFungibleContract()
+transferOwnership(address)
+totalSupply()
+0xe7653157
+totalSupply()
+0xe7653157

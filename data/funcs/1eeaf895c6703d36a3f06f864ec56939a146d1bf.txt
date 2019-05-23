@@ -1,0 +1,4 @@
+tokenFallback(address,uint256,bytes)
+newToken()
+OLD_TOKEN()
+many_msg_babbage(bytes1)

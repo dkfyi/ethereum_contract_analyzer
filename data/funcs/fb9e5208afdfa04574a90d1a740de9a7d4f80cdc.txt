@@ -1,0 +1,13 @@
+getTotalRecords()
+kill()
+getOwner(uint32)
+getRecordAtIndex(uint256)
+0x86fd3068
+0x8a0a3cbd
+0x8a7b7552
+0x91890e42
+numRecords()
+0xe978222a
+withdraw(address,uint256)
+0xf4e9fb56
+0xfe9e68d4

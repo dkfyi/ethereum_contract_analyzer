@@ -1,0 +1,12 @@
+abi()
+version()
+create()
+kill()
+0x42b07a22
+delegate(address)
+ideal_warn_timed(uint256,uint128)
+burn(address,uint256)
+balanceOf(address)
+burn(uint256)
+balanceOf(address)
+0x74696f6e

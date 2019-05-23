@@ -1,0 +1,3 @@
+totalSupply()
+buyXid(uint256)
+withdraw(address,uint256)

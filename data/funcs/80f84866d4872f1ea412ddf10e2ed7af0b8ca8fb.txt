@@ -1,0 +1,7 @@
+created()
+sha3Docs(bytes32)
+docIndex()
+manager()
+indexedDocs(uint256)
+sha256Docs(bytes32)
+addDoc(string,string)

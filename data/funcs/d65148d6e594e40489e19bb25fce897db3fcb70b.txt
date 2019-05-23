@@ -1,0 +1,14 @@
+industry()
+0x1d5f2493
+0x1e8b9d11
+0x44fbc893
+0x48d79b6d
+0x61c8f7aa
+description()
+ideal_warn_timed(uint256,uint128)
+amount()
+0xab1b0c0a
+message()
+transferOwnership(address)
+0xfa1d8781
+0xfc9ec2eb

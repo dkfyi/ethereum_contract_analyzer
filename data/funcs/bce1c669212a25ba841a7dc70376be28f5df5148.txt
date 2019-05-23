@@ -1,0 +1,3 @@
+getBalance()
+send(address,uint256)
+deposit()

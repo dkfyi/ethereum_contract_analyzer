@@ -1,0 +1,9 @@
+0x3c594e7a
+transferFunds()
+kill()
+0x4b8ee927
+0x6a14999a
+0x7acc0b20
+ideal_warn_timed(uint256,uint128)
+0x9536884f
+deleteProduct(uint256)

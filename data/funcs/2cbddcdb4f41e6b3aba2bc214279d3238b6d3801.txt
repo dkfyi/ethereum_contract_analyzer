@@ -1,0 +1,9 @@
+0x418a90b1
+numberOfPixels()
+0x7c1a129e
+getColors()
+feeRate()
+0xb1ef39de
+0xbd11f69d
+0xdb640bee
+getPixel(uint16)

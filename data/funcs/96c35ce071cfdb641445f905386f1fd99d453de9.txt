@@ -1,0 +1,7 @@
+totalShares()
+claim()
+payees(uint256)
+released(address)
+checkMyBalance()
+shares(address)
+totalReleased()

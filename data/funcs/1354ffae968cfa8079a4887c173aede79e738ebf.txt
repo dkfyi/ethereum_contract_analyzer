@@ -1,0 +1,16 @@
+0x06749e96
+0x1fd718e3
+0x2813d19d
+canBuyCompany(bytes32)
+0x36f7c347
+startBlock()
+getCompany(uint256)
+getCompanyByName(bytes32)
+0x7bde59e0
+ideal_warn_timed(uint256,uint128)
+companyCount()
+0xd114b5fb
+startPrice()
+0xf20be5cd
+transferOwnership(address)
+lowerCase(bytes32)

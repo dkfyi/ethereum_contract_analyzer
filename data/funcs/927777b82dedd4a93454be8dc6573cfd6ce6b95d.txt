@@ -1,0 +1,8 @@
+create(bytes32,address,address,uint256)
+0x2aa91bfd
+verifyOwnership(address,address)
+getBalance(address)
+gasprice_bit_ether(int128)
+verifyOwnership(address,address)
+burn(uint256)
+getIdentityWallet(address)

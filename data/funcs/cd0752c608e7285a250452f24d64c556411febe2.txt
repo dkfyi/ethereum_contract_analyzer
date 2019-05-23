@@ -1,0 +1,16 @@
+setOwner(address)
+0x40a73fb4
+transferMyName(address)
+0x5cf3d346
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+nameTaken(string)
+getMoney()
+acceptNameTranfer()
+hasName(address)
+0xb22073b6
+addresses(string)
+authority()
+setMyName(string)
+unsetMyName()
+canCall(address,address,bytes4)

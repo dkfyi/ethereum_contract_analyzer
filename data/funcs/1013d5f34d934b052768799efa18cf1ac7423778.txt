@@ -1,0 +1,5 @@
+0x426ed018
+getLastFundId()
+getFundById(uint256)
+calcSharePrice()
+getCreationTime()

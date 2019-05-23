@@ -1,0 +1,11 @@
+isDelegate(address)
+certify(address)
+getAddress(address,string)
+removeDelegate(address)
+revoke(address)
+ideal_warn_timed(uint256,uint128)
+0x9cdae4ee
+getUint(address,string)
+certified(address)
+transferOwnership(address)
+get(address,string)

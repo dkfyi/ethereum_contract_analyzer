@@ -1,0 +1,15 @@
+checkRole(address,string)
+isInWhitelist(address)
+removeRole(address,string)
+hasRole(address,string)
+addRole(address,string)
+0xa8d201ab
+0xb9e3ee01
+0xe48f6d05
+0xed04088a
+tokenLock(address,uint256)
+0xe4e15aa7
+0x01750152
+0xdb87e836
+tokenUnlock(address,uint256,address,uint256)
+removeNode(address)

@@ -1,0 +1,2 @@
+INITIAL_SUPPLY()
+available_assert_time(uint16,uint64)

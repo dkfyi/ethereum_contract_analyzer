@@ -1,0 +1,8 @@
+0x35dfbbd4
+getData(address)
+setAvatar(string)
+0x97741edf
+0x9c487278
+setTwitter(string)
+setName(string)
+setWebsite(string)

@@ -1,0 +1,9 @@
+expiryLimit()
+getDetails(string)
+changeExpiryLimit(uint256)
+0x35a5af92
+ideal_warn_timed(uint256,uint128)
+checkValidity(string,address,string)
+0xbca2ade8
+registerTicker(address,string,string,bytes32)
+transferOwnership(address)

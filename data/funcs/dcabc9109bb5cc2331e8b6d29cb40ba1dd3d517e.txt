@@ -1,0 +1,4 @@
+getA()
+setA(uint256)
+a()
+setA(uint256)

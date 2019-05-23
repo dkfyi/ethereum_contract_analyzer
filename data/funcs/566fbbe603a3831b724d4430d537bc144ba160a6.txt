@@ -1,0 +1,6 @@
+addAuthorization(address)
+0x7d5cb0a5
+removeAuthorization(address)
+0xa8218cd3
+0xbb6a4520
+isAuthorized(address)

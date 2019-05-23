@@ -1,0 +1,5 @@
+0x0d6bec6f
+friendsWith(address)
+numberOfFriends()
+me()
+becomeFriendsWithMe()

@@ -1,0 +1,10 @@
+owners(uint256)
+0x103b3595
+0x1894d58a
+beneficiary()
+0x3a9dec18
+0x40344232
+0x5da11203
+0x877dfe2d
+0xa6c5a6bc
+transferOwnership(address)

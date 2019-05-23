@@ -1,0 +1,11 @@
+0x1a46ec82
+addAddressToCaller(address)
+claimOwnership()
+addAllowance(address,address,uint256)
+callers(address)
+ideal_warn_timed(uint256,uint128)
+subAllowance(address,address,uint256)
+setAllowance(address,address,uint256)
+removeAddressFromCaller(address)
+pendingOwner()
+transferOwnership(address)

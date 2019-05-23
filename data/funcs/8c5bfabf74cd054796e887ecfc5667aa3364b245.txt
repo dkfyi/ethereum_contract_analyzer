@@ -1,0 +1,5 @@
+getInt()
+0xa4d00322
+0xa74c2bb6
+0xb8c9e4ed
+state()

@@ -1,0 +1,13 @@
+0x02bf0ba0
+0x31baaf4e
+kill()
+0x85c60aa4
+ideal_warn_timed(uint256,uint128)
+0xb014db1b
+setRatio(uint256)
+0xb6657b81
+0xd9a8f937
+0xe5049a09
+transferOwnership(address)
+0xfd36bfa9
+0xfdda8fa7

@@ -1,0 +1,8 @@
+getLogs(uint256)
+0x3345906f
+0x3786ce8a
+addUser(address)
+getEthBalance(address)
+0xc7c627d5
+0xd8ba95a0
+getBalance(address)

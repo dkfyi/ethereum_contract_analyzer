@@ -1,0 +1,6 @@
+kill()
+sendFunds(address,uint256)
+setEthlanceSponsorContract(address)
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+setEthlanceInvoiceContract(address)

@@ -1,0 +1,6 @@
+stopBet()
+ideal_warn_timed(uint256,uint128)
+country()
+transferOwnership(address)
+0xf90a3ac3
+0xfa6776db

@@ -1,0 +1,7 @@
+0x1562621f
+0x19b30038
+0xb1d131bf
+0xb3ffb5b1
+Command(address,bytes)
+0xd00d1b60
+SetMessage(string)

@@ -1,0 +1,4 @@
+setRate(uint256)
+Refund()
+getRate()
+0x9550961d

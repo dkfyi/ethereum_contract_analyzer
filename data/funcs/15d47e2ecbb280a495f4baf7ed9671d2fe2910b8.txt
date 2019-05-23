@@ -1,0 +1,15 @@
+rightSharePriceRateOfIncrease()
+retrieveExcessEther()
+rightSharePrice()
+bet(bool)
+0x6901ae58
+thePot()
+betIsSettled()
+settleBet()
+leftSharePriceRateOfIncrease()
+rightVotes()
+expiryBlock()
+0xbffc1fef
+leftSharePrice()
+leftVotes()
+viewMyShares(bool)

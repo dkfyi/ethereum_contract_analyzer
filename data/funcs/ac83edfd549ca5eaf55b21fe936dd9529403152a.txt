@@ -1,0 +1,3 @@
+withdrawAllFunds()
+ideal_warn_timed(uint256,uint128)
+withdrawFunds(address,uint256)

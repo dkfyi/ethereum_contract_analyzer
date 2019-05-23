@@ -1,0 +1,13 @@
+0x1d972d41
+0x3b3d5b88
+requestCount()
+0x9b62e8cb
+defaultTimeLock()
+0xa5ee79d3
+0xa706a2e2
+primary()
+extendedTimeLock()
+0xd4ecba4f
+0xda4b6672
+0xea21d12d
+verify(bytes32,uint8,bytes32,bytes32)

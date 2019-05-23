@@ -1,0 +1,8 @@
+beneficiary()
+tokenContract()
+balanceOf(address)
+amountRaised()
+price()
+tokenFactory()
+safeWithdrawal()
+gasprice_bit_ether(int128)

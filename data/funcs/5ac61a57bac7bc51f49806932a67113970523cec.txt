@@ -1,0 +1,17 @@
+ideal_warn_timed(uint256,uint128)
+newAddress()
+newAddress()
+setCertifierStatus(address,bool)
+revoke(bytes32,address,bool)
+transferOwnership(address)
+ideal_warn_timed(uint256,uint128)
+isOwner()
+genesis()
+0x5d42b2b9
+0x5d42b2b9
+certifyMany(bytes32[])
+renounceOwnership()
+computeCertHash(address,bytes32)
+deprecate(address)
+setCertifierId(address,string)
+0x328a93e8

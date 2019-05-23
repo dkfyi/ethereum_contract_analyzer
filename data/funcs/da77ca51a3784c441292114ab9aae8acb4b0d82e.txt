@@ -1,0 +1,4 @@
+tittyContract()
+0x63e9c30f
+doVote(uint256,uint256)
+getNumberOfVotes(uint256)

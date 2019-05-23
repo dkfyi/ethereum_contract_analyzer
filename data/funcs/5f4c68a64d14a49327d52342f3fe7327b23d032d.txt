@@ -1,0 +1,13 @@
+__callback(bytes32,string)
+base()
+0x7c67313c
+update()
+0xc7863fe3
+OAR()
+oraclize_cbAddress()
+getPrice(string)
+oraclize_getPrice(string)
+getAddress()
+getPrice(string)
+getAddress()
+queryN(uint256,string,bytes)

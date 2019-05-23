@@ -1,0 +1,2 @@
+asmSymbol(address)
+asmName(address)

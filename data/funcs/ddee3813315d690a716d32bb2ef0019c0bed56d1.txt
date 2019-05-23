@@ -1,0 +1,16 @@
+creator()
+name()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+0x3c6ede3a
+version()
+balanceOf(address)
+0x78990c45
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xb9786ad9
+approveAndCall(address,uint256,bytes)
+allowance(address,address)
+burn(uint256,address)

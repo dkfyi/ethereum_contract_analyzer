@@ -1,0 +1,9 @@
+isInstantiation(address)
+instantiations(address,uint256)
+getInstantiationCount(address)
+0xb56af5bc
+threshold()
+0x6b5cf271
+ownersArr(uint256)
+nonce()
+execute(uint8[],bytes32[],bytes32[],address,uint256,bytes)

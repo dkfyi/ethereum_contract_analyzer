@@ -1,0 +1,14 @@
+name()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+0x35500e9d
+standard()
+balanceOf(address)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+approveAndCall(address,uint256,bytes)
+allowance(address,address)
+0x07270e00
+receiveApproval(address,uint256,address,bytes)

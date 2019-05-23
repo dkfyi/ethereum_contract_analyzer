@@ -1,0 +1,13 @@
+getERC20(address,uint256,address,uint256)
+erc20ContractByIndex(uint256,uint256)
+transferERC20(uint256,address,address,uint256)
+totalERC20Contracts(uint256)
+tokenFallback(address,uint256,bytes)
+transferERC223(uint256,address,address,uint256,bytes)
+balanceOfERC20(uint256,address)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)
+transfer(address,uint256,bytes)
+0xcd740db5
+0xcd740db5
+0xcd740db5

@@ -1,0 +1,4 @@
+kill()
+ceiling()
+pitboss()
+cashout(address,uint256)

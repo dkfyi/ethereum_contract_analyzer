@@ -1,0 +1,7 @@
+manager()
+ideal_warn_timed(uint256,uint128)
+accept(address)
+reject(address)
+setManager(address)
+isAccepted(address)
+transferOwnership(address)

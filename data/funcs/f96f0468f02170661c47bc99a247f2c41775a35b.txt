@@ -1,0 +1,4 @@
+getGalaxy(uint256)
+getGalaxies()
+getTypeFromIndex(uint256,uint256)
+generateDna(uint256[])

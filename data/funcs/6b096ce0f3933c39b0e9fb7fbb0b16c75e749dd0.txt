@@ -1,0 +1,11 @@
+openToThePublic()
+winnersPot()
+start(uint256)
+BITWhaleBalance()
+returnAnyERC20Token(address,address,uint256)
+getTokensPaidToGame(address)
+BITBalanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+0x01d9873a
+balanceOf(address)

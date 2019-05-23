@@ -1,0 +1,11 @@
+0x1223f290
+auctusTokenAddress()
+auctusPreSaleAddress()
+ideal_warn_timed(uint256,uint128)
+0x9f4568ef
+redeemMany(address[])
+tokenFallback(address,uint256,bytes)
+escrowedTokens()
+transferOwnership(address)
+getTokenAmount(address)
+many_msg_babbage(bytes1)

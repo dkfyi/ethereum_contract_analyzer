@@ -1,0 +1,4 @@
+addressOf(bytes32)
+register(bytes32)
+unregister()
+nameOf(address)

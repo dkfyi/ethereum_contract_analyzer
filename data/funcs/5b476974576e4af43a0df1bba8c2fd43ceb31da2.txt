@@ -1,0 +1,13 @@
+setOwner(address)
+setExecutor(address)
+voteRewardPerUnit(uint256)
+0x5277b4ae
+voteWeightUnit(uint256)
+voteInitiate(uint256,uint256,uint256,uint256,uint256,uint256)
+ideal_warn_timed(uint256,uint128)
+executor()
+maxCandidateId(uint256)
+0xd70c6f4e
+voteEnd(uint256)
+voteStart(uint256)
+vote(address,uint256,uint256,uint256)

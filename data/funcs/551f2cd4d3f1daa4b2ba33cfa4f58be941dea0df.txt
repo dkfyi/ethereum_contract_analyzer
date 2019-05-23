@@ -1,0 +1,3 @@
+exists(bytes32)
+add(bytes32)
+remove(bytes32)

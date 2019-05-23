@@ -1,0 +1,2 @@
+unregister(bytes32)
+register(bytes32,string)

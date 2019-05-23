@@ -1,0 +1,3 @@
+0x29eff825
+0x8a3b6ab8
+getStoriesLength()

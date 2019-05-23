@@ -1,0 +1,15 @@
+0x0bbcc2d4
+setOwner(address)
+0x26043942
+setRecipient(address)
+0x3ed48679
+0x43b7db2b
+0x5cf0f357
+0x651e723c
+recipient()
+0x8a9564c2
+ideal_warn_timed(uint256,uint128)
+getAccountBalance(address)
+transfer(address,address,uint256)
+getAccountBalance(address)
+0x1cc41b3b

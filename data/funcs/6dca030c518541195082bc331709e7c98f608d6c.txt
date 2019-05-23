@@ -1,0 +1,16 @@
+0x03b6a35c
+0x1be40162
+destruct()
+withdraw(uint256)
+depositToken(address,uint256)
+0x7cb2cfe1
+withdrawToken(address,uint256)
+deposit()
+0xe3046577
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+gasprice_bit_ether(int128)
+withdraw(uint256)
+many_msg_babbage(bytes1)
+deposit()
+0xc6b1a1cf

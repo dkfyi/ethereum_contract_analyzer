@@ -1,0 +1,13 @@
+0x10bc04e7
+0x19c5f76b
+0x3617dbba
+0x6eee0e92
+0xb5d88163
+0xd06f9a5e
+0xd34e3274
+0xd7bc0959
+0xe9e337d3
+balanceOf(address)
+burnToken(uint256)
+many_msg_babbage(bytes1)
+balanceOf(address)

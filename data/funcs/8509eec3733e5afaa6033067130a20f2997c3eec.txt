@@ -1,0 +1,3 @@
+price()
+0xf24aa5df
+USD(uint256)

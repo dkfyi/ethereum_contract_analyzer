@@ -1,0 +1,9 @@
+getTokenContract()
+0x2a6d04ff
+0x619b8d9e
+ideal_warn_timed(uint256,uint128)
+sendResidualAmount(uint256)
+setTokenContract(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

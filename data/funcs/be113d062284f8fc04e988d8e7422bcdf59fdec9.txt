@@ -1,0 +1,5 @@
+die()
+doIt()
+0x77359402
+buyXid(uint256)
+0x3b9aca01

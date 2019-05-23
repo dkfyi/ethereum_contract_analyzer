@@ -1,0 +1,6 @@
+GetMoney(uint256,address)
+0x791f8a05
+0xaf6fb46f
+SetBigContract(address)
+0xcffafd89
+UniversalFunction(uint8,bytes32,bytes32,bytes32,bytes32,bytes32)

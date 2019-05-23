@@ -1,0 +1,11 @@
+numPolls()
+polls(uint256)
+allPolls()
+createPoll(bytes,uint16,uint256,uint256)
+endTime()
+startTime()
+pollDataMultihash()
+author()
+numChoices()
+0xd8bff5a5
+vote(uint16)

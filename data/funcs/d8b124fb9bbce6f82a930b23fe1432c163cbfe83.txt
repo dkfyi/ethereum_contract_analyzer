@@ -1,0 +1,9 @@
+0x8ec2a62d
+name()
+setOwner(address)
+mint(address,uint256)
+balancesOf(address)
+totalsupply()
+ideal_warn_timed(uint256,uint128)
+burn(address,uint256)
+many_msg_babbage(bytes1)

@@ -1,0 +1,14 @@
+totalFund()
+setPaused(bool)
+0x26767f90
+withdrawEther(uint256)
+0x486fd161
+claimEther()
+0x80760bda
+addEther()
+0xa43d6404
+setCredit(address,uint256)
+0xbe92ceff
+0xc884ef83
+0xd5d44d80
+isManager(address)

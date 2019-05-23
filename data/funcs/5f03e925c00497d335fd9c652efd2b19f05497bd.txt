@@ -1,0 +1,9 @@
+creator()
+0x1020a8a2
+balanceOf(address)
+0x7dcb332a
+addressOfTokenUsedAsReward()
+crowdsaleIsActive()
+allocated()
+crowdsaleClosed()
+many_msg_babbage(bytes1)

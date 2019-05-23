@@ -1,0 +1,10 @@
+payLoan()
+0x786716fe
+repossess()
+borrower()
+collateralAmount()
+lender()
+payoffAmount()
+token()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

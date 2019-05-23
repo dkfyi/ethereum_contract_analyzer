@@ -1,0 +1,11 @@
+0x0b2d45aa
+0x1f7c5582
+0x3f80cff8
+0xdfa08b6a
+0xe6d39541
+core()
+0x5e633498
+0x64a3bc15
+allowance(address,address)
+approve(address,uint256)
+transferFrom(address,address,address,uint256)

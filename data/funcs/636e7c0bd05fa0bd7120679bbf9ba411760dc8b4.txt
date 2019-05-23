@@ -1,0 +1,13 @@
+name()
+deadline()
+0x2fdc47c7
+available_assert_time(uint16,uint64)
+beneficiary()
+0x62ff2c65
+balanceOf(address)
+fundingGoal()
+amountRaised()
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+minContribution()
+0xcd519d7c

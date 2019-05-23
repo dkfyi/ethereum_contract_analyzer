@@ -1,0 +1,5 @@
+0x10ca48ed
+isGeneScience()
+mixGenes(uint256,uint256)
+0xcacb1795
+0xeaaec1c1

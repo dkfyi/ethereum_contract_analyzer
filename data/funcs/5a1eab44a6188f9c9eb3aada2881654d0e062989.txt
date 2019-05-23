@@ -1,0 +1,16 @@
+0x018fa360
+0x0c9c31bd
+withdrawFees()
+0x5ccfb71d
+0x8212e94f
+refund(address,address,uint256)
+release(address,address,uint256)
+0x8ccbcab9
+ideal_warn_timed(uint256,uint128)
+setTransferFee(uint256)
+0x944a10af
+0x9a17d8c1
+0xd7785bdb
+transferOwnership(address)
+deposit(address)
+0xffe65f7e

@@ -1,0 +1,3 @@
+0x69a191cb
+setGreeting(string)
+getGreeting()

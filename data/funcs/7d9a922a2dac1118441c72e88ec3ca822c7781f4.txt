@@ -1,0 +1,8 @@
+0x367f734b
+requestRand()
+arrIdx2lost(uint256)
+winners(uint256)
+0xa8256672
+0xb33a0a1e
+0xe4a481ca
+0xf6fb771e

@@ -1,0 +1,3 @@
+say()
+setGreeting(string)
+0xef690cc0

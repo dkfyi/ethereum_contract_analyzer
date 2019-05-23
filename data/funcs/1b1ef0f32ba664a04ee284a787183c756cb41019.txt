@@ -1,0 +1,6 @@
+checkOwner(bytes32)
+checkPrevOwner(bytes32)
+entries(bytes32)
+ideal_warn_timed(uint256,uint128)
+entries(bytes32)
+previousOwner()

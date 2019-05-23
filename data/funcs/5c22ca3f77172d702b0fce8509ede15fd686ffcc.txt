@@ -1,0 +1,4 @@
+kill()
+random()
+addGame(address)
+owner_()

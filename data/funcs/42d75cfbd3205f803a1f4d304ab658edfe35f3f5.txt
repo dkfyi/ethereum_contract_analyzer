@@ -1,0 +1,13 @@
+setToken(address)
+0x17bee6e1
+setWalletContract(address)
+transferTokensTo(address,uint256)
+unpause()
+paused()
+pause()
+ideal_warn_timed(uint256,uint128)
+0xb88eebfb
+transferTokens(address,uint256)
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)

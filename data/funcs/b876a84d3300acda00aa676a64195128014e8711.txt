@@ -1,0 +1,5 @@
+kill()
+0x444fc73d
+ideal_warn_timed(uint256,uint128)
+drain()
+joinGame()

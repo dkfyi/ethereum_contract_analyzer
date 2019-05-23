@@ -1,0 +1,9 @@
+removeValidator(address)
+addValidator(address)
+addUser(address,bytes32)
+0x7041682c
+removeUser(address)
+userList(uint256)
+0xa5439207
+0xb048e056
+0xfcf3fb85

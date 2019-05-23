@@ -1,0 +1,16 @@
+0x133adab6
+reclaimToken(address)
+0x1a2f7167
+isCustodian(address)
+custodian()
+0x403f3731
+claimOwnership()
+0x5d32798a
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0xbf76c0ef
+0xe2d1800f
+pendingOwner()
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

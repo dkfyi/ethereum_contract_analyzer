@@ -1,0 +1,3 @@
+investorsCount()
+investors(uint256)
+invested(address)

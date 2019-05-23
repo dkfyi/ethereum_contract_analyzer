@@ -1,0 +1,5 @@
+richest()
+withdrawBalance()
+becomeRichest(string)
+highestBalance()
+displayString()

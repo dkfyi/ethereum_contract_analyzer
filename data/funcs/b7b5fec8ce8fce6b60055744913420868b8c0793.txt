@@ -1,0 +1,14 @@
+OWNER()
+0x1b2df850
+bets(uint256)
+currentIndex()
+withdraw(uint256)
+maxBet()
+0x3e32747a
+0x47ce07cc
+minBet()
+totalBets()
+deposit()
+lockBalance()
+FEE_PERCENT()
+0xf2b7ca79

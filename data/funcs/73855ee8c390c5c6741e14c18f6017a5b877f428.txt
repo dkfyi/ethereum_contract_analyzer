@@ -1,0 +1,12 @@
+enable(address[])
+removeAdministrators(address)
+seal()
+0x76be1585
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+addAdministrators(address)
+whitelist(address)
+newOwner()
+sealed()
+transferOwnership(address)
+disable(address[])

@@ -1,0 +1,17 @@
+close()
+0x4755fa78
+sellPrice()
+unblock(address)
+0x6ba06ca4
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0x908850d9
+setPrice(uint256)
+deposit()
+transferOwnership(address)
+getBalance(address)
+buyback()
+setEplay(address)
+0xff18253b
+balanceOf(address)
+balanceOf(address)

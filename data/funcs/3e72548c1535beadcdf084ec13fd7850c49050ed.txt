@@ -1,0 +1,5 @@
+ran()
+forked()
+kill2()
+kill1()
+notforked()

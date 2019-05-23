@@ -1,0 +1,12 @@
+0x074a1985
+setToken(address)
+tokensAvailable()
+0x808f047a
+destroy()
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+0x3b9aca00
+balanceOf(address)
+0x3b9aca00
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

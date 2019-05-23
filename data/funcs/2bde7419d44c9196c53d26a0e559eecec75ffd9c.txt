@@ -1,0 +1,8 @@
+setOwner(address)
+recordAssetPrice(uint128,uint128,uint128)
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+0xa956178d
+authority()
+getAssetPrice(uint128,uint128)
+canCall(address,address,bytes4)

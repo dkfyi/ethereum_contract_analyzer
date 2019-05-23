@@ -1,0 +1,6 @@
+bet()
+etherwow()
+ownerSetMod(bool)
+ideal_warn_timed(uint256,uint128)
+ownerSetEtherwowAddress(address)
+userRollDice(uint256,address)

@@ -1,0 +1,13 @@
+setFailed()
+investor()
+withdraw()
+stateIs(uint8)
+setInvestor(address)
+serviceFee()
+ideal_warn_timed(uint256,uint128)
+state()
+FEE_PERCENT()
+buyTokens(address)
+transferOwnership(address)
+0x676ddf77
+createTokens(address)

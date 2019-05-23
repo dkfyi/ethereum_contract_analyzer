@@ -1,0 +1,8 @@
+getStrong(address)
+strongHands(address)
+buy(address)
+withdraw()
+ideal_warn_timed(uint256,uint128)
+buy(address)
+withdraw()
+buy(address)

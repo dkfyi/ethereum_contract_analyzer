@@ -1,0 +1,9 @@
+die()
+0x3f9effdc
+0x4049700f
+changeOwner(address)
+0xb3364a26
+0xbf76c0ef
+0xd59933d5
+addShareholder(address)
+payDividends()

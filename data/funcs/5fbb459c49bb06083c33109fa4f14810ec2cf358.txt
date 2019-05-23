@@ -1,0 +1,4 @@
+ens()
+name(bytes32)
+setName(bytes32,string)
+owner(bytes32)

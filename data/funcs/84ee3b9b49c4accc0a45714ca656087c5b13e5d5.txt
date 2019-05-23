@@ -1,0 +1,8 @@
+0x0aaaea93
+getToken()
+0x61dff1f3
+jackpot()
+0x78803c92
+0x8765d1c6
+denominator()
+reset()

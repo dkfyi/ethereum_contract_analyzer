@@ -1,0 +1,14 @@
+GetGamestatus()
+setOwner(address)
+removeAdmin(address)
+0x2e7be65b
+withdraw()
+0x47df44d1
+pauseGame()
+addAdmin(address)
+addLock(uint256)
+totalPrize()
+getPokemonLock(uint256)
+0xa05229e8
+levels(uint256)
+unPauseGame()

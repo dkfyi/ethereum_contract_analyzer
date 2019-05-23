@@ -1,0 +1,7 @@
+removeUpdater(address)
+getPrice(bytes32)
+addUpdater(address)
+changeOwner(address)
+getTimestamp(bytes32)
+0xd5064ed1
+updateTime()

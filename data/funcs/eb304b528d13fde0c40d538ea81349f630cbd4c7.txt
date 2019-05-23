@@ -1,0 +1,14 @@
+0x057609c2
+0x193a5c49
+0x33ea51a8
+0x372c12b1
+setWhitelistAddress(address,bool)
+payoutAddress()
+0x5d974a66
+0x712b46b0
+0x7794e287
+ideal_warn_timed(uint256,uint128)
+0xb4d65d3e
+sendEtherToOwner()
+isPregnant(uint256)
+giveBirth(uint256)

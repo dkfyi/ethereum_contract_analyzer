@@ -1,0 +1,9 @@
+0x0411b252
+totalSupply()
+increase(address,uint256)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+tokenAddress()
+replaceOwner(address)
+changeTokenAddress(address)
+decrease(address,uint256)

@@ -1,0 +1,17 @@
+0x06a4a962
+test3()
+0x1e1763d3
+0x60b25bb7
+test1()
+0x8629e3dd
+0x8b1aaa28
+0xd2a2f8a9
+0xd7780b5f
+0xe6e3587d
+balanceOf(address,address)
+balanceOf(address,address)
+balanceOf(address,address)
+orderFills(address,bytes32)
+balanceOf(address,address)
+deposit()
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)

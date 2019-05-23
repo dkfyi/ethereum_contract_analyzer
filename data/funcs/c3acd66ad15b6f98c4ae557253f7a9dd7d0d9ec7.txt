@@ -1,0 +1,9 @@
+0x1144c066
+addDiscountPhase(string,uint8,uint256,uint256)
+calculateBonusAmount(uint256)
+removeDiscountPhase(uint256)
+staffContract()
+ideal_warn_timed(uint256,uint128)
+isStaff(address)
+ideal_warn_timed(uint256,uint128)
+isStaff(address)

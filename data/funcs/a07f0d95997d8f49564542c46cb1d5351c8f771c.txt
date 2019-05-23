@@ -1,0 +1,6 @@
+0x0866ebe3
+resolveBet(uint256)
+0x99892e47
+amount()
+0xe5e0fd8d
+0xfac8cdcd

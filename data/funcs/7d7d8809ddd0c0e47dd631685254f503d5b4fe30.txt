@@ -1,0 +1,12 @@
+getDescription()
+getMessageCount()
+setMessage(string)
+getAddress()
+0x3c3099e5
+kill()
+elementsAreSet()
+getMessage(uint256)
+ideal_warn_timed(uint256,uint128)
+getAuthor()
+0xd6f2b1aa
+getTitle()

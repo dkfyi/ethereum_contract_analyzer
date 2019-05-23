@@ -1,0 +1,2 @@
+checkMultOverflow(uint256,uint256)
+exp(uint256,uint256,uint256)

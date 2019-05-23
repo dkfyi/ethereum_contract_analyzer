@@ -1,0 +1,13 @@
+0x690ebf6c
+withdrawAll()
+0xa7a73452
+deposit()
+availableVolume(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32)
+withdraw(uint256)
+balanceOf(address,address)
+balanceOf(address,address)
+balanceOf(address,address)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+balanceOf(address,address)
+feeTake()
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)

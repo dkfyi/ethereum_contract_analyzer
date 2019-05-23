@@ -1,0 +1,15 @@
+setOwner(address)
+0x2d0da7d2
+0x358b8166
+0x507cd30f
+0x6fdbf614
+0x7557e657
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+initializeContract()
+authority()
+claimTokens(address)
+0xf3fff9d7
+balanceOf(address)
+many_msg_babbage(bytes1)
+canCall(address,address,bytes4)

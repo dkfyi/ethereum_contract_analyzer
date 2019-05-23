@@ -1,0 +1,11 @@
+0x0d0585b6
+0x51d20a0f
+0x6e50f84e
+0xc0770b68
+0xd9a27798
+availableVolume(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32)
+testTrade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256,address)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+testTrade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256,address)
+availableVolume(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32)

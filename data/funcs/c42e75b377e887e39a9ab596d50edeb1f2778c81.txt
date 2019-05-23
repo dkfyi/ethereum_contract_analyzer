@@ -1,0 +1,15 @@
+0x0c4aa509
+kill()
+0x56567258
+0x5aa5bb39
+0x5e9e5d6a
+0x661f86d6
+bet(uint256)
+0x78107d7c
+0x826f57a1
+ideal_warn_timed(uint256,uint128)
+0xad32bc54
+0xb1348b77
+0xc17eb50c
+minimumBet()
+0xdde91ab1

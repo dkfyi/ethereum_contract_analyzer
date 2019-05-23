@@ -1,0 +1,12 @@
+name()
+0x0b78af93
+tokenReward()
+0x742171db
+0x84b9c0a0
+link_classic_internal(uint64,int64)
+0xc260ecb5
+comment()
+balanceOf(address)
+totalSupply()
+balanceOf(address)
+balanceOf(address)

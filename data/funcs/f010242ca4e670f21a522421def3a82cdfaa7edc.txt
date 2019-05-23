@@ -1,0 +1,12 @@
+setBank(address)
+0x1e7dcc0d
+setFee(uint256)
+renounceOwnership()
+bank()
+ideal_warn_timed(uint256,uint128)
+fee()
+transferOwnership(address)
+totalSupplyOf(address)
+borrowFor(address,address,uint256)
+0xbbee9c62
+totalSupplyOf(address)

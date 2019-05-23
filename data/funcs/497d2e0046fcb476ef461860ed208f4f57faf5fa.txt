@@ -1,0 +1,13 @@
+setTokenAddress(address)
+0x45868abe
+renounceOwnership()
+dividends(uint256)
+ideal_warn_timed(uint256,uint128)
+isOwner()
+tokenAddress()
+0xde6746a5
+transferOwnership(address)
+token()
+balanceOf(address)
+totalSupply()
+balanceOf(address)

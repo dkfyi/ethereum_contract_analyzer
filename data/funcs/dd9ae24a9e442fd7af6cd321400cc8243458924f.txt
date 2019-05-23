@@ -1,0 +1,2 @@
+getData()
+setData(string)

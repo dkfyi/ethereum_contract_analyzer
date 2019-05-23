@@ -1,0 +1,2 @@
+findEndpointByAddress(address)
+registerEndpoint(string)

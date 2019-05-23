@@ -1,0 +1,12 @@
+name()
+changeName(string)
+0x640237e6
+0x7acc0b20
+0x82f90dc9
+changeOwner(address)
+0xca2efb55
+0x29eff825
+0x29eff825
+0x8a3b6ab8
+changeOwner(address)
+0xbf9ce952

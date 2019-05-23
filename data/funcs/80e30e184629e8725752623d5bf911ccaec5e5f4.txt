@@ -1,0 +1,11 @@
+0x08a663aa
+0x1d5f2493
+0x3c6ee85d
+title()
+0x80bcf326
+email()
+ideal_warn_timed(uint256,uint128)
+0x9284f497
+0x956ace02
+message()
+transferOwnership(address)

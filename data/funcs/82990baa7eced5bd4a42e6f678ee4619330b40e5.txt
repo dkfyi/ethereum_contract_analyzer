@@ -1,0 +1,5 @@
+setData(string,string,string)
+0x3cea50fb
+0x3e33f204
+0x596ba5bb
+getLength(string)

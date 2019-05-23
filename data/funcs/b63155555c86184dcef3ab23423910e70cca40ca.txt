@@ -1,0 +1,6 @@
+getBalance()
+kill()
+0xa52c101e
+fund()
+0xe75358f7
+getTarget()

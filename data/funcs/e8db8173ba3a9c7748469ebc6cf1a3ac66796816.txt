@@ -1,0 +1,9 @@
+0x05c58df2
+0x3aa9dd2a
+wins(uint256)
+ideal_warn_timed(uint256,uint128)
+0xd39fa233
+currentId()
+transferOwnership(address)
+0xf69d714b
+0xf71d96cb

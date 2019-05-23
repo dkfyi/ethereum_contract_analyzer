@@ -1,0 +1,7 @@
+0x38707b12
+0x6f549dbf
+0x8a1df27c
+0xa25905a9
+getKitty(uint256)
+getKitties()
+isPregnant(uint256)

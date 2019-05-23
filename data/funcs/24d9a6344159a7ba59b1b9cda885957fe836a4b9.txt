@@ -1,0 +1,10 @@
+name()
+totalSupply()
+withdraw(uint256)
+available_assert_time(uint16,uint64)
+0x53c6f5db
+balanceOf(address)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xac30d06a
+0xbf869c8a

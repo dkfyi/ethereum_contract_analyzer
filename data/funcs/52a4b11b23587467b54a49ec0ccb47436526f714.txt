@@ -1,0 +1,8 @@
+0x0322c94d
+abrirDoacoes()
+fecharDoacoes()
+ong()
+statusDoacao()
+informarOng(address)
+responsavel()
+sacarDoacoes()

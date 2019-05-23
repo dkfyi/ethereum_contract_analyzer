@@ -1,0 +1,3 @@
+d()
+calculatePurchaseReturn(uint256,uint256,uint8,uint256)
+calculateSaleReturn(uint256,uint256,uint8,uint256)

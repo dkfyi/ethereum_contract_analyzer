@@ -1,0 +1,10 @@
+founder()
+0x8200b74d
+getPrice()
+0xc7b60dcf
+allocationAddress()
+0xde0e6123
+balanceOf(address)
+balanceOf(address)
+issueTokens(address,uint256)
+baseprice()

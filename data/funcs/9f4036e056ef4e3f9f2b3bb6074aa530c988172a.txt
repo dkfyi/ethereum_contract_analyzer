@@ -1,0 +1,17 @@
+0x08c2e0bb
+kill()
+0x5ad77157
+update()
+__callback(bytes32,string,string)
+ETHXBT()
+getAddress()
+setProofType(bytes1)
+getAddress()
+getAddress()
+useCoupon(string)
+getAddress()
+getAddress()
+query_withGasLimit(uint256,string,string,uint256)
+getPrice(string,uint256)
+getAddress()
+cbAddress()

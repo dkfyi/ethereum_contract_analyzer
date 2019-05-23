@@ -1,0 +1,9 @@
+0x07d8b05d
+forceOwnerChange(address)
+0x123cff47
+0x19ae7f10
+disown()
+contractBalance()
+changeOwner(address)
+0xb3f34f9c
+creationTime()

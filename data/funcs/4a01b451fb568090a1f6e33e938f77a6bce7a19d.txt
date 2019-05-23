@@ -1,0 +1,17 @@
+0x023c28d5
+0x0de10047
+setOwner(address)
+removeAdmin(address)
+withdraw()
+0x47594630
+version()
+0x576a2784
+getBlacklist(address)
+0x6036a63b
+addAdmin(address)
+getLockInfo(address)
+0x7aa20886
+0x7c3e1e05
+totalPrize()
+0xa05229e8
+0xf466b0a0

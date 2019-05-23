@@ -1,0 +1,7 @@
+0x032f77dc
+0x06fad12d
+kill()
+ethBalance()
+0x87269729
+0xefc7a8ee
+companyName()

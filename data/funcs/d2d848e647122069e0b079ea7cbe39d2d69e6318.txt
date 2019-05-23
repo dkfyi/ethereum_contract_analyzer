@@ -1,0 +1,16 @@
+0x04a61752
+transferSafety()
+directorB()
+proposalAmount()
+accept(uint256)
+proposalContract()
+proposalDestination()
+0x41344bd0
+proposal(address,uint256,address)
+transferDirectorB(address)
+proposalAuthor()
+proposalNonce()
+directorA()
+reset()
+transferDirectorA(address)
+many_msg_babbage(bytes1)

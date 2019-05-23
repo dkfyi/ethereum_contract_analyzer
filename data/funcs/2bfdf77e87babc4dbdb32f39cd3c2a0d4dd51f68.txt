@@ -1,0 +1,6 @@
+withdraw()
+0xb1b2ddcb
+master()
+opponentAmount()
+bet()
+random(uint64)

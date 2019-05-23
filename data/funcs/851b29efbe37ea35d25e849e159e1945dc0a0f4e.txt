@@ -1,0 +1,7 @@
+removeFromWhiteList(address)
+addToWhiteList(address,uint256)
+isWhiteListed(address)
+ideal_warn_timed(uint256,uint128)
+whitelist(address)
+isAmountAllowed(address,uint256)
+transferOwnership(address)

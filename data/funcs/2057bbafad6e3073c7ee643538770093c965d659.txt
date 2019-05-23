@@ -1,0 +1,4 @@
+getAddressFromSig(bytes32,uint8,bytes32,bytes32)
+nonce(address)
+relayMetaTx(uint8,bytes32,bytes32,address,bytes)
+getAddressFromData(bytes)

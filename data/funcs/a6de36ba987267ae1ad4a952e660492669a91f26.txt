@@ -1,0 +1,13 @@
+unpause()
+destroyCrowdsale()
+renounceOwnership()
+pause()
+ideal_warn_timed(uint256,uint128)
+getTotalSupply()
+0xef2797e8
+transferOwnership(address)
+token()
+unpause()
+pause()
+totalSupply()
+transferOwnership(address)

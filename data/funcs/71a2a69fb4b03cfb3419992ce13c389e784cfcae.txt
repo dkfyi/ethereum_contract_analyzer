@@ -1,0 +1,6 @@
+setAbel(address)
+recoverAll()
+getTotalMined()
+getOscar()
+getAbel()
+setOscar(address)

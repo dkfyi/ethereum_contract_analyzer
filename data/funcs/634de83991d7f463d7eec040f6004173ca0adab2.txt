@@ -1,0 +1,8 @@
+getBalance()
+balances(address)
+withdraw(uint256)
+0x2ee0e4fd
+0x8bba2a01
+0xb6c2974c
+deposit()
+0xe39295d6

@@ -1,0 +1,11 @@
+withdraw()
+initLottery(uint16,uint256,uint8,bytes32)
+getLotteryDetails(uint16)
+ideal_warn_timed(uint256,uint128)
+lotteryCloseInsurance(uint16)
+changeOwner(address)
+purchaseTicket(uint16,uint16[])
+lotteryId()
+finalizeLottery(uint16,bytes32,uint256)
+pendingWithdrawals(address)
+0xffff0000

@@ -1,0 +1,3 @@
+talks(bytes32)
+add(bytes32)
+claim(bytes32)

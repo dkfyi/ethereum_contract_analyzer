@@ -1,0 +1,6 @@
+0x0d80fefd
+updateMessage(uint256,bytes32)
+createMessage(bytes32)
+updateUser(bytes32)
+0xa87430ba
+messagesLength()

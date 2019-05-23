@@ -1,0 +1,13 @@
+setDisputeFee(uint256)
+requestArbitration(address,bytes32)
+withdraw(address)
+0x605ede20
+0xa20dd43b
+getDisputeFee(bytes32)
+setQuestionFee(address,uint256)
+submitAnswerByArbitrator(address,bytes32,bytes32,address)
+notifyOfArbitrationRequest(bytes32,address)
+isFinalized(bytes32)
+0xe0742292
+setQuestionFee(uint256)
+submitAnswerByArbitrator(bytes32,bytes32,address)

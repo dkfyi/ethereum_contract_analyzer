@@ -1,0 +1,14 @@
+setToken(address)
+destruct(address)
+genTime()
+0x771dc86a
+collectedTokens()
+release()
+ideal_warn_timed(uint256,uint128)
+setGenTime(uint256)
+beneficiaries(uint256)
+transferOwnership(address)
+token()
+balanceOf(address)
+0x01e13380
+many_msg_babbage(bytes1)

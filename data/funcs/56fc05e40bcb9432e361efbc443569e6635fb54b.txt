@@ -1,0 +1,9 @@
+0x1ca4695f
+0x51d88471
+balanceOf(address)
+token()
+convert(address[],uint256,uint256)
+balanceOf(address)
+token()
+many_msg_babbage(bytes1)
+convert(address[],uint256,uint256)

@@ -1,0 +1,16 @@
+0x0be40570
+totalSupply()
+claim(address)
+0x34a1ca89
+0x5339eac4
+0x77329f35
+0x7809f7bd
+addressCount()
+addressList(uint256)
+blockVersion()
+balance(address)
+0xe660cc08
+tokenBalance(address)
+0xf720f80b
+many_msg_babbage(bytes1)
+balanceOf(address)

@@ -1,0 +1,17 @@
+0x011dca50
+0x071e41d7
+approveContract(address)
+approvedContracts(address)
+withdrawEther()
+0x784f50d5
+ideal_warn_timed(uint256,uint128)
+0x964ad38e
+0xbc9113f0
+0xd6caaeaa
+0xe719fb66
+transferOwnership(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

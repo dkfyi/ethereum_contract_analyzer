@@ -1,0 +1,7 @@
+acceptOwnership()
+transferOwnershipNow(address)
+ideal_warn_timed(uint256,uint128)
+addNewAddress(address)
+getAddresses()
+newOwner()
+transferOwnership(address)

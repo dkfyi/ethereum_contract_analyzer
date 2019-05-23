@@ -1,0 +1,4 @@
+getTokenProposalDetails()
+getContractType()
+0xcb2ef6f7
+getExpiry()

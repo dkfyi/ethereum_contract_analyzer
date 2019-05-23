@@ -1,0 +1,12 @@
+maxDays()
+rateForDays(uint256)
+updateRate(uint256,uint256)
+UTC2MYT()
+ideal_warn_timed(uint256,uint128)
+calcFees(uint256,uint256,uint256)
+maxRate()
+transferOwnership(address)
+wotDay(uint256)
+calcMax()
+0x5867d600
+0x5867d5ff

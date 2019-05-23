@@ -1,0 +1,4 @@
+0x1b078f70
+0x3a1ba406
+getContractBalance()
+0xf8816045

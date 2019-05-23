@@ -1,0 +1,7 @@
+recover(bytes32,bytes)
+0x3e61e9dc
+tokenContract()
+0x5efd1682
+0x816413f8
+operatorSend(address,address,uint256,bytes,bytes)
+operatorSend(address,address,uint256,bytes,bytes)

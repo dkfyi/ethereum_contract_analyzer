@@ -1,0 +1,7 @@
+0x0d80fefd
+getMessagesCount()
+getMessageTimestamp(uint256)
+addMessage(string)
+getMessage(uint256)
+closeWall()
+getMessageSender(uint256)

@@ -1,0 +1,3 @@
+callSomeFunctionViaOuter()
+myInner1()
+callSomeFunctionViaInner1()

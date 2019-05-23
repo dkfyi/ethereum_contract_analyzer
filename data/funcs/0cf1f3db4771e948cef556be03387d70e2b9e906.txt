@@ -1,0 +1,6 @@
+randomJackpot()
+maxNum()
+ideal_warn_timed(uint256,uint128)
+random(uint256)
+updateMaxNum(uint32)
+maxRandom()

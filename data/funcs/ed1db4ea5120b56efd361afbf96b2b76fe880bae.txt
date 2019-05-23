@@ -1,0 +1,6 @@
+balances(address)
+denyAccess(address)
+balanceOf(address)
+0x81ba8449
+allowAccess(address)
+setBalance(address,uint256)

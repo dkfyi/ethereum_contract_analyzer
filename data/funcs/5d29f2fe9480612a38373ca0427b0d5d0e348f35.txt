@@ -1,0 +1,17 @@
+0x143b017a
+0x14950718
+0x1cc50da9
+withdraw()
+transferAmount()
+0x5ba09cb6
+ideal_warn_timed(uint256,uint128)
+0x9c897e03
+0xbc8eee77
+0xc9d2b79c
+0xcb980e25
+0xcd543ef0
+0xd5c3bffd
+0xdeb1ea80
+transferOwnership(address)
+getKitty(uint256)
+giveBirth(uint256)

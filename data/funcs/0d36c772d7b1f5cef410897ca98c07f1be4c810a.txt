@@ -1,0 +1,8 @@
+allocateTokens()
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+setTau(address)
+LAMDEN_DECIMALS()
+tau()
+transferOwnership(address)
+mint(address,uint256)

@@ -1,0 +1,13 @@
+0x1ef69838
+0x514ed235
+safeWithdrawal(uint256)
+tokenReward()
+0x6e95a51b
+transferOwnerShip(address)
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+price()
+many_msg_babbage(bytes1)
+0x3473bc00
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

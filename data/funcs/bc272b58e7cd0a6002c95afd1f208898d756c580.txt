@@ -1,0 +1,4 @@
+CloseGift()
+Put_DEDI_gift(address)
+GetGift()
+SetGiftTime(uint256)

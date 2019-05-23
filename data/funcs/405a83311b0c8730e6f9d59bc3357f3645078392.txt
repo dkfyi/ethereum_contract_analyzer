@@ -1,0 +1,4 @@
+addNote(bytes20,string)
+setNote(uint256,bytes20,string)
+0x61c3a7e6
+getNote(uint256)

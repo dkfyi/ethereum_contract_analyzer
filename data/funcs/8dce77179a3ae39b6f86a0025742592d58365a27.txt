@@ -1,0 +1,12 @@
+0x372c12b1
+etherProceeds()
+ideal_warn_timed(uint256,uint128)
+0x937fc2f5
+airdrop(address,address[],uint256)
+0xb2862d0b
+0xbda0e10e
+fee()
+withdrawCoinToOwner(address,uint256)
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

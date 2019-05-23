@@ -1,0 +1,2 @@
+func1()
+0xfa3bc4c9

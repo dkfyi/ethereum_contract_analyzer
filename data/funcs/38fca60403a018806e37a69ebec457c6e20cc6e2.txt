@@ -1,0 +1,4 @@
+currentState()
+resolveBet()
+makeWager()
+0xb7ec2a96

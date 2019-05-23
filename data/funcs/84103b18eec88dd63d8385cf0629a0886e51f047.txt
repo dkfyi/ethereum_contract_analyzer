@@ -1,0 +1,11 @@
+0x3fd1bc8a
+0x5c170508
+ideal_warn_timed(uint256,uint128)
+setController(address)
+0xde32527a
+transferOwnership(address)
+controller()
+0xf87dc2c6
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

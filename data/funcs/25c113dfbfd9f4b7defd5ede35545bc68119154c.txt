@@ -1,0 +1,13 @@
+creator()
+deadline()
+0x35c73c23
+completedAt()
+beneficiary()
+priceInWei()
+tokenReward()
+fundingMinimumTargetInWei()
+state()
+totalRaised()
+currentBalance()
+contribute()
+campaignUrl()

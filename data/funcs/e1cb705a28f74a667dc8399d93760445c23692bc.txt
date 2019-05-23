@@ -1,0 +1,11 @@
+LaunchRocket(uint32,uint32,uint32,uint32,uint32,uint32)
+0x57ff2915
+m_Database()
+m_GameHidden()
+GetRocket(uint32)
+Load(address,uint256,uint256)
+Load(address,uint256,uint256)
+Load(address,uint256,uint256)
+Load(address,uint256,uint256)
+CalculateFinalDistance(bytes32,bytes32,bytes32,bytes32)
+Load(address,uint256,uint256)

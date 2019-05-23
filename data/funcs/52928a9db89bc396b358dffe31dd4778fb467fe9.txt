@@ -1,0 +1,8 @@
+bid()
+finalize()
+tokenPrice()
+beneficiaries(uint256)
+token()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

@@ -1,0 +1,5 @@
+0x1eacc9d3
+available_assert_time(uint16,uint64)
+kill()
+link_classic_internal(uint64,int64)
+0xa367adce

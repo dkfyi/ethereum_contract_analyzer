@@ -1,0 +1,7 @@
+getPlayerAddr(uint256)
+registerNameXnameFromDapp(address,bytes32,bytes32,bool)
+getPlayerName(uint256)
+registerNameXaddrFromDapp(address,bytes32,address,bool)
+registerNameXIDFromDapp(address,bytes32,uint256,bool)
+getPlayerLAff(uint256)
+getPlayerID(address)

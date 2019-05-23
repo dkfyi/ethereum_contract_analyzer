@@ -1,0 +1,12 @@
+totalSupply()
+setTokenLogic(address)
+mint(address,uint256)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+isOwner()
+burn(address,uint256)
+transfer(address,address,uint256)
+0xd7717750
+allowance(address,address)
+approve(address,address,uint256)
+transferOwnership(address)

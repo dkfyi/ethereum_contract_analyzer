@@ -1,0 +1,16 @@
+getSymbol()
+getName()
+0x25329dd7
+0x405aee5d
+0x496ce19a
+0x6012307b
+denyAccess(address)
+0x643cd17f
+0x95008dee
+0xa5a8f45e
+0xb3e50ca7
+setSymbol(string)
+0xb90af6b6
+setName(string)
+allowAccess(address)
+0xf64c6ae3

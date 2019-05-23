@@ -1,0 +1,16 @@
+0x1dfbf227
+redeem(address,uint256)
+investments(address,uint256)
+investors(uint256)
+0x62ee0082
+0x68063a74
+trust()
+ideal_warn_timed(uint256,uint128)
+0xa52ec4f4
+0xbebaa421
+0xcb4659af
+0xdab17d91
+0xef9bfe1a
+transferOwnership(address)
+token()
+mint(address,uint256)

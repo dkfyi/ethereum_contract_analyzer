@@ -1,0 +1,2 @@
+setWord(string)
+getWord()

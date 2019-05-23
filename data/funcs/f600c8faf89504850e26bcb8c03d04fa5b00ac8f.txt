@@ -1,0 +1,14 @@
+createMarriage(string,string,string,string,uint256)
+getDeployedMarriages()
+0xe94af53a
+getBalance()
+marriageDate()
+0x7869900e
+ideal_warn_timed(uint256,uint128)
+0x94ae4a0b
+getMarriageDetails()
+0xa5f41a9c
+ringBell()
+collect()
+0xe7306f2d
+0xee5f7e1d

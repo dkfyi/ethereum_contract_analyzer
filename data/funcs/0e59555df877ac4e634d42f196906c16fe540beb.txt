@@ -1,0 +1,9 @@
+getAllProducts()
+renounceOwnership()
+0x7acc0b20
+getOwnProducts()
+ideal_warn_timed(uint256,uint128)
+0xc270bd3e
+registerProduct()
+transferOwnership(address)
+ideal_warn_timed(uint256,uint128)

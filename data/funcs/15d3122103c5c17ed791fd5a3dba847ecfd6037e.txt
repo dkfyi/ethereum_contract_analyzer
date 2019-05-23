@@ -1,0 +1,7 @@
+priceInWei()
+set(string)
+ideal_warn_timed(uint256,uint128)
+maxLength()
+message()
+transferOwnership(address)
+withdraw(address,uint256)

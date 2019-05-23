@@ -1,0 +1,3 @@
+kill()
+GetMoney()
+0xd6701ebe

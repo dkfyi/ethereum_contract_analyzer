@@ -1,0 +1,10 @@
+rate()
+setRate(uint256)
+kill()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+buy()
+changeOwner(address)
+0xbc02d8cb
+token()
+mint(address,uint256)

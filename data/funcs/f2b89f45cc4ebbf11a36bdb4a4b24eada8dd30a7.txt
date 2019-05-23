@@ -1,0 +1,7 @@
+kill()
+transferEthToOnwer()
+tokenInstance()
+ideal_warn_timed(uint256,uint128)
+0xdf1d5de7
+transferOwnership(address)
+many_msg_babbage(bytes1)

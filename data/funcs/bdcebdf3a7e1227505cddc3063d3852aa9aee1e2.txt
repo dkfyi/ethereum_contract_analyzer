@@ -1,0 +1,2 @@
+getVar(string)
+setVar(string,string)

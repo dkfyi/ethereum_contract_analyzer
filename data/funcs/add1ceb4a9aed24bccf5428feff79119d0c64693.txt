@@ -1,0 +1,3 @@
+0x420b3240
+suicide(address)
+sharesAddress()

@@ -1,0 +1,7 @@
+0x4f51e294
+0x5d94c126
+setAffiliate(address,address)
+ideal_warn_timed(uint256,uint128)
+setManager(address,bool)
+transferOwnership(address)
+managers(address)

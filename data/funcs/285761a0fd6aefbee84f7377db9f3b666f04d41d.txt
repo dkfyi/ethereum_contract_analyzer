@@ -1,0 +1,10 @@
+__callback(bytes32,string)
+kill()
+0x822683c6
+update()
+changeOwner(address)
+getAddress()
+cbAddress()
+getAddress()
+getPrice(string)
+query(uint256,string,string)

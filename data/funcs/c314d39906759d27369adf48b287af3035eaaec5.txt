@@ -1,0 +1,8 @@
+join(address)
+total()
+0x47ab5382
+ideal_warn_timed(uint256,uint128)
+0xa87430ba
+0xd0479e2f
+buy(address)
+quit()

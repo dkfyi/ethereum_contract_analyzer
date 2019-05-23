@@ -1,0 +1,14 @@
+count()
+users(uint256)
+0x40df0988
+addUser(address)
+0x61853ba6
+0x698ea759
+0x73ec3963
+0x89c8dbf3
+ideal_warn_timed(uint256,uint128)
+0x9b12ba15
+0xa121ac9c
+getUserCount()
+0xeb876f27
+0xfe018940

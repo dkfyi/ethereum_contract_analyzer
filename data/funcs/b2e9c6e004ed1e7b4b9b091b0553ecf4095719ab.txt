@@ -1,0 +1,8 @@
+setOwner(address)
+setToken(address)
+transfer(address[],uint256)
+setTreasurer(address)
+ideal_warn_timed(uint256,uint128)
+token()
+treasurer()
+many_msg_babbage(bytes1)

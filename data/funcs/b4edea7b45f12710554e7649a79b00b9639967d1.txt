@@ -1,0 +1,13 @@
+setOwner(address)
+certify(address)
+getCertifier(address)
+getAddress(address,string)
+delegates(address)
+removeDelegate(address)
+revoke(address)
+ideal_warn_timed(uint256,uint128)
+0xc9772776
+getUint(address,string)
+certified(address)
+addDelegate(address)
+get(address,string)

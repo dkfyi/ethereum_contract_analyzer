@@ -1,0 +1,17 @@
+setupEventsHistory(address)
+kill()
+0x4dc3eeb7
+0x51e8993e
+0x68565c1d
+0x6abe46cc
+setController(address)
+0xe34c10f4
+controller()
+0xfb76cc98
+getEventsHistory()
+migrate(address)
+forceChangeContractOwnership(address)
+0x753cf778
+canCall(address,address,bytes4)
+0x4dc3eeb7
+0x68565c1d

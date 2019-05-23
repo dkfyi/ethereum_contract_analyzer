@@ -1,0 +1,7 @@
+setCEO(address)
+verifyProof(bytes32[],bytes32,bytes32)
+setCFO(address)
+0x93a2f9c7
+0xb8a1e3f8
+deposit()
+getData(bytes32)

@@ -1,0 +1,11 @@
+admins(uint256)
+removeAdmin(address)
+isAdmin(address)
+getAdmins()
+0x3b59f694
+replaceAdmin(address,address)
+addAdmin(address)
+ideal_warn_timed(uint256,uint128)
+0xb2f6e708
+0xb9fe1973
+transferOwnership(address)

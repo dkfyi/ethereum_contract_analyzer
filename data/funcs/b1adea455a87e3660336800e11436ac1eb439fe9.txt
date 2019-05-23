@@ -1,0 +1,2 @@
+zint_convert(string)
+zint_bytes32ToString(bytes32)

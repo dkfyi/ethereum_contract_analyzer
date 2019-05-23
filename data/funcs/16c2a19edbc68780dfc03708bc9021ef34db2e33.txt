@@ -1,0 +1,4 @@
+getSupplyRate(address,uint256,uint256)
+0xd6d75f51
+getBorrowRate(address,uint256,uint256)
+0x8e8f294b

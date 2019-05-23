@@ -1,0 +1,4 @@
+0xa7fafab7
+claimAll()
+getKitty(uint256)
+giveBirth(uint256)

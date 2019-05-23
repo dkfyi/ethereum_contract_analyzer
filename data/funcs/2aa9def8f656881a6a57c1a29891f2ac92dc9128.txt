@@ -1,0 +1,2 @@
+AddMessage(address,uint256,string)
+History(uint256)

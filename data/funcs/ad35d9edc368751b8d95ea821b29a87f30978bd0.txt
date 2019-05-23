@@ -1,0 +1,3 @@
+calc(uint256)
+result()
+ideal_warn_timed(uint256,uint128)

@@ -1,0 +1,16 @@
+0x0e73406c
+spendlarge(uint256,uint256,uint256)
+MAX_DAILY_TOKEN_SOLO_SPEND()
+0x2eced237
+DAY_LENGTH()
+MAX_DAILY_COSIGN_SEND()
+MAX_DAILY_SOLO_SPEND()
+takedaily(address)
+WHOLE_ETHER()
+COSIGN_MAX_TIME()
+MAX_DAILY_TOKEN_COSIGN_SPEND()
+FRACTION_ETHER()
+GAS_PRICE_LIMIT()
+SetGasLimit(uint256)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

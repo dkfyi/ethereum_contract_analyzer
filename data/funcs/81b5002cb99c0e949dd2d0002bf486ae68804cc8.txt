@@ -1,0 +1,3 @@
+drop(address)
+balanceOf(address)
+mint(address,uint256)

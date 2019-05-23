@@ -1,0 +1,2 @@
+0x2f3bd5cd
+kill()

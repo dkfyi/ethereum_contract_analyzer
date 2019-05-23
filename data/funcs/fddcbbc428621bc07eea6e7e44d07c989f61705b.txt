@@ -1,0 +1,7 @@
+isRunning()
+isApproved(address)
+getOwner()
+changeOwner(address)
+0xb0390fbc
+approveAddress(address)
+setRunSwitch(bool)

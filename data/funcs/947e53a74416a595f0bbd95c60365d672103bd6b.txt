@@ -1,0 +1,16 @@
+name()
+totalSupply()
+0x388e9104
+granularity()
+operatorSend(address,address,uint256,bytes,bytes)
+balanceOf(address)
+tokensToSend(address,address,address,uint256,bytes,bytes)
+link_classic_internal(uint64,int64)
+send(address,uint256,bytes)
+0x01000000
+0x01000000
+tokensToSend(address,address,address,uint256,bytes,bytes)
+0x01000000
+tokensToSend(address,address,address,uint256,bytes,bytes)
+tokensToSend(address,address,address,uint256,bytes,bytes)
+setManager(address,address)

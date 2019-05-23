@@ -1,0 +1,15 @@
+backend()
+0x0cd4f357
+0x2aec2fba
+0x315c2121
+feeRecipient()
+feeToken()
+destroy()
+ideal_warn_timed(uint256,uint128)
+0xbae10f93
+setBackend(address)
+0xdd718f7a
+fee()
+transferOwnership(address)
+destroyAndSend(address)
+gasprice_bit_ether(int128)

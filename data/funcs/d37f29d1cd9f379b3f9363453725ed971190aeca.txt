@@ -1,0 +1,15 @@
+destroyContract()
+isAvailable(uint32)
+withdraw()
+unpause()
+purchasesCount()
+bid(uint32)
+paused()
+0x655750ac
+0x784fbcbf
+0x8392fe31
+pause()
+ideal_warn_timed(uint256,uint128)
+addCutie(uint32,uint256,uint256)
+getPrice(uint32)
+transferOwnership(address)

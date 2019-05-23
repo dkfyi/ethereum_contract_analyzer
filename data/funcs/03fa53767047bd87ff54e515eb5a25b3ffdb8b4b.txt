@@ -1,0 +1,16 @@
+0x208d537d
+0x55eb2e96
+0x6be1ef80
+0xa85444d0
+0x68501aee
+0x46880b23
+withdrawToken(address,address,uint256)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+0x68501aee
+0x43a2a302
+exchange(address,uint256)

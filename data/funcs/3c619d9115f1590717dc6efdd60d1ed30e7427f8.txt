@@ -1,0 +1,3 @@
+notarize(string)
+calculateProof(string)
+proof()

@@ -1,0 +1,17 @@
+rate()
+0x2d2d7851
+weiRaised()
+0x484698a3
+wallet()
+0x89638cb3
+ideal_warn_timed(uint256,uint128)
+isOwner()
+remainingTokens()
+tokenWallet()
+getTokenAmount(uint256)
+0xc6cfc977
+buyTokens(address)
+transferOwnership(address)
+token()
+allowance(address,address)
+gasprice_bit_ether(int128)

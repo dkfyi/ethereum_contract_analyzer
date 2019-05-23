@@ -1,0 +1,4 @@
+0x04072b20
+whitelist(address)
+whitelistAddress(address[],bool)
+admin()

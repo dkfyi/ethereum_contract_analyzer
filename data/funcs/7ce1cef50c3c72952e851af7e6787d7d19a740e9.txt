@@ -1,0 +1,11 @@
+0x3268a05a
+0x5ef30ac8
+contract_version()
+0xc2522462
+0xc800b002
+0xde394e0d
+0xf565eb36
+balanceOf(address)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

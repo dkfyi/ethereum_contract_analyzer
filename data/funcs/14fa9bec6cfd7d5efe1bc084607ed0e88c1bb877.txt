@@ -1,0 +1,7 @@
+killContract()
+0x3a45dc0a
+checkStatus()
+0x761a478c
+0xad1985be
+0xb2498df9
+0xf832db91

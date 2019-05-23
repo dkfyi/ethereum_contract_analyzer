@@ -1,0 +1,8 @@
+getDonationLength()
+fallback()
+charity()
+messageForPeace(string)
+getRaised()
+getDonation(uint256)
+raised()
+0xf8626af8

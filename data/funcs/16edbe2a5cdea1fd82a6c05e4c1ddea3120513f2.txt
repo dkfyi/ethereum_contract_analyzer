@@ -1,0 +1,8 @@
+killContract()
+dev()
+destroy(uint256)
+tokenAddress()
+setTokenContract(address)
+curator()
+setCurator(address)
+destroy(address,uint256)

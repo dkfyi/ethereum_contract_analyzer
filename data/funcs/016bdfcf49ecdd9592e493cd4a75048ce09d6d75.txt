@@ -1,0 +1,10 @@
+setFactories(address[],bool)
+0x0f04ba67
+addRequest(string)
+ideal_warn_timed(uint256,uint128)
+hasRequested(bytes32,address[])
+0x9d866985
+getRequesters(bytes32,uint256)
+clearRequests(bytes32)
+transferOwnership(address)
+getRequest(bytes32)

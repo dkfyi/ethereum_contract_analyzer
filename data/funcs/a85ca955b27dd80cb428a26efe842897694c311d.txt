@@ -1,0 +1,5 @@
+kill()
+holdCoin(address,address)
+0x8b69450d
+signRelease(uint256)
+0xaf503309

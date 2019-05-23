@@ -1,0 +1,5 @@
+manager()
+pickWinner()
+getPlayers()
+enter()
+0xf71d96cb

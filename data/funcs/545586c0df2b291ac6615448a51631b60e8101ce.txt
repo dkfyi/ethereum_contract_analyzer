@@ -1,0 +1,7 @@
+shop()
+object()
+workDone(address)
+0x566f1822
+reapFarm()
+buyObject(address)
+many_msg_babbage(bytes1)

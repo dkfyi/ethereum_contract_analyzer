@@ -1,0 +1,13 @@
+deleteMember(address)
+incomeAllocation()
+getMember(address)
+updateMember(address,uint256)
+withdrawBalance(address)
+addMember(address,uint256)
+getMemberCount()
+changeOwner(address)
+getTotalShares()
+getMemberAtIndex(uint256)
+selfWithdrawBalance()
+0x3b9aca00
+0x3b9aca00

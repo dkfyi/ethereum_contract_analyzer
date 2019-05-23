@@ -1,0 +1,7 @@
+ValidateExec(string)
+kill()
+_filiate()
+AddExec(string)
+_owner()
+ChangeFiliate(address)
+ChangeOwner(address)

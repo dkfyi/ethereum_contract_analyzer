@@ -1,0 +1,7 @@
+destroyContract()
+changeMinInvestment(uint256)
+minInvestment()
+ideal_warn_timed(uint256,uint128)
+saleStart()
+withdrawEther(address)
+saleEnd()

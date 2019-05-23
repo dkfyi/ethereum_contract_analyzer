@@ -1,0 +1,15 @@
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+0x2cf2c0af
+withdraw(uint256)
+close()
+testTrade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256,address)
+ideal_warn_timed(uint256,uint128)
+deposit()
+0xf1b83630
+balanceOf(address,address)
+testTrade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256,address)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+deposit()
+testTrade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256,address)
+withdraw(uint256)
+balanceOf(address,address)

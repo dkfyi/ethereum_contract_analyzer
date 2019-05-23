@@ -1,0 +1,12 @@
+rate()
+withdraw()
+0x3f2916d9
+tokensAvailable()
+updateRate(uint256)
+ideal_warn_timed(uint256,uint128)
+killContract(uint256)
+withdrawSome(uint256)
+transferOwnership(address)
+token()
+gasprice_bit_ether(int128)
+balanceOf(address)

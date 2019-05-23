@@ -1,0 +1,15 @@
+0x3d4cfa6b
+payout()
+0x6f7bc9be
+0x6fe15b44
+pause()
+ideal_warn_timed(uint256,uint128)
+getInvestorCount()
+0x9fb4af79
+getInvestorDividendsAmount(address)
+boss()
+0xde509a2c
+0xe070f94f
+0xedf26d9b
+transferOwnership(address)
+admin()

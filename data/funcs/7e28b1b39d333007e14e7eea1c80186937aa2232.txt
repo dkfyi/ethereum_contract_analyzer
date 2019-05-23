@@ -1,0 +1,12 @@
+companyWalletAddress()
+multiSigAddress()
+0x1df43c46
+profitContainerAddress()
+changeProfitContainerAddress(address)
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+changeEtherRatioForOwner(uint256)
+changeAccountAddressForSponsee(address)
+accountAddressForSponsee()
+etherRatioForOwner()
+changeCompanyWalletAddress(address)

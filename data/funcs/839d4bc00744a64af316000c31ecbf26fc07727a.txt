@@ -1,0 +1,4 @@
+unregister(address)
+0x372c12b1
+register(address)
+isRegistered(address)

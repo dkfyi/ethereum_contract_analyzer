@@ -1,0 +1,10 @@
+0x2a4a9dd1
+ideal_warn_timed(uint256,uint128)
+generateWarrior(uint256,uint256,uint256,uint256)
+isGenerator()
+changeParameter(uint32,uint32)
+transferOwnership(address)
+0x05f5e100
+0x05f5e100
+0x05f5e100
+0x05f5e100

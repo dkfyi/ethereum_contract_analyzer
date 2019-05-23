@@ -1,0 +1,17 @@
+name()
+totalSupply()
+0x233a6dcc
+gasprice_bit_ether(int128)
+minFee()
+available_assert_time(uint16,uint64)
+0x45bcde48
+0x4867ef4f
+standard()
+0x6b2bf27f
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+vanishCoins(uint256)
+link_classic_internal(uint64,int64)
+0xa4ef4855
+many_msg_babbage(bytes1)
+issueNew(uint256)

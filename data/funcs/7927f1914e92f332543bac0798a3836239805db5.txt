@@ -1,0 +1,6 @@
+0x2b34af70
+setSale(address)
+sale()
+ideal_warn_timed(uint256,uint128)
+getCap(address)
+accept(address,uint256)

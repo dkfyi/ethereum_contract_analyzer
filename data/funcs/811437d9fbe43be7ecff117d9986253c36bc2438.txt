@@ -1,0 +1,6 @@
+batchTransferETHS(address[],uint256[])
+batchTransferETH(address[])
+batchTransferTokenS(address,address[],uint256[])
+batchTransferToken(address,address[],uint256)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

@@ -1,0 +1,11 @@
+0x0fbe29ef
+0x3f09b9b8
+kill()
+0x4bf3cce7
+0x4f9da09f
+0x50a84a2e
+0x83cf3c19
+0x8cf5c0b3
+0x98721ec0
+setManager(address)
+setContractManager(address)

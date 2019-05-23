@@ -1,0 +1,13 @@
+0x2a2cb82a
+0x5e7c35db
+0x91864252
+0xc7870161
+0xff9886ca
+priceDenominator()
+0x1f98ade3
+naturalUnit()
+0xa782132c
+naturalUnit()
+getComponents()
+getUnits()
+0x3ef42286

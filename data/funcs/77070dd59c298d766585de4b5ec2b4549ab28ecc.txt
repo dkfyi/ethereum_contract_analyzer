@@ -1,0 +1,12 @@
+creator()
+setOwner(address)
+setToken(address)
+setCreator(address)
+sendToken(address,uint256)
+kill()
+tokenReward()
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+0x5a725880
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

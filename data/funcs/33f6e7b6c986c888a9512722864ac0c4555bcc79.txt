@@ -1,0 +1,15 @@
+0x0da39942
+0x1b20d9cb
+0x280893ee
+0x3c3ae83e
+0x54133df3
+allocateTokens(address,uint256)
+ideal_warn_timed(uint256,uint128)
+0xa24e6633
+totalTokensAllocated()
+state()
+0xe4d546f6
+0xef7d2345
+transferOwnership(address)
+token()
+gasprice_bit_ether(int128)

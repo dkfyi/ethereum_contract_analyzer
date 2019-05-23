@@ -1,0 +1,12 @@
+hasDNN(address)
+tokensDistributed()
+issueTokens(address)
+0x4a7345b4
+cofounderB()
+seed()
+maxTokensToDistribute()
+updateMaxTokensToDistribute(uint256)
+0xee43d43e
+cofounderA()
+dnnToken()
+issueTokens(address,uint256,uint8)

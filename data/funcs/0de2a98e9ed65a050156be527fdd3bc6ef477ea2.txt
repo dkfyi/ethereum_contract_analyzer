@@ -1,0 +1,14 @@
+0x2b92e245
+0x6897e7cf
+0xa359b67c
+0xb6e7b7d9
+0xb6f9385d
+0xcf8ce8df
+0xf0a95cc9
+orderFills(address,bytes32)
+getUnavailableTakerTokenAmount(bytes32)
+getReturn(address,address,uint256)
+getReturn(address,address,uint256)
+getReturn(address,address,uint256)
+getReturn(address,address,uint256)
+orderFills(address,bytes32)

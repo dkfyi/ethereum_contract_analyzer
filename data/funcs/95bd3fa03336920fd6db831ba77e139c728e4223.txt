@@ -1,0 +1,6 @@
+w()
+0x6df586b2
+MaxMiningReward()
+CurrentMined()
+Mine()
+many_msg_babbage(bytes1)

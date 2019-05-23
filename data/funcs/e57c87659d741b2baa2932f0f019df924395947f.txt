@@ -1,0 +1,6 @@
+kill()
+0x4e802bb7
+balance()
+0xec241531
+refundBet(uint256)
+placeBet(uint256,uint256,uint256,uint256,bytes32,bytes32)

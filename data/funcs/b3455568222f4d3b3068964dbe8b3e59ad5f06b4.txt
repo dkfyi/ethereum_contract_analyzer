@@ -1,0 +1,9 @@
+deleteOrder(uint256)
+claimOrder(uint256)
+placeOrder(address,uint256,address,uint256)
+sendCoin(uint256,address)
+0x33f57339
+sendCoinFrom(address,uint256,address)
+sendCoin(uint256,address)
+0x33f57339
+sendCoinFrom(address,uint256,address)

@@ -1,0 +1,4 @@
+0x1e833237
+getCount()
+increment()
+0xfb8cbced

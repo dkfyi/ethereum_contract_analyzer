@@ -1,0 +1,5 @@
+getShareholder(uint256)
+0xc66eb103
+getFundBalance()
+0xdda1a1e6
+payDividends()

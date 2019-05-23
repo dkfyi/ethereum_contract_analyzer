@@ -1,0 +1,14 @@
+0x2e61319d
+isOperator(address)
+renounceOwnership()
+0x7a00e2e3
+ideal_warn_timed(uint256,uint128)
+isOwner()
+addOperator(address)
+0xa1c13ca8
+limit()
+removeOperator(address)
+0xd64d6968
+0xe52d0404
+transferOwnership(address)
+0xfefa9bb1

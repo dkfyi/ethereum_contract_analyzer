@@ -1,0 +1,5 @@
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+transferZTXOwnership(address,address)
+transferOwnership(address)
+transferOwnership(address)

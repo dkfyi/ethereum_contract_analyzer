@@ -1,0 +1,3 @@
+setOwner(address)
+kill()
+0xbf975f14

@@ -1,0 +1,12 @@
+rate()
+0x479c9254
+next()
+0x6bcf7f98
+0x6e93ceeb
+ideal_warn_timed(uint256,uint128)
+0xccb31df5
+transferOwnership(address)
+balanceOf(address)
+burnFrom(address,uint256)
+gasprice_bit_ether(int128)
+allowance(address,address)

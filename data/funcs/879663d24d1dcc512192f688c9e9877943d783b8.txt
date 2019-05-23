@@ -1,0 +1,4 @@
+kill()
+0x51e8b5c6
+pitboss()
+cashout(address,uint256)

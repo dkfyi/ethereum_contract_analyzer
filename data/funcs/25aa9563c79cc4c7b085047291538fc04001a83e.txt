@@ -1,0 +1,4 @@
+0x40d04c26
+quickBuyPath(uint256)
+quickConvert(address[],uint256,uint256)
+balanceOf(address)

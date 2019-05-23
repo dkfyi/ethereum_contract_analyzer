@@ -1,0 +1,8 @@
+balances(address)
+isOwner(address)
+addTokens(address,uint256)
+addOwner(address)
+delOwner(address)
+getTokens()
+token()
+many_msg_babbage(bytes1)

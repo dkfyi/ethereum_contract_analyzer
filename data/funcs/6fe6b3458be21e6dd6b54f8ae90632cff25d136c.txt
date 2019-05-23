@@ -1,0 +1,17 @@
+name()
+totalSupply()
+0x217ac0de
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+burn(uint256)
+million()
+freezeAccountWithToken(address,uint256)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+unfreezeAccountWithToken(address,uint256)
+frozenAccount(address)
+0xce20f213
+freezeAccount(address,bool)
+transferOwnership(address)

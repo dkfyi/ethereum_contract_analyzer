@@ -1,0 +1,4 @@
+kill()
+getDigit()
+getFinalBytes()
+0xcce0dc85

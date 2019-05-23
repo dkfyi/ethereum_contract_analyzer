@@ -1,0 +1,7 @@
+name()
+0x20518c1a
+tokenReward()
+link_classic_internal(uint64,int64)
+comment()
+balanceOf(address)
+many_msg_babbage(bytes1)

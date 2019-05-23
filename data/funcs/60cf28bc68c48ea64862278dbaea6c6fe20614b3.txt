@@ -1,0 +1,15 @@
+name()
+approve(address,uint256)
+0x16f1d119
+totalSupply()
+tokenDistributor()
+gasprice_bit_ether(int128)
+multiMint(address[],uint256[])
+available_assert_time(uint16,uint64)
+0x43c08663
+ethSignedMessagePrefix()
+balanceOf(address)
+sigDestinationTransfer()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+allowance(address,address)

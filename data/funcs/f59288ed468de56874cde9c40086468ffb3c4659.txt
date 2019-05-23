@@ -1,0 +1,4 @@
+0x0dd498b9
+0xcc8cc05b
+setBool(bytes32,bool)
+getBool(bytes32)

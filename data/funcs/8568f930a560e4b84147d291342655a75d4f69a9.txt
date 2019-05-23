@@ -1,0 +1,16 @@
+setOwner(address)
+isAdmin(address)
+addConfigEntryInt(bytes32,uint256)
+getConfigEntryAddr(bytes32)
+unregisterAdmin(address)
+getConfigEntryInt(bytes32)
+getOwner()
+0xa3f92bc6
+0xbab42303
+registerAdmin(address)
+addConfigEntryAddr(bytes32,address)
+0x186110f2
+0x49a508d9
+0x934a11b2
+0x199afdf3
+0xccd7ef98

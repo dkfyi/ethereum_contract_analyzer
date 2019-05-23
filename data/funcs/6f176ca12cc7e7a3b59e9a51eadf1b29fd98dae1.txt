@@ -1,0 +1,8 @@
+ceoAddress()
+seatPrice()
+0x223337f6
+setMessage(string)
+payout()
+purchase()
+nines(uint256)
+getNine(uint256)

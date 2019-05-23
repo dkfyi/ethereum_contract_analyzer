@@ -1,0 +1,4 @@
+copy(uint256[],uint256)
+contains(address[],address)
+getHash(uint256[])
+removeByIdx(uint256[],uint256)

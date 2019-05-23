@@ -1,0 +1,12 @@
+rewardValue()
+0x15932ee9
+rand(uint256)
+0x350df1df
+FACTOR()
+kill()
+win()
+0x713658f3
+ideal_warn_timed(uint256,uint128)
+amount()
+creationTime()
+0xd8f64b22

@@ -1,0 +1,10 @@
+0x05a570a8
+0x144a8be7
+setContractAddr(address)
+users(uint256)
+0x4f2a65c8
+per()
+ideal_warn_timed(uint256,uint128)
+0xc96679fe
+0xd041b5ae
+exists(address)

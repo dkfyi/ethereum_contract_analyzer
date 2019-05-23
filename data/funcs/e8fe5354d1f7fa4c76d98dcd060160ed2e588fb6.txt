@@ -1,0 +1,5 @@
+contractBalance()
+0xc884f713
+0xf1294afb
+balanceOf(address)
+many_msg_babbage(bytes1)

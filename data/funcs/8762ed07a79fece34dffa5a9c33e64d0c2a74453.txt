@@ -1,0 +1,5 @@
+0x397e1cce
+setData(string)
+data()
+ideal_warn_timed(uint256,uint128)
+0xeafbd9bc

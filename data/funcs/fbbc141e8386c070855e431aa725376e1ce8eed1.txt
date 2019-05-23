@@ -1,0 +1,14 @@
+0x05c04a9a
+0x267b6c75
+0x4707d000
+0x4ac3a0cd
+0x8656b85b
+0xb9a28cf4
+tokenAssignmentControl()
+gasprice_bit_ether(int128)
+buyin()
+gasprice_bit_ether(int128)
+buyin()
+many_msg_babbage(bytes1)
+balanceOf(address)
+0x130217fd

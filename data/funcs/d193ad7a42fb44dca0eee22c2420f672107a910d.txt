@@ -1,0 +1,7 @@
+message(bytes32)
+depositERC20Compatible(address,uint256,uint256,uint256)
+withdrawERC20Compatible(bytes32,uint256,uint256,uint256[])
+depositEther(address,uint256,uint256,uint256)
+withdrawEther(bytes32,uint256,uint256,uint256[])
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

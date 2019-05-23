@@ -1,0 +1,8 @@
+weiWantedOf(address)
+tokensOfferedOf(address)
+tradeActive(address)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+agreeToTrade(address)
+send(address,uint256)
+offerTrade(uint256,uint256)

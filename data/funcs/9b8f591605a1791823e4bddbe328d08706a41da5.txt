@@ -1,0 +1,8 @@
+getNoteKeyByIndex(uint256)
+getNoteKeysCount()
+userExisted(address)
+0x85c60a8d
+0x90d976e2
+getNote(bytes32)
+getUserCount()
+destroyAccount()

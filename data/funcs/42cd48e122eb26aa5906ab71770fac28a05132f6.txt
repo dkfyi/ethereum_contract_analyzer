@@ -1,0 +1,5 @@
+0x3a1d49c1
+GetMoney(uint256,address)
+0x71256345
+AddNewSmallContract(address)
+0x797fdd7b

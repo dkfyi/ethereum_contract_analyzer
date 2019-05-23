@@ -1,0 +1,7 @@
+deleteCustomer(address)
+0x2285b51c
+customers(address)
+0x717a1244
+ideal_warn_timed(uint256,uint128)
+0xad973d74
+transferOwnership(address)

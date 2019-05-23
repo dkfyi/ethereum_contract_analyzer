@@ -1,0 +1,13 @@
+transferFrom(address,address,address,uint256)
+balances(address)
+addAddress(address)
+withdrawEther(uint256)
+removeAddress(address)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+getAllAddresses()
+depositEther()
+whitelist(address)
+0xdacc5370
+transferOwnership(address)

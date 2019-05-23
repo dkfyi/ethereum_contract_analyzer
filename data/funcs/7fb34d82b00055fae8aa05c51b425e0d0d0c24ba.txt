@@ -1,0 +1,5 @@
+getRecord(uint256)
+0x0f24ca08
+0x69bdbee0
+0x7d2c5413
+0xba3e850e

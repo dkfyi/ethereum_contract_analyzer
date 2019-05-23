@@ -1,0 +1,5 @@
+pizza_mandate_apology(uint256)
+dnsrr(bytes32)
+setDnsrr(bytes32,bytes)
+ideal_warn_timed(uint256,uint128)
+dnsrr(bytes32)

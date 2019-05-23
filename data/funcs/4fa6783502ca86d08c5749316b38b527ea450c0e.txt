@@ -1,0 +1,4 @@
+craft(uint16[16],uint16[16],uint16[16],uint16[16])
+0x8ebe6df7
+0xa60d3614
+0xc7443a30

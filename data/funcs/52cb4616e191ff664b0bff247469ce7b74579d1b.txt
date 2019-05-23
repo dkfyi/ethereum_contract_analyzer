@@ -1,0 +1,16 @@
+0x053571e1
+0x1c1cb323
+setManualOverride(bool)
+getCurrencySymbol()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0x968c4209
+getPrice()
+manualPrice()
+manualOverride()
+getCurrencyAddress()
+getCurrencyDenominated()
+setManualPrice(uint256)
+changeMedianier(address)
+transferOwnership(address)
+peek()

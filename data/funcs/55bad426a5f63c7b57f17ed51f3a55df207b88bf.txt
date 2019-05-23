@@ -1,0 +1,4 @@
+Last_block_number_and_bloctime_used()
+Results_of_the_last_round()
+0xb936999a
+Game_balance_in_Ethers()

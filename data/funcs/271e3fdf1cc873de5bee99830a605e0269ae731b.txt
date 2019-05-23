@@ -1,0 +1,6 @@
+setFundManager(address)
+ideal_warn_timed(uint256,uint128)
+0x95602a15
+forwardFunds()
+changeOwner(address)
+refund(address)

@@ -1,0 +1,4 @@
+set(string)
+set(uint256)
+get()
+getString()

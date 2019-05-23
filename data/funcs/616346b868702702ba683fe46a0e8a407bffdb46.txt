@@ -1,0 +1,15 @@
+transferToken(address,uint256)
+0x20bcb495
+endTime()
+maxGasPrice()
+weiRaised()
+startTime()
+ideal_warn_timed(uint256,uint128)
+tokenSalesCapReached()
+preTokenSalesCapReached()
+0xbd8181a9
+setGasPrice(uint256)
+owned()
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)

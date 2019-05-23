@@ -1,0 +1,8 @@
+0x1a1ba11c
+isEmpty(string)
+strConcat(string,string,string)
+toString(address)
+toString(uint256)
+char(bytes1)
+stringToBytes32(string)
+strConcat(string,string)

@@ -1,0 +1,8 @@
+checkRole(address,string)
+hasRole(address,string)
+isWhitelisted(address)
+removeFromWhitelist(address[])
+addToWhitelist(address[])
+adminRemoveRole(address,string)
+adminAddRole(address,string)
+ROLE_ADMIN()

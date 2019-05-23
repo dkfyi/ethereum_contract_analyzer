@@ -1,0 +1,11 @@
+tokenOWL()
+tokenOWL()
+0x64748294
+lockGNO(uint256)
+tokenGNO()
+withdrawGNO()
+multiplier()
+endTime()
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)
+mintOWL(address,uint256)

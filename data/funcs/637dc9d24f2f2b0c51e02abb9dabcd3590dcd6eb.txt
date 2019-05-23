@@ -1,0 +1,11 @@
+0x41a84e65
+withdrawTokens(address,address,uint256)
+ETH()
+ideal_warn_timed(uint256,uint128)
+exchange()
+transferOwnership(address)
+withdraw(address,uint256)
+trade(address,uint256,address,address,uint256,uint256,address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

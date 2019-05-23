@@ -1,0 +1,12 @@
+checkGoalReached()
+deadline()
+beneficiary()
+balanceOf(address)
+fundingGoal()
+amountRaised()
+tokenAddress()
+price()
+0xe50369cf
+token()
+0xa16a9183
+transferOwnership(address)

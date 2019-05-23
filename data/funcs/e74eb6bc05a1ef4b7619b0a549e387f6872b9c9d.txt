@@ -1,0 +1,10 @@
+fundsCombinedValue()
+0x07dc290a
+killContract()
+0x8753371c
+0xbb561945
+0xc9409739
+0xd5a940c1
+curator()
+0xfde60b72
+0x4ed8dc65

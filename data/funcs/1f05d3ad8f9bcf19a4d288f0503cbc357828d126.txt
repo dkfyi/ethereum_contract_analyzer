@@ -1,0 +1,3 @@
+0x327a48cc
+getProduct(uint256)
+0x5409cb61

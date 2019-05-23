@@ -1,0 +1,7 @@
+withdraw(uint256)
+withdrawAll()
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+0xb8bba017
+checkBalance()
+sendFunds(address)

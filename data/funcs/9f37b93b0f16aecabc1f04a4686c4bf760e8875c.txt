@@ -1,0 +1,15 @@
+0x01fa8797
+getBalance()
+getShare(address)
+0x5c4753d1
+addAddress(address,uint256)
+0x69305a11
+ideal_warn_timed(uint256,uint128)
+0x98e2107a
+crowdsale()
+init(address,address)
+transferOwnership(address)
+token()
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

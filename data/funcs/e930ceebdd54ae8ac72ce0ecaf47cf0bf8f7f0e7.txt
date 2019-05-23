@@ -1,0 +1,11 @@
+0x0740ba4d
+renounceOwnership()
+0x7ac274da
+ideal_warn_timed(uint256,uint128)
+setTokenContractAddress(address)
+transferOwnership(address)
+token()
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

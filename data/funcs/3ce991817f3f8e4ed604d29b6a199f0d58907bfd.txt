@@ -1,0 +1,13 @@
+0x1068361f
+setupAmbi2(address)
+consumeOperation(bytes32,uint256)
+hasRole(address,bytes32,address)
+proxy()
+cosigner()
+alwaysRequireCosignature()
+constructor(address,address)
+forceChangeContractOwnership(address)
+constructor(address,address)
+0xcb9fa366
+claimFor(address,address)
+isOwner(address,address)

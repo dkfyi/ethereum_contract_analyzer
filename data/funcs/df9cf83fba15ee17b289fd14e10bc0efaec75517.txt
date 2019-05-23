@@ -1,0 +1,13 @@
+claimTokenOwnership()
+0x34a8490c
+wallet()
+0x8392fe31
+ideal_warn_timed(uint256,uint128)
+0x9b71dbbb
+transferOwnership(address)
+token()
+transferOwnership(address)
+mint(address,uint256)
+totalSupply()
+balanceOf(address)
+mint(address,uint256)

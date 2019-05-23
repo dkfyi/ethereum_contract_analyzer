@@ -1,0 +1,17 @@
+0x025ee648
+0x4a1560b1
+0x4d10658c
+acceptOwnership()
+0x7ee23a08
+0x807152ff
+isSigned(address,bytes32,uint8,bytes32,bytes32)
+0x8c90dd6b
+ideal_warn_timed(uint256,uint128)
+0x94e68d54
+0xa908f416
+0xaa331cf5
+newOwner()
+0xd78330c7
+0xdbf631ac
+transferOwnership(address)
+getAuthority(uint256)

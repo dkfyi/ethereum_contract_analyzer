@@ -1,0 +1,10 @@
+0x0a677a7f
+0x4fcf4136
+0x6cc866e0
+0x80539ab6
+ideal_warn_timed(uint256,uint128)
+0x92c4d854
+0xb6674d13
+0xda7b0bcf
+payout(uint256)
+0xe4dff229

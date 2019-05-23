@@ -1,0 +1,4 @@
+count()
+0x5498453d
+0x7ccb6a64
+0x9e3db5d3

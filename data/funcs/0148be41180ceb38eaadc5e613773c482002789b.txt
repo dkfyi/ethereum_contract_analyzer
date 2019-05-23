@@ -1,0 +1,10 @@
+removeMinter(address)
+0x34af2ade
+0x543ad305
+sendCoinFrom(address,uint256,address)
+addMinter(address)
+changeOwner(address)
+coinBalanceOf(address)
+sendCoin(uint256,address)
+coinBalance()
+numMinters()

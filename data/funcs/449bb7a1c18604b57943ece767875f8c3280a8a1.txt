@@ -1,0 +1,2 @@
+token()
+burn(uint256,bytes)

@@ -1,0 +1,13 @@
+setSigner(address)
+setSigner(address)
+ideal_warn_timed(uint256,uint128)
+setOperator(address)
+withdraw(address,address,uint256)
+transferOwnership(address)
+0x1626ba7e
+0x30db4580
+0x46920bad
+version()
+operator()
+approve(address,uint256)
+gasprice_bit_ether(int128)

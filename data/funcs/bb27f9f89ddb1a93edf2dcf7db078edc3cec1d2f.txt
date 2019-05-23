@@ -1,0 +1,7 @@
+deadline()
+rate()
+weiRaised()
+wallet()
+buyTokens(address)
+token()
+many_msg_babbage(bytes1)

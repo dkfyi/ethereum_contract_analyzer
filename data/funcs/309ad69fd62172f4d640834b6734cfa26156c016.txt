@@ -1,0 +1,4 @@
+amount()
+airdrop(address[],uint256)
+contractAddress()
+many_msg_babbage(bytes1)

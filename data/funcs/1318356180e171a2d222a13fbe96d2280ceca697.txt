@@ -1,0 +1,5 @@
+sendMultiSig(address,uint256,bytes,uint256,uint256,bytes)
+manager()
+ideal_warn_timed(uint256,uint128)
+isAdmin()
+transferManager(address)

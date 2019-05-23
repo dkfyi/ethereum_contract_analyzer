@@ -1,0 +1,16 @@
+getPool()
+setWinner(uint256)
+bet()
+stopContract()
+0x2846b268
+isStopped()
+0x4d1db3e9
+0xa78e2f2d
+pwin()
+0xb7353d1e
+getInvested()
+invested()
+betAmount()
+winner()
+invest()
+0xfc978223

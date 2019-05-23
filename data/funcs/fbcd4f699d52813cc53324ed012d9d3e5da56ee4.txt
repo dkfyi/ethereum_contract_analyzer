@@ -1,0 +1,10 @@
+setOwner(address)
+setAccreditationActive(bytes32,bytes32,bool)
+0x5080dafc
+halt()
+getRegistryVersion()
+ideal_warn_timed(uint256,uint128)
+halted()
+unhalt()
+getAccreditationActive(bytes32,bytes32)
+0x74696f6e

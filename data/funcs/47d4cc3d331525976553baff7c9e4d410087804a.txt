@@ -1,0 +1,10 @@
+eth_balance()
+withdraw()
+emergency_withdraw(address)
+0xe7fcef3c
+token()
+balances_bonus(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

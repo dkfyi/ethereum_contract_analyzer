@@ -1,0 +1,17 @@
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+0x4da8eadd
+0x59cc0680
+0x692d4d9c
+0x6cc97c4c
+balanceOf(address)
+mintToken(address,uint256)
+burnFrom(address,uint256)
+0x806d337d
+link_classic_internal(uint64,int64)
+0xb1f079e9
+frozenAccount(address)
+freezeAccount(address,bool)
+transferOwnership(address)
+transferToken(address,address,uint256)

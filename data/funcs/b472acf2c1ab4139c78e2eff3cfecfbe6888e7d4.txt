@@ -1,0 +1,5 @@
+0x303c4e63
+kill()
+0x7d503e57
+add(uint8,uint8)
+0xf72d0b3b

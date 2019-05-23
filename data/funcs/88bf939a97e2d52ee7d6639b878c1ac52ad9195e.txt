@@ -1,0 +1,9 @@
+0x0a2495af
+0x0c81d32c
+getListingService(uint8)
+assignListingDB(address)
+0x7dd2ca45
+abandon()
+admin()
+getListingDB(uint8)
+0xdcfd83e0

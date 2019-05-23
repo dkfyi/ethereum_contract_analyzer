@@ -1,0 +1,6 @@
+lock(address,address,uint256,uint256)
+unlock(uint256)
+donationAddress()
+locks(uint256)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

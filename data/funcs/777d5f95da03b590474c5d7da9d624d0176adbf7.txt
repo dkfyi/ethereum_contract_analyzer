@@ -1,0 +1,8 @@
+kill()
+tokenAddr()
+0x698db7af
+0x70a2a65a
+0xc5e11d3f
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

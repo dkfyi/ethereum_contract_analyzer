@@ -1,0 +1,7 @@
+0x1a9b34fd
+0x52334657
+destroy()
+changeQuota(uint256)
+0xb22dc40e
+quota()
+0xe7fd13a0

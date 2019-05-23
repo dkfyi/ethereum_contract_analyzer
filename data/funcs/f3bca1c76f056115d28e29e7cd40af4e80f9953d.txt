@@ -1,0 +1,2 @@
+kill()
+Transfer(address,address,uint256)

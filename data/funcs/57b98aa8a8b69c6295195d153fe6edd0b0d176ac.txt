@@ -1,0 +1,12 @@
+0x0dda60cc
+closePosition(bytes32,uint256,address,address,bytes)
+containsPosition(bytes32)
+closePosition(bytes32,uint256,address,address,bool,bytes)
+getPositionHeldToken(bytes32)
+getPositionOwedToken(bytes32)
+getPositionOwner(bytes32)
+getPositionPrincipal(bytes32)
+getPositionOwedAmount(bytes32)
+getMaxMakerAmount(address,address,bytes)
+balanceOf(address)
+many_msg_babbage(bytes1)

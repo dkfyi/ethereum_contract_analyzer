@@ -1,0 +1,15 @@
+0x0fabae3e
+0x102793f6
+totalEtherRaised()
+acceptOwnership()
+tokenPrice()
+ideal_warn_timed(uint256,uint128)
+0xd48ab308
+newOwner()
+tokenAmount(uint256,uint256)
+transferOwnership(address)
+0xf6f23058
+0x730f9da4
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

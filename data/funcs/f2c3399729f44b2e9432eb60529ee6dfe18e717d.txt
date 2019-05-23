@@ -1,0 +1,4 @@
+0xd52f6a5c
+0xdfe9be2f
+mortal()
+greeter(string)

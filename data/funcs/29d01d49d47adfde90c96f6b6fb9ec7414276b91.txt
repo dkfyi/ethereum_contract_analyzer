@@ -1,0 +1,17 @@
+IsActive()
+CONTRACT_VERSION()
+CheckProofOfOwnership(bytes32)
+CONTRACT_NAME()
+AddVerifiedInfo(bytes32)
+0x6acf082c
+RemoveVerifiedInfo(bytes32)
+OwnerAddress()
+AddAuthorityAddress(address)
+IsAuthorityAddress(address)
+RemoveProofOfOwnership(bytes32)
+Deactivate()
+0xc98e00e4
+VerifiedInfoHash(bytes32)
+SubmitProofOfOwnership(bytes32)
+0xe545684f
+RemoveAuthorityAddress(address)

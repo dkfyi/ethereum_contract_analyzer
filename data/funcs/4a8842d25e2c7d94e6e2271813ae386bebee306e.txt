@@ -1,0 +1,8 @@
+rand()
+setRound(uint256,uint256)
+ideal_warn_timed(uint256,uint128)
+setWinner(uint256,address)
+roundResults(uint256)
+0xc7688cf8
+randomAddress()
+random(uint64)

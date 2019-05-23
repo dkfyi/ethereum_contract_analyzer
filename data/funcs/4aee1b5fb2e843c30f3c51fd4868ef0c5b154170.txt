@@ -1,0 +1,15 @@
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+unpause()
+finalize()
+0x4f153fe8
+paused()
+PRESALE_PRICE()
+balanceOf(address)
+pause()
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xde5c4721
+transferOwnership(address)

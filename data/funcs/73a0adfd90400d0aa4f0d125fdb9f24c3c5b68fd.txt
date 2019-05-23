@@ -1,0 +1,6 @@
+readCube(bytes32)
+softUndelete(bytes32)
+empty(bytes32)
+dumpCube(bytes,bytes32)
+softDelete(bytes32)
+forceEmpty(bytes32)

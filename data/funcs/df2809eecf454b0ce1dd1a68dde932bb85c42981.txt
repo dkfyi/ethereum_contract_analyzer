@@ -1,0 +1,7 @@
+enter(bytes32,bytes8)
+setOwner(address)
+ideal_warn_timed(uint256,uint128)
+0x9021beb8
+0xd89d52de
+setGas(uint256)
+enter(bytes32,bytes8)

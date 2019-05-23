@@ -1,0 +1,9 @@
+sweepCommission(uint256)
+0x1d935a6b
+currentClaimPrice()
+0x7842c52d
+claimThrone(string)
+numberOfMonarchs()
+0xe32ee3c5
+0xe40d0ac3
+transferOwnership(address)

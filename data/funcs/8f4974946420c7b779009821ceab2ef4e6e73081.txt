@@ -1,0 +1,7 @@
+balanceOf(uint256,address)
+0x36cd52a6
+0x405b84fa
+totalSupply(uint256)
+0xc0a9ac52
+0xda35a26f
+0xedf26d9b

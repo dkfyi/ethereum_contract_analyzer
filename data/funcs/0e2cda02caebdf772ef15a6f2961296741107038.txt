@@ -1,0 +1,16 @@
+0x088f6aae
+games(uint256)
+setOperatorPrivileges(uint256,address,bool)
+0x7cd11ea1
+0x811548dd
+createGame(string,uint256,bytes32[])
+getGamesForAdmin(address)
+updateGameMetadata(uint256,string,uint256,bytes32[])
+getAdminsForGame(uint256)
+getGameData(uint256)
+removeAdminAccount(uint256,address)
+isAdminForGame(uint256,address)
+stakingContract()
+addAdminAccount(uint256,address)
+numberOfGames()
+balanceOf(address)

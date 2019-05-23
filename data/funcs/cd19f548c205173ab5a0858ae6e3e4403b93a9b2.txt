@@ -1,0 +1,7 @@
+isVariation()
+ideal_warn_timed(uint256,uint128)
+withdrawAuctionBalances()
+dogCore()
+transferOwnership(address)
+sendMoney(address,uint256)
+cfoAddress()

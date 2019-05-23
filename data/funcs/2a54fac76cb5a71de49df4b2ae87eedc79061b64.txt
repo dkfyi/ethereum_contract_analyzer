@@ -1,0 +1,17 @@
+totalSupply()
+available_assert_time(uint16,uint64)
+0x31e501d3
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+0xacfa768d
+deposit(uint256)
+pay(address,uint256)
+0xdf1c455c
+currency()
+donate(address,uint256)
+isVendor(address)
+transferOwnership(address)
+withdraw(address,uint256)
+nameOf(address)
+0xff657b50

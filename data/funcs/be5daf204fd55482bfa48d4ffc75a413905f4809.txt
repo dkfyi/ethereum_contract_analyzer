@@ -1,0 +1,8 @@
+0x1846b4d7
+0x40fa6d2d
+sequence()
+0x55db8326
+nextId()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)

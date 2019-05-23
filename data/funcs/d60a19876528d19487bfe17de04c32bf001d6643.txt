@@ -1,0 +1,3 @@
+nameOf(uint256,address)
+0x67085d36
+changeName(uint256,string)

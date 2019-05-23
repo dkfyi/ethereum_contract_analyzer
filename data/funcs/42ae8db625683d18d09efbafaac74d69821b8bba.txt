@@ -1,0 +1,6 @@
+rate()
+updateRate(uint256)
+ideal_warn_timed(uint256,uint128)
+setManager(address,bool)
+transferOwnership(address)
+managers(address)

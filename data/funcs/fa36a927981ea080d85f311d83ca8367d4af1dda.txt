@@ -1,0 +1,16 @@
+0x015f662f
+0x32912863
+0x3c09fc2d
+withdraw()
+0x3d370b4e
+setManagerAddress(address)
+0x43c95352
+withdrawBalance()
+0x630dd9bd
+stopped()
+0x8286eb6e
+ideal_warn_timed(uint256,uint128)
+deposit(uint256)
+setStopped(bool)
+getItemInfo(uint256)
+transferOwnership(address)

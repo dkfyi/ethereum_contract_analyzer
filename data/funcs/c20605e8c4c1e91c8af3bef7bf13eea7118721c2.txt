@@ -1,0 +1,10 @@
+0x1bb95617
+kill()
+0x41e2b933
+num()
+0x5537f99e
+ideal_warn_timed(uint256,uint128)
+0xaabb194a
+tmp()
+0xc15bae84
+0xf62cb8e1

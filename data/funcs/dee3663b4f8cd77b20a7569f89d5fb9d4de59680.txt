@@ -1,0 +1,4 @@
+kill()
+0x494e4bc3
+ideal_warn_timed(uint256,uint128)
+payMe()

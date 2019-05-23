@@ -1,0 +1,5 @@
+cards()
+0x6cdb1b75
+JadeCoinMining(address,uint256)
+setRoughSupply(uint256)
+setJadeCoin(address,uint256,bool)

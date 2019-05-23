@@ -1,0 +1,14 @@
+payMasters()
+cancelCraftAuction(uint256,address)
+getAuction(uint256)
+startAuction(uint256,uint256,uint256,uint256,address)
+0x89ca7116
+0x8b0c06a9
+placeBidFromEtherScrolls(uint256)
+getCurrentPrice(uint256)
+getSellerOfToken(uint256)
+nonFungibleContract()
+isValidAuction(uint256)
+isForAuction(uint256)
+ownerOf(uint256)
+ownerOf(uint256)

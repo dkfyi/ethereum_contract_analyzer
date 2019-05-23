@@ -1,0 +1,12 @@
+0x1d67199a
+addCertificateAndBind2Wallet(address,uint256,bytes32,bytes32)
+bindCertificate2Wallet(address,bytes32)
+0x3c640301
+0x73ec30cc
+ideal_warn_timed(uint256,uint128)
+0xba0818e3
+addNewCertificate(uint256,bytes32,bytes32)
+revokeCertificate(bytes32)
+0xcab19f7c
+transferOwnership(address)
+getCertificate(bytes32)

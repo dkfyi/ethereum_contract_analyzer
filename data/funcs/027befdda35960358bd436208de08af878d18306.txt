@@ -1,0 +1,6 @@
+withdraw(uint256)
+play()
+0xa767a2db
+finish()
+playerWithdrawPendingTransactions()
+playerRollDice(uint256)

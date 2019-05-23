@@ -1,0 +1,3 @@
+0x07d8b05d
+random()
+contractBalance()

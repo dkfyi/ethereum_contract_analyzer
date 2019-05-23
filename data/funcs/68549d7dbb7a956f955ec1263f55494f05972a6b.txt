@@ -1,0 +1,5 @@
+getElevations()
+setLocked()
+getLocked()
+getElevation(uint8,uint8)
+0x57f10d71

@@ -1,0 +1,3 @@
+getKyberNetworkAddress()
+resolver(bytes32)
+addr(bytes32)

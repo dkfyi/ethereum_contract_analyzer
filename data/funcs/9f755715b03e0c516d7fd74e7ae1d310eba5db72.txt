@@ -1,0 +1,9 @@
+transferOwner(address)
+transferOwner(address)
+0x834b1ab0
+ideal_warn_timed(uint256,uint128)
+0xb762c76d
+isRestricted()
+setRestricted(bool)
+kill()
+isAdmin(address)

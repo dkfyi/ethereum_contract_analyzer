@@ -1,0 +1,9 @@
+owners(address)
+0x4877a074
+0x805c9049
+newOwner(address)
+0xa4500009
+deleteOwner(address)
+root()
+0xff100f80
+kscBatchTransferToBounty(address,address[],uint256[],uint256,uint256[],string)

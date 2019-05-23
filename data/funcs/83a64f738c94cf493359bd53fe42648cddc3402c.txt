@@ -1,0 +1,3 @@
+0xdb169215
+getPlayerInfoByAddress(address)
+buyXid(uint256,uint256)

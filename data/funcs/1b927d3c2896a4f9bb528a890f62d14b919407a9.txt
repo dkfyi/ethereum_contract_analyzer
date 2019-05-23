@@ -1,0 +1,4 @@
+totalSupply()
+balanceOf(address)
+stopped()
+many_msg_babbage(bytes1)

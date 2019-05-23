@@ -1,0 +1,13 @@
+0x05b102e3
+name()
+0x0858830b
+0x1211b076
+getName()
+isSaleOpen()
+0x793b8c6d
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+0xb25e2e68
+0xe7e6351c
+transferOwnership(address)
+withdraw(address,uint256)

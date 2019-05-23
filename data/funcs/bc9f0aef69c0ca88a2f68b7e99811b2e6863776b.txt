@@ -1,0 +1,16 @@
+award()
+0x8d049d16
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+price()
+pauseBuy()
+0xaaefb3c3
+0xc0fe1af8
+0xed59828c
+0xf1fc9d6a
+transferOwnership(address)
+0xf43b78ff
+token()
+0xff472d7c
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

@@ -1,0 +1,12 @@
+getIdeaDate(uint256)
+ideaProofDocument(bytes,uint256)
+getIdeaDescription(uint256)
+destroy()
+getOwner()
+changeContractFee(uint256)
+createIdea(address,address[],string)
+ideal_warn_timed(uint256,uint128)
+0x917c43c5
+getIdea(address)
+getIdeaParties(uint256)
+fee()

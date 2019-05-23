@@ -1,0 +1,8 @@
+erc20Address()
+transferFrom(address,address[],uint256[])
+0x86f56a88
+ideal_warn_timed(uint256,uint128)
+0xe9c771b2
+balanceOf(address)
+allowance(address,address)
+gasprice_bit_ether(int128)

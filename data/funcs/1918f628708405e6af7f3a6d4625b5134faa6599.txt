@@ -1,0 +1,8 @@
+creator()
+getBalance()
+totalAmount()
+sellPrice()
+0x6485c41b
+balanceOf(address)
+setPrices(uint256)
+issue(uint256)

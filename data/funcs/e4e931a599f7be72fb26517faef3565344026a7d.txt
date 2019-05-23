@@ -1,0 +1,2 @@
+bytes32ToString(bytes32)
+stringToBytes32(string)

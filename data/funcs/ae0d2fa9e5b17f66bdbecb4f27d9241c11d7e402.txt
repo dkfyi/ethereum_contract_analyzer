@@ -1,0 +1,13 @@
+creator()
+extensions()
+bancorToken()
+0x84c2768a
+0xb3115e1d
+etherToken()
+0xf5358b6d
+quickConverter()
+convert(address[],uint256,uint256)
+quickConverter()
+convert(address[],uint256,uint256)
+many_msg_babbage(bytes1)
+balanceOf(address)

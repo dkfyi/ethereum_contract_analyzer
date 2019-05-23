@@ -1,0 +1,3 @@
+0x20fba162
+kill()
+send(string)

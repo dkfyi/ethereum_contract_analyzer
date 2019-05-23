@@ -1,0 +1,7 @@
+name()
+issuer()
+0x7501c833
+changeIssuer(address)
+issueCoin(address,uint256)
+send(address,uint256)
+balance(address)

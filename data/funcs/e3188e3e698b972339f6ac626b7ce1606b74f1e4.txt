@@ -1,0 +1,17 @@
+getOpenNum(bytes32)
+getLableRecords(bytes32)
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+getLableList()
+0x66fea1d4
+doCancelAll()
+getDatas()
+setGameOnoff(uint256)
+contractBalance()
+0x93b3cc6b
+doCheckSendBounds()
+getAllRecords()
+doSendBounds(bytes32)
+getLastBet()
+doBet(uint256[],uint256[],uint256[],uint256)
+senttest()

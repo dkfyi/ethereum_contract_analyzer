@@ -1,0 +1,15 @@
+activate()
+getBalance()
+withdraw()
+rId()
+0x56b1103d
+0x6cc7f6f9
+0x8c65c81f
+currentRoundId()
+0xa3afcbcc
+NAME()
+0xc642b1ef
+activated_()
+0xf65eccf3
+SYMBOL()
+0x6865636b

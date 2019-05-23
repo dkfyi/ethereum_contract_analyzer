@@ -1,0 +1,16 @@
+fixamt()
+0x19f8c885
+signupUserWhitelist(address[])
+available_assert_time(uint16,uint64)
+adminUpdateWallet(address)
+0x40c1a0b2
+admins(address)
+wallet()
+getBountyAddress()
+ideal_warn_timed(uint256,uint128)
+reClaimBalance()
+addAdminWhitelist(address)
+token()
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

@@ -1,0 +1,6 @@
+0x3861b2cd
+withdraw()
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+getKitty(uint256)
+giveBirth(uint256)

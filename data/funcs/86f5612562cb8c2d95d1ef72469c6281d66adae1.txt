@@ -1,0 +1,12 @@
+getOperationsNumber()
+getOperation(uint256)
+setBot(address)
+getOwner()
+setPrice(uint256)
+getPrice()
+changeOwner(address)
+setResult(uint256,uint256,bytes32)
+0xb2e9949d
+execute(address,uint256,bytes)
+getBot()
+withdraw(address,uint256)

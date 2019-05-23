@@ -1,0 +1,4 @@
+TOKEN_ADDRESS()
+calculateDemurrage(uint256,uint256)
+TOKEN_INFORMATION_ADDRESS()
+showDemurrageConfigs()

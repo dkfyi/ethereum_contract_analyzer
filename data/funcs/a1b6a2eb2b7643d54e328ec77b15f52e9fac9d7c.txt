@@ -1,0 +1,12 @@
+0x02cae7e6
+isMixGen()
+openEgg(uint64,uint16)
+parent()
+0x868e3500
+uniquePet(uint64)
+ideal_warn_timed(uint256,uint128)
+0xa06df487
+0xaef272a2
+0xd931b840
+transferOwnership(address)
+0xfa5afe40

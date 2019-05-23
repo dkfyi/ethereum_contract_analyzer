@@ -1,0 +1,5 @@
+0x066e5c58
+getBalance()
+bet(uint256)
+getLastResult()
+deposit()

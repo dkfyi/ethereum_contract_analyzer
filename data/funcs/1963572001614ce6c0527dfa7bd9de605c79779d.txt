@@ -1,0 +1,16 @@
+approve(address,uint256)
+0x0f5ea589
+initialCoach(uint256,uint256,uint8,uint256)
+coachTakeOff(uint256)
+withdraw()
+ownerOf(uint256)
+0x6da774ff
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+0x98371fc0
+many_msg_babbage(bytes1)
+takeOwnership(uint256)
+0xe513d0e7
+purchase(uint256)
+transferOwnership(address)
+setCoachPrice(uint256,uint256)

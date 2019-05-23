@@ -1,0 +1,4 @@
+setVAtomOwner(string,string)
+ideal_warn_timed(uint256,uint128)
+getVatomOwner(string)
+transferOwnership(address)

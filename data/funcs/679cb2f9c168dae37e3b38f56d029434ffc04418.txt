@@ -1,0 +1,14 @@
+0x08f19087
+getBalance()
+0x2012ae30
+withdraw(uint256)
+0x2e38465f
+setContractAddress(address)
+withdrawBalance()
+withdrawAll()
+_owner()
+0xbd2c6ea0
+deposit()
+balanceOf(address,address)
+withdraw(uint256)
+deposit()

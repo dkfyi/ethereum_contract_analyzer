@@ -1,0 +1,4 @@
+claimBalance()
+0x78dacee1
+bulkTransferEther(address[],uint256[])
+getFees()

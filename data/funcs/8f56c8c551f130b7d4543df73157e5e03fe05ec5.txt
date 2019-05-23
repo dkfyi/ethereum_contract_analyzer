@@ -1,0 +1,8 @@
+threshold1()
+isPricingStrategy()
+minimumWeiAmount()
+threshold2()
+rate0()
+calculateTokenAmount(uint256)
+rate1()
+rate2()

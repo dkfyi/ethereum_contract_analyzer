@@ -1,0 +1,2 @@
+setNewGreeting(string)
+sayHello()

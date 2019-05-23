@@ -1,0 +1,13 @@
+checkRole(address,string)
+hasRole(address,string)
+0x3f5309de
+0x51116722
+renounceOwnership()
+0x741d036f
+ideal_warn_timed(uint256,uint128)
+0x96eb4604
+ROLE_OPERATOR()
+getIncentiveNum()
+openingTime()
+transferOwnership(address)
+0x01e13380

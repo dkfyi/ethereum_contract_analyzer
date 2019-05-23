@@ -1,0 +1,15 @@
+ViewMyTokens(address)
+PlaceSellOrder(uint256,uint256)
+0x50c28588
+Withdraw()
+EmergencyStopSell(bool)
+Tax()
+GetSellOrderDetails(address)
+0x852402ac
+ChangeTax(uint16)
+0xa03286cd
+ViewMyDivs(address)
+StopSell()
+Bal()
+TotalPaid()
+Buy(address,uint256)

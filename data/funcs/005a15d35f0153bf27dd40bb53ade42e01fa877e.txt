@@ -1,0 +1,11 @@
+0x80b01878
+0x9e728005
+0xaa5feca5
+getBestOffer(address,address)
+isActive(uint256)
+getWorseOffer(uint256)
+getFirstUnsortedOffer()
+isActive(uint256)
+getOffer(uint256)
+getNextUnsortedOffer(uint256)
+getOffer(uint256)

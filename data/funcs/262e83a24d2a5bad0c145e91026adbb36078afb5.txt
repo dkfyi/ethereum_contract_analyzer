@@ -1,0 +1,2 @@
+register(bytes32,address)
+0xfb8ad6ff

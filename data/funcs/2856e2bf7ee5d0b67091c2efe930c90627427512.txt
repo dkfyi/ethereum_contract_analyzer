@@ -1,0 +1,6 @@
+trade()
+price(uint256)
+changeadmin(address)
+0x2f36ee3d
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

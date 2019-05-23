@@ -1,0 +1,6 @@
+setNextOwner(address)
+_productDigest()
+_nextOwner()
+0x992924a6
+confirmOwnership()
+_currentOwner()

@@ -1,0 +1,13 @@
+setOwner(address)
+0x644fd8e9
+setFrontend(address)
+getHash(uint256)
+0x7a805eaa
+0x7d27f98a
+getTitle(uint256)
+getPublisher(uint256)
+getCreated(uint256)
+0x9eb4cb82
+0xb30906d4
+getVote(uint256,address)
+0xd32a27d5

@@ -1,0 +1,17 @@
+cancelBuyAuction(uint256,address)
+payMasters()
+getAuction(uint256)
+startAuction(uint256,uint256,uint256,uint256,address)
+0x89ca7116
+0x8b0c06a9
+bidFromEtherScrolls(uint256,address)
+0xb8f939cd
+getCurrentPrice(uint256)
+getSellerOfToken(uint256)
+priceOfOfficalCardSold()
+nonFungibleContract()
+isValidAuction(uint256)
+isForAuction(uint256)
+gasprice_bit_ether(int128)
+ownerOf(uint256)
+ownerOf(uint256)

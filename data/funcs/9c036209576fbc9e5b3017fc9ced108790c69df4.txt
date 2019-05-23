@@ -1,0 +1,4 @@
+buyTokensWithProperEvent(address,uint8)
+balanceOf(address)
+buyAndTransfer(address,address,bytes,uint8)
+balanceOf(address)

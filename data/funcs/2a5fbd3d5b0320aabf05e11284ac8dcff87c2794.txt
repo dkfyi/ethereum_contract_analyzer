@@ -1,0 +1,6 @@
+getMap(address)
+setBytesRaw(string)
+ideal_warn_timed(uint256,uint128)
+setBytes(address,string)
+transferOwnership(address)
+getConflictResolver()

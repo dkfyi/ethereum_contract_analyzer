@@ -1,0 +1,14 @@
+addBalance(address,uint256)
+setRate(address,uint256)
+getRate(address)
+0x483a4004
+0x51965927
+0x52883fc6
+0x624f4415
+0x64abf71f
+ideal_warn_timed(uint256,uint128)
+0xabda490c
+0xbd051844
+getTokenBalance(address,address)
+transferOwnership(address)
+getBalance(address)

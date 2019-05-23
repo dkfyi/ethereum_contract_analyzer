@@ -1,0 +1,12 @@
+0x012b39ea
+0x07b288b1
+0x4d34ca2f
+0x994380ec
+0xe8614140
+retrait_2()
+0xf1e96c27
+retrait_1()
+0xfd7a567c
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

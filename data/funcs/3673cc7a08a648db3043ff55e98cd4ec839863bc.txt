@@ -1,0 +1,3 @@
+kill()
+greet()
+greeter(string)

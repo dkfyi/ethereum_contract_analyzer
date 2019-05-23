@@ -1,0 +1,6 @@
+name()
+totalSupply()
+balanceOf(address)
+decimal()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)

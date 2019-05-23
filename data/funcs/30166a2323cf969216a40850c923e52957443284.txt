@@ -1,0 +1,6 @@
+seller()
+INTERFACE()
+ideal_warn_timed(uint256,uint128)
+allowTransfer(address,address,address,uint256,bytes)
+changeSeller(address)
+transferOwnership(address)

@@ -1,0 +1,13 @@
+newParameterizerWithToken(uint256,string,uint8,string,uint256[])
+0x7087ec14
+plcrFactory()
+proxyFactory()
+canonizedParameterizer()
+newPLCRWithToken(uint256,string,uint8,string)
+token()
+many_msg_babbage(bytes1)
+createProxy(address,bytes)
+init(address,address,uint256[])
+0xd5b8169c
+createProxy(address,bytes)
+init(address,address,uint256[])

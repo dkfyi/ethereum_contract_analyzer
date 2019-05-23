@@ -1,0 +1,4 @@
+0x0d5e34a4
+0x14d430e8
+0x42e4bcdc
+canTransfer(address,address,uint256)

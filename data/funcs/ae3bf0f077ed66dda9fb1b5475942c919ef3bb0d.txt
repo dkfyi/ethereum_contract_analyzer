@@ -1,0 +1,4 @@
+Get()
+Close()
+Put(address)
+SetTime(uint256)

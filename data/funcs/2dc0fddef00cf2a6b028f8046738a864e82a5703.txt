@@ -1,0 +1,4 @@
+time()
+number()
+0xbe190032
+0xd0095cc6

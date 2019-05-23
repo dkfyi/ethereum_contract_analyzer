@@ -1,0 +1,5 @@
+sendCoins(address,uint256)
+0x0b4d246f
+0x0f574e89
+kill()
+ideal_warn_timed(uint256,uint128)

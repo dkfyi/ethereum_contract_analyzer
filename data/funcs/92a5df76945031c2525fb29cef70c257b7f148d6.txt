@@ -1,0 +1,6 @@
+addPassword(string,string,string)
+updatePrice(uint256)
+getPrice()
+updatePassword(uint256,string,string,string)
+getBook(uint256)
+getBookLength()

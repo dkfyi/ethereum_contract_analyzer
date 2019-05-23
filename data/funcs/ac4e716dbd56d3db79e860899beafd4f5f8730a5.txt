@@ -1,0 +1,11 @@
+name()
+0x0f96cf34
+maxRewardUnitsAvailable()
+available_assert_time(uint16,uint64)
+balanceOf(address)
+startTime()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xc44506c3
+numRewardsUsed(address)
+0x12cc0300

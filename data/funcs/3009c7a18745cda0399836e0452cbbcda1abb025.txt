@@ -1,0 +1,4 @@
+contactInformation()
+ideal_warn_timed(uint256,uint128)
+setContactInformation(string)
+transferOwnership(address)

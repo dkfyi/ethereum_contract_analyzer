@@ -1,0 +1,6 @@
+weiRaised()
+wallet()
+price()
+buyTokens(address)
+token()
+gasprice_bit_ether(int128)

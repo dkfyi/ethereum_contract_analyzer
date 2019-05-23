@@ -1,0 +1,2 @@
+setInstructor(string,uint256)
+getInstructor()

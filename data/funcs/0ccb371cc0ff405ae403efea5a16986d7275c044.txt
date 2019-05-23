@@ -1,0 +1,4 @@
+0x6dc77107
+0x82e0fd61
+0x9445e05c
+getTradeCount()

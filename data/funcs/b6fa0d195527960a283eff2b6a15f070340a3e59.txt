@@ -1,0 +1,8 @@
+name()
+contracts(uint256)
+getContractCount()
+0xe730d4d4
+register(string)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)
+name()

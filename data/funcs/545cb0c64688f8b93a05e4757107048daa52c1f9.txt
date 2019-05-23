@@ -1,0 +1,4 @@
+name()
+issuer()
+0x4e4f576d
+balanceOf(address)

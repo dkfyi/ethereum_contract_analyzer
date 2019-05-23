@@ -1,0 +1,8 @@
+0x0dda60cc
+getAuctionCost(bytes32,uint256)
+0x8c33f001
+receiveClosePositionPayout(bytes32,uint256,address,address,address,uint256,uint256,bool)
+0xf6da6ddd
+getPositionDeedHolder(bytes32)
+many_msg_babbage(bytes1)
+getPosition(bytes32)

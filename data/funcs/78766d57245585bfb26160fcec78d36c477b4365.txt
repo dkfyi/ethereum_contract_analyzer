@@ -1,0 +1,17 @@
+changeOperator(address)
+emergencyFixGameResult(uint64,uint256)
+0x256dae99
+totalGames()
+getGame(uint64)
+0x4bae599f
+disableBetting_only_Dev()
+deleteContract()
+enableBetting_only_Dev()
+0x808f3652
+getSettings()
+calculateRandomNumberByBlockhash(uint256,address)
+checkGameResult(address)
+Invest()
+changeSettings(uint256,uint64,uint8,uint8,uint8,uint8)
+0xf921f2b8
+getCoeff(uint16)

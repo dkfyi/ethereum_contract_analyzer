@@ -1,0 +1,8 @@
+allByAuthor(address,uint256)
+0x6114730c
+sign(string)
+publishBytes(string,bytes)
+size()
+publicationCount(address)
+authors(address)
+publish(string,string)

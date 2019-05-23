@@ -1,0 +1,6 @@
+upgrade(address)
+last_completed_migration()
+0x79e66fd0
+ideal_warn_timed(uint256,uint128)
+setCompleted(uint256)
+setCompleted(uint256)

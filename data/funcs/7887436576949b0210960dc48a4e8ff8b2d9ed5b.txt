@@ -1,0 +1,17 @@
+getWhatHappened()
+kill()
+getUint8FromByte32(bytes32,uint8)
+0x6266b514
+editBlock(uint8,uint8,uint256,int8[5])
+0x8e3e5a4b
+0x959eac47
+getOwners()
+0xaf507833
+0xcf2059ab
+getBlocks(uint8,uint8)
+getOccupies(uint8)
+getOccupies(uint8)
+0x01000000
+0x01000000
+getElevation(uint8,uint8)
+getAttachesto(uint8)

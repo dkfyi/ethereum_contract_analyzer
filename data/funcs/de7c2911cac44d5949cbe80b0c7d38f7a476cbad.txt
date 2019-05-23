@@ -1,0 +1,11 @@
+setNewWallet1(address)
+wallet2()
+wallet1()
+0x319b68a8
+setWallet2(address)
+withdraw()
+setNewWallet2(address)
+0x720e3a5b
+ideal_warn_timed(uint256,uint128)
+setWallet1(address)
+transferOwnership(address)

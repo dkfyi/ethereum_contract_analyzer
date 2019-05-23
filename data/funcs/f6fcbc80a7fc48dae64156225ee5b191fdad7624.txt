@@ -1,0 +1,12 @@
+getLongGap()
+0x156abb47
+getFastGap()
+getFastExtra()
+0x251b435f
+getLongExtra()
+0x75e96be5
+0x8172ba1e
+ideal_warn_timed(uint256,uint128)
+0xe3d7d49c
+transferOwnership(address)
+0xfdd0032d

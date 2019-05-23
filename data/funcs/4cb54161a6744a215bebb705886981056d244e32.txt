@@ -1,0 +1,9 @@
+withdraw()
+0x43cce08e
+0x7d60d82a
+contractBalance()
+ideal_warn_timed(uint256,uint128)
+0xb8b3dbc6
+0xdc15acb5
+createBet()
+createBet()

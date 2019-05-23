@@ -1,0 +1,3 @@
+incrementCounter()
+getCount()
+decrementCounter()

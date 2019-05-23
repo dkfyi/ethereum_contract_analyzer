@@ -1,0 +1,6 @@
+getRace(uint256)
+getPerson(uint256)
+getRarity(uint256)
+0x6bd4ec35
+mixGenes(uint256,uint256)
+0xecadd8cb

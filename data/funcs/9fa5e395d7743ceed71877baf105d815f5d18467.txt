@@ -1,0 +1,4 @@
+kill()
+set(uint256)
+get()
+0xa27d9bd9

@@ -1,0 +1,6 @@
+interfaceAddr(address,string)
+delegateManagement(address)
+setInterfaceImplementation(string,address)
+getInterfaceImplementer(address,bytes32)
+setManager(address,address)
+setInterfaceImplementer(address,bytes32,address)

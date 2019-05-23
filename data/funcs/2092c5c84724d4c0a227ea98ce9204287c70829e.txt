@@ -1,0 +1,5 @@
+withdraw()
+pwn()
+PutGift(address)
+SetGiftTime(uint256)
+GetGift()

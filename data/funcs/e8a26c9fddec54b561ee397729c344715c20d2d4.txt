@@ -1,0 +1,11 @@
+0x3594d2cb
+tokenContract()
+0x609d3334
+0x7a02cb3f
+ideal_warn_timed(uint256,uint128)
+receiveApproval(address,uint256,address,bytes)
+balance()
+from()
+0xe827a9e9
+0x1de7463a
+allowance(address,address)

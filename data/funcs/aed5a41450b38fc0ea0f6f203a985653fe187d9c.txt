@@ -1,0 +1,4 @@
+last()
+Guess(uint256)
+RandomNumberFromSeed(uint256)
+RandomNumber()

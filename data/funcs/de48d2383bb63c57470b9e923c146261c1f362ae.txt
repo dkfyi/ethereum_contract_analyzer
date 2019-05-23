@@ -1,0 +1,16 @@
+0x1f736009
+version()
+delegates(address)
+0x5dce049b
+0x8346abe7
+0xa573b318
+0xbb17d589
+0xc089e478
+0xc6364cac
+forward(address,uint256,bytes)
+0xe057b99f
+transferOwnership(address)
+forward(address,uint256,bytes)
+0xc6f31521
+forward(address,uint256,bytes)
+transferOwnership(address)

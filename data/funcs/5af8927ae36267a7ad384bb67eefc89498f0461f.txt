@@ -1,0 +1,12 @@
+0x0bd4ef88
+transferPrimary(address)
+beneficiary()
+close()
+withdraw(address)
+withdrawalAllowed(address)
+enableRefunds()
+beneficiaryWithdraw()
+state()
+primary()
+depositsOf(address)
+deposit(address)

@@ -1,0 +1,5 @@
+addSignature(string,string)
+removeSignature(string)
+0x3a133e2c
+getSignature(string)
+0x7670bd0c

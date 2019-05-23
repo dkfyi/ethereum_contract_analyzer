@@ -1,0 +1,17 @@
+minFunding()
+changeState(bool)
+0x4e2fb1f6
+maxFunding()
+changeRate(uint256)
+ideal_warn_timed(uint256,uint128)
+changeAdmin(address)
+tokenSender()
+currentSale()
+state()
+0xd207b7aa
+step()
+totalSale()
+admin()
+token()
+transferFromAndLock(address,address,uint256,uint256,uint256)
+transferFromAndLock(address,address,uint256,uint256,uint256)

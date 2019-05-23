@@ -1,0 +1,7 @@
+getOwnerAddress()
+setOwnerAddress(address)
+getParticipants()
+getContractBalance()
+getWinners()
+0xe08791c2
+buyTicket()

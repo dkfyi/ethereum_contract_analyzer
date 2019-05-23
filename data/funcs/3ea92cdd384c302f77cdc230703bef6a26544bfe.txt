@@ -1,0 +1,13 @@
+name()
+0x0b4fd156
+issuer()
+available_assert_time(uint16,uint64)
+kill()
+0x460246b8
+balanceOf(address)
+mintToken(address,uint256)
+link_classic_internal(uint64,int64)
+frozenAccount(address)
+0xbd1c08be
+0xd0f74108
+freezeAccount(address,bool)

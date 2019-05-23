@@ -1,0 +1,7 @@
+0x6fab4ca5
+renounceOwnership()
+destroy()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+transferOwnership(address)
+destroyAndSend(address)

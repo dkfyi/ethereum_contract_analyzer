@@ -1,0 +1,6 @@
+owner(bytes32)
+disown(bytes32,address)
+addr(bytes32)
+reserve(bytes32)
+transfer(bytes32,address)
+setAddr(bytes32,address)

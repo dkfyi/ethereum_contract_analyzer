@@ -1,0 +1,13 @@
+getName()
+0x36819a26
+0x5ce0e885
+newContractAddress()
+renounceOwnership()
+setNewAddress(address)
+ideal_warn_timed(uint256,uint128)
+0xb49521c4
+0xb586a740
+setName(string)
+0xdc6a4ea6
+0xe2eb41ff
+transferOwnership(address)

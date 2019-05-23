@@ -1,0 +1,12 @@
+removeMember(address)
+setOwner(address)
+untag(string)
+checkOutTag(string)
+commit(bytes,string)
+checkOut(int256)
+findTag(string)
+ideal_warn_timed(uint256,uint128)
+getMembers()
+tag(uint256,string)
+0xc7c4a615
+addMember(address)

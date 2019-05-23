@@ -1,0 +1,3 @@
+numDeposits()
+deposit()
+getBalance(address)

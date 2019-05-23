@@ -1,0 +1,13 @@
+0x06a6b6f7
+client()
+0x2b8d6c2b
+0x34461067
+0x43a949b5
+getRecordsCount()
+changeLimit(uint256)
+0x81e152b9
+ideal_warn_timed(uint256,uint128)
+size()
+limit()
+0xb30b3022
+transferOwnership(address)

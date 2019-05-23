@@ -1,0 +1,8 @@
+0x19f657f4
+0x2148ddc5
+0x89e80725
+0xe4e93d10
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)
+migration(address)
+many_msg_babbage(bytes1)

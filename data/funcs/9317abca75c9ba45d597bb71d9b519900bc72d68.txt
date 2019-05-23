@@ -1,0 +1,17 @@
+0x0205a013
+maxRacers()
+entryFee()
+setRegistrationPeriod(uint8)
+getRace(uint32)
+withdraw()
+kill()
+registrationPeriod()
+race(uint32)
+getBalanceContract()
+ideal_warn_timed(uint256,uint128)
+setProcessingFee(uint256)
+processingFee()
+setMaxRacers(uint8)
+setEntryFee(uint256)
+0xec5a5dbb
+getRace(uint32)

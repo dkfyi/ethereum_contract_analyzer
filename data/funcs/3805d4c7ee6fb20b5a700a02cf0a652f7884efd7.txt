@@ -1,0 +1,6 @@
+play(uint256)
+ideal_warn_timed(uint256,uint128)
+0xc5563720
+0xe29940b9
+betOnColor(uint256)
+0x3b9aca00

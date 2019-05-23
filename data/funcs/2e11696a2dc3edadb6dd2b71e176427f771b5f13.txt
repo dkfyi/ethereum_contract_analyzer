@@ -1,0 +1,14 @@
+name()
+0x0f80ad27
+transfer(address)
+available_assert_time(uint16,uint64)
+_totalSupply()
+kill()
+add_owner(address)
+balanceOf(address)
+0x93f2f881
+link_classic_internal(uint64,int64)
+0xcb2109a1
+0xdc2c3d22
+remove_owner(address)
+0x3b9aca00

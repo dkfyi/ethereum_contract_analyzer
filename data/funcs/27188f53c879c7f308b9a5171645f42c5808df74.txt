@@ -1,0 +1,10 @@
+withdrawToken(address,uint256,address)
+balanceOf(address)
+0x79106baf
+ideal_warn_timed(uint256,uint128)
+0xc2faacaa
+withdrawEther(uint256,address)
+transferOwnership(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+gasprice_bit_ether(int128)

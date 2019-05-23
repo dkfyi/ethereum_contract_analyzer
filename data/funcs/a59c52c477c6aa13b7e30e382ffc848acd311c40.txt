@@ -1,0 +1,12 @@
+0x28814f03
+manager()
+0x63bae7c3
+0x7de7edef
+0x81c5e03b
+NAME()
+today()
+0xd7bffc92
+VERSION()
+isOwner(address)
+0x468721a7
+0x468721a7

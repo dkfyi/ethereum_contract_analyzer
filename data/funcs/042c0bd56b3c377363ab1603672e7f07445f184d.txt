@@ -1,0 +1,10 @@
+ticketPrice()
+ticketsAvailable()
+0x26c6a9dd
+0x59ed7d76
+0x5f5a7ab9
+owner(uint256)
+getTicketOwner(uint256)
+purchaseTicket(uint256)
+lotteryStart()
+admin()

@@ -1,0 +1,14 @@
+destroyMe()
+withdraw()
+0x67280db0
+0x6ab108f9
+0xc48342fe
+0xc6927977
+bid(uint256)
+getCurrentPrice(uint256)
+0xc6927977
+bid(uint256)
+getCurrentPrice(uint256)
+0xc48342fe
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

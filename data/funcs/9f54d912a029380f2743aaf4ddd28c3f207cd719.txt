@@ -1,0 +1,3 @@
+kill()
+Guess(uint256)
+SecretNumber()

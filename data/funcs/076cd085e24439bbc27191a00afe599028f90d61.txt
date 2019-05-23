@@ -1,0 +1,16 @@
+0x85e37c33
+0xab8fc59d
+allowance(address,address)
+gasprice_bit_ether(int128)
+getBalance(address)
+0xa4521d32
+0xb372b854
+deposit()
+withdrawEther(address,uint256)
+withdrawToken(address,address,uint256)
+many_msg_babbage(bytes1)
+0xd74f2b76
+0x7903b0d5
+ideal_warn_timed(uint256,uint128)
+0x1f6b81ce
+0x8de5bc40

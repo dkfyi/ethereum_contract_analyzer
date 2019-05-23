@@ -1,0 +1,7 @@
+getVersion()
+setStatus(uint8)
+0x322e9f04
+kill()
+getStatus()
+get()
+getOwner()

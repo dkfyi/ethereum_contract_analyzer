@@ -1,0 +1,11 @@
+stop()
+setOwner(address)
+0x298b6f64
+stopped()
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+TOTAL_SUPPLY()
+start()
+authority()
+0xe5466dae
+canCall(address,address,bytes4)

@@ -1,0 +1,3 @@
+kill()
+addNewState(string,uint256[])
+getHistory(string)

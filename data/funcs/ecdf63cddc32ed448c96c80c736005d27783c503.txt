@@ -1,0 +1,3 @@
+setOwner(address)
+child()
+kill()

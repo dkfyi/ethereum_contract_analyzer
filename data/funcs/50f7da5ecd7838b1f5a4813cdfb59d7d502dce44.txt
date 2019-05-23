@@ -1,0 +1,15 @@
+o_deus(bytes32,bytes32)
+responder(uint256,uint256,uint256,bytes5,bytes14,bytes5,uint256,uint256,uint256,uint256,uint256,uint256)
+o_novo_problema(uint256)
+o_aprendiz(uint256)
+o_velho_problema(uint256,uint256)
+o_automata(uint256)
+o_algoritmo(uint256)
+a_palavra(bytes5)
+o_desafiante(bytes14)
+a_empresa(bytes5)
+o_minerador(uint256)
+o_labirinto(uint256)
+a_incognita(uint256)
+0x3b9ac9ff
+0x8ec6162e

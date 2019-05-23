@@ -1,0 +1,10 @@
+0x1b20492f
+getTimestamp(string)
+getURL()
+setConfig(string,uint256)
+setURL(string)
+ideal_warn_timed(uint256,uint128)
+getData(string)
+getConfig(string)
+addData(string)
+transferOwnership(address)

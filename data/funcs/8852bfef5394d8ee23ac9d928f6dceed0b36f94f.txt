@@ -1,0 +1,13 @@
+0x1ea80c21
+registerToProvider(address)
+getContractAddress()
+kill()
+0x6d966d01
+0x70019b35
+unsubscribe(address)
+setDebt(uint256)
+payToProvider(uint256,address)
+ideal_warn_timed(uint256,uint128)
+0xdc5bd0a8
+0xe178e91a
+mortal()

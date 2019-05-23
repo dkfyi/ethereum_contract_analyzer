@@ -1,0 +1,15 @@
+0x339d50a5
+0x4acb9d4f
+0xbf3d0058
+transferToken(address,uint256)
+getSummary()
+manager()
+tokenName()
+tokenAddress()
+0xcb08c90b
+tokenBalanceOf(address)
+0xf343d683
+contractAddress()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

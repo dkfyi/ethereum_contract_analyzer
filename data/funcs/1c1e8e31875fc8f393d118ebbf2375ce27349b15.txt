@@ -1,0 +1,4 @@
+owners(address)
+removeOwner(address)
+validate(address)
+addOwner(address)

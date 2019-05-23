@@ -1,0 +1,7 @@
+shop()
+object()
+buy()
+0xce965f6a
+0xfe2d69f9
+buyObject(address)
+many_msg_babbage(bytes1)

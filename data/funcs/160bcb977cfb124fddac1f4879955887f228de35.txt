@@ -1,0 +1,8 @@
+getNoteLine(uint256)
+getNoteOwner(uint256,uint256)
+placeNotes(uint256[],uint256[],uint256)
+getPlacedNotes()
+removeNotes(uint256[],uint256[],uint256)
+getNote(uint256,uint256)
+transferToComposition(address,uint256)
+many_msg_babbage(bytes1)

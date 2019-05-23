@@ -1,0 +1,2 @@
+getWinner()
+0xff8e4e27

@@ -1,0 +1,5 @@
+get(bytes32,address,address)
+version()
+previousPublishedVersion()
+registry(bytes32,address,address)
+set(bytes32,address,bytes32)

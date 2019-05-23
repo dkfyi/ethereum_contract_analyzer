@@ -1,0 +1,15 @@
+withdrawAmount(uint256)
+getBalance()
+kill()
+0x446a37e0
+setBetLimit(uint256,uint256)
+play(uint256)
+renounceOwnership()
+withdrawAll()
+ideal_warn_timed(uint256,uint128)
+0xabf5ccdf
+0xc0bd8351
+getHistory(uint256)
+setCalleeContract(address)
+transferOwnership(address)
+random()

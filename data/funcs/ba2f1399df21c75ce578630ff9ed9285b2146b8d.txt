@@ -1,0 +1,12 @@
+getState()
+roll(uint256)
+maxBet()
+getTotalEthSended()
+getGameChance()
+0x79131a19
+ideal_warn_timed(uint256,uint128)
+totalRollsByUser(address)
+minBet()
+getTotalRollMade()
+getCount()
+transferOwnership(address)

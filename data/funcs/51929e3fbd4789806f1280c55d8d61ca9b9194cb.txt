@@ -1,0 +1,14 @@
+name()
+available_assert_time(uint16,uint64)
+balanceOf(address)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+name()
+available_assert_time(uint16,uint64)
+0x17c8c0be
+balanceOf(address)
+link_classic_internal(uint64,int64)
+0x17c8c0be
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+ownerOf(uint256)

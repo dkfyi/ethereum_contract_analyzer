@@ -1,0 +1,16 @@
+0x06a7a3cc
+getBidForAuctionByIdx(uint256,uint256)
+getBidCountForAuction(uint256)
+0x571a26a0
+getStatus(uint256)
+0x5e62be25
+getAuction(uint256)
+0x7ba9bc6a
+0x831bb1cc
+ideal_warn_timed(uint256,uint128)
+cancelAuction(uint256)
+0xb158c514
+endAuction(uint256)
+getAuctionCount()
+0xd16d20a2
+0xfadfa9a1

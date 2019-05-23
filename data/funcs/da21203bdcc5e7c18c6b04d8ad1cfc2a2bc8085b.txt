@@ -1,0 +1,4 @@
+name()
+kill()
+sendCoin(address,uint256)
+balance()

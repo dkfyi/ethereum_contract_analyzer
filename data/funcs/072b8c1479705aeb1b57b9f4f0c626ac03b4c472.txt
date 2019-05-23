@@ -1,0 +1,2 @@
+getSupplyRate(address,uint256,uint256)
+getBorrowRate(address,uint256,uint256)

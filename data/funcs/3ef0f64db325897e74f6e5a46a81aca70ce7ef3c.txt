@@ -1,0 +1,10 @@
+0xbd76ecfd
+0x448f7065
+0x8b418713
+getExchangeCost(address,address,uint256,bytes)
+exchange(address,address,address,address,uint256,bytes)
+getPrice(address)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)
+balanceOf(address)
+0xe8177dcf

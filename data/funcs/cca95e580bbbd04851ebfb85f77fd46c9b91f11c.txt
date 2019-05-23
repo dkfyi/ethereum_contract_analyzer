@@ -1,0 +1,12 @@
+setTargetContract(address)
+totalLocked()
+changeContractState(bool)
+lockMana(address,uint256)
+manaToken()
+ideal_warn_timed(uint256,uint128)
+landClaim()
+0x9ae697bf
+acceptingDeposits()
+transferOwnership(address)
+approve(address,uint256)
+gasprice_bit_ether(int128)

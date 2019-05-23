@@ -1,0 +1,7 @@
+killContract()
+0x2de34e0f
+0x9a1ef8b5
+0x9f9f45fb
+0xaca49018
+donate(string)
+0xe31a1f4a

@@ -1,0 +1,13 @@
+unregisterName(string)
+registerName(string)
+getParticipantIds(string,uint256,uint256)
+getOwner(string)
+getParticipantById(uint256)
+nextId()
+removeParticipant(uint256)
+0x6be195a9
+0x936968f9
+0xc378c0e2
+addParticipant(address,address)
+transferOwnership(address)
+0xfbe2de18

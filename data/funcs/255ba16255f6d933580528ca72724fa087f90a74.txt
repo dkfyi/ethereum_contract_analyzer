@@ -1,0 +1,2 @@
+0x5a1bde39
+getTimestamp(bytes32)

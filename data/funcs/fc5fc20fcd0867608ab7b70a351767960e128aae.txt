@@ -1,0 +1,16 @@
+name()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+withdraw(uint256)
+available_assert_time(uint16,uint64)
+finalizeSale()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+remainingSupply()
+allowance(address,address)
+saleInProgress()
+0x464f4d4f
+0xc4a11628

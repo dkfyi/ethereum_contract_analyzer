@@ -1,0 +1,13 @@
+withdraw()
+0x4b47741f
+ideal_warn_timed(uint256,uint128)
+0x9c9858e9
+0xb20e06e0
+0xb7c68259
+transferOwnership(address)
+pregnantBots()
+destroyedBots()
+totalSupply()
+giveBirth(uint256)
+isPregnant(uint256)
+getBot(uint256)

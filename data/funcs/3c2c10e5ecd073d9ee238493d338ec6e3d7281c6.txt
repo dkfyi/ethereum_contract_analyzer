@@ -1,0 +1,3 @@
+getRedemptionBalance()
+getRedemptionBlockNumber()
+isRedemptionReady()

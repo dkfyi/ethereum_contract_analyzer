@@ -1,0 +1,11 @@
+getName()
+0x385f4543
+0x41859ac8
+acceptOwnership()
+0x7c921c3f
+0x870a7557
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+revoke(bytes32)
+0xca2c372a
+0xdbde34a8

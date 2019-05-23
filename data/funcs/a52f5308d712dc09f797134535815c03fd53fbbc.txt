@@ -1,0 +1,12 @@
+restart(uint256)
+isRunning()
+currentIndex()
+isStopped()
+totalInvested()
+jackpot()
+startTime()
+0x7fecd538
+0x82c0652a
+0xab6e4959
+deposits(uint256)
+stats()

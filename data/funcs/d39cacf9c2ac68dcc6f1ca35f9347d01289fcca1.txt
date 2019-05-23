@@ -1,0 +1,8 @@
+0x03781556
+compare(string,string)
+equal(string,string)
+0x78568ae6
+0x95d2a6ed
+0xbcfc2e8e
+0xdff45e68
+0xfe704a9d

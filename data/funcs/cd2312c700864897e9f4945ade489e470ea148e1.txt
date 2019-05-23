@@ -1,0 +1,6 @@
+kill()
+0xaeefe31f
+0xcff8834c
+0xd961dbd1
+0xf3862cd8
+gasprice_bit_ether(int128)

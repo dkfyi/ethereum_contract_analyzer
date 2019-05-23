@@ -1,0 +1,16 @@
+0x13113df0
+0x4ab5da2a
+0x5627df88
+soldToken()
+tokenReward()
+0x85f0e047
+ideal_warn_timed(uint256,uint128)
+0xa2b1b066
+0xae158211
+0xb933057f
+transferOwnership(address)
+freezeAccountForContract(address,bool)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)
+freezeAccountForContract(address,bool)

@@ -1,0 +1,5 @@
+packedBytes(uint256)
+withdraw()
+getAll()
+setFee(uint256)
+set(uint32,uint8)

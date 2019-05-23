@@ -1,0 +1,6 @@
+0x501ad15d
+ideal_warn_timed(uint256,uint128)
+0xe98d36e1
+0xf92b55d8
+exit()
+exit()

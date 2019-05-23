@@ -1,0 +1,8 @@
+setAddress(string)
+getAddress()
+0x4559dcdc
+0x60c260ca
+0x88c58432
+getAge()
+getVolume()
+setAge(uint256)

@@ -1,0 +1,4 @@
+counter()
+attack()
+invested()
+0xdcffb5f7

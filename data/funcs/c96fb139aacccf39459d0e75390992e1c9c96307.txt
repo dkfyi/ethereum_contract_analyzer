@@ -1,0 +1,5 @@
+creator()
+kill()
+0x4c83b30b
+0x8242963b
+0xce77601e

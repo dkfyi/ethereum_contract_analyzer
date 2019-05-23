@@ -1,0 +1,15 @@
+owners(uint256)
+0x11a7a4c0
+headerColor()
+0x45352983
+0x50964c3f
+0x6fe4d97a
+fees()
+0xa3b64c2c
+payoutIdx()
+changeOwner(address)
+0xb165c49f
+balance()
+0xbe414e97
+collectFees()
+0x290decd9

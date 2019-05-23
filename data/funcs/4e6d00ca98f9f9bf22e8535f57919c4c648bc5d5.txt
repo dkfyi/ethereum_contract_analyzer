@@ -1,0 +1,14 @@
+0x32c6be56
+0x42d7cbca
+0x42fceaa3
+0x604883a6
+0xad453262
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+name()
+totalSupply()
+standard()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+many_msg_babbage(bytes1)
+mintToken(uint256)

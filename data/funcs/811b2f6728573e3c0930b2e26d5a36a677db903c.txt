@@ -1,0 +1,7 @@
+0x02b09291
+name()
+totalEthInWei()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xb595276b
+admin()

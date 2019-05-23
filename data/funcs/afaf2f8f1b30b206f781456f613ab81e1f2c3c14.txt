@@ -1,0 +1,4 @@
+0x14341a6f
+setLotteryAddress(address)
+0x5073c9d3
+0xbc23c0c8

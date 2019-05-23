@@ -1,0 +1,8 @@
+withdraw()
+0x44ca0355
+counter()
+0x77c00de0
+setCounter(uint256)
+attack()
+invested()
+0xdcffb5f7

@@ -1,0 +1,8 @@
+0x441b4974
+founder()
+balanceOf(address)
+getPrice()
+price()
+allocationAddress()
+issueTokens(address,uint256)
+balanceOf(address)

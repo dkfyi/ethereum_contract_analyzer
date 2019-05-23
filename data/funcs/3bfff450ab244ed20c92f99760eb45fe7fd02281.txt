@@ -1,0 +1,7 @@
+guagua()
+viewMemory(uint256)
+initMiaoMiaoAddress(address)
+addMemoryImageSlice(uint256,bytes)
+miaomiao()
+addMemory(string,bytes)
+viewNumberOfMemories()

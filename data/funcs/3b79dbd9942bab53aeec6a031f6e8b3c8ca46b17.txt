@@ -1,0 +1,17 @@
+getNumberOfAvailableStartTickets()
+name()
+totalSupply()
+0x26960c57
+available_assert_time(uint16,uint64)
+date()
+eventDate()
+0x6901d286
+balanceOf(address)
+getAmountTransferred()
+link_classic_internal(uint64,int64)
+venue()
+transferFrom(address,address,uint16[])
+transfer(address,uint16[])
+eventVenue()
+isContractExpired()
+getDecimals()

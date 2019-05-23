@@ -1,0 +1,7 @@
+0x0bbae8db
+kill()
+winnersCount()
+0x7701ea4a
+getPlayers()
+playersCount()
+getWinners()

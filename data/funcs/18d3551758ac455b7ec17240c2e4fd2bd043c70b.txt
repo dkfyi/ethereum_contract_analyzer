@@ -1,0 +1,7 @@
+setTokenAddr(address)
+getMyBalance()
+getStatus()
+getTokenBalance()
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

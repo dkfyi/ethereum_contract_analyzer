@@ -1,0 +1,7 @@
+0x4c18bace
+random()
+ideal_warn_timed(uint256,uint128)
+0xb9890ecf
+randomNumber()
+0xd2b2ddd5
+winner()

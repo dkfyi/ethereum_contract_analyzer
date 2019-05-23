@@ -1,0 +1,8 @@
+set_transfer_gas(uint256)
+gas()
+ideal_warn_timed(uint256,uint128)
+approve_unwanted_tokens(address,address,uint256)
+emergency_withdraw()
+purchase_address()
+transferOwnership(address)
+approve(address,uint256)

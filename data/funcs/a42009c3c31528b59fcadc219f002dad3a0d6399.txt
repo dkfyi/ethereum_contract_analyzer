@@ -1,0 +1,7 @@
+setTargetToken(address)
+migrateFrom(address,uint256)
+finalizeMigration()
+createToken(address,uint256)
+finalizeMigration()
+totalSupply()
+totalSupply()

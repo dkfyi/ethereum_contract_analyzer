@@ -1,0 +1,12 @@
+0x21365597
+deadline()
+0x5627df88
+soldToken()
+isOpened()
+tokenReward()
+startTime()
+fundingGoal()
+ideal_warn_timed(uint256,uint128)
+price()
+fundingGoalReached()
+transferOwnership(address)

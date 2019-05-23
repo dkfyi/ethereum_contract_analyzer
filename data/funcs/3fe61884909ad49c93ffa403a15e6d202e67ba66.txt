@@ -1,0 +1,2 @@
+0x94fe1720
+buyLand(int32,int32)

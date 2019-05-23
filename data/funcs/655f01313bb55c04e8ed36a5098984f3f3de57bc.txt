@@ -1,0 +1,3 @@
+last()
+RandomNumberFromSeed(uint256)
+RandomNumber()

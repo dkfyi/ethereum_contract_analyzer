@@ -1,0 +1,6 @@
+addAuthor(address)
+getDiaryLength()
+getDiary(uint256)
+getRecentDiary()
+addDiary(string)
+removeAuthor(address)

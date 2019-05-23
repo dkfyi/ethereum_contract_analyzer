@@ -1,0 +1,15 @@
+0x212d6723
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+getContractBalance()
+getBlockTimestamp()
+0xd5a13357
+0xf0942d35
+0xfd480db0
+getAddress()
+getAddress()
+cbAddress()
+getAddress()
+getAddress()
+getPrice(string)
+query(uint256,string,string)

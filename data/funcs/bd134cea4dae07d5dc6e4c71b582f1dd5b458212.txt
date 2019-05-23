@@ -1,0 +1,3 @@
+0x75e36616
+sign(bytes32)
+hashes(bytes32)

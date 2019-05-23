@@ -1,0 +1,7 @@
+name()
+0x33af4b59
+balanceOf(address)
+0x797b0f84
+destroy()
+many_msg_babbage(bytes1)
+0xbf8161de

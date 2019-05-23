@@ -1,0 +1,8 @@
+casinoBalance()
+kill()
+casinoWithdraw(uint256)
+betOnNumber(uint256)
+casinoDeposit()
+betOnColor(uint256)
+welcome()
+0x3b9aca00

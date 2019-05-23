@@ -1,0 +1,6 @@
+name()
+gasprice_bit_ether(int128)
+balances(address)
+balanceOf(address)
+initial()
+0x77359400

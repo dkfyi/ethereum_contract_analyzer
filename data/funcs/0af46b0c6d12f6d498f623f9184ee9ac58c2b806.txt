@@ -1,0 +1,6 @@
+createAuction(uint256,uint256,uint64,uint256)
+withdraw(uint256)
+kill()
+sellers(address)
+placeBid(uint256)
+registerAsSeller(address,string,string,string,string)

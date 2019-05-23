@@ -1,0 +1,12 @@
+checkDate()
+0x3e9f83a5
+kill()
+refund()
+giveFor(address)
+0xd04e48f1
+0xd24f8cdd
+0xe26d1474
+endPreSale()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

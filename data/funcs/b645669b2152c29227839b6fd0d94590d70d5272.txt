@@ -1,0 +1,11 @@
+0x7eab2fc4
+transferTokens(address,address,address,uint256)
+transferTokens(address,address,address,uint256)
+transferTokens(address,address,address,uint256)
+receiveClosePositionPayout(bytes32,uint256,address,address,address,uint256,uint256,bool)
+getExchangeCost(address,address,uint256,bytes)
+exchange(address,address,address,address,uint256,bytes)
+0xd93d7361
+closeOnBehalfOf(address,address,bytes32,uint256)
+closeLoanOnBehalfOf(address,address,bytes32,uint256)
+getCompoundedInterest(uint256,uint256,uint256)

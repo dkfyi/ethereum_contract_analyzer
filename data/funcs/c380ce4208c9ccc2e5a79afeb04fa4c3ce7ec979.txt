@@ -1,0 +1,3 @@
+getStatus()
+0x707c4331
+CoinFlipper()

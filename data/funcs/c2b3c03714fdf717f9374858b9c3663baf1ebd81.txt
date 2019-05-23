@@ -1,0 +1,9 @@
+managerAddr()
+approveTx(uint8)
+isWhitelisted(address)
+0x3cb5d100
+proposeTx(address)
+whitelist(address)
+reject(uint256)
+0xde6746a5
+0xf5715d56

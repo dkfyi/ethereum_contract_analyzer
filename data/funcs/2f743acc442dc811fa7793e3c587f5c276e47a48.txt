@@ -1,0 +1,5 @@
+mint(address,uint256)
+0x6b149d87
+send(address,uint256)
+deposit()
+getBalance(address)

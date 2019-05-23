@@ -1,0 +1,4 @@
+isAdmin(address)
+0x4f9268cd
+0x783a2290
+transferOwnerShip(address)

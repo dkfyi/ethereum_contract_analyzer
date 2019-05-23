@@ -1,0 +1,5 @@
+luckyNumberOfAddress(address)
+kill()
+_myLuckyNumber()
+forceReseed()
+participate()

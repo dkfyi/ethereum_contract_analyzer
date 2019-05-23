@@ -1,0 +1,5 @@
+issuePrice()
+buyPrice()
+setPrices(uint256,uint256,uint256)
+cPT()
+premium()

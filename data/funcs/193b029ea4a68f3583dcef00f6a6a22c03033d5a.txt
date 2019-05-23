@@ -1,0 +1,12 @@
+balanceOf(address,bytes32)
+transfer(address,uint256,bytes32)
+recover(address,address)
+name(bytes32)
+0x70abebab
+0xa92abe37
+totalSupply(bytes32)
+0xbb46942f
+description(bytes32)
+0xc4242719
+assets(uint256)
+test()

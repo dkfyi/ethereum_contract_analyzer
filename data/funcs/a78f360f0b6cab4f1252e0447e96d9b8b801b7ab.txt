@@ -1,0 +1,6 @@
+destroyMe()
+withdraw()
+0xbad7746f
+totalSupply()
+getKitty(uint256)
+giveBirth(uint256)

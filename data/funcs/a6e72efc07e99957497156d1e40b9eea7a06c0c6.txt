@@ -1,0 +1,5 @@
+attack(uint8)
+referrers(address)
+positions(address)
+move(uint8)
+0xda04570b

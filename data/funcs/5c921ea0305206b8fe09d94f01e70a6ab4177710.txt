@@ -1,0 +1,3 @@
+0x01e64725
+get(bytes32)
+set(bytes32,string)

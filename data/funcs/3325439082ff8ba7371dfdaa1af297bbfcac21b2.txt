@@ -1,0 +1,4 @@
+benefactor(uint256)
+totalBalance()
+balance()
+enter()

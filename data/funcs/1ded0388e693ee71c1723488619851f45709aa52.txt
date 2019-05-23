@@ -1,0 +1,5 @@
+isClassic()
+withdraw()
+ideal_warn_timed(uint256,uint128)
+ethAddr()
+0xf259cd47

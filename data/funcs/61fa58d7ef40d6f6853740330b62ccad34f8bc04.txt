@@ -1,0 +1,13 @@
+depositEth(address,address)
+WETH()
+withdrawEth(address,uint256[],uint256[])
+deposit()
+deposit(address,uint256)
+0xeada7fad
+0x1752c065
+withdraw(uint256[],uint256[],address)
+withdraw(uint256)
+balanceOf(address)
+allowance(address,address)
+approve(address,uint256)
+many_msg_babbage(bytes1)

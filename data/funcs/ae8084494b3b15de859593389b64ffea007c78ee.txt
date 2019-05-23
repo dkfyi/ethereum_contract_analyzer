@@ -1,0 +1,15 @@
+withdrawDividends(uint256)
+burnTokens(uint256)
+burnAddress()
+canTransferTokens()
+getTokenAmount()
+m_token()
+ideal_warn_timed(uint256,uint128)
+0xb0a63b88
+transferTokens(address,uint256)
+0xde1a4d8b
+transferOwnership(address)
+withdrawTo(address,uint256)
+many_msg_babbage(bytes1)
+balanceOf(address)
+0x31cece42

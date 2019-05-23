@@ -1,0 +1,14 @@
+freezeTransfers()
+name()
+approve(address,uint8,uint8)
+setOwner(address)
+totalSupply()
+transfer(address,uint8)
+available_assert_time(uint16,uint64)
+unfreezeTransfers()
+approve(address,uint8)
+balanceOf(address)
+link_classic_internal(uint64,int64)
+0xa061a03a
+0xce173296
+allowance(address,address)

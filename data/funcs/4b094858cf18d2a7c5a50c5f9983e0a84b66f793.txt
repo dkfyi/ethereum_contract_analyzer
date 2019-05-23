@@ -1,0 +1,11 @@
+removeAdmin(address)
+replaceManager(address)
+0x27d394b1
+getAdmins()
+kill()
+addUser(address)
+addAdmin(address)
+removeUser(address)
+isManager()
+0xe370434c
+isManager(address)

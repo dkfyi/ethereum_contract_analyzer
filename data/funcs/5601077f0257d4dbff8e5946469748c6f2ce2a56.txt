@@ -1,0 +1,2 @@
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)

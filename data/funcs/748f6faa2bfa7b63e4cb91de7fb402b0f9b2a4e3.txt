@@ -1,0 +1,5 @@
+transfer(uint256)
+setOwner(address)
+kill()
+many_msg_babbage(bytes1)
+query(bytes)

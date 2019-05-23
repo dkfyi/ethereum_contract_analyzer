@@ -1,0 +1,4 @@
+0x34c6a5cf
+0x5b727486
+0x6466c518
+getHash(uint256)

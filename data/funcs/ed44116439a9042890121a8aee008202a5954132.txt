@@ -1,0 +1,11 @@
+getContribution(address)
+0x433ee6c1
+0x510c82b3
+getRate()
+0x88b0eca7
+getOwner()
+0x999caac8
+0xc561d4b7
+buyTokens(address)
+0x97d65830
+many_msg_babbage(bytes1)

@@ -1,0 +1,4 @@
+getTileDescription(uint8,uint8)
+kill()
+getSavedVar()
+getDescription()

@@ -1,0 +1,15 @@
+name()
+transfer(address,uint256,uint256)
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+withdraw()
+balanceOf(address)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+allowance(address,address)
+transferOwnership(address)
+blacklist(address)
+0xaeb73438
+0xaeb73438

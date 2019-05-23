@@ -1,0 +1,6 @@
+checkGoalReached()
+deadline()
+beneficiary()
+fundingGoal()
+amountRaised()
+funders(uint256)

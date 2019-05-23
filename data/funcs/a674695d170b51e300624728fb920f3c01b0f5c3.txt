@@ -1,0 +1,12 @@
+tokenTransferProxy()
+0x1edda5e6
+0x5fbd5c48
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+totlePrimary()
+0xb680ba75
+transferOwnership(address)
+0x918e42f1
+transferFrom(address,address,address,uint256)
+balanceOf(address)
+allowance(address,address)

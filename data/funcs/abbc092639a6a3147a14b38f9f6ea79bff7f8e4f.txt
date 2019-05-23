@@ -1,0 +1,7 @@
+totalSupply()
+mint(address,uint256)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+burn(address,uint256)
+changeOwner(address)
+many_msg_babbage(bytes1)

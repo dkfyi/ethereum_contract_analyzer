@@ -1,0 +1,13 @@
+available_assert_time(uint16,uint64)
+0x6f1dffbf
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+0xa00ad36d
+newOwner()
+0xe207a61d
+0xe89ad0d4
+transferOwnership(address)
+0xf965774c
+many_msg_babbage(bytes1)
+allowance(address,address)
+gasprice_bit_ether(int128)

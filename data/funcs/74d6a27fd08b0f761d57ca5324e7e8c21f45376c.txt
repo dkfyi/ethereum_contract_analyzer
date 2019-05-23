@@ -1,0 +1,4 @@
+getName()
+update(string)
+kill()
+getBlockNumber()

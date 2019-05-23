@@ -1,0 +1,5 @@
+0x196fa7ba
+store(uint256)
+0x9b6ffe1b
+0xc615a77a
+getGas(uint256)

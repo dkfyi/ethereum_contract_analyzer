@@ -1,0 +1,5 @@
+latestFriend()
+friendsWith(address)
+numberOfFriends()
+me()
+becomeFriendsWithMe()

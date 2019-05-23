@@ -1,0 +1,11 @@
+contractSolidStamp()
+getAuditOutcome(address,bytes32)
+AUDITED_AND_APPROVED()
+NOT_AUDITED()
+0x2f644db6
+changeSolidStampContract(address)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+registerAuditOutcome(address,bytes32,bool)
+AUDITED_AND_REJECTED()
+transferOwnership(address)

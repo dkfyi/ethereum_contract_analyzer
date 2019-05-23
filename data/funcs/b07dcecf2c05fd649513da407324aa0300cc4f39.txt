@@ -1,0 +1,2 @@
+getMetadataUrl(uint256)
+baseUrl()

@@ -1,0 +1,4 @@
+authorize(address)
+0xfb76cc98
+isAuthorized(address)
+canCall(address,address,bytes4)

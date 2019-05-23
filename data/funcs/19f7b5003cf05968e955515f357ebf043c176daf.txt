@@ -1,0 +1,10 @@
+0x2b5f892f
+__callback(bytes32,string,bytes)
+update(uint256)
+getAddress()
+getAddress()
+getAddress()
+cbAddress()
+getAddress()
+getPrice(string)
+query(uint256,string,string)

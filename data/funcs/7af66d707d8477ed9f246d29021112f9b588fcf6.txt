@@ -1,0 +1,6 @@
+contracts(uint256)
+version()
+paused()
+ownerAddress()
+setupComplete()
+managerAddress()

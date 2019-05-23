@@ -1,0 +1,5 @@
+counter()
+isWinner(address)
+0xb374befd
+0xc3490263
+getPrize()

@@ -1,0 +1,14 @@
+owners(address)
+0x74952451
+destroy()
+newOwner(address)
+deleteOwner(address)
+root()
+0xed70297b
+balanceOf(address)
+kscTransferFrom(address,address,uint256,string)
+balanceOf(address)
+kscBurnFrom(address,uint256,string)
+balanceOf(address)
+kscTransferFrom(address,address,uint256,string)
+burn(address,uint256,string)

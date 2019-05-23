@@ -1,0 +1,13 @@
+owners(address)
+coin()
+rate()
+wallet()
+0x6abcf69a
+0x6ae93635
+level()
+buyCoin(address)
+newOwner(address)
+minWei()
+deleteOwner(address)
+root()
+sell(address,uint256,string)

@@ -1,0 +1,7 @@
+kittyCoreAddress()
+close()
+0x48c595be
+withdrawBalance()
+setKittyCoreAddress(address)
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)

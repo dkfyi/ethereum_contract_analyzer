@@ -1,0 +1,7 @@
+setOwner(address)
+kill()
+0x84b73b24
+create(address,uint256,address,address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+balanceOf(address)

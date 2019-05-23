@@ -1,0 +1,8 @@
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+balanceOf(address)
+0x814a63ff
+0x8574cd14
+many_msg_babbage(bytes1)
+allowance(address,address)

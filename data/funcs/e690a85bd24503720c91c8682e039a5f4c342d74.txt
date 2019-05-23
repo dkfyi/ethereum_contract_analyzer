@@ -1,0 +1,3 @@
+destruct()
+0x7c6b313e
+ideal_warn_timed(uint256,uint128)

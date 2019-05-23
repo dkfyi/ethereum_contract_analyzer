@@ -1,0 +1,5 @@
+burn(uint256,uint256,uint256)
+kyberContract()
+destErc20()
+trade(address,uint256,address,address,uint256,uint256,address)
+burn(uint256)

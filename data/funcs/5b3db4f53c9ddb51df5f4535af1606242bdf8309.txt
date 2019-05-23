@@ -1,0 +1,14 @@
+0x16ce5d54
+removeOwner(address)
+isOwner(address)
+m_numOwners()
+wallet()
+0x5e59b39d
+0x6c1a5f85
+addOwner(address)
+0x7f0d50f0
+revoke(bytes32)
+hasConfirmed(bytes32,address)
+setWallet(address)
+changeOwner(address,address)
+0xbd1a1f9c

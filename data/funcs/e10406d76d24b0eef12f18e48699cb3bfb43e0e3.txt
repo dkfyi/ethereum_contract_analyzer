@@ -1,0 +1,14 @@
+name()
+0x108c4cd5
+totalSupply()
+0x25925d37
+allocate(address,address,uint256)
+0x3a1806b4
+0x5b1ed8ad
+0x630e6c36
+balanceOf(address)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+information()
+administrator()
+0x1633017a

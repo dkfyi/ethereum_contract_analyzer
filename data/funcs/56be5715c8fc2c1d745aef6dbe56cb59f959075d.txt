@@ -1,0 +1,15 @@
+showInterval()
+0x2081c4ea
+setShowInterval(uint256)
+currentMessage(uint256)
+withdrawBenefit(address,uint256)
+submitMessage(string)
+0x87433926
+totalMessages()
+Owner()
+k()
+basePrice()
+currentTime()
+messageInfo(uint256)
+setBasePrice(uint256)
+transferOwnership(address)

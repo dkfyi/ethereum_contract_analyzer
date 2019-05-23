@@ -1,0 +1,14 @@
+newToken(string,string)
+0x66903e80
+ideal_warn_timed(uint256,uint128)
+bytes32ToString(bytes32)
+0x9495c25a
+0xafcd23f0
+tokenFactory()
+transferOwnership(address)
+reserveToken()
+create(string,string)
+getContract(string)
+0x186b79c9
+0xaf87c833
+0x238b3aed

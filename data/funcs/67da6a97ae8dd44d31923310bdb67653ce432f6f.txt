@@ -1,0 +1,6 @@
+removeAdmin(address)
+kill()
+0x6ec6333d
+0xc722bd96
+0xb4be83d5
+0xb4be83d5

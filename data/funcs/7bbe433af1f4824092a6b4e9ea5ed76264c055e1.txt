@@ -1,0 +1,2 @@
+addRecord(bytes32,string)
+record(uint256)

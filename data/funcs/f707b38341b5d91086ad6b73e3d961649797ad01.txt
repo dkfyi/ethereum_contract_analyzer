@@ -1,0 +1,9 @@
+0x0596030d
+mixGenes(uint256,uint256,uint256)
+0x571a22dd
+setFactory(address)
+0x62c59704
+0x81e8dfa2
+ideal_warn_timed(uint256,uint128)
+factory()
+transferOwnership(address)

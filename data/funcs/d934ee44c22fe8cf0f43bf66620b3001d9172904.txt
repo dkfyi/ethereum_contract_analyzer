@@ -1,0 +1,3 @@
+addFunds()
+remove()
+getNumCalled()

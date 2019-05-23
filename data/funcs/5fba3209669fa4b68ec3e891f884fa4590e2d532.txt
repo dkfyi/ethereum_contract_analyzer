@@ -1,0 +1,5 @@
+0x0d80fefd
+getMessagesCount()
+kill()
+send(string)
+ideal_warn_timed(uint256,uint128)

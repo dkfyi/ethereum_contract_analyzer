@@ -1,0 +1,14 @@
+setOwner(address)
+0x270c97c2
+escrows(bytes32)
+0x3622913b
+exists(bytes32)
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+0x96bef65c
+0x9831e8f5
+authority()
+0xdf429261
+0xe1c1b474
+0xf023b811
+canCall(address,address,bytes4)

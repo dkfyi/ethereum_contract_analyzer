@@ -1,0 +1,5 @@
+provenAddress(address,bool)
+verify(address)
+0x6be99b53
+setAuthorizedUser(address,bool)
+provenAddresseList(address[],bool)

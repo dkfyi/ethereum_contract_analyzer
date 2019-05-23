@@ -1,0 +1,2 @@
+hash(uint256,uint256,uint256,uint256)
+testrc(bytes32,uint8,bytes32,bytes32)

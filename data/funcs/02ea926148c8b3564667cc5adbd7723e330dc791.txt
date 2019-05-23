@@ -1,0 +1,3 @@
+addUser(string)
+getUser(address)
+0xa87430ba

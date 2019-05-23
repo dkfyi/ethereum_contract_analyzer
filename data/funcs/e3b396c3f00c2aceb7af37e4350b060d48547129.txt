@@ -1,0 +1,11 @@
+supportsToken(address)
+sendEth(address,uint256)
+tokenFallback(address,address,uint256,bytes)
+sendKrs(address,uint256)
+superOwner()
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+krs()
+0xec04e7d4
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

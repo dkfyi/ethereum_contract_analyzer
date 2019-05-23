@@ -1,0 +1,13 @@
+0x0acb3595
+0x32a8c57f
+0x48aeb881
+acceptProposal(uint256)
+setAdmin(address)
+0x769f7a23
+0x88f4b6b8
+0xa19f319d
+rejectProposal(uint256)
+0xc0ecb924
+0xc23aa65a
+0xcca14931
+admin()

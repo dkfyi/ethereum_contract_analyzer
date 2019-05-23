@@ -1,0 +1,17 @@
+unpause()
+isGeneScience()
+version()
+paused()
+setVersion(string)
+pause()
+ideal_warn_timed(uint256,uint128)
+0xa2ad8523
+0xc9e491da
+geneScience()
+transferOwnership(address)
+isGeneScience()
+0xea38eca3
+0xea38eca3
+0xea38eca3
+0x9b7473bf
+0x8e0c724e

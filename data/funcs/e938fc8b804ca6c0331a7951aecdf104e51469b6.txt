@@ -1,0 +1,7 @@
+getBalance()
+pay()
+purchasers(address)
+kill()
+setPrice(uint256)
+price()
+sendEtherToOwner()

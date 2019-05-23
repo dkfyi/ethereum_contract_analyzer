@@ -1,0 +1,6 @@
+multiplierFactor()
+totalEntries()
+userStats(address)
+join()
+currentFee()
+entryDetails(uint256)

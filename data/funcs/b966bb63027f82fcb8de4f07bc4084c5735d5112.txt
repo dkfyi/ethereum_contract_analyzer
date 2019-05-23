@@ -1,0 +1,16 @@
+0x02323a73
+release(address)
+issuer()
+tokenContract()
+transferAgent()
+0x8863ebbb
+0x8c6a244c
+hold(address,uint256)
+0xa57ef4d6
+0xb7277f73
+transfer(address,address,uint256)
+0xc00824b1
+heldTokens(address)
+oneYear()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

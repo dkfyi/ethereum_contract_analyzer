@@ -1,0 +1,11 @@
+0x0ca3d7ee
+getName()
+kill()
+ideal_warn_timed(uint256,uint128)
+0xab375641
+0xb4bc3564
+min_bet()
+0xd8cc7a59
+isWinner(address)
+0x7fd4b61a
+0xd2ec9fe7

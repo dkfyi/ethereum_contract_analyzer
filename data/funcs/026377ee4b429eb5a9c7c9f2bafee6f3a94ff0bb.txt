@@ -1,0 +1,7 @@
+0x4fe870ab
+0x5bee6f92
+ideal_warn_timed(uint256,uint128)
+0x9ebd923e
+0xca7d1ccb
+0xde242ff4
+isAuthorized(address)

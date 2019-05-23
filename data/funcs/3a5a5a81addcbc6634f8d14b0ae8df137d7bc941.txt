@@ -1,0 +1,6 @@
+withdraw()
+kill()
+0x8cb0a3fc
+ideal_warn_timed(uint256,uint128)
+0xa31770ce
+isPregnant(uint256)

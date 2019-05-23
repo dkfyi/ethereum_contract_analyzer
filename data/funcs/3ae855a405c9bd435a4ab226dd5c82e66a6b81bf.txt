@@ -1,0 +1,8 @@
+cardEmojified(uint8)
+0x187a4b05
+cardDescription(uint8)
+0x9f341e13
+cardFacevalue(uint8)
+blackjackValue(uint8)
+getRandomNumber(uint256,address,uint256,uint256,uint256)
+0xea9c8820

@@ -1,0 +1,14 @@
+tokenTransferProxy()
+0x2f866f73
+unpause()
+paused()
+pause()
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+0xff268125
+0xba20dda4
+balanceOf(address)
+allowance(address,address)
+0xf6f494c9
+0x5f0280ba
+transferFrom(address,address,address,uint256)

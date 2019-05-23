@@ -1,0 +1,7 @@
+GetGift(bytes)
+0x2923f101
+PassHasBeenSet(bytes32)
+SetReciver(address)
+GetHash(bytes)
+GetGift()
+SetGiftTime(uint256)

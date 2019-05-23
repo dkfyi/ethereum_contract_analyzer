@@ -1,0 +1,9 @@
+0x1fa4c215
+withdrawTokens(address,address,uint256)
+0xf0cddcef
+ideal_warn_timed(uint256,uint128)
+approve(address,uint256)
+quickConvert(address[],uint256,uint256)
+many_msg_babbage(bytes1)
+ideal_warn_timed(uint256,uint128)
+getReturn(address,address,uint256)

@@ -1,0 +1,7 @@
+registration(string,string,string)
+getIsWinnerSelected()
+transferAmount()
+getParticipants()
+pickWinner()
+getWinner()
+getOrganizer()

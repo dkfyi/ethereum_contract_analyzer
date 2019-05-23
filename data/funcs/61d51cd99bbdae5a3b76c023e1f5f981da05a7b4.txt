@@ -1,0 +1,3 @@
+isDataResponseValid(address,address,address,string,bytes)
+isNotaryAdditionValid(address,address,uint256,uint256,string,bytes)
+isNotaryVeredictValid(address,address,address,bool,bool,bytes)

@@ -1,0 +1,8 @@
+add(address)
+0x1162d81d
+0x14542e65
+0x55bbef67
+replace(address,address)
+setTreasurer(address)
+closedown()
+treasurer()

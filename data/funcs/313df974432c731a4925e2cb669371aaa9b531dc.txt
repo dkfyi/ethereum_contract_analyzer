@@ -1,0 +1,5 @@
+0x3fa9fecf
+0x9870dce0
+0xcfb73edd
+0xfa90ca8d
+ownerOf(uint256)

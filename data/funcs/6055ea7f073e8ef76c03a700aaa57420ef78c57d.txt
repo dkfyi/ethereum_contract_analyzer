@@ -1,0 +1,16 @@
+0x0647392f
+0x2f3f0bc3
+0x55031a2e
+0x653ec911
+removeCoordinator(address)
+ideal_warn_timed(uint256,uint128)
+isLocked()
+changeOwner(address)
+balance()
+transfer(uint256,address)
+coordinatorAccountCount()
+coordinatorAccountIndex(uint256)
+minCoordinatorCount()
+lock()
+addCoordinator(address)
+0xfc70c4e7

@@ -1,0 +1,5 @@
+workDone(address)
+0x8b1a8903
+0x927d6566
+buyObject(address)
+many_msg_babbage(bytes1)

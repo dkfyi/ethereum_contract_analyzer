@@ -1,0 +1,12 @@
+kill()
+available()
+counter()
+0x9f702daf
+sendTokens()
+RewardEnd()
+TimeNow()
+CurrentMined()
+MaxMiningReward()
+Mine()
+balanceOf(address)
+many_msg_babbage(bytes1)

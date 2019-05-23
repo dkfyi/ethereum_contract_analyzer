@@ -1,0 +1,14 @@
+0x22b80ff8
+0x2e1371bd
+0x31af8eb0
+kill()
+0x60b79784
+0x68be9822
+setAdmin(address)
+renounceOwnership()
+cashOut()
+0x833afd43
+ideal_warn_timed(uint256,uint128)
+0xac7e64d5
+transferOwnership(address)
+admin()

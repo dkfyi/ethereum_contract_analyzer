@@ -1,0 +1,9 @@
+AIRDROP_AMOUNT()
+0x4d2e1b7f
+ideal_warn_timed(uint256,uint128)
+ownerAddress()
+setAirdropAmount(uint256)
+resetAirdropAmount()
+transferOwnership(address)
+token()
+gasprice_bit_ether(int128)

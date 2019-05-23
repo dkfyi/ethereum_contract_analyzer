@@ -1,0 +1,11 @@
+gamesPlayed()
+_maint_setBlockLimit(uint256)
+cashOut()
+_maint_setCustomSeed(uint256)
+createRandomNumber(uint256)
+0xc74e6ee1
+0xdc12042f
+maxGamesPerBlock()
+0xf5632bf1
+_api_PlaceBet()
+0x499602d2

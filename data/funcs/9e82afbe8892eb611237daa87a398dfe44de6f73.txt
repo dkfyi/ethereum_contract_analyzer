@@ -1,0 +1,8 @@
+0x19b71472
+killContract()
+dev()
+tokenAddress()
+0xa17cc74a
+setTokenContract(address)
+curator()
+0x04c679c1

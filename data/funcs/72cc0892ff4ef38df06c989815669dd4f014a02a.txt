@@ -1,0 +1,4 @@
+0x3d82dee2
+kill()
+allowedAddress()
+0x92eb9934

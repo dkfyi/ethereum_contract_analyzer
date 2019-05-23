@@ -1,0 +1,5 @@
+upgrade(address)
+selfDestruct(address)
+setEtheraffle(address)
+receiveEther()
+receiveEther()

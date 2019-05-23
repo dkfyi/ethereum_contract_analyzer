@@ -1,0 +1,8 @@
+killContract()
+mint(address,uint256)
+dev()
+tokenAddress()
+setTokenContract(address)
+curator()
+setCurator(address)
+mint(address,uint256)

@@ -1,0 +1,15 @@
+entryInformation(address,bytes32)
+addEntry(bytes32)
+registeredUsers()
+selfDestruct()
+userEntries(address)
+deleteEntry(bytes32)
+0xa61ecd5d
+0xa61ecd5d
+0xe102e97c
+0x5856638c
+0xf2279f8f
+0xa61ecd5d
+0xf6bf2aab
+0x990ec6b7
+0x40511d61

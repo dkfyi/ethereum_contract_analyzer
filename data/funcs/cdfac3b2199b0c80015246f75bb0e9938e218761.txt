@@ -1,0 +1,3 @@
+withdrawFunds(uint256)
+getFunds()
+depositFunds()

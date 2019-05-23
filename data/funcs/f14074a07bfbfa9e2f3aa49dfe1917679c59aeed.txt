@@ -1,0 +1,15 @@
+0x0923ab7f
+updateRate(uint256,uint256)
+kill()
+0x4a1d0e6f
+getRate()
+calculateTokens(uint256)
+ideal_warn_timed(uint256,uint128)
+0x9b960ddf
+withdrawEth()
+buyTokens()
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

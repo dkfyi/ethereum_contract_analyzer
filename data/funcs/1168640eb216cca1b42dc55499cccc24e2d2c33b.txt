@@ -1,0 +1,4 @@
+0x2f6be237
+0x5f1c4046
+0x6db944b4
+checkBalance()

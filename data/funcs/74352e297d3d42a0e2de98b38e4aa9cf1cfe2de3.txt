@@ -1,0 +1,9 @@
+withdraw(uint256)
+0x3bf1af13
+withdrawToken(address,uint256)
+0xa60c1824
+0xbf5a7f7a
+dtrade(address,uint8,uint8,uint256[],address[],bytes32[])
+admin()
+0xfa03c225
+many_msg_babbage(bytes1)

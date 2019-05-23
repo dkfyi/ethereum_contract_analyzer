@@ -1,0 +1,9 @@
+0x02470b38
+bancorToken()
+0x555b37be
+0x7548adf6
+0xa4ed26ea
+bancorDaiSmartTokenRelay()
+bancorErc20Eth()
+dai()
+quickConvert(address[],uint256,uint256)

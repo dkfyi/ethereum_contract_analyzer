@@ -1,0 +1,8 @@
+dividends(address)
+withdrawDividend()
+contractVersion()
+isClosed()
+totalSupply()
+tokenHolderCount()
+tokenHolder(uint256)
+balanceOf(address)

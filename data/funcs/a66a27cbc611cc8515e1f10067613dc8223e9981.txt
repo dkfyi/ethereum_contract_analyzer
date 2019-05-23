@@ -1,0 +1,9 @@
+0x023e0a9e
+0x3e4643ed
+0x4c2bac10
+destroy()
+0x8c67a1d8
+getAdUrl(uint256)
+0xd254d2c6
+getAdText(uint256)
+defaultPrice()

@@ -1,0 +1,6 @@
+presaleWeiSold()
+tierAmountCaps(uint256)
+tierIndexByWeiAmount(uint256)
+calculateTokens(uint256,uint256)
+tierRates(uint256)
+cpCap()

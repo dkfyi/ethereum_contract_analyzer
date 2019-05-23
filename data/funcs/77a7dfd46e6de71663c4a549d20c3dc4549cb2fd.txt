@@ -1,0 +1,5 @@
+0x48366de8
+0x50336458
+ideal_warn_timed(uint256,uint128)
+allocateBulkTokens(address[],uint256[])
+allocateTokens(address,uint256)

@@ -1,0 +1,4 @@
+getSender()
+set(uint256)
+get()
+sendMoney()

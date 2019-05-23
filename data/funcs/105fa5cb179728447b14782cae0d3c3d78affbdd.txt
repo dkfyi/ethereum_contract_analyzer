@@ -1,0 +1,17 @@
+ref()
+numberOfBets()
+checkPlayerExists(address)
+playerInfo(address)
+distributePrizes(uint256)
+bet(uint256)
+ideal_warn_timed(uint256,uint128)
+numberWinner()
+0x9dcdc80a
+del()
+minimumBet()
+0xd3dda51c
+0xe08a96cd
+0xe19d2679
+transfer_ownership(address)
+0xf71d96cb
+totalBet()

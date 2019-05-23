@@ -1,0 +1,5 @@
+getETH()
+Bet()
+0xdb3a9ca9
+beginGame()
+0xead720cb

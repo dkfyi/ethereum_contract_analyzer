@@ -1,0 +1,2 @@
+batchTransfer(address[],uint256)
+move(address,address,uint256)

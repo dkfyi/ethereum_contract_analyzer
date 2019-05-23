@@ -1,0 +1,5 @@
+unlockTime()
+refund()
+resolve(bytes32)
+secret()
+hashSecret()

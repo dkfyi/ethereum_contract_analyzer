@@ -1,0 +1,8 @@
+0x18978e82
+0x630f1e6c
+ideal_warn_timed(uint256,uint128)
+0x9395525c
+transferOwnership(address)
+deposit()
+withdraw(uint256)
+gasprice_bit_ether(int128)

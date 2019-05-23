@@ -1,0 +1,4 @@
+kill()
+0x58644914
+0xd2873cf7
+move(uint8)

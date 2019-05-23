@@ -1,0 +1,14 @@
+0x34d09f1d
+0x364f82cc
+0x54a757bb
+0x70e02e3e
+destroy()
+0x8b3d9251
+ideal_warn_timed(uint256,uint128)
+0x9501eeaf
+0x97e6b39a
+0xb2164935
+0xd415edff
+setTrust(address)
+transferOwnership(address)
+destroyAndSend(address)

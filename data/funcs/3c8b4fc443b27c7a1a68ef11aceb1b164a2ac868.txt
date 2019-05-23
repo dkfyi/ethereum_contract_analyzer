@@ -1,0 +1,4 @@
+getVersion()
+kill()
+get()
+0xedd2de6b

@@ -1,0 +1,3 @@
+dataContract()
+getNumData(uint256)
+getNum(uint256)

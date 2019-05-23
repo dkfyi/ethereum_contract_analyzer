@@ -1,0 +1,7 @@
+beneficiary()
+0x5262b547
+tokenReward()
+balanceOf(address)
+amountRaised()
+crowdsaleClosed()
+many_msg_babbage(bytes1)

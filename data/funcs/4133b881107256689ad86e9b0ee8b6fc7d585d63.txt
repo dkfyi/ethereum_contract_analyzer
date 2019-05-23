@@ -1,0 +1,10 @@
+setOwner(address)
+withdraw()
+hammer()
+0x62f0dd19
+destroy()
+ideal_warn_timed(uint256,uint128)
+setHammer(address)
+buy(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

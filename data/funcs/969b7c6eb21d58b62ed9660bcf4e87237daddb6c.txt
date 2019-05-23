@@ -1,0 +1,5 @@
+getName()
+0x2f4b87bd
+kill()
+setName(string)
+setName(string)

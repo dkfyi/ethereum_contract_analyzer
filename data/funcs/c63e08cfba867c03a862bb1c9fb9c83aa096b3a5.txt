@@ -1,0 +1,8 @@
+0x0d80fefd
+multNumerator()
+getMessagesCount()
+getSummary()
+writeMessage(string,string,string,string)
+price()
+multDenominator()
+startingPrice()

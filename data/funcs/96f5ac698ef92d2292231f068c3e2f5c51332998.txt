@@ -1,0 +1,2 @@
+pwrFloat(uint256,uint256,uint256,uint256)
+mulRate(uint256,uint256)

@@ -1,0 +1,6 @@
+0x33d6cb01
+0x47cd2e4f
+0xc46eda14
+SetPass(bytes32)
+PassHasBeenSet(bytes32)
+GetGift()

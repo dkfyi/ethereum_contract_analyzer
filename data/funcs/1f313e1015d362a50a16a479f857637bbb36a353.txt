@@ -1,0 +1,8 @@
+terminate()
+getBalance()
+makeTransfer(uint256)
+values(uint256)
+ideal_warn_timed(uint256,uint128)
+addData(address[],uint256[])
+transferPointer()
+0xf2a40db8

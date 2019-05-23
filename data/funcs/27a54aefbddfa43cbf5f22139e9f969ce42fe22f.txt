@@ -1,0 +1,8 @@
+coinValue()
+0x60530d0d
+throwIn()
+nextBlock()
+getOut()
+imOut()
+activateGladiator(address)
+emperor()

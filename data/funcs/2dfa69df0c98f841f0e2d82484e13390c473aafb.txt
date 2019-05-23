@@ -1,0 +1,8 @@
+0x30d128c1
+0x535fc49d
+burned()
+token_address()
+ideal_warn_timed(uint256,uint128)
+0xb03424f9
+transferOwnership(address)
+burn(address,uint256)

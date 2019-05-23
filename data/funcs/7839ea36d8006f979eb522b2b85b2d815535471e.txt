@@ -1,0 +1,15 @@
+0x3263b545
+0x76637d2f
+0xa941309a
+0xeb48e53c
+Free()
+0x38f8d495
+0x38f8d495
+0xb5552723
+0x38f8d495
+0xb5552723
+Free()
+hatchEggs(address)
+sellEggs()
+getFreeShrimp()
+0x8195f88b

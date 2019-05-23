@@ -1,0 +1,11 @@
+0x39d0f37f
+rand()
+withdraw()
+0x473f0a69
+0x711ad58e
+0x8c4ec5fd
+minBets()
+maxBets()
+0xa6ef8137
+changeOwner(address)
+deposit()

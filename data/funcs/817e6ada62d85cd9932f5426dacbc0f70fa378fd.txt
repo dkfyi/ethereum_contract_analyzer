@@ -1,0 +1,16 @@
+0x21569986
+0x28d8adc3
+0x32f45242
+kill()
+0x60f81359
+0x647f8332
+description()
+ideal_warn_timed(uint256,uint128)
+0xade3c3f6
+transferOwnership(address)
+hash()
+hash()
+hash()
+hash()
+hash()
+hash()

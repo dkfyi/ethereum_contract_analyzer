@@ -1,0 +1,8 @@
+getData(uint256)
+0x482f61d1
+setAdmin(address,bool)
+getDonator(uint256)
+0x7d036b27
+0x90180ba9
+0xc6a91af7
+donate()

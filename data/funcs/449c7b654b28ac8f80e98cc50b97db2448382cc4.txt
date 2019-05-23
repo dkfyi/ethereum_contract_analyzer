@@ -1,0 +1,9 @@
+setCertifierId(address,string)
+certify(bytes32)
+0x5d42b2b9
+certifyMany(bytes32[])
+computeCertHash(address,bytes32)
+ideal_warn_timed(uint256,uint128)
+setCertifierStatus(address,bool)
+revoke(bytes32,address,bool)
+transferOwnership(address)

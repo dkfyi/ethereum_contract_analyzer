@@ -1,0 +1,14 @@
+proposals(uint256)
+0x1d28dec7
+executeProposal(uint256,bytes)
+numProposals()
+debatingPeriodInMinutes()
+ideal_warn_timed(uint256,uint128)
+changeVotingRules(address,uint256)
+0xdfe12c31
+transferOwnership(address)
+token()
+balanceOf(address)
+0x4a501381
+balanceOf(address)
+totalSupply()

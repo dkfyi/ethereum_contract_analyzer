@@ -1,0 +1,8 @@
+endTime()
+0x66f31d0d
+priceFeed()
+startTime()
+0x7e91400f
+price()
+0xb06a5c52
+read()

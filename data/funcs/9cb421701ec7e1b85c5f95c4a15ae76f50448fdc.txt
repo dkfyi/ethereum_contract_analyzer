@@ -1,0 +1,10 @@
+0x1416688c
+0x1dabb59d
+0x36fb1d87
+setCrowdsale(address)
+0x8b90c31e
+ideal_warn_timed(uint256,uint128)
+crowdsale()
+transferOwnership(address)
+kycVerify(address)
+transferOwnership(address)

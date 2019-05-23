@@ -1,0 +1,4 @@
+bid()
+total()
+withdraw()
+controller()

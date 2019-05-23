@@ -1,0 +1,9 @@
+PRIMARY_START_PRICE()
+startTime()
+currentRound()
+ideal_warn_timed(uint256,uint128)
+0x8dc10768
+getCard(uint256)
+STARTING_PRICE()
+buy(uint256)
+cardPrice()

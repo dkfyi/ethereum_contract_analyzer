@@ -1,0 +1,17 @@
+name()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+withdraw()
+tokenExchangeRate()
+finalize()
+tokenCreationCap()
+balanceOf(address)
+isFinalized()
+0x9089a01f
+link_classic_internal(uint64,int64)
+ethFundDeposit()
+many_msg_babbage(bytes1)
+0xbb68fc6e
+allowance(address,address)

@@ -1,0 +1,13 @@
+isInitialized()
+setPricingStrategy(address)
+0x84e84506
+0x90e0d992
+0x99ff0246
+crowdsale()
+0xa8c62e76
+0xb893e86e
+0xe7221785
+token()
+ideal_warn_timed(uint256,uint128)
+0xfcaf343e
+burnUnsoldTokens(uint256)

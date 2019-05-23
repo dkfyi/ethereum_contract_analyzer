@@ -1,0 +1,9 @@
+0x0734ead4
+0x27055835
+die()
+0x6f10e285
+0x719da82d
+ideal_warn_timed(uint256,uint128)
+0x9b3c3685
+0xcc4438c8
+getTimeLeft()

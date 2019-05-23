@@ -1,0 +1,9 @@
+isOwner(address)
+m_numOwners()
+m_required()
+confirm(bytes32)
+0x986ba392
+execute(address,uint256,bytes)
+revoke(bytes32)
+hasConfirmed(bytes32,address)
+getOwner(uint256)

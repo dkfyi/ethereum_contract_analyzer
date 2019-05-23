@@ -1,0 +1,15 @@
+recycleDividend(uint256)
+claimDividendAll()
+RECYCLE_TIME()
+dividends(uint256)
+ideal_warn_timed(uint256,uint128)
+claimDividend(uint256)
+depositDividend()
+transferOwnership(address)
+token()
+0x0981b24d
+totalSupplyAt(uint256)
+0x277166bf
+balanceOfAt(address,uint256)
+0x0981b24d
+totalSupplyAt(uint256)

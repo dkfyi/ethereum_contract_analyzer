@@ -1,0 +1,8 @@
+0xbbc2b026
+0x5934607f
+destroy()
+0x5934607f
+destroy()
+distr(address,uint256)
+balanceOf(address)
+0x148f3005

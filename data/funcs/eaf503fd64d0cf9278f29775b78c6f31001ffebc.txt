@@ -1,0 +1,17 @@
+name()
+0x31e838dd
+getItem(uint256,uint256)
+0x5e5c06e2
+withdrawEther()
+withdrawToken(address)
+ideal_warn_timed(uint256,uint128)
+getAccountItems(address,uint256)
+register(bytes32,address,bytes32,bytes32,bytes32)
+registerItem(uint256,uint256,bytes32,bytes32,bytes32)
+isRegistered(address)
+0xdc715d1b
+hasItem(uint256,uint256)
+transferOwnership(address)
+getAccount(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

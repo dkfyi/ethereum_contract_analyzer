@@ -1,0 +1,8 @@
+0x071f0eff
+index()
+0xb20e06e0
+init(uint256)
+isReadyToBreed(uint256)
+giveBirth(uint256)
+isReadyToBreed(uint256)
+giveBirth(uint256)

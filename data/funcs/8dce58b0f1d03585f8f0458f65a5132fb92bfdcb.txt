@@ -1,0 +1,4 @@
+0x42ba518b
+0x7ecc64dd
+0x87a3d555
+lookup(string)

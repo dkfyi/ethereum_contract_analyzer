@@ -1,0 +1,8 @@
+deauthorize(address)
+isWhitelisted(address)
+removeFromWhitelist(address)
+ideal_warn_timed(uint256,uint128)
+authorize(address)
+0xb9181611
+addToWhitelist(address)
+transferOwnership(address)

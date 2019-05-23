@@ -1,0 +1,9 @@
+withdraw(uint256)
+kill()
+buyTicket(uint256)
+0xada0c09c
+0xc6942f97
+checkBalance()
+checkOwner()
+0xe3862f1c
+0xeaf737a4

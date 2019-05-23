@@ -1,0 +1,14 @@
+ticketPrice()
+Prizes()
+Information()
+balances(address)
+contractEnabled()
+OwnerCloseContract()
+BuyTickets()
+GetPrize()
+Details()
+PrepareDraw()
+Draw()
+OwnerGetFee()
+0xfc05fc01
+0x571cb540

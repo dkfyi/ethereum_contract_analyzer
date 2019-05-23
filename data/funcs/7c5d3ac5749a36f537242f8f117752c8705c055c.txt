@@ -1,0 +1,6 @@
+kill()
+update()
+0xa5298d54
+ETHXBT()
+0x4c773795
+query(uint256,string,string)

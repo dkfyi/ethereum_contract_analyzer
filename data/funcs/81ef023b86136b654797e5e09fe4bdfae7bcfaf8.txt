@@ -1,0 +1,7 @@
+getPlanetOwners(uint256,uint256)
+getGalaxy(uint256)
+getGalaxies()
+getTypeFromIndex(uint256,uint256)
+editPlanet(uint256,uint256,string,string)
+getPlanetDetails(uint256,uint256)
+generateDna(uint256[])

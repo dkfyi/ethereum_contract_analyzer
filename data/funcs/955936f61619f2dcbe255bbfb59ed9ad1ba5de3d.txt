@@ -1,0 +1,14 @@
+0x16a06b99
+kill()
+0x45b1d818
+finalize()
+0x8198c029
+actualPrice()
+finalized()
+0xc514b6af
+0xc6cef0ad
+token()
+many_msg_babbage(bytes1)
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

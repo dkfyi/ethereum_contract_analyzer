@@ -1,0 +1,3 @@
+setup(address)
+0x78600a4f
+something()

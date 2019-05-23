@@ -1,0 +1,10 @@
+proposals(uint256)
+0x046fe40d
+0x08adc095
+0x14db827b
+0x2a0ce574
+chairperson()
+0x580a111a
+0x5d8abde4
+proposalsRank()
+winnerName()

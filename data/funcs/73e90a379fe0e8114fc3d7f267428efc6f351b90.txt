@@ -1,0 +1,14 @@
+name()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+balanceOf(address)
+decimal()
+mintToken(address,uint256)
+link_classic_internal(uint64,int64)
+0x9c681f86
+0xa458e34f
+many_msg_babbage(bytes1)
+0xb39e12cf
+allowance(address,address)
+0xc4a11628

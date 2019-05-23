@@ -1,0 +1,17 @@
+0x0749469f
+0x0cb08716
+amountOfTokens()
+setTokenAddress(address)
+0x57fa580e
+airdrop(address[])
+ideal_warn_timed(uint256,uint128)
+airdropTokens()
+remainingTokens()
+totalClaimed()
+reset()
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

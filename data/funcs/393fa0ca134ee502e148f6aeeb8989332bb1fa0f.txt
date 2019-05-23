@@ -1,0 +1,6 @@
+name()
+0x0a5b0c7d
+kill()
+balanceOf(address)
+decimal()
+link_classic_internal(uint64,int64)

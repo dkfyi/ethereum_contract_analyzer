@@ -1,0 +1,6 @@
+getContract(string)
+updateContract(string,address)
+authorize(string,address)
+removeContract(string)
+addContract(string,address)
+setAuthorizedContract(string,address,bool)

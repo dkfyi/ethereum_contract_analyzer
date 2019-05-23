@@ -1,0 +1,8 @@
+0x5cda4b41
+0x799e5765
+0xe2129205
+allowance(address,address)
+approve(address,uint256)
+convert(address,address,uint256,uint256)
+trade(address,uint256,address,address,uint256,uint256,address)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)

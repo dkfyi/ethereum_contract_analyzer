@@ -1,0 +1,4 @@
+leggiMsg(uint256)
+aggiungiMsg(string)
+kill()
+totaleMsg()

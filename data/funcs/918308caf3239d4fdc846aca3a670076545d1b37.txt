@@ -1,0 +1,17 @@
+0x8b70202d
+0xb8731b4e
+0xc690908a
+0xdb247f7f
+0xf2df0ca4
+0xf73082ce
+getAuctionIndex(address,address)
+getCurrentAuctionPrice(address,address,uint256)
+getAuctionIndex(address,address)
+deposit()
+deposit(address,uint256)
+postBuyOrder(address,address,uint256,uint256)
+claimBuyerFunds(address,address,address,uint256)
+withdraw(address,uint256)
+trade(address,uint256,address,address,uint256,uint256,address)
+approve(address,uint256)
+getExpectedRate(address,address,uint256)

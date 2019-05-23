@@ -1,0 +1,10 @@
+investment(address)
+stake(address)
+withdraw(uint256)
+0x392efb52
+claim()
+dividendsForUser(address)
+totalStake()
+deposit()
+startGame()
+reinvest()

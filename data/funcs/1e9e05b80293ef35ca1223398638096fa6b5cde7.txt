@@ -1,0 +1,9 @@
+rate()
+0x33868b8f
+weiRaised()
+wallet()
+transferOwnershipToken(address)
+buyTokens(address)
+token()
+transferOwnership(address)
+mint(address,uint256)

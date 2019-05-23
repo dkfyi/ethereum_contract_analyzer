@@ -1,0 +1,7 @@
+getBalance()
+withdraw()
+isClient(address)
+setPrice(uint256)
+getPrice()
+buy()
+getCount()

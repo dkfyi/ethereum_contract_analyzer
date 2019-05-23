@@ -1,0 +1,4 @@
+0x7909947a
+set(uint256)
+get()
+die()

@@ -1,0 +1,13 @@
+kill()
+0x4d9a4af7
+0x837a43a3
+0x84a6ff15
+0x84f0a7cb
+0x9dd3af1c
+0xaac3b632
+0xd321181e
+0xec85a928
+empty()
+0xf7f30387
+setOwner(uint8,uint8,address)
+farmTile(uint8,uint8,int8)

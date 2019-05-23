@@ -1,0 +1,15 @@
+0x04864939
+setToken(address)
+isInitialized()
+0x45cddafa
+tokensAvailable()
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+allocate(address,uint256)
+newOwner()
+0xdd1e2e0f
+transferOwnership(address)
+token()
+0x9c7beb8a
+availableTokens()
+mint(address,uint256)

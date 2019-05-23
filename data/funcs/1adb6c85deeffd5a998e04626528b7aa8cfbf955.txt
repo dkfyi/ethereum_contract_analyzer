@@ -1,0 +1,4 @@
+0x97242dbf
+owned()
+0x6625281b
+transferOwnership(address)

@@ -1,0 +1,6 @@
+GetOwner()
+SetOwner(address)
+GetMoney(uint256,address)
+SetBigContract(address)
+UniversalFunctionSecure(uint8,bytes32,bytes32,bytes32,bytes32,bytes32)
+UniversalFunction(uint8,bytes32,bytes32,bytes32,bytes32,bytes32)

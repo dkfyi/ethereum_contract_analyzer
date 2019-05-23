@@ -1,0 +1,13 @@
+eggPrice()
+unpause()
+eggsSold()
+bulkPurchageEgg()
+paused()
+pause()
+ideal_warn_timed(uint256,uint128)
+purchaseEgg()
+INCREASE_RATE()
+withdrawal()
+0xe5cbcebd
+redeemEgg(address)
+transferOwnership(address)

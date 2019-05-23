@@ -1,0 +1,10 @@
+getKittyGetOrNot(address)
+birthKitty()
+getKittyCount(address)
+0x5f4623f1
+createKitties()
+0xcb67ce04
+getKitties()
+balanceOf(address)
+CreateKittyToken(address,uint256,uint32)
+balanceOf(address)

@@ -1,0 +1,3 @@
+kill()
+getDigit()
+0xecfc0073

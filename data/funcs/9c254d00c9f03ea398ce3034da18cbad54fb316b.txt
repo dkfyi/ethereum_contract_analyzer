@@ -1,0 +1,15 @@
+0x1f281fc5
+isdelegatinglisted(address)
+revoke(address)
+0x7b977a70
+getIndex(bytes32)
+authorizeMany(address[50])
+0x8b9bbbcd
+0x91da665c
+0x9b75e747
+0xadbd74cb
+0xb07ff8eb
+authorize(address)
+0xd82d8d03
+0xda3a4235
+0xec244370

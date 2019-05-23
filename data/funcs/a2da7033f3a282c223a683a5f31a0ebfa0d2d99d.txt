@@ -1,0 +1,9 @@
+totalInvestors()
+getPercent()
+withdraw()
+0x7a320e8a
+totalDeposits()
+0x804fed28
+destroy()
+0x8aac1362
+balance(address)

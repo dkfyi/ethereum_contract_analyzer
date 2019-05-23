@@ -1,0 +1,8 @@
+minter()
+balances(address)
+changeMinter(address)
+getMyBalance()
+0x785d04f5
+mint(uint256)
+getMinter()
+getBalance(address)

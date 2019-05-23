@@ -1,0 +1,2 @@
+0x0fe2028e
+registerEOSAddress(string)

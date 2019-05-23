@@ -1,0 +1,5 @@
+addPersonalCap(address,uint256)
+withdraw()
+addPersonalCaps(address[],uint256)
+getTotalCap()
+getCap(address)

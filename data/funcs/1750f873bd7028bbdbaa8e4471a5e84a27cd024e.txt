@@ -1,0 +1,8 @@
+0x2134c4a2
+0x2a601df3
+0x3b54f406
+0x5607c881
+0x7aa43415
+getTokenData(uint256)
+encodeString(string)
+0xea59beee

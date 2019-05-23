@@ -1,0 +1,12 @@
+withdraw()
+num()
+0x5a34d356
+0x67b8c2a9
+0x74bad8b6
+ideal_warn_timed(uint256,uint128)
+0xa28b749a
+balance()
+setSeed(uint256)
+0x8c09bfdc
+approve(address,uint256)
+0x5b208f76

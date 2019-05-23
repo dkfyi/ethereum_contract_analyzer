@@ -1,0 +1,7 @@
+0x1432a7da
+accept(address)
+0xa8ecc7f1
+reject(address)
+setManager(address)
+isAccepted(address)
+0x6c9cd097

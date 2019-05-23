@@ -1,0 +1,6 @@
+pizza_mandate_apology(uint256)
+name()
+0x4ccf9e93
+0x6f2436cc
+description()
+0xd66d6c10

@@ -1,0 +1,13 @@
+withdrawToken(uint256)
+depositToken(uint256)
+balanceOf(address)
+tokenAddress()
+unlock()
+0xbdfe4eba
+tokenBalance(address)
+transferOwnership(address)
+0xf4c68cdb
+lock()
+admin()
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

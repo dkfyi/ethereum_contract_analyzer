@@ -1,0 +1,7 @@
+shouldRevertPure(bool)
+shouldRevertWithReturn(bool)
+error()
+shouldRevert(bool)
+report(string)
+report(string)
+report(string)

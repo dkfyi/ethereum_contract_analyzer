@@ -1,0 +1,16 @@
+0x098e356b
+register()
+0x365a86fc
+unpause()
+isUser(address)
+paused()
+setProvenance(address,uint256)
+renounceOwnership()
+destroy()
+pause()
+ideal_warn_timed(uint256,uint128)
+0xa87430ba
+provenanceOf(address)
+transferOwnership(address)
+destroyAndSend(address)
+0xb4c28ead

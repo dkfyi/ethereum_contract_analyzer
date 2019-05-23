@@ -1,0 +1,10 @@
+txFeeCapInWei()
+setCrowdsale(address)
+txFeeDenominator()
+crowdsale()
+ethFundsWallet()
+0xc641bf97
+0xde59fbb8
+txFeeSentInWei()
+staffContract()
+ideal_warn_timed(uint256,uint128)

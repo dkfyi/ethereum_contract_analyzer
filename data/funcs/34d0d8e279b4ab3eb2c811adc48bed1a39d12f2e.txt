@@ -1,0 +1,13 @@
+0x0ac37bd6
+0x1752b686
+authorityAddress()
+renounceOwnership()
+0x8b3f92de
+ideal_warn_timed(uint256,uint128)
+0xa3b1f60f
+0xb1fce1d4
+0xc709b4e7
+0xd75c4abf
+0xdc7b0ae6
+transferOwnership(address)
+0xfc21e167

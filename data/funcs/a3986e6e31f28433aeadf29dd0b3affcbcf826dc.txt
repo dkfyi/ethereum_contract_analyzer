@@ -1,0 +1,9 @@
+0x06ae19a2
+0x076aec33
+returnFunds()
+0xaef18bf7
+getDocument(bytes32)
+getLatest()
+documentExists(bytes32)
+0xe18129fb
+0xed26bceb

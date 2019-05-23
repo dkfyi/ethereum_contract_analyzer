@@ -1,0 +1,7 @@
+0x420b3240
+0x738260aa
+0x80d8c98f
+suicide(address)
+sharesAddress()
+withdraw(address,uint256)
+0x71ccd728

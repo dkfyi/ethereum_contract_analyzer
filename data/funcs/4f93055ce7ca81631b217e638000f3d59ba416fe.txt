@@ -1,0 +1,12 @@
+0x0be40570
+totalSupply()
+claim(address)
+0x34a1ca89
+0x5339eac4
+addressList(uint256)
+claimAll()
+balance(address)
+0xe660cc08
+tokenBalance(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

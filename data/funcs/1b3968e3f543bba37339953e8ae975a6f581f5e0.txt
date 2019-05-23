@@ -1,0 +1,6 @@
+0x19a9162d
+setupAmbi2(address)
+0xec3b7b78
+ambi2()
+claimFor(address,address)
+hasRole(address,bytes32,address)

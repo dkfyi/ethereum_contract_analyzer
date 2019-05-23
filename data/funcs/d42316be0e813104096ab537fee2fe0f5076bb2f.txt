@@ -1,0 +1,8 @@
+isCompetitionAllowed(address)
+isInvestmentPermitted(address,uint256,uint256)
+removeFromWhitelist(address)
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+isRedemptionPermitted(address,uint256,uint256)
+addToWhitelist(address)
+getManager()

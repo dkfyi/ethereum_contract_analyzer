@@ -1,0 +1,5 @@
+0x0ad991b0
+0x11a512d8
+0x31f11a28
+0x5b210e81
+getReportCount()

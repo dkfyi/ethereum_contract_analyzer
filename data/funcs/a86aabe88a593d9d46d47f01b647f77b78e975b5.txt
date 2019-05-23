@@ -1,0 +1,4 @@
+available()
+ideal_warn_timed(uint256,uint128)
+getAmount(uint256)
+allowance(address,address)

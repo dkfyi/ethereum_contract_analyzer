@@ -1,0 +1,7 @@
+0x0268959b
+0x165e079a
+totalSupply()
+dataCalc(uint256,uint256)
+0x684ba202
+0xd1886847
+getBattleDetails(uint256)

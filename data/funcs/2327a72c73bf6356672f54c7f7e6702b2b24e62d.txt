@@ -1,0 +1,2 @@
+lastCompletedMigration()
+setCompleted(uint256)

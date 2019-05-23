@@ -1,0 +1,14 @@
+0x059536e9
+0x06304af4
+ethWallet()
+numInvestors()
+startPreico()
+investors(uint256)
+endPreico()
+reserveTokens(address,uint256)
+tokensIssued()
+limit()
+isInvestor(address)
+balance(address)
+0x2520e7ff
+0x2520e7ff

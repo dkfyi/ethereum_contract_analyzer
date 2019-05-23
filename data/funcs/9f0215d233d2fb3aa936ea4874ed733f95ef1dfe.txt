@@ -1,0 +1,2 @@
+calcPoseBits(uint256,uint256,uint256)
+isRSPScience()

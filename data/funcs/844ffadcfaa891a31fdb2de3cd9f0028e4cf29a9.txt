@@ -1,0 +1,14 @@
+name()
+0x2db16957
+0x520835e8
+0x63a41ee3
+0x8b5026a0
+ideal_warn_timed(uint256,uint128)
+0xc319ec63
+0xd23004b9
+0xd4229020
+0xe4a091fc
+0xe5e188d0
+transferOwnership(address)
+0xf4b8b691
+0x616e6e6f

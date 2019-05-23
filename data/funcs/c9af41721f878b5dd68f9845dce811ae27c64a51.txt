@@ -1,0 +1,10 @@
+creator()
+rate()
+beneficiary()
+totalSupplied()
+0x948432b5
+stage()
+confirmedBy()
+maxSupply()
+purchasingAllowed()
+many_msg_babbage(bytes1)

@@ -1,0 +1,10 @@
+Donate(string)
+CONTRACT_VERSION()
+URL()
+CAUSE()
+CONTRACT_NAME()
+TransferOwner(address)
+Terminate()
+QUOTE()
+0xd9b66890
+IsOwner(address)

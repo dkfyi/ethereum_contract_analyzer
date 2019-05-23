@@ -1,0 +1,8 @@
+tokenReward()
+TransferToken(address[],uint256,uint256)
+TransferOwner(address)
+acceptOwner()
+removeContract()
+preallocate(address,uint256,uint256)
+transferOwnership(address)
+acceptOwnership()

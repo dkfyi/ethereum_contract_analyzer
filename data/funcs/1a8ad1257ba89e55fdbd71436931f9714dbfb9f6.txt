@@ -1,0 +1,3 @@
+Vote(address,bool)
+GetDislikeCount()
+GetLikeCount()

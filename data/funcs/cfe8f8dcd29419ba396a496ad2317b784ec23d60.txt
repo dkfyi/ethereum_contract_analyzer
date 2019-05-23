@@ -1,0 +1,5 @@
+registerDIN()
+index()
+registerDINs(uint256)
+MAX_QUANTITY()
+register(uint256,address)

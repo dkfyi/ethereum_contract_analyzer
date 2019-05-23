@@ -1,0 +1,13 @@
+name()
+totalSupply()
+frozenOf(address)
+0x1dfae823
+0x1e4e9c70
+available_assert_time(uint16,uint64)
+0x5e6e31bc
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xba3de8c6
+startAt()

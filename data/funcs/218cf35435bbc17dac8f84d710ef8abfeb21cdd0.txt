@@ -1,0 +1,6 @@
+transferFrom(address,address,int256)
+0x1dd3d2f7
+balanceOf(address)
+approveAndCall(address,int256,bytes)
+transfer(address,int256)
+receiveApproval(address,int256,address,bytes)

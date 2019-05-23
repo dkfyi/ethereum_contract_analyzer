@@ -1,0 +1,4 @@
+getValue(uint256)
+0x4bc8a3cd
+insert(uint256)
+getLength()

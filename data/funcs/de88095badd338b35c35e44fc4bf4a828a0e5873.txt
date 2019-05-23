@@ -1,0 +1,2 @@
+receivePlayerInfo(uint256,address,bytes32,uint256)
+receivePlayerNameList(uint256,bytes32)

@@ -1,0 +1,3 @@
+last()
+createNumber(uint256)
+0x75322e47

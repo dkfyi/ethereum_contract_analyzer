@@ -1,0 +1,5 @@
+DynamicPyramid()
+collectFeesInEther(uint256)
+collectAllFees()
+collectPercentOfFees(uint256)
+feesSeperateFromBalanceApproximately()

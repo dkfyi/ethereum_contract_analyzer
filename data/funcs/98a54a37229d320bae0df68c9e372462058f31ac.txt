@@ -1,0 +1,8 @@
+awardHighScore()
+getCurrentHighscoreUser()
+payEntryFee()
+recordHighScore(uint256,address)
+ideal_warn_timed(uint256,uint128)
+getCurrentJackpot()
+getCurrentHighscore()
+getNextPayoutEstimation()

@@ -1,0 +1,7 @@
+0x021f9940
+0x199775cb
+version()
+0x777af3d9
+tokenFallback(address,uint256,bytes)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

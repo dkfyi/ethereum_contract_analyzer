@@ -1,0 +1,8 @@
+IsCheckNeeded(uint256,uint256)
+LastResult(address,uint8,uint256)
+State(address[])
+Remove()
+ProcessRooms()
+Plenum(uint8,uint256)
+0xa9f47e0e
+0x2faf0800

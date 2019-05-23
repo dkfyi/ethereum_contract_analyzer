@@ -1,0 +1,10 @@
+isValidSignature(address,bytes32,uint8,bytes32,bytes32)
+0x88d81b79
+0x8de7a738
+0x91df4b53
+0xa2ffc9dd
+0xcee4f70b
+0xd64dc1dc
+0xdb8ab7b1
+0xef353be5
+0xf3f9df0e

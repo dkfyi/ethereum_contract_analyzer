@@ -1,0 +1,9 @@
+name()
+totalContribution()
+cost()
+0x2814136d
+getInfo()
+ideal_warn_timed(uint256,uint128)
+king()
+message()
+withdraw(address,uint256)

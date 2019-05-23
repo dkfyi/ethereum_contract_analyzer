@@ -1,0 +1,4 @@
+withdraw()
+getInfo()
+invest()
+transferOwnership(address)

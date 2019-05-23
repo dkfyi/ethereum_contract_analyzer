@@ -1,0 +1,11 @@
+0x4432776f
+companyWallet()
+myAddress()
+0x4773703c
+0x6f7bc9be
+0x9d16774c
+changeManager(address)
+erc20Contract()
+0xcc4320b4
+0xd74457e9
+addInvestor(address,uint256)

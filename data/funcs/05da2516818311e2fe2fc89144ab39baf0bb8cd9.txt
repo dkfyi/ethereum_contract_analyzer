@@ -1,0 +1,5 @@
+withdraw()
+0x85295877
+attack()
+master()
+newTransfer(bool,address,address,uint256,uint256,uint256)

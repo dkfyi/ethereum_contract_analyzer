@@ -1,0 +1,7 @@
+getData(bytes32)
+version()
+0x676edfa4
+setFee(uint256)
+getReceipt(address,uint256)
+0xd449cc81
+fee()

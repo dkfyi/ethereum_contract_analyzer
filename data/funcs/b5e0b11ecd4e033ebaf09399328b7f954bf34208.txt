@@ -1,0 +1,12 @@
+0x10643edc
+getActiveFlagRate(uint16)
+setRate(uint256)
+withdraw()
+getActiveFlag(uint16)
+getCountrySpots(uint16)
+getRate()
+regSpots(uint16,uint16,bytes32)
+getWithdrawBalance()
+ideal_warn_timed(uint256,uint128)
+getCompletedFlag(uint16,uint16)
+transferOwnership(address)

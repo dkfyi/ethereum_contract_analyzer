@@ -1,0 +1,13 @@
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+0x3817c86c
+burn(uint256)
+decreaseApproval(address,uint256)
+0x6bd1c0eb
+balanceOf(address)
+burnFrom(address,uint256)
+many_msg_babbage(bytes1)
+increaseApproval(address,uint256)
+allowance(address,address)
+0xc4e7a225

@@ -1,0 +1,6 @@
+0x13d18f53
+getTokenBalance(address)
+standardToken()
+0x755b2110
+balanceOf(address)
+many_msg_babbage(bytes1)

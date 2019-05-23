@@ -1,0 +1,7 @@
+authorizeAddress(address)
+0x5cadd08d
+0x66f40931
+ideal_warn_timed(uint256,uint128)
+0xb48028e3
+0xd288034f
+transferOwnership(address)

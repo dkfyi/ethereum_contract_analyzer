@@ -1,0 +1,11 @@
+signTransaction(uint256)
+isSigner(address)
+0x86c69af8
+safeMode()
+0xcf9cd8f8
+0xd0e85f37
+getPendingTransactions()
+activateSafeMode()
+many_msg_babbage(bytes1)
+balanceOf(address)
+balanceOf(address)

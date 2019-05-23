@@ -1,0 +1,10 @@
+0x01b226ee
+getGuestNotesInfo(bytes32)
+round()
+generateWinNumber()
+getNumbers()
+getWinNumbers(uint256)
+0xd1ed74ad
+0xf5e202c4
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

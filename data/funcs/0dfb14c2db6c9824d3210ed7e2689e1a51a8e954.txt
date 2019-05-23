@@ -1,0 +1,13 @@
+withdraw()
+weth()
+burn(uint256)
+tokenValue(address)
+marketAddress()
+getPrice()
+mint(uint256)
+0xcbf9fe5f
+deposit()
+tokenBalance(address)
+dai()
+getBestOffer(address,address)
+getOffer(uint256)

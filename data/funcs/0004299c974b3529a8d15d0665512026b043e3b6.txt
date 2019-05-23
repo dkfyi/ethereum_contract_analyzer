@@ -1,0 +1,15 @@
+advisor()
+rate()
+setRate(uint256)
+cap()
+weiRaised()
+capReached()
+wallet()
+ideal_warn_timed(uint256,uint128)
+0xaa17f0cd
+0xc084b40d
+developer()
+buyTokens(address)
+transferOwnership(address)
+token()
+mint(address,uint256)

@@ -1,0 +1,8 @@
+0x3457f896
+kill()
+0x68b39923
+0xb38a4a49
+0xc79e7eb6
+0xd2873cf7
+0xe5949626
+playerRollDice(uint256)

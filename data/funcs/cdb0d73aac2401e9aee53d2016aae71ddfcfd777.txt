@@ -1,0 +1,10 @@
+getCertifiedStudentsCount()
+0x25f2eefd
+0x373a7fb4
+certify(address,bytes32)
+isCertified(address)
+ideal_warn_timed(uint256,uint128)
+0xa9068f86
+getCertification(address)
+getCertifiedStudentAtIndex(uint256)
+transferOwnership(address)

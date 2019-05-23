@@ -1,0 +1,11 @@
+MTUV1()
+Migrate()
+RegistryAddress()
+0xa2e7361c
+SendEtherToAsset(uint256)
+CollectERC20(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)
+getAddr(string)
+balanceOf(address)

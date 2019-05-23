@@ -1,0 +1,15 @@
+getBalance()
+holders(uint256)
+0x2d97902f
+0x586abc5a
+0x734d13b8
+contractBalance()
+0x8e2ea3aa
+0x95bc20ea
+0x9dbb616f
+buyTickets()
+lotteryStart()
+resetLottery()
+winner()
+0xe5da378f
+0xfb5274e5

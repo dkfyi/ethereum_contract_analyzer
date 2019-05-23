@@ -1,0 +1,12 @@
+0xb1ce8eab
+0xb1ce8eab
+initiateOwnershipTransfer(address)
+proposedOwner()
+completeOwnershipTransfer()
+0xea6790cf
+admin()
+0x4048a257
+setAdmin(address)
+0x7860bb6e
+ideal_warn_timed(uint256,uint128)
+isWorker(address)

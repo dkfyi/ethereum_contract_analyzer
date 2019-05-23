@@ -1,0 +1,10 @@
+kill()
+noop()
+renounceOwnership()
+0x882dacfc
+ideal_warn_timed(uint256,uint128)
+setProcessingFee(uint256)
+transfer(address,address,uint256)
+processingFee()
+transferOwnership(address)
+many_msg_babbage(bytes1)

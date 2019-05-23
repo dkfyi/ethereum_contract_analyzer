@@ -1,0 +1,15 @@
+0x0a9bfef5
+0x259f5528
+withdraw(uint256)
+ownerWithdraw(uint256)
+0x3c0848bf
+0x3f52a39e
+kill()
+0x514cd730
+0x72a3c3db
+0x8513358b
+setMinimumBet(uint256)
+minBet()
+0xa2eeb6c0
+checkBalance()
+contractOwner()

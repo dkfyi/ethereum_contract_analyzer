@@ -1,0 +1,7 @@
+tkn()
+destroyMe()
+setAmount(uint256)
+ideal_warn_timed(uint256,uint128)
+amountToTransfer()
+sendTokens(address[])
+many_msg_babbage(bytes1)

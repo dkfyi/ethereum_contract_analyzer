@@ -1,0 +1,6 @@
+kill()
+0x51958a56
+0x7a4b7aa7
+0xc2ff12fc
+balanceOf(address)
+many_msg_babbage(bytes1)

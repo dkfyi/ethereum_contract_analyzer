@@ -1,0 +1,6 @@
+addDataRequest(string)
+destroy()
+getDataRequest(uint256)
+addDataPoint(uint256,bool,string)
+getDataPoint(uint256,uint256)
+getDataRequestLength()

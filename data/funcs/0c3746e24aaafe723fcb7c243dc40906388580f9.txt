@@ -1,0 +1,4 @@
+getBalance()
+kill()
+0xb173eb36
+isAuthorized(address)

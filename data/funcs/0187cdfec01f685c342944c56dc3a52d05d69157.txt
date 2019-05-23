@@ -1,0 +1,4 @@
+initialized()
+init()
+token()
+mint(address,uint256)

@@ -1,0 +1,17 @@
+convertWeiToTokens(uint256)
+weiRaised()
+icoState()
+0x486349f2
+hardCapTokens()
+endICO()
+tokensSold()
+startICO()
+0x8c4280e4
+token_address()
+ideal_warn_timed(uint256,uint128)
+0x9c84cdd6
+0xdd418ae2
+MAX_GAS_PRICE()
+wallet_address()
+transferOwnership(address)
+gasprice_bit_ether(int128)

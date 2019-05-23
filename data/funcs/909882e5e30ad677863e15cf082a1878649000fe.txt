@@ -1,0 +1,7 @@
+count()
+killContract()
+attack()
+deposit()
+0xd7e31b80
+Collect(uint256)
+Collect(uint256)

@@ -1,0 +1,12 @@
+destroy_time()
+WithdrawAll(address)
+Bet(uint256,string)
+MatchEnd(uint256,string)
+kill()
+MatchResetDeadline(uint256,uint256)
+AddMatch(string,string,uint256)
+CreatorWithdrawAll()
+Withdraw(uint256,address)
+0x93ceddb0
+GetMatchLength()
+GetDetail(address)

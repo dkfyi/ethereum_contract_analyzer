@@ -1,0 +1,6 @@
+currentMultiplier()
+participantDetails(uint256)
+totalParticipants()
+numberOfParticipantsWaitingForPayout()
+transferAnyERC20Token(address,uint256)
+many_msg_babbage(bytes1)

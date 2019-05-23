@@ -1,0 +1,2 @@
+transferIfHF(address)
+transferIfNoHF(address)

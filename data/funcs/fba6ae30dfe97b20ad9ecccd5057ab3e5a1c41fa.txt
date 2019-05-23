@@ -1,0 +1,6 @@
+niceGuys(uint256)
+payoutIndex()
+currentNiceGuyIndex()
+investors(uint256)
+currentNiceGuy()
+investorIndex()

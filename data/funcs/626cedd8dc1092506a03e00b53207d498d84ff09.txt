@@ -1,0 +1,15 @@
+recoveryAfterPeriod()
+ticketPrice()
+0x18a32e70
+beneficiary()
+0x3996199e
+WITHDRAWAL_TRIGGER_AMOUNT()
+tickets(uint256)
+0x7d4f189f
+0x951504c5
+0xb20103da
+0xb39eb624
+0xb8530b74
+buyTickets()
+0xd3033bb8
+winner()

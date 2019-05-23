@@ -1,0 +1,4 @@
+balance()
+test()
+balanceOf(address)
+batchTransfer(address[],uint256[])

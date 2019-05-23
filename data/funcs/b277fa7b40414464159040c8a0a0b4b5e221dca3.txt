@@ -1,0 +1,6 @@
+0x6318dd4f
+getTimestamp(bytes32)
+notaryBookSize()
+notarize(bytes32,uint256)
+transferOwnership(address)
+isNotarized(bytes32)

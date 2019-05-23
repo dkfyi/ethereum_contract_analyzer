@@ -1,0 +1,11 @@
+0x03e13922
+close()
+closed()
+0x7125493b
+0x78c508cf
+0x9a37698e
+erc20Contract()
+minimumAmount()
+balanceOf(address)
+allowance(address,address)
+gasprice_bit_ether(int128)

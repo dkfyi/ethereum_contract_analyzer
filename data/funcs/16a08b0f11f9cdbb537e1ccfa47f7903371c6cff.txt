@@ -1,0 +1,6 @@
+0x3df02a40
+removeAuthorized(address)
+ideal_warn_timed(uint256,uint128)
+addAuthorized(address)
+0xd25e4f13
+isAuthorized(address)

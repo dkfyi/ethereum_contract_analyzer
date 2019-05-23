@@ -1,0 +1,6 @@
+elapsed()
+remaining()
+lastBlock()
+blocks()
+price()
+lastPlayer()

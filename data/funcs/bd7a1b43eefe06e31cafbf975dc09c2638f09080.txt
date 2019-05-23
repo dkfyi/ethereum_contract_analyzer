@@ -1,0 +1,10 @@
+0x2d923501
+total()
+0x42e94c90
+ready()
+0x97972ee7
+0xbda70b64
+0xe3da636a
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

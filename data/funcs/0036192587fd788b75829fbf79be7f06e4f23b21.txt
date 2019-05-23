@@ -1,0 +1,7 @@
+upgradeTo(address)
+upgradeToAndCall(address,bytes)
+implementation()
+changeAdmin(address)
+0xa45fee5b
+admin()
+0x6f6e7472

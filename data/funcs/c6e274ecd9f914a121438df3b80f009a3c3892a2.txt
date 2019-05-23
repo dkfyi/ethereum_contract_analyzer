@@ -1,0 +1,8 @@
+active()
+setOwner(address)
+kill()
+contestant(uint256)
+idx()
+ideal_warn_timed(uint256,uint128)
+Current_balance()
+enter()

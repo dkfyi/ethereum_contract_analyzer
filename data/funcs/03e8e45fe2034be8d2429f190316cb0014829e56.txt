@@ -1,0 +1,10 @@
+proposals(uint256)
+executeProposal(uint256)
+newProposal(address,uint256,bytes32,string)
+debatingPeriod()
+numProposals()
+kill()
+founder()
+vote(uint256,int256)
+minimumQuorum()
+0xfd46146a

@@ -1,0 +1,8 @@
+teamsCreatedCount()
+buyTeam(uint256)
+0x110dbc73
+ownerOf(uint256)
+balanceOf(address)
+NAME()
+creatorAddress()
+SYMBOL()

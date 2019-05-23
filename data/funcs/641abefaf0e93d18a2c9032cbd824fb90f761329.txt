@@ -1,0 +1,8 @@
+isOwner(address)
+m_numOwners()
+m_lastDay()
+m_spentToday()
+m_required()
+hasConfirmed(bytes32,address)
+getOwner(uint256)
+m_dailyLimit()

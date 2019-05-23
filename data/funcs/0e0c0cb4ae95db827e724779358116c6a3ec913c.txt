@@ -1,0 +1,12 @@
+0x2f9dbef8
+kill()
+0x7d5cbea9
+0x80cc8294
+0xd2873cf7
+getCountryOwnershipList()
+len(address)
+len(address)
+attackCountry(uint8)
+getCountryOwnershipList()
+getCountryOwnershipList()
+buyCountry(uint8)

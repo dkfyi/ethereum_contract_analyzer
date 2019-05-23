@@ -1,0 +1,7 @@
+0x0ecc3912
+0x5479f98b
+0x7d0f7a88
+sendCoin(address,uint256)
+setInfo(string)
+coinBalanceOf(address)
+coinBalance()

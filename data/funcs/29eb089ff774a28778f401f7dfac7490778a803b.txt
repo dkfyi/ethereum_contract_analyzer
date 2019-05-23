@@ -1,0 +1,16 @@
+name()
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+setFreezeOut(address[],bool)
+setNameSymbol(string,string)
+version()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+0x9cf568c6
+many_msg_babbage(bytes1)
+setFreezeIn(address[],bool)
+0xb81180a3
+allowance(address,address)
+transferOwnership(address)

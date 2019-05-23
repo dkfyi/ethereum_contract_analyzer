@@ -1,0 +1,5 @@
+0xb298247e
+owned()
+mintTokens(uint256)
+transferOwnership(address)
+many_msg_babbage(bytes1)

@@ -1,0 +1,11 @@
+setToken(address)
+getToken()
+setAmount(uint256)
+0x329eb839
+tranferOwnership(address)
+ideal_warn_timed(uint256,uint128)
+0xaa25e561
+getAmount()
+0xe9763cd1
+0xea171c6b
+mintTokens(address,uint256)

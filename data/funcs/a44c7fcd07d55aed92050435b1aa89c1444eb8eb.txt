@@ -1,0 +1,6 @@
+name()
+0x34798541
+members(uint256)
+link_classic_internal(uint64,int64)
+0xc2bfccc0
+fundtransfer()

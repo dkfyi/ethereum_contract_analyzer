@@ -1,0 +1,7 @@
+setCAPAddress(address)
+redeem(address,uint256)
+withdraw(uint256)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0xa79e07c1
+transferOwnership(address)

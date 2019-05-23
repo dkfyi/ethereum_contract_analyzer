@@ -1,0 +1,3 @@
+withdraw(uint256)
+destroy()
+0x616e2063

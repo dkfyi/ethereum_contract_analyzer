@@ -1,0 +1,8 @@
+changeRate(uint256)
+withdrawBAT(uint256)
+BATsPerEth()
+pausedUntil()
+withdrawETH()
+bat()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

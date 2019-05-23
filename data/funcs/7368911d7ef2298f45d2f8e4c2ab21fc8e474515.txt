@@ -1,0 +1,11 @@
+checkGoalReached()
+status()
+deadline()
+beneficiary()
+kill()
+totalBids()
+0xa73ef121
+bidders(uint256)
+highestBid()
+0xdb2e1eed
+0xf496d882

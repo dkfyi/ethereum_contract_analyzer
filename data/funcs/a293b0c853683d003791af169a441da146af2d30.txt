@@ -1,0 +1,9 @@
+tokenContract()
+0x85e3c463
+0xb255fbf1
+setTokenContract(address)
+0xde242ff4
+allowance(address,address)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+allowance(address,address)

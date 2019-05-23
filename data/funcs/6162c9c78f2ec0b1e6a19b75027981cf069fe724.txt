@@ -1,0 +1,2 @@
+store(uint256,uint256)
+addStorage(string)

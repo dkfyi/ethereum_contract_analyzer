@@ -1,0 +1,17 @@
+setSecurityCheck(string)
+setOwner(address)
+setBeneficiary(address)
+beneficiary()
+setCost(uint256)
+hammer()
+buildingCostWei()
+destroy()
+ideal_warn_timed(uint256,uint128)
+0x9abee935
+getLastContract()
+setHammer(address)
+getContractsOf(address,uint256)
+securityCheckURI()
+0xba8ff04a
+setOwner(address)
+setHammer(address)

@@ -1,0 +1,3 @@
+0x36a8915b
+kill()
+creationTime()

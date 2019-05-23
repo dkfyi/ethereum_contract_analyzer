@@ -1,0 +1,8 @@
+owners(address)
+deleteCustomer(address)
+0x342aa8b5
+setOwner(address,bool)
+0x59a4da2e
+0x89155761
+0x89481263
+0xbfd79284

@@ -1,0 +1,7 @@
+disable()
+getLatestReading(string)
+getMeter(string)
+addMeter(uint32,string,string)
+saveReading(string,string)
+enable()
+transferOwnership(address)

@@ -1,0 +1,9 @@
+getBalance()
+0x1b338710
+withdraw()
+getTotalHeartsByDappId(uint256)
+firstContractAddress()
+update(uint256)
+lastAddress()
+contractOwner()
+getTotalHeartsByDappId(uint256)

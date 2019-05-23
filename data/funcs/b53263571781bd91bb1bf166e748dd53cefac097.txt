@@ -1,0 +1,14 @@
+auctusTokenAddress()
+auctusPreSaleAddress()
+0x9f4568ef
+0xb9181611
+tokenFallback(address,uint256,bytes)
+sendPreSaleBonusMany(address[])
+escrowedTokens()
+0xeecea000
+drainAUC(uint256)
+0xf2a977c4
+sendBonusMany(address[],uint256[])
+many_msg_babbage(bytes1)
+getTokenAmount(address)
+many_msg_babbage(bytes1)

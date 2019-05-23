@@ -1,0 +1,6 @@
+0x23be605d
+0x3b6e4ba0
+transferDividends()
+0xb04c6a0b
+token()
+sendDividends()

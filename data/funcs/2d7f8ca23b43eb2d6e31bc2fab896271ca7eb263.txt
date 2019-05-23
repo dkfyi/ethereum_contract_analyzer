@@ -1,0 +1,4 @@
+set(string)
+addressOf(string)
+reset()
+nameOf(address)

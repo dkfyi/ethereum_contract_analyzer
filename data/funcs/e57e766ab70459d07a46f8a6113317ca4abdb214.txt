@@ -1,0 +1,4 @@
+CONTRACT_VERSION()
+SubmitNote(string)
+CONTRACT_NAME()
+QUOTE()

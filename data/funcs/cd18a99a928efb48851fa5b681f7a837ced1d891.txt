@@ -1,0 +1,12 @@
+0x1bd53e9d
+0x3644e515
+0x4098bd4a
+invalidateHash(bytes32)
+0x4dbf6c5a
+deposit()
+0xe6c1980d
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

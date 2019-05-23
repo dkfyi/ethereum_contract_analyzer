@@ -1,0 +1,14 @@
+name()
+0x24480012
+available_assert_time(uint16,uint64)
+0x53c92107
+balanceOf(address)
+0x712635d6
+0x84792d7f
+link_classic_internal(uint64,int64)
+0x9f2cfaf1
+frozenBalanceOf(address)
+0xc85fe59e
+0xe549917d
+getBalance(address)
+0xfeeaaa25

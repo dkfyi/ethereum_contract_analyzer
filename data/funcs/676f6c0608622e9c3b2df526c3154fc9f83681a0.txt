@@ -1,0 +1,9 @@
+resolver()
+0x12d0c13b
+key()
+get_contract(bytes32)
+0x6e3f777c
+0xd590f4ab
+CONTRACT_ADDRESS()
+get_contract(bytes32)
+get_contract(bytes32)

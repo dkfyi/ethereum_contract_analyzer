@@ -1,0 +1,6 @@
+TechnicalRise()
+timeOut()
+lastBidder()
+feeRate()
+fund()
+kBalance()

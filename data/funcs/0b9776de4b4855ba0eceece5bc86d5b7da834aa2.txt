@@ -1,0 +1,5 @@
+0xa781e7f8
+addContractAddress(address)
+checkContract(address)
+0xa3bf06f1
+0x8fe77e86

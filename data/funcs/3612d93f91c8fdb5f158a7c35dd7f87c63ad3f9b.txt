@@ -1,0 +1,15 @@
+isLock()
+mPerSellData()
+GetPerSellInfo(uint16)
+mInviteAddr()
+transferToOwner()
+0x390adde5
+buyPerSell(uint16,bytes32)
+updateInteface(address,address)
+ideal_warn_timed(uint256,uint128)
+updateLock(bool)
+0xde10ef9f
+transferOwnership(address)
+GetPerSellInfo(uint16)
+GetPerSellInfo(uint16)
+GetAddressByName(bytes32)

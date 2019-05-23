@@ -1,0 +1,8 @@
+0x2aaf9c66
+0x2fc57571
+refund()
+random()
+required_number_players()
+winner_percentage()
+player_count()
+ante()

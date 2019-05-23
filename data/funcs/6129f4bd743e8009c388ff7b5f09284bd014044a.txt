@@ -1,0 +1,14 @@
+0x163ba0cc
+beneficiary()
+rand()
+totalToken()
+0x63a8b185
+0x66b6b666
+tokenReward()
+balanceOf(address)
+price()
+0xaf8bd5be
+0xc0ccc9f7
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

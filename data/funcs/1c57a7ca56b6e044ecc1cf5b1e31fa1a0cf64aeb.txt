@@ -1,0 +1,13 @@
+totalToDistribute()
+nTransfers()
+next()
+hasTerminated()
+fill(uint256[])
+ideal_warn_timed(uint256,uint128)
+0x9377d711
+changeOwner(address)
+execute(address,uint256,bytes)
+run()
+token()
+balanceOf(address)
+many_msg_babbage(bytes1)

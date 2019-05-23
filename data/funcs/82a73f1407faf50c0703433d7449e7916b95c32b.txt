@@ -1,0 +1,12 @@
+available_assert_time(uint16,uint64)
+0x460e9407
+tokenContract()
+ideal_warn_timed(uint256,uint128)
+tokenAddress()
+getMyTokenBalance()
+many_msg_babbage(bytes1)
+setTokenContractAddress(address)
+transferOwnership(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

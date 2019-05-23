@@ -1,0 +1,5 @@
+creator()
+getMin(uint256)
+changeCreator(address)
+calculateFee(bool,bool,uint256,uint256)
+getMax(uint256)

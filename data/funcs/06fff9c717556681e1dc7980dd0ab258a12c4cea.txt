@@ -1,0 +1,16 @@
+0x026565c0
+getRepayAmount(uint256)
+bank()
+ETH()
+tradeExecutor()
+0xbbee9c62
+lender()
+MAX_UINT()
+0x1e7dcc0d
+fee()
+repay(address,uint256)
+allowance(address,address)
+approve(address,uint256)
+repay(address,uint256)
+balanceOf(address)
+many_msg_babbage(bytes1)

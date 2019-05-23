@@ -1,0 +1,4 @@
+kill()
+0x698d1a96
+getOccupies(uint8)
+getAttachesto(uint8)

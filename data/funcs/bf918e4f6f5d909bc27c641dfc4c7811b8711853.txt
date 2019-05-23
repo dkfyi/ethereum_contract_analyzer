@@ -1,0 +1,9 @@
+name()
+transferFromOwner(address,uint256)
+setOwner(address)
+kill()
+standard()
+balanceOf(address)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xfea31fe4

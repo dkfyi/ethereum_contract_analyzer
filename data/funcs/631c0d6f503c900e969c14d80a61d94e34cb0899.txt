@@ -1,0 +1,5 @@
+setText(string)
+mostSent()
+withdrawEther()
+ideal_warn_timed(uint256,uint128)
+currentText()

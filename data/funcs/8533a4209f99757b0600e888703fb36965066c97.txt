@@ -1,0 +1,3 @@
+remove()
+deposit(address)
+withdraw(address,uint256)

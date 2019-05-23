@@ -1,0 +1,3 @@
+die()
+addShareholder(address,uint256)
+0xfab1340f

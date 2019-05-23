@@ -1,0 +1,6 @@
+kill()
+ideal_warn_timed(uint256,uint128)
+setGreeting(string)
+greet()
+0xef690cc0
+transferOwnership(address)

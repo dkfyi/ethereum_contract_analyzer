@@ -1,0 +1,10 @@
+getRecord(bytes32)
+registrar()
+0x34461067
+0x456ab4b3
+0x4617e997
+0x815af8df
+0xa19dffdd
+isDelegate(address,address)
+0xb19c1432
+isDelegate(address,address)

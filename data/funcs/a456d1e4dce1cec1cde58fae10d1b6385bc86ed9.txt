@@ -1,0 +1,11 @@
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+0x395ea7b2
+0x6a8dd86e
+0xbb5c9dbc
+0xc933a2ad
+getOAR()
+0xf721593a
+oraclize_getPrice(string,uint256)
+oraclize_getPrice(string,uint256)
+getOAR()

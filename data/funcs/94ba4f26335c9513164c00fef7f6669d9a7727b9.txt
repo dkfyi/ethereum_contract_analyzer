@@ -1,0 +1,3 @@
+totalReward()
+changeOwner(address)
+history(uint256)

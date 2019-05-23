@@ -1,0 +1,10 @@
+removeMember(address)
+killContract()
+memberId(address)
+claimOwnership()
+members(uint256)
+changeMemberAddress(address)
+ideal_warn_timed(uint256,uint128)
+addMember(address,string)
+transferOwnership(address)
+0x1cc41b3b

@@ -1,0 +1,7 @@
+owners(uint256)
+manager()
+0x98d2fb55
+getOwners()
+0xeb6b192f
+setOwners(address[])
+many_msg_babbage(bytes1)

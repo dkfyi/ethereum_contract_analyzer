@@ -1,0 +1,13 @@
+0x059993a8
+erc20token()
+0x2df04c27
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+0xc0b47ffd
+newOwner()
+0xe49dad99
+transferOwnership(address)
+quickConvert(address[],uint256,uint256)
+balanceOf(address)
+quickConvert(address[],uint256,uint256)
+balanceOf(address)

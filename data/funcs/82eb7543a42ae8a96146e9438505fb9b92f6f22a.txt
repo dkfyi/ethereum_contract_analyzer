@@ -1,0 +1,16 @@
+0x4749f79d
+0x66f9fe8f
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+etherToken()
+0xdc52c49a
+transferOwnership(address)
+change(address,address,uint256,uint256)
+balanceOf(address)
+allowance(address,address)
+change(address,address,uint256,uint256)
+balanceOf(address)
+withdraw(uint256)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

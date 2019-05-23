@@ -1,0 +1,16 @@
+owners(address)
+removeOwner(address)
+transferEth(uint256)
+batchTransferToken(address,address[],uint256[])
+0x3aae3f0a
+0x3b3b687c
+addOwner(address)
+destroy()
+deposit()
+transferETH(address)
+0xd9dcef6e
+transferOwnership(address)
+destroyAndSend(address)
+transferToken(address,address,uint256)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

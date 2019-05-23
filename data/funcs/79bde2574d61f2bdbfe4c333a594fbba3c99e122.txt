@@ -1,0 +1,6 @@
+unpause()
+paused()
+pause()
+getResult(uint256,uint256)
+0x9732b33a
+master()

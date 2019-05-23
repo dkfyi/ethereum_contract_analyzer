@@ -1,0 +1,14 @@
+0x01b71aec
+destroyMe()
+withdraw()
+0x6ab108f9
+0xaad21e91
+0xc48342fe
+createSaleAuction(uint256,uint256,uint256,uint256)
+bid(uint256)
+getCurrentPrice(uint256)
+0xc48342fe
+bid(uint256)
+getCurrentPrice(uint256)
+0x01b71aec
+many_msg_babbage(bytes1)

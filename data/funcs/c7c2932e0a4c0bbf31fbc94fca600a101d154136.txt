@@ -1,0 +1,5 @@
+random()
+addGame(address)
+owner_()
+0x0296c1e2
+0x01ef3e84

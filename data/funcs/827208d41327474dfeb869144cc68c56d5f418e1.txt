@@ -1,0 +1,16 @@
+0x0b0b39ee
+0x0c61ad4e
+backendAddress()
+unpause()
+paused()
+0x5ddd7e41
+withdrawBalance()
+pause()
+ideal_warn_timed(uint256,uint128)
+0x8e733951
+ownerAddress()
+setTokenContract(address)
+nonFungibleContract()
+transferOwnership(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

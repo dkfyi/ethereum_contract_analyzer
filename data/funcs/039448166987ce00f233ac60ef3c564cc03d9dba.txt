@@ -1,0 +1,8 @@
+time()
+deactivate()
+renounceOwnership()
+changeTime(uint256)
+email()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+transferOwnership(address)

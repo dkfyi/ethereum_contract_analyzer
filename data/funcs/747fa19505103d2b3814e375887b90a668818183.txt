@@ -1,0 +1,3 @@
+unregister(bytes32)
+0xcea6ab98
+register(bytes32)

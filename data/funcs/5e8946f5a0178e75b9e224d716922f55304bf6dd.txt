@@ -1,0 +1,10 @@
+destroyContract()
+getBalance()
+getTotalBalance()
+0x255e82cb
+0x50c6f15e
+0x526a21e8
+0xabda8a9c
+0xb1a8aa22
+withdrawal()
+getRemainTime()

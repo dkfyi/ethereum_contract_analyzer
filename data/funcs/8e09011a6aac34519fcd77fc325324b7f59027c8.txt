@@ -1,0 +1,4 @@
+0x4a7a0997
+bid(string)
+currentText()
+currentPrice()

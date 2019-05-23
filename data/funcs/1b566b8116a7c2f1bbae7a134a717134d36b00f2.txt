@@ -1,0 +1,4 @@
+totalMintContracts()
+mintContractByIndex(uint256)
+isMintContract(address)
+removeMintContract(address)

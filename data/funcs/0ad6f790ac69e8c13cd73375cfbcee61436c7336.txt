@@ -1,0 +1,8 @@
+multiGenerate(address,address[],bytes)
+token()
+callerAllocationStartBlock()
+balanceOf(address)
+0x62bea295
+generate(address,bytes)
+balanceOf(address)
+many_msg_babbage(bytes1)

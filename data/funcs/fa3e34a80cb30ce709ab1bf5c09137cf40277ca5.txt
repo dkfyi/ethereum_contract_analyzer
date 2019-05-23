@@ -1,0 +1,12 @@
+withdrawAltcoinTokens(address)
+withdraw()
+selfdestroy()
+0x68aa1ca9
+ideal_warn_timed(uint256,uint128)
+0xcbcb2e23
+transferOwnership(address)
+blacklist(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

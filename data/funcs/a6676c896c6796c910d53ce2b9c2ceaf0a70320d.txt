@@ -1,0 +1,7 @@
+deadline()
+beneficiary()
+tokenReward()
+balanceOf(address)
+fundingGoal()
+amountRaised()
+price()

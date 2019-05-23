@@ -1,0 +1,3 @@
+enter(bytes32,bytes8)
+goodbye()
+enter(bytes32,bytes8)

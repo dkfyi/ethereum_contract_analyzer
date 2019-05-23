@@ -1,0 +1,15 @@
+0x0a46516b
+companyWallet()
+0x28cae27e
+isFirstPartReleased()
+getTime(uint256)
+release()
+ideal_warn_timed(uint256,uint128)
+secondReleaseTime()
+firstReleaseTime()
+deployedAt()
+token()
+balanceOf(address)
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

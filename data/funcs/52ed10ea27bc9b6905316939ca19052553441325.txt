@@ -1,0 +1,13 @@
+getTokenAddress()
+0x3a7a4c33
+getTokensRemaining()
+isOpen()
+0x545e20b8
+updateTokenPrice(uint256)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+tokensRemaining()
+beneficiaries(uint256)
+transferOwnership(address)
+0xf36c616f
+many_msg_babbage(bytes1)

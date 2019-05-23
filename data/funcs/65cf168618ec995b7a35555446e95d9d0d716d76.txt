@@ -1,0 +1,12 @@
+finalizeName(address,string)
+removeName(bytes32)
+registerName(address,string)
+renounceOwnership()
+0x821b7d18
+ideal_warn_timed(uint256,uint128)
+0x9e6e1975
+addRegistrar(address)
+removeRegistrar(address)
+isRegistrar(address)
+transferName(address,string)
+transferOwnership(address)

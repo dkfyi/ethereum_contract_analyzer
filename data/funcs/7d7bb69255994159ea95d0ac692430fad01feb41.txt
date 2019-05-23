@@ -1,0 +1,7 @@
+MINIMUM_PARTICIPATION_AMOUNT()
+ownerWithdraw(uint256)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+PRIVATESALE_START_DATE()
+PRIVATESALE_END_DATE()
+totalFunding()

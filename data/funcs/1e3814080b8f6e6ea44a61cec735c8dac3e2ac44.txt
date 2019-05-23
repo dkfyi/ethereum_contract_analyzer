@@ -1,0 +1,11 @@
+0x3aa89aec
+next()
+transferOwnershipTo(address)
+details()
+0x654c1c38
+0x8a7be8e5
+0xabc0bbe7
+append(address)
+timestamp()
+0xba19322d
+createdAt()

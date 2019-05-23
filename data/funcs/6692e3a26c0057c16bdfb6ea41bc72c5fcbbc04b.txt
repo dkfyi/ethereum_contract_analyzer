@@ -1,0 +1,5 @@
+owners(address)
+0x02a22337
+update(address[],uint256[],uint256[],uint256[])
+setOwner(address,bool)
+setStates(address[],uint8[],uint8[])

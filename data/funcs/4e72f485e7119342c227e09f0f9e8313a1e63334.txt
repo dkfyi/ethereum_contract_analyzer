@@ -1,0 +1,2 @@
+kill()
+verify(bytes,bytes,bytes)

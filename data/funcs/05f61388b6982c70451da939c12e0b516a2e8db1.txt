@@ -1,0 +1,17 @@
+withdrawFunds(uint256)
+totalSupply()
+killContract()
+burn(uint256)
+0x463911ee
+balanceOf(address)
+buyPrice()
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+many_msg_babbage(bytes1)
+frozenAccount(address)
+0xc839f39b
+ethAmount()
+depositFunds()
+freezeAccount(address,bool)
+transferOwnership(address)
+0xfb78e8e3

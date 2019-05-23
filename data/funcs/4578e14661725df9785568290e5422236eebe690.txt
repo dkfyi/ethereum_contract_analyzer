@@ -1,0 +1,15 @@
+withdrawAltcoinTokens(address)
+withdraw()
+bonus()
+ideal_warn_timed(uint256,uint128)
+0x98180dde
+minContribution()
+stopICO()
+0xd207b7aa
+ICOstart()
+transferOwnership(address)
+0xfb5a4518
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

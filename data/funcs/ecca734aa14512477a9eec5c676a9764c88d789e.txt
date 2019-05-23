@@ -1,0 +1,5 @@
+isContract(address)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0xc338176c
+transferOwnership(address)

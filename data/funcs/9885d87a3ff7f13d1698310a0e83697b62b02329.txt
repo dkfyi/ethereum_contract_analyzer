@@ -1,0 +1,5 @@
+0x20fba162
+kill()
+getData(string)
+0xb32f1c19
+0xbc622c1e

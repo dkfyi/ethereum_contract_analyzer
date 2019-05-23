@@ -1,0 +1,16 @@
+setBank(address)
+0x14463112
+getETH()
+0x3e3325ac
+0x53f7ab66
+setDiscount(uint8)
+setAdmin(address)
+bank()
+0x7c5a78c4
+0xaf9e3a36
+0xb157ad62
+payOrder(uint256,uint256,uint256)
+0xd4380037
+0xe312c780
+0xf755a41d
+admin()

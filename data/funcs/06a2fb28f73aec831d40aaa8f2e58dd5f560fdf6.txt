@@ -1,0 +1,17 @@
+__callback(bytes32,string)
+0x300d9f04
+__callback(bytes32,string,bytes)
+close()
+updatePrice()
+ideal_warn_timed(uint256,uint128)
+0xc055e8cc
+0xe6442ffd
+transferOwnership(address)
+getPrice(string)
+getAddress()
+getAddress()
+cbAddress()
+getAddress()
+getAddress()
+getPrice(string)
+query(uint256,string,string)

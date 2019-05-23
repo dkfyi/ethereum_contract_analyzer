@@ -1,0 +1,7 @@
+0x65fe2a0b
+0x743b8d87
+ideal_warn_timed(uint256,uint128)
+tokenAddress()
+replaceOwner(address)
+changeTokenAddress(address)
+mint(address,uint256)

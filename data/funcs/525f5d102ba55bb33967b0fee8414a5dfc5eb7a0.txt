@@ -1,0 +1,16 @@
+removeSigner(address)
+0x2c8d5000
+0x31be7c23
+0x51b64fcf
+DB()
+0x7c28dfcd
+ideal_warn_timed(uint256,uint128)
+0x91a2d5ee
+0xad656510
+myBalance()
+0xe1d73339
+addSigner(address)
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+get(string)

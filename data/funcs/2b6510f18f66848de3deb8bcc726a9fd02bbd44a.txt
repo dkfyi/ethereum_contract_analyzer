@@ -1,0 +1,14 @@
+setup(address,address)
+depositRevenue()
+withdrawRevenue()
+softWithdrawRevenueFor(address)
+workshop()
+0x7e77a2c0
+singularDTVToken()
+ideal_warn_timed(uint256,uint128)
+singularDTVCrowdfunding()
+totalRevenue()
+0xdf18e047
+campaignEndedSuccessfully()
+totalSupply()
+balanceOf(address)

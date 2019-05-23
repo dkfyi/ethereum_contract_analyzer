@@ -1,0 +1,13 @@
+name()
+0x0f175c15
+totalSupply()
+available_assert_time(uint16,uint64)
+0x54d1f821
+updateTokenPrice(uint256)
+balanceOf(address)
+0x75220db9
+tokenPrice()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+withdrawETH()
+tokenPrices(uint256)

@@ -1,0 +1,14 @@
+withdraw()
+tickets(uint256)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+setPrice(uint256)
+0x9582260a
+getPrice()
+0xb3453342
+transferOwnership(address)
+buyTicket(string)
+balanceOf(address)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

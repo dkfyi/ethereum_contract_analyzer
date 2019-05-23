@@ -1,0 +1,3 @@
+depositToken(address)
+buy()
+transfer(address,uint8)

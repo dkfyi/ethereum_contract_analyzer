@@ -1,0 +1,5 @@
+attack(address,uint256)
+addAdmin(address)
+0x8c9d105d
+balanceOf(address)
+many_msg_babbage(bytes1)

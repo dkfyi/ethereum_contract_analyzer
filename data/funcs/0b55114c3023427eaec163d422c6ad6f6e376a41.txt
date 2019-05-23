@@ -1,0 +1,16 @@
+NAME()
+NAME()
+0xb1383fdc
+0xb5f5e722
+withdraw(address,address,uint256)
+transfer(address,address,address,uint256)
+VERSION()
+0x1f9838b5
+0x5d973e47
+grant(address)
+revoke(address)
+deposit(address,address,uint256)
+0x8f601f66
+0x829dd895
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

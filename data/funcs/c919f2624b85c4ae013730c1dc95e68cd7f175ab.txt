@@ -1,0 +1,3 @@
+isAddressAllowedInPresale(address)
+addPresaleContributors(address[])
+removePresaleContributor(address)

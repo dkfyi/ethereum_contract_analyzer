@@ -1,0 +1,17 @@
+name()
+OWNER()
+totalSupply()
+available_assert_time(uint16,uint64)
+0x5f3e849f
+balanceOf(address)
+TOKEN()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+deposit(uint256)
+withdraw(address,uint256)
+balanceOf(address)
+available_assert_time(uint16,uint64)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)
+transferWithLock(address,uint256,uint256)
+0x01e13380

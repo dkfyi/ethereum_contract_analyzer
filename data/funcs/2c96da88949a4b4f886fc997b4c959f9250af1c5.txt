@@ -1,0 +1,6 @@
+hashes(uint16)
+0x56222db2
+spin(bytes32)
+last_hash()
+get_hash(uint16)
+controller()

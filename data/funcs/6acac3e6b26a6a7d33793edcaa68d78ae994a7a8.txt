@@ -1,0 +1,5 @@
+vote(uint256)
+submitVideo(string,string)
+kill()
+videos(uint256)
+numVideos()

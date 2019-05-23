@@ -1,0 +1,14 @@
+name()
+totalSupply()
+lock(address,uint256)
+available_assert_time(uint16,uint64)
+0x34c2ab81
+0x5a6196d7
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+frozenAccount(address)
+releaseCount()
+freezeAccount(address,bool)
+transferOwnership(address)

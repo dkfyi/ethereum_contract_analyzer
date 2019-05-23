@@ -1,0 +1,16 @@
+0xe284cc94
+0xe284cc94
+0xf24bac46
+dai()
+min()
+tub()
+setMin(uint256)
+play(uint256)
+ideal_warn_timed(uint256,uint128)
+cups(bytes32)
+safe(bytes32)
+many_msg_babbage(bytes1)
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+0x64702068

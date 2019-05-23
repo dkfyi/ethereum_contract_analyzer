@@ -1,0 +1,4 @@
+0x809c2cec
+ideal_warn_timed(uint256,uint128)
+price()
+changePrice(uint256)

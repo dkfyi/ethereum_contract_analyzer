@@ -1,0 +1,12 @@
+0x05f474a8
+name()
+validate(address)
+available_assert_time(uint16,uint64)
+0x3d092bc7
+deposit(address,uint256)
+0x6b718db9
+balanceOf(address)
+link_classic_internal(uint64,int64)
+0xc174dce3
+withdraw(address,uint256)
+validate(address)

@@ -1,0 +1,6 @@
+0x6512e6ec
+ideal_warn_timed(uint256,uint128)
+0xab86127d
+transferOwnership(address)
+weiRaised()
+0xab86127d

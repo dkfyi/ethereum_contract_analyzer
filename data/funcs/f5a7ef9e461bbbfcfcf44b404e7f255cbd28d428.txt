@@ -1,0 +1,17 @@
+setRspTokenAddress(address)
+unpause()
+playerInfo(address)
+version()
+paused()
+rspToken()
+0x83b5570c
+pause()
+buyAndTopup(address)
+ideal_warn_timed(uint256,uint128)
+topdownAndCashout(address,uint256)
+0xe8325cd2
+markCredit(address,uint256)
+transferOwnership(address)
+buyTokens(address)
+sellTokens(uint256)
+version()

@@ -1,0 +1,7 @@
+rand(uint256)
+NAME()
+purchaseMysteriousEmblem()
+killFeed()
+getEmblemOwner()
+hireBountyHunter(uint256)
+SYMBOL()

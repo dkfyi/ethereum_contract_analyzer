@@ -1,0 +1,7 @@
+name()
+0x16411771
+totalSupply()
+available_assert_time(uint16,uint64)
+standard()
+balanceOf(address)
+link_classic_internal(uint64,int64)

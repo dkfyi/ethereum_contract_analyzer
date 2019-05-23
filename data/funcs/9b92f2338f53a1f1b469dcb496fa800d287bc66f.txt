@@ -1,0 +1,16 @@
+0x1612d2d7
+removeAddressesFromWhitelist(address[])
+removeAddressFromWhitelist(address)
+0x326c8940
+tokenFallback(address,uint256)
+unpause()
+paused()
+addAddressToWhitelist(address)
+pause()
+ideal_warn_timed(uint256,uint128)
+whitelist(address)
+many_msg_babbage(bytes1)
+addAddressesToWhitelist(address[])
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)

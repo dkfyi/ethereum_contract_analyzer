@@ -1,0 +1,17 @@
+0x08f31857
+0x0c9c6301
+0x183f3444
+_setPaused(bool)
+getPrice(address)
+setPrices(address[],uint256[])
+0x451b1e3a
+0x485feabe
+paused()
+assetPrices(address)
+0x692374e3
+poster()
+_setPendingAnchorAdmin(address)
+0x9e8c4d95
+0xc5faf1d5
+_acceptAnchorAdmin()
+_setPendingAnchor(address,uint256)

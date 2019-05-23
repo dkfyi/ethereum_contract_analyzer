@@ -1,0 +1,7 @@
+numberOfCampaigns()
+addCampaign(string,string,string,address,address,address,string)
+getCampaign(uint256)
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+updateCampaign(uint256,string,string,string,address,address,address,string)
+changeStatus(uint256,uint8)

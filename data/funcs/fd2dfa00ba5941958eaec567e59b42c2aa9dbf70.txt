@@ -1,0 +1,4 @@
+Set_your_game_number(string)
+Last_block_number_and_blockhash_used()
+Results_of_the_last_round()
+Game_balance_in_Ethers()

@@ -1,0 +1,2 @@
+setBio(bytes3,bytes)
+getBioLanguages(address)

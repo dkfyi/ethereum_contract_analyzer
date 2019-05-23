@@ -1,0 +1,12 @@
+withdrawFunds(uint256)
+0x2049eff6
+balances(address)
+deadline()
+0x2cfcc539
+determineWinner()
+threshold()
+0x4efe0a60
+ideal_warn_timed(uint256,uint128)
+winner()
+entrants(uint256)
+0xf745adfc

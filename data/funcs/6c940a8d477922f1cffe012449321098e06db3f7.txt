@@ -1,0 +1,13 @@
+is_alive()
+is_slot_in_bid(uint8,uint8,uint8)
+destruct()
+withdraw()
+get_foreign_balance(address)
+0x4423c5f1
+last_slot()
+get_balance()
+reset()
+set_admin(address)
+start_ts()
+admin()
+search_winner_bid_address(uint8)

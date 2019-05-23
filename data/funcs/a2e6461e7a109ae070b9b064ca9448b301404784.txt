@@ -1,0 +1,17 @@
+0x0324726b
+upgrade(address)
+0x1ce68fb9
+0x241e107e
+getData(address)
+0x4fdfe679
+0x55c0a797
+0x801b11ff
+getLevel(address)
+removeContractMiniGame(address)
+0xa0aa90b3
+0xb239dac6
+0xe2eb41ff
+0xe7600c7c
+0xeb9996f2
+administrator()
+isContractMiniGame()

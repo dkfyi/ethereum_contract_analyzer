@@ -1,0 +1,5 @@
+buyTokensWithProperEvent(address,uint8)
+withdrawMicroDivs()
+balanceOf(address)
+buyAndTransfer(address,address,bytes,uint8)
+balanceOf(address)

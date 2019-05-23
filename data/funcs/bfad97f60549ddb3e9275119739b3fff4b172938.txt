@@ -1,0 +1,15 @@
+0x5167cdd7
+0x6afbfe65
+0x72edfbd9
+0x47ba65d2
+0x0b2e250b
+add(uint256,uint256)
+multiply(uint256,uint256)
+data()
+0x0b2e250b
+multiply(uint256,uint256)
+0xa9737595
+0xd5b97f96
+0xb7e3f960
+0x0b2e250b
+multiply(uint256,uint256)

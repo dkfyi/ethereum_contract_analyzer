@@ -1,0 +1,6 @@
+set_price(uint256)
+tokenReward()
+balanceOf(address)
+set_crowdsaleClosed(bool)
+price()
+many_msg_babbage(bytes1)

@@ -1,0 +1,7 @@
+updateRate(string,uint256)
+balances(address)
+updateRates(uint256[])
+getRate(string)
+ideal_warn_timed(uint256,uint128)
+rates(bytes32)
+transferOwnership(address)

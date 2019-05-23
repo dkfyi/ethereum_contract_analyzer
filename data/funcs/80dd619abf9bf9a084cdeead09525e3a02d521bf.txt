@@ -1,0 +1,6 @@
+0x20a39fee
+signer()
+disable()
+setSigner(address)
+sign(bytes32)
+verifyDocument(bytes32,bytes,uint16)

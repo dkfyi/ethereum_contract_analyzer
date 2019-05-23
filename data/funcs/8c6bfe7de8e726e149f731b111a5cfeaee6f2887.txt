@@ -1,0 +1,11 @@
+0x285b5ec9
+0x444bd6fd
+0x4e458aef
+creator()
+name()
+totalSupply()
+0x41099135
+0x4e458aef
+standard()
+balanceOf(address)
+many_msg_babbage(bytes1)

@@ -1,0 +1,6 @@
+0x36d6da55
+moderator()
+kill()
+0x49209fc8
+setModerator(address)
+0xdbac26e9

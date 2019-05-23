@@ -1,0 +1,4 @@
+getComment(uint256)
+0x8ebb4c15
+numComments()
+addComment(string,address,bool,uint256)

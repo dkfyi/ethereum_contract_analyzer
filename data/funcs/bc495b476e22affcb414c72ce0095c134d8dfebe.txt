@@ -1,0 +1,6 @@
+0x06f3be94
+0x55c60cd6
+0x8262a489
+0xc6739baa
+StopGame()
+StartGame(string,string)

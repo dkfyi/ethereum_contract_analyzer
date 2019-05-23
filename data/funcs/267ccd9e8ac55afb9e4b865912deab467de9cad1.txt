@@ -1,0 +1,4 @@
+0xa7d27056
+0xce145c12
+stringToBytes32(string)
+0xfc0c4f2e

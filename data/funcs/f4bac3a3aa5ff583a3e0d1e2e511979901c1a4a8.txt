@@ -1,0 +1,16 @@
+0x198208c2
+0x357cfff7
+discount()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+receiveApproval(address,uint256,address,bytes)
+0xb2958e0f
+0xc0bea73f
+0xc549ec86
+0xd7165f7e
+getPrice(uint256)
+transferOwnership(address)
+token()
+balanceOf(address)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

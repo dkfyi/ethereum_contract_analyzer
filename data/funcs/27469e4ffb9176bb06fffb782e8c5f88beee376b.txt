@@ -1,0 +1,13 @@
+getApiId(string)
+getApiByIdWithoutDynamics(uint256)
+listApi(uint256,bytes32,bytes32,string,string)
+numApis()
+version()
+editApi(uint256,uint256,address,string)
+ideal_warn_timed(uint256,uint128)
+getApiById(uint256)
+0xaf6e5689
+transferAnyERC20Token(address,uint256)
+getApiByName(string)
+transferOwnership(address)
+many_msg_babbage(bytes1)

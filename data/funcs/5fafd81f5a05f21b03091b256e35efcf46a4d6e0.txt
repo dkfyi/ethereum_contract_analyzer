@@ -1,0 +1,3 @@
+admins(uint256)
+addAdmin(address)
+ideal_warn_timed(uint256,uint128)

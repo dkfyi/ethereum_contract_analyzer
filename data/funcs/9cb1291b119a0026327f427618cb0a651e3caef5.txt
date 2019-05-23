@@ -1,0 +1,8 @@
+totalSupply()
+sellPrice()
+candidate()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+confirmOwner()
+transferOwnership(address)

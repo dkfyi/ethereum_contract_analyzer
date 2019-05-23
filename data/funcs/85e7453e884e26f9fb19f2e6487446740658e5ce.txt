@@ -1,0 +1,14 @@
+modificationFee()
+0x4522f26f
+feeRecipient()
+0x62ee6228
+renounceOwnership()
+0x7bf9a7c4
+ideal_warn_timed(uint256,uint128)
+codexCoin()
+transferFee()
+0xc5ae44de
+creationFee()
+0xe69d1a25
+transferOwnership(address)
+feeRecipient()

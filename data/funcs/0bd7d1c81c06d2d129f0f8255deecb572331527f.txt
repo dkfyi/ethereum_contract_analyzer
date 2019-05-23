@@ -1,0 +1,8 @@
+totalAmount()
+status()
+0x2636b945
+deadline()
+checkGoal()
+balanceOf(address)
+withDrawal()
+beneficiaryAddress()

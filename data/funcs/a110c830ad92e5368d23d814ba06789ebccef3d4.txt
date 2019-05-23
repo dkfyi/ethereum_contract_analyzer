@@ -1,0 +1,4 @@
+0xc9ee7e02
+0xe252855c
+NewQuestion(string,bytes32)
+StopGame()

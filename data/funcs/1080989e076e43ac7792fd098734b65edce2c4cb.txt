@@ -1,0 +1,5 @@
+transferEther(address,uint256)
+transferToken(address,address,uint256)
+isTank(address)
+isTank(address)
+many_msg_babbage(bytes1)

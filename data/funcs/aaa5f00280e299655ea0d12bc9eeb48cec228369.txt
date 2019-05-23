@@ -1,0 +1,8 @@
+0x6c08b9f0
+0x9c0eff72
+0xc5563720
+0xe29940b9
+core()
+0xf56443c8
+getKitty(uint256)
+giveBirth(uint256)

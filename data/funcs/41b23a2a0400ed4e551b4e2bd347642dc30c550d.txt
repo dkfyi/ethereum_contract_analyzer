@@ -1,0 +1,7 @@
+addToJackpot()
+collectWinnings()
+jackpot()
+ideal_warn_timed(uint256,uint128)
+0x9856efcf
+0xd725b6fd
+transferOwnership(address)

@@ -1,0 +1,6 @@
+getNextUserId()
+register(address)
+balanceOf(address)
+getUserAddressById(uint256)
+getMyMoney()
+balanceTotalOf(address)

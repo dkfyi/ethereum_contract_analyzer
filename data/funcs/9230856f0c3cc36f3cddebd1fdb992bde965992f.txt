@@ -1,0 +1,14 @@
+0x3e8e5422
+0x645e2304
+0x6b10ea6a
+0x71d0e1fd
+0x7c80aca0
+0x85f2b3f6
+ideal_warn_timed(uint256,uint128)
+0xa4edccf7
+isRegistered(address)
+0xd6939169
+0xeb523d6b
+transferOwnership(address)
+0x6b10ea6a
+0xa430bf2e

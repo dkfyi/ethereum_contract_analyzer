@@ -1,0 +1,14 @@
+name()
+0x1338736f
+0x1c5f91e3
+release(uint256)
+beneficiary()
+0x634204dc
+lockedBalance()
+link_classic_internal(uint64,int64)
+totalBalance()
+getNow()
+0xe11c1e66
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

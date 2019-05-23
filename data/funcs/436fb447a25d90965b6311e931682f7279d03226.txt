@@ -1,0 +1,16 @@
+auction(uint256)
+unpause()
+bid(uint256,uint256)
+paused()
+0x5deea076
+getAuction(uint256)
+pause()
+ideal_warn_timed(uint256,uint128)
+cancelAuction(uint256)
+reclaimEther()
+0xb8761301
+nftContract()
+balance(address)
+transferOwnership(address)
+ownerOf(uint256)
+safeTransferFrom(address,address,uint256)

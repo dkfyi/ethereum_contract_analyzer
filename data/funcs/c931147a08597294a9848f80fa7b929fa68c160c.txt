@@ -1,0 +1,13 @@
+0x1aea6257
+0x47ee48a7
+0x56cfbb38
+setAdministrator(bytes32,bool)
+0xbe4f3e8f
+0xc4a3f1ba
+0xe81ea595
+transferOwnership(address)
+0x47ee48a7
+0x56cfbb38
+balanceOf(address)
+totalSupply()
+balanceOf(address)

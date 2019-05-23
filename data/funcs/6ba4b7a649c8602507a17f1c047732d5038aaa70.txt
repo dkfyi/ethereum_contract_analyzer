@@ -1,0 +1,10 @@
+isWhitelisted(address)
+removeFromWhitelist(address)
+addManyToWhitelist(address[])
+ideal_warn_timed(uint256,uint128)
+whitelist(address)
+reject(address)
+authorize(address)
+0xb9181611
+addToWhitelist(address)
+transferOwnership(address)

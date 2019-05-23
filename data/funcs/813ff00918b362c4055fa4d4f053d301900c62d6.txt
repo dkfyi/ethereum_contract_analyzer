@@ -1,0 +1,8 @@
+setOwner(address)
+0x267abd92
+0x7104dd03
+setAuthority(address)
+0x8769e7ed
+ideal_warn_timed(uint256,uint128)
+isVerified(address)
+0xfa5286ab

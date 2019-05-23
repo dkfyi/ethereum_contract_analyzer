@@ -1,0 +1,6 @@
+getMessageOfVisit(address)
+whoIsTheOwner()
+kill()
+recordVisit(address,string)
+changeOwner(address)
+contractOwner()

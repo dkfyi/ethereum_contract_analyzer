@@ -1,0 +1,8 @@
+rate()
+setRate(uint256)
+wallet()
+icoSmartcontract()
+ideal_warn_timed(uint256,uint128)
+buyTokens(address)
+transferOwnership(address)
+mintProxyWithoutCap(address,uint256)

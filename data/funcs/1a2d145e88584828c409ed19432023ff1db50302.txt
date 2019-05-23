@@ -1,0 +1,13 @@
+0x33ea51a8
+0x372c12b1
+setWhitelistAddress(address,bool)
+payoutAddress()
+0x5f4623f1
+0x67712ff2
+ideal_warn_timed(uint256,uint128)
+0xb4d65d3e
+0xd4d8219d
+sendEtherToOwner()
+0xea696cac
+giveBirth(uint256)
+0x01000000

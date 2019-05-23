@@ -1,0 +1,3 @@
+sendCryptedHand(bytes32)
+0x9352f6eb
+state()

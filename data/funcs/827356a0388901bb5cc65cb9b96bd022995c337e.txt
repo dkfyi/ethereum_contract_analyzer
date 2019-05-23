@@ -1,0 +1,2 @@
+addFortune(string)
+drawFortune()

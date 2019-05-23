@@ -1,0 +1,8 @@
+name()
+totalSupply()
+_transfer(address,address,uint256)
+balanceOf(address)
+mintToken(address,uint256)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)

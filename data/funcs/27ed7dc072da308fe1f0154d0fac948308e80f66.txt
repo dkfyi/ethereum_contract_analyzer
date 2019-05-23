@@ -1,0 +1,14 @@
+proposals(uint256)
+getProposalsBySeller(address)
+firePaidProposalEvent(address,uint256)
+getProposalById(uint256)
+getCountBySeller(address)
+getProposals()
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+getCount()
+deployer()
+0xe9f63d9a
+insertProposal(address,uint256,address)
+transferOwnership(address)
+0xf8353863

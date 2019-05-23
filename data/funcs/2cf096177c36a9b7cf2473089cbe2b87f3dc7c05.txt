@@ -1,0 +1,17 @@
+setSecondaryManager(address)
+setPrimaryManager(address)
+setPrimaryManager(address)
+bankManager()
+0xeb17fa13
+managerSecondary()
+setSecondaryManager(address)
+managerPrimary()
+setOtherManager(address,uint8)
+0x23d7af24
+0x23d7af24
+0x36559789
+withdrawBalance()
+0x7a9b6ef7
+0x0fae6da0
+0x113fc506
+0x13d5d8be

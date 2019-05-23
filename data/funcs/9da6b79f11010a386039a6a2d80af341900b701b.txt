@@ -1,0 +1,2 @@
+callExitFromUnknownContract(address)
+exit()

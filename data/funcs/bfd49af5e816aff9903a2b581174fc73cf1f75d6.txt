@@ -1,0 +1,10 @@
+0x24a1dc8b
+0x2b2584f6
+proxyType()
+version()
+implementation()
+0x788cd5fc
+0x7e84a4ff
+0x87fc5e06
+0xc3fb90d6
+getAddress(bytes32)

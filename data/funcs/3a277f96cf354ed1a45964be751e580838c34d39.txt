@@ -1,0 +1,16 @@
+0x36cefd45
+getTokenBalance(address)
+0x3ccfabe4
+getEthBalance(address)
+tokensAvailable()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+0x92486f77
+ebyteToken()
+withdrawForeignTokens(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

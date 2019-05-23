@@ -1,0 +1,5 @@
+author1()
+manual()
+title()
+author2()
+SHA256()

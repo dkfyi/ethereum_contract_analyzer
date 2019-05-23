@@ -1,0 +1,11 @@
+0x3849f0d1
+0x468cf97f
+0x656f0017
+addCaller(address)
+getNumeroMensajes()
+0x9002c603
+0x9c465e77
+0xaa03fa3d
+deleteCaller(uint256)
+0xf7c50cb3
+transferCallership(address,uint256)

@@ -1,0 +1,3 @@
+kill()
+get_address(string)
+register(string)

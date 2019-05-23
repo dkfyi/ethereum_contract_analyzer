@@ -1,0 +1,4 @@
+0x1a5df71e
+0xb6f921ad
+0x379dadfe
+NewQuestion(string,bytes32)

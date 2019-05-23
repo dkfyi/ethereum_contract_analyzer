@@ -1,0 +1,4 @@
+burn()
+token()
+balanceOf(address)
+burnTokens(uint256)

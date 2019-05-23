@@ -1,0 +1,17 @@
+wallet2()
+0x1792ef1d
+wallet1()
+rate()
+endTime()
+cap()
+weiRaised()
+0x5f51fb0e
+startTime()
+0x845ddcb2
+ideal_warn_timed(uint256,uint128)
+0xab375641
+buyTokens(address)
+hasEnded()
+transferOwnership(address)
+token()
+mint(address,uint256)

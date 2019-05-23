@@ -1,0 +1,13 @@
+0x032e6b1a
+duration()
+0x16fe63af
+reward()
+ideal_warn_timed(uint256,uint128)
+0x96330a2a
+distribute(address,uint256,uint256,uint256)
+0xcd4e7675
+locked()
+transferOwnership(address)
+many_msg_babbage(bytes1)
+distribute(address,uint256,uint256,uint256)
+distribute(address,uint256,uint256,uint256)

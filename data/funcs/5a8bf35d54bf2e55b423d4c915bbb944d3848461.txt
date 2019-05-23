@@ -1,0 +1,3 @@
+getHash(bytes8)
+saveHash(bytes8,string)
+changeOwner(address)

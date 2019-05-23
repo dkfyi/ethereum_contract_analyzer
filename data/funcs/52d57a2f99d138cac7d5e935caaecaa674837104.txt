@@ -1,0 +1,13 @@
+0x0ba9d8ca
+setRate(address,uint256)
+depositToken(address,uint256)
+0x468fb006
+setVault(address)
+ideal_warn_timed(uint256,uint128)
+deposit()
+vault()
+token()
+gasprice_bit_ether(int128)
+balanceOf(address)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

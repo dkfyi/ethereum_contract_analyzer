@@ -1,0 +1,8 @@
+hodlTillBlock()
+releaseTheHodl()
+hodler()
+hodlCountdown()
+hodling()
+isDeholdable()
+withdrawn()
+deposit()

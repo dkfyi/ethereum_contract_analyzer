@@ -1,0 +1,5 @@
+minChild(uint256)
+insert(uint256)
+delMin()
+0xbda1504b
+getMin()

@@ -1,0 +1,17 @@
+name()
+totalContribution()
+0x17f12142
+totalSupply()
+available_assert_time(uint16,uint64)
+initialSupply()
+0x3dde55f8
+standard()
+disablePurchasing()
+balanceOf(address)
+enablePurchasing()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+setName(string)
+getStats()
+purchasingAllowed()
+0xdc01c0ec

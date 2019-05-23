@@ -1,0 +1,10 @@
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+performFeelessTransaction(address,address,bytes,uint256,bytes)
+decreaseApproval(address,uint256)
+balanceOf(address)
+0x7ecebe00
+many_msg_babbage(bytes1)
+increaseApproval(address,uint256)
+allowance(address,address)

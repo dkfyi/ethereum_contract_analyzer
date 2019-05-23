@@ -1,0 +1,12 @@
+setContract(address,address)
+0x2f7b5cef
+0x61b21f4d
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0xc1530d5e
+transferOwnership(address)
+0x4a39ec90
+0xe2eb41ff
+0x4a39ec90
+0xa7306598

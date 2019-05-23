@@ -1,0 +1,8 @@
+payDividend()
+withdrawDividend()
+retainedEarning()
+pendingWithdrawals(address)
+totalSupply()
+getHoldersCount()
+getHolder(uint256)
+balanceOf(address)

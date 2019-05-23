@@ -1,0 +1,14 @@
+beneficiary()
+0x42280374
+0x50357d03
+tokenReward()
+balanceOf(address)
+0x7e2e61f8
+0x809c939e
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+totalSupply()
+balanceOf(address)
+balanceOf(address)

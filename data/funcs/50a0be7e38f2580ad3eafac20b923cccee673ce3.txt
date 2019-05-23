@@ -1,0 +1,7 @@
+getBalance()
+withdraw()
+getDay(uint16)
+changePrice(uint16,uint256)
+buyDay(uint16,uint256,string)
+changeMessage(uint16,string)
+transferDay(uint16,address)

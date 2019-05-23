@@ -1,0 +1,15 @@
+name()
+0x1d7695d9
+0x343222b9
+0x35b5b1c6
+0x4fd205cb
+tokenReward()
+link_classic_internal(uint64,int64)
+0xd2731b32
+comment()
+balanceOf(address)
+gasprice_bit_ether(int128)
+balanceOf(address)
+balanceOf(address)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

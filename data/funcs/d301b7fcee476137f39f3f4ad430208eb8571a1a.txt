@@ -1,0 +1,10 @@
+0x08087d1f
+claimToken(address,uint256)
+0x400f2ba0
+ideal_warn_timed(uint256,uint128)
+totalClaimed()
+transferOwnership(address)
+balanceOf(address)
+0xdda04637
+balanceOf(address)
+upgrade(uint256)

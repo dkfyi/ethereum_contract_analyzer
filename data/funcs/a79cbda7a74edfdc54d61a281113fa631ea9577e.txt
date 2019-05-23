@@ -1,0 +1,4 @@
+0x34ce10c4
+0xcf29e679
+available_assert_time(uint16,uint64)
+gasprice_bit_ether(int128)

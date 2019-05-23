@@ -1,0 +1,7 @@
+buyToken(address)
+getAuctionIndex(address,address)
+deposit()
+deposit(address,uint256)
+postBuyOrder(address,address,uint256,uint256)
+claimAndWithdraw(address,address,address,uint256,uint256)
+many_msg_babbage(bytes1)

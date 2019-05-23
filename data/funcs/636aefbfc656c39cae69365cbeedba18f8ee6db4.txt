@@ -1,0 +1,7 @@
+0x34a6de4e
+kill()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+oldToken()
+transferOwnership(address)
+many_msg_babbage(bytes1)

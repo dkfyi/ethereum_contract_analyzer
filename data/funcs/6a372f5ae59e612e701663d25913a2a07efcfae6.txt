@@ -1,0 +1,8 @@
+0x1926e549
+0x1d733337
+0x1e5cb9be
+migrateFrom(address,uint256)
+token_address()
+0x942e6bcf
+0xb3762557
+register(string)

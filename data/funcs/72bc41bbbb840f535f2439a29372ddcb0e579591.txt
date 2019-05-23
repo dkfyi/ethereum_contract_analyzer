@@ -1,0 +1,12 @@
+0x4883c329
+payoutAmount()
+0x7960eff8
+0x7c67a3e2
+percentRate()
+ideal_warn_timed(uint256,uint128)
+ownerAddress()
+0xbe36cc25
+balance(address)
+transferOwnership(address)
+0xf3f7d633
+0xf488fdd0

@@ -1,0 +1,16 @@
+vaultAddress()
+onTransfer(address,address,uint256)
+0x509eed23
+tokenContract()
+setVault(address)
+fundingGoal()
+ideal_warn_timed(uint256,uint128)
+finalizeFunding()
+changeOwner(address)
+0xbb5d4a97
+totalRaised()
+onApprove(address,address,uint256)
+proxyPayment(address)
+controller()
+generateTokens(address,uint256)
+changeController(address)

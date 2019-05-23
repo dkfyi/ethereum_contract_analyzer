@@ -1,0 +1,10 @@
+__callback(bytes32,string)
+kill()
+update()
+ETHXBT()
+getAddress()
+getAddress()
+0x4c773795
+getAddress()
+getAddress()
+query(uint256,string,string)

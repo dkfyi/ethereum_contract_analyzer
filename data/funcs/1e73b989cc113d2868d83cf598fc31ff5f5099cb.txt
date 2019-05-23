@@ -1,0 +1,5 @@
+ideal_warn_timed(uint256,uint128)
+getReputation(address)
+updateReputation(string,uint256,uint256,string,string,address)
+changeOwner(address)
+newOwner()

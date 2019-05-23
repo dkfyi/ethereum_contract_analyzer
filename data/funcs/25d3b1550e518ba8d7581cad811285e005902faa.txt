@@ -1,0 +1,12 @@
+getBeat(uint256)
+0x3064829a
+0x63136bec
+getDonatee()
+setMinDonation(uint256)
+getOwner()
+getNumberOfBeats()
+changeOwner(address)
+getDonationStats()
+setMilestone(uint256)
+getTotalDonated()
+donate()

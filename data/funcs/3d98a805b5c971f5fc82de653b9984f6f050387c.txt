@@ -1,0 +1,2 @@
+MyContract()
+sendCoin(address,uint256)

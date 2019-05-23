@@ -1,0 +1,6 @@
+userCount()
+0x2687a4f9
+payReward()
+ideal_warn_timed(uint256,uint128)
+currBetID()
+addressList(uint256)

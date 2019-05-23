@@ -1,0 +1,4 @@
+d()
+ideal_warn_timed(uint256,uint128)
+calculatePurchaseReturn(uint256,uint256,uint8,uint256)
+calculateSaleReturn(uint256,uint256,uint8,uint256)

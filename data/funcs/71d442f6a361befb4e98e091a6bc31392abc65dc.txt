@@ -1,0 +1,14 @@
+endTime()
+cap()
+unpause()
+weiRaised()
+setCap(uint256)
+wallet()
+paused()
+startTime()
+pause()
+0x8aa1c60b
+ideal_warn_timed(uint256,uint128)
+0xcfcb7359
+buyTokens(address)
+transferOwnership(address)

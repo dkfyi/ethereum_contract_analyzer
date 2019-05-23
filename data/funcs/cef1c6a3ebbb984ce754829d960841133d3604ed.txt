@@ -1,0 +1,6 @@
+0x12c456af
+0x359403f1
+0xbc5357ce
+token()
+gasprice_bit_ether(int128)
+allowance(address,address)

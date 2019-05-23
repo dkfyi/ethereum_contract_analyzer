@@ -1,0 +1,10 @@
+ceoAddress()
+removeAdmin(address)
+approvedContracts(address)
+setCEO(address)
+disApproveUsers(address[])
+admins(address)
+addAdmin(address)
+approveUsers(address[])
+approveUser(address)
+0xe35fe366

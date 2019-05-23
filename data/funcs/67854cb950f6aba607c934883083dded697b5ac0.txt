@@ -1,0 +1,8 @@
+getVersion()
+getTimestamp()
+0x4583b029
+ideal_warn_timed(uint256,uint128)
+isOwner()
+getHash()
+receiver()
+getTitle()

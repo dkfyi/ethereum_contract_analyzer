@@ -1,0 +1,6 @@
+name()
+status()
+setup(address)
+deposit()
+deposit(address)
+deposit(address)

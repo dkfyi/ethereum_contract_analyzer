@@ -1,0 +1,6 @@
+getBalance()
+kill()
+getStatus()
+takeAGuess(uint8)
+addBalance()
+checkGuess()

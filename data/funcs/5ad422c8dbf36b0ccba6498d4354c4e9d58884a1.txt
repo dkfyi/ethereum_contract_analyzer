@@ -1,0 +1,8 @@
+killContract()
+setMinPrice(uint256)
+getSold()
+getMinPrice()
+getBalance(address)
+gasprice_bit_ether(int128)
+0x06acfc00
+0x06acfc00

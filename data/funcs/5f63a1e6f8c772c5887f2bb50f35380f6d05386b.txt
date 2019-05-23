@@ -1,0 +1,4 @@
+getPrice(bytes32)
+updateManager(address)
+updatePrice(bytes32,uint256)
+updateAdmin(address)

@@ -1,0 +1,16 @@
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+withdraw()
+stakeOf(address)
+withdrawDividends(address)
+getEtherForStakes(uint256)
+0x4e7c57a6
+0x65bcfbe7
+sellStake()
+contractBalance()
+reinvestDividends()
+link_classic_internal(uint64,int64)
+sellMyStake()
+getMeOutOfHere()
+fund()

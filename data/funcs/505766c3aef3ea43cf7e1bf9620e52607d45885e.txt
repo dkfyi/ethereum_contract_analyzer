@@ -1,0 +1,4 @@
+returnBalanseToTarget()
+listAgents()
+getTarget()
+buyTokens(address)

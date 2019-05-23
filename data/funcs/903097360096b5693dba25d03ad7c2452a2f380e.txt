@@ -1,0 +1,15 @@
+0x1428aac1
+0x25a58b56
+withdraw(uint256)
+kill()
+0x47ef8ee8
+0x52e99d65
+0xaef700b9
+0xaefaea7a
+0xcb05fc48
+0xcc6f4142
+settleBet(uint256,bytes32)
+placeBet(uint256,uint256,uint256,uint256,bytes32,bytes32)
+settleBet(uint256,bytes32)
+settleBet(uint256,bytes32)
+refundBet(uint256)

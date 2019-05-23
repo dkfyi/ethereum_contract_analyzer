@@ -1,0 +1,11 @@
+deactivateProject(address)
+0x4db7baa3
+renounceOwnership()
+projects(address)
+createProject(string,address,address)
+ideal_warn_timed(uint256,uint128)
+activateProject(address)
+getProjects()
+countProjects()
+transferOwnership(address)
+getProject(address)

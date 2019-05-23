@@ -1,0 +1,9 @@
+0x1d5e970d
+balances(address)
+getPercent()
+getDepositMultiplier()
+0x57657081
+0x7c67a3e2
+0x81e170de
+authorizationPayment()
+0xb9c797f6

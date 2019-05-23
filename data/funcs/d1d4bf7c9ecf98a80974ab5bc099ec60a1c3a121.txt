@@ -1,0 +1,5 @@
+updateTokenAddress(address)
+tokenWallet()
+0xc80f3c8a
+token()
+gasprice_bit_ether(int128)

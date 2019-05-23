@@ -1,0 +1,4 @@
+0x100e4e8b
+0x1a63b5d2
+register()
+checkWinner()

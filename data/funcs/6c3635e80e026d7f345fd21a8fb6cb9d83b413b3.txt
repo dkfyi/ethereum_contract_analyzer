@@ -1,0 +1,13 @@
+0x1bf9cd4f
+contract_owner()
+0x41f41956
+0x46864cd8
+0x69515be8
+acceptOwnership()
+0x82043ce2
+contract_newOwner()
+transferOwnership(address)
+queryFusionData_ext(uint256)
+queryFusionData_ext(uint256)
+cancelChibiForFusion(uint256)
+cancelChibiForFusion(uint256)

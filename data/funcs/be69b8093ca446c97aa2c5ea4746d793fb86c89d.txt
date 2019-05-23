@@ -1,0 +1,2 @@
+getTrustSetting(address)
+updateTrustSettings(address,uint256)

@@ -1,0 +1,8 @@
+birthBlock_()
+0x9e77331c
+addLogicVersion(uint256,address)
+0xabcd053f
+0xacfdd2c5
+getLogic(uint256)
+removeLogicVersion(uint256)
+owner_()

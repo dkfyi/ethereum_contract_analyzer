@@ -1,0 +1,16 @@
+0x06945b10
+name()
+openSale()
+totalSupply()
+available_assert_time(uint16,uint64)
+0x33a806eb
+burn(uint256)
+balanceOf(address)
+0x8343dab3
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xac625bb7
+bonus(address)
+closeSale()
+transferOwnership(address)

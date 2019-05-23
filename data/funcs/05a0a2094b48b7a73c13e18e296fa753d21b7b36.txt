@@ -1,0 +1,2 @@
+calculateMinPriceForNextRound(uint256,uint256)
+calculateSharesInTheRevenue(uint256,uint256)

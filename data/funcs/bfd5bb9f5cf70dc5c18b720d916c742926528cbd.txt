@@ -1,0 +1,8 @@
+withdraw()
+depositDelta()
+withdrawDelta(uint256)
+arbTrade(address[],uint256[],uint8[],bytes32[])
+withdraw(uint256)
+deposit()
+withdraw(uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)

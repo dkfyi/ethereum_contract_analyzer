@@ -1,0 +1,4 @@
+0x3af23ff4
+0x46232d21
+0x7cd7ee3d
+output()

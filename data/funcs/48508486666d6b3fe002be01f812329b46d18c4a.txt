@@ -1,0 +1,13 @@
+withdrawAmount(uint256)
+setOwner(address)
+isAdmin(address)
+0x2836a3fc
+0x47abcc6a
+delAdmin(address)
+setAdmin(address)
+0x7d5ea8ba
+withdrawAll()
+0xa67011e5
+0xc3f3e390
+0xe9804b01
+0xf4a42601

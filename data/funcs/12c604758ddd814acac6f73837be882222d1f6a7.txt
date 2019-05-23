@@ -1,0 +1,4 @@
+registerSecret(bytes32)
+contract_version()
+registerSecretBatch(bytes32[])
+getSecretRevealBlockHeight(bytes32)

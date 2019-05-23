@@ -1,0 +1,10 @@
+tkn()
+transfer(uint256,string,bytes)
+ideal_warn_timed(uint256,uint128)
+changeWallet(address)
+changeSigner(address)
+killMe()
+tokenWallet()
+0xcc3c0f06
+transferOwnership(address)
+gasprice_bit_ether(int128)

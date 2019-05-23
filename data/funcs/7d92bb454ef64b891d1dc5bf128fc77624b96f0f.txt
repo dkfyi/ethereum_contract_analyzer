@@ -1,0 +1,15 @@
+checkGoalReached()
+closeCrowdSale()
+deadline()
+withdrawTokens(uint256)
+beneficiary()
+safeWithdrawal(uint256)
+tokenReward()
+balanceOf(address)
+fundingGoal()
+amountRaised()
+0x9fde3c7f
+price()
+0xcb8b8514
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

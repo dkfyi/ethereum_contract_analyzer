@@ -1,0 +1,10 @@
+calculatePurchaseReturn(uint256,uint256,uint32,uint256)
+calculateSaleReturn(uint256,uint256,uint32,uint256)
+version()
+0x5fe540dd
+calculateCrossConnectorReturn(uint256,uint32,uint256,uint32,uint256)
+0xdeb0f9f8
+0x17499f00
+0x01a9d480
+0x2f881b00
+0x01b29340

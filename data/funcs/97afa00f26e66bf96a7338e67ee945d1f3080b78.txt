@@ -1,0 +1,12 @@
+Transparancy()
+InvestorList(uint256)
+ChangeShownDenomination(bool,bool,bool,bool)
+ContributorList(uint256)
+RoundInfo()
+ChangeName(string)
+PayoutDividendEarly(uint256,bool)
+__DeployerFunctions(address,address,uint256)
+0x1cc41b3b
+0x290decd9
+0x6f6d706c
+0x1cc41b3b

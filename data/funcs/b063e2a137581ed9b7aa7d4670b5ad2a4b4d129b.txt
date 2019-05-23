@@ -1,0 +1,10 @@
+0x0ce6e680
+register()
+checkBothNotNull()
+getMyBalance()
+getContractBalance()
+play(string)
+AmIPlayer1()
+AmIPlayer2()
+getWinner()
+0xd8b1f219

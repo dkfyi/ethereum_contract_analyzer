@@ -1,0 +1,7 @@
+0x0300b50a
+kill()
+0xa519c198
+transferOwnership(address)
+init()
+lock()
+transferOwnership(address)

@@ -1,0 +1,16 @@
+0x12d9e1a5
+calculateOwnerCut(uint256)
+unpause()
+setAccountNickname(string)
+paused()
+withdrawBalance()
+getPriceByDayIndex(uint16)
+0x640fe1e9
+claimDay(uint16)
+pause()
+contractBalance()
+ideal_warn_timed(uint256,uint128)
+calculatePriceIncrease(uint256)
+transferOwnership(address)
+0xf6c3ce33
+0xfa76b497

@@ -1,0 +1,9 @@
+0x0c6dca6e
+0x951ced16
+0xcfe8dcdf
+0xd1ca9d13
+testBurn()
+getCurrentRoundInfo()
+getCurrentRoundInfo()
+getCurrentRoundInfo()
+getCurrentRoundInfo()

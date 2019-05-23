@@ -1,0 +1,16 @@
+rate()
+endTime()
+0x49b1cf79
+changeToken(address)
+startTime()
+withdrawCoinToOwner(uint256)
+etherProceeds()
+0x8727af31
+init(uint256,uint256,uint256)
+ideal_warn_timed(uint256,uint128)
+totalFundingSupply()
+transferOwnership(address)
+token()
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

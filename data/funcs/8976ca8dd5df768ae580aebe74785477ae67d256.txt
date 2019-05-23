@@ -1,0 +1,4 @@
+readMessage()
+kill()
+0xc6820a6e
+sendMessage(address,string)

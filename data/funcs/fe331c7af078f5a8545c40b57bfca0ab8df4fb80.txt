@@ -1,0 +1,9 @@
+0x0470420d
+0x0f758a53
+withdraw(uint256)
+0x7569ea89
+showBalance()
+sendCoin(address,uint256)
+0xa93ae602
+coinBalanceOf(address)
+deposit()

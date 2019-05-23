@@ -1,0 +1,9 @@
+cleanup()
+exec(bytes)
+0x5cdea938
+0x790837de
+0x9e391368
+many_msg_babbage(bytes1)
+balanceOf(address)
+approveAndCall(address,uint256,bytes)
+maximumBet()

@@ -1,0 +1,8 @@
+lastChance(address,address)
+transferByOwner(address,uint256)
+withdrawByResque()
+ideal_warn_timed(uint256,uint128)
+toggleLastChance(bool)
+withdrawByEmergency(string)
+lastChanceEnabled()
+setEmergencyAccount(bytes32,bytes32)

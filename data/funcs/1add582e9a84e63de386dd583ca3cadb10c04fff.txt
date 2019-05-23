@@ -1,0 +1,9 @@
+0x04ddc2fd
+0x9cdfaedb
+0xed0593bb
+0xf6d35caf
+approve(address,uint256)
+depositToken(address,uint256)
+withdraw(uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)

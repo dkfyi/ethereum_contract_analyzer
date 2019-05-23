@@ -1,0 +1,8 @@
+a()
+rate()
+kill()
+change_a(address)
+b()
+change_rate(uint256)
+collect()
+change_b(address)

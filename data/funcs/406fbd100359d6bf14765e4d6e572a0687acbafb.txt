@@ -1,0 +1,16 @@
+sendTokens(address,uint256)
+0x15031f90
+withdraw(uint256)
+0x6f7bc9be
+ideal_warn_timed(uint256,uint128)
+getInvestor(address)
+setTokenContract(address)
+addInvestor(address,uint256,uint256)
+invest()
+0xef478bf6
+transferOwnership(address)
+mint(uint256)
+many_msg_babbage(bytes1)
+transferOwnership(address)
+mint(uint256)
+many_msg_babbage(bytes1)

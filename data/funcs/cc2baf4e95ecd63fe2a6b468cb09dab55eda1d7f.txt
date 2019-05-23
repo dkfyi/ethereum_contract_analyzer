@@ -1,0 +1,3 @@
+setString(string)
+getString()
+0x8b84925b

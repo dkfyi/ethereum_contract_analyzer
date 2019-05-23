@@ -1,0 +1,14 @@
+version()
+0x67453969
+renounceOwnership()
+0x73e5ec47
+ideal_warn_timed(uint256,uint128)
+0xd4eb3425
+transferOwnership(address)
+getBool(bytes32)
+setAddress(bytes32,address)
+getAddress(bytes32)
+setAddress(bytes32,address)
+setAddress(bytes32,address)
+deleteAddress(bytes32)
+0x6f6e7472

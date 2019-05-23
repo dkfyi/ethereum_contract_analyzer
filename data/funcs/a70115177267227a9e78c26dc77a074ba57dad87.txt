@@ -1,0 +1,13 @@
+0x0d932e70
+0x177551ae
+0x33514006
+identify(address)
+rename(string)
+0x93c0d60d
+0x9a2bff4f
+unregister()
+register(string)
+lookup(string)
+0x01e13380
+0x01e13380
+0xd4fc9fc6

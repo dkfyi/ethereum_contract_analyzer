@@ -1,0 +1,3 @@
+getOwner()
+0x95fb6d88
+dice(uint256)

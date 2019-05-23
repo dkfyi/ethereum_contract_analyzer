@@ -1,0 +1,16 @@
+endBlock()
+0x3465d6d5
+kill()
+adjustRate(uint256)
+0x59a5aa33
+halt()
+totalAtom()
+treasury()
+beginBlock()
+totalEther()
+isHalted()
+unhalt()
+0xebb41ad6
+0xf5c96216
+admin()
+dust()

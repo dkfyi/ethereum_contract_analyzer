@@ -1,0 +1,7 @@
+0x6fa7a5c4
+0x9b2e72b3
+0xb73c02a4
+getQuickBuyPathLength()
+quickBuyPath(uint256)
+quickBuyPath(uint256)
+getQuickBuyPathLength()

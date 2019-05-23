@@ -1,0 +1,16 @@
+trader()
+drop(address[],uint256)
+0x4ed221a3
+ideal_warn_timed(uint256,uint128)
+setTrader(address)
+0xbfb61002
+issue(uint256)
+trade(uint256)
+transferOwnership(address)
+token()
+drop(address[],uint256)
+transferOwnership(address)
+mint(address,uint256)
+mint(address,uint256)
+balanceOf(address)
+many_msg_babbage(bytes1)

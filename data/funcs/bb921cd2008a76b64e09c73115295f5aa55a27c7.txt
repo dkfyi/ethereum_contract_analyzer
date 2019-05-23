@@ -1,0 +1,17 @@
+name()
+0x09e69ede
+maxParticipants()
+setMaxParticipants(uint256)
+participantCount()
+0x44b69fa1
+transferOwner(address)
+0x59974e38
+0x6edef671
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+0x9625001f
+price()
+getDuration()
+0xcd7ea095
+0xd91365d9
+withdraw(address,uint256)

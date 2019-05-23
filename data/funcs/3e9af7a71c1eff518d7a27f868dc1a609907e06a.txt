@@ -1,0 +1,4 @@
+withdraw()
+kill()
+0x70348a33
+ideal_warn_timed(uint256,uint128)

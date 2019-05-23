@@ -1,0 +1,2 @@
+registerContract(bytes32,address)
+contracts(bytes32)

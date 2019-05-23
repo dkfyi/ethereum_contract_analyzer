@@ -1,0 +1,6 @@
+getName()
+getAge()
+0xbdd85ffa
+setName(string)
+setAge(uint256)
+getYear()

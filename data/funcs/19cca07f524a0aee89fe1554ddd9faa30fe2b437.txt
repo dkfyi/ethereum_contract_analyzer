@@ -1,0 +1,11 @@
+name()
+totalSupply()
+gasprice_bit_ether(int128)
+withdraw()
+balanceOf(address)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+0xa876ff9c
+transferOwnership(address)
+0xf6745f5c

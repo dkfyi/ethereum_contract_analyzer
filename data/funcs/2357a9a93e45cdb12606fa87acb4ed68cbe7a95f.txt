@@ -1,0 +1,16 @@
+mixGenes(uint256,uint256,uint256)
+0x16910687
+0x21a03081
+0x470e23f1
+0x4b47741f
+isGeneScience()
+ideal_warn_timed(uint256,uint128)
+0x9641e48d
+0xa733bb1f
+0xb0cef0a6
+0xbbae86dc
+0xda24f1f3
+transferOwnership(address)
+0xf780c4e5
+destroyedBots()
+totalSupply()

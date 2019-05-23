@@ -1,0 +1,3 @@
+hashString(string)
+hashBytes(bytes)
+selfDestruct()

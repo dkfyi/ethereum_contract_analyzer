@@ -1,0 +1,4 @@
+getBalance()
+kill()
+takeAGuess(uint8)
+addBalance()

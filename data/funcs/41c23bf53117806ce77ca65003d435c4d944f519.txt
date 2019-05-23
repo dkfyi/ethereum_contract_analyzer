@@ -1,0 +1,7 @@
+showTotal()
+balances(address)
+showProfit(address)
+0x7302dacf
+isLastWithdraw(address)
+showBalance(address)
+0xdf8926c6

@@ -1,0 +1,13 @@
+mgrAddress(uint256)
+mgrVotes(uint256)
+0x3630096a
+minVotes()
+recipient()
+isFinalized()
+ideal_warn_timed(uint256,uint128)
+Approve(address,uint256)
+curVotes()
+SetAction(address,uint256)
+amountToTransfer()
+Finalize()
+mgrCount()

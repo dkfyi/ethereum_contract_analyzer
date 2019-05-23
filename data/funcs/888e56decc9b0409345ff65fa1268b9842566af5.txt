@@ -1,0 +1,12 @@
+getDeployedEvents()
+0x509afd88
+0xeade22f6
+name()
+ticketPrice()
+date()
+manager()
+buy()
+0xcfbd900f
+totalTickets()
+0xe733c416
+0xfa59dffd

@@ -1,0 +1,2 @@
+payout(address[],uint256[])
+admin()

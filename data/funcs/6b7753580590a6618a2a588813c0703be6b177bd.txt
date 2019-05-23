@@ -1,0 +1,16 @@
+0x152deebe
+0x16f1eea6
+0x1846f51a
+0x3d094829
+kill()
+withdrawPrize()
+resultsPublished()
+0x6d99ef46
+closeGame()
+ideal_warn_timed(uint256,uint128)
+resultsPublishedTime()
+0xc0a9a88e
+forecastingClosed()
+0xc72ed110
+0xd2597695
+0xf71d96cb

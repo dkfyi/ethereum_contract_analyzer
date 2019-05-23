@@ -1,0 +1,3 @@
+getAmount(uint256)
+getAmount(uint256)
+getBonus()

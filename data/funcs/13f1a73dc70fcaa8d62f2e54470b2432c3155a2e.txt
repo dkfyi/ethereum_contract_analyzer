@@ -1,0 +1,6 @@
+terminate()
+getCapital(uint256)
+withdraw(uint256)
+withdrawAll()
+deposit()
+withdrawFee()

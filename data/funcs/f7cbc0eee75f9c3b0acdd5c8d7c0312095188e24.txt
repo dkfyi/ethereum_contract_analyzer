@@ -1,0 +1,8 @@
+banker()
+houseedge()
+maxbet()
+kill()
+minbet()
+luckynum()
+winlose()
+_getrand09()

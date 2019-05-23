@@ -1,0 +1,16 @@
+getCET6ByAddr(address)
+addMasterTo(address,string,string,string,uint8,uint8,uint8,uint8,uint8,uint8,uint32,uint32)
+0x2c0fb4dd
+0x34ca8d21
+0x37c5ba79
+addDoctorTo(address,string,string,string,uint8,uint8,uint8,uint8,uint8,uint8,uint32,uint32)
+ideal_warn_timed(uint256,uint128)
+0xa051a24e
+0xcf4a543c
+0xd818750a
+createStudent(string,string,string,uint32,bytes1)
+addUndergraduateTo(address,string,string,string,uint8,uint8,uint8,uint8,uint8,uint8,uint32,uint32)
+addCET6To(address,uint32,uint32)
+getCET4ByAddr(address)
+transferOwnership(address)
+addCET4To(address,uint32,uint32)

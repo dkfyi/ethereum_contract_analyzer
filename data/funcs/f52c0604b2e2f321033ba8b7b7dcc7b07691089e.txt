@@ -1,0 +1,6 @@
+deposit(address,uint256)
+spread(address,address[],uint256[])
+tokenFallback(address,uint256,bytes)
+balanceOf(address,address)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

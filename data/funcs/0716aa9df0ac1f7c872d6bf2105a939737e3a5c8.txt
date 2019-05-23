@@ -1,0 +1,4 @@
+nameRegAddress()
+test(bytes32)
+named(bytes32)
+addressOf(bytes32)

@@ -1,0 +1,10 @@
+setAdmin(address,bool)
+admin(address)
+RegisterList(address[],bool)
+0xab01b469
+Owner()
+UnregisterList(address[],bool)
+isRegistered(address,bool)
+Unregister(address,bool)
+0xe45a0e09
+transferOwnership(address)

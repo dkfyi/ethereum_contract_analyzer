@@ -1,0 +1,9 @@
+kill2()
+createContract()
+0xec4b0704
+kill()
+kill()
+kill()
+kill()
+kill()
+kill()

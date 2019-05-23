@@ -1,0 +1,4 @@
+0x293dff3e
+close()
+changePrice(uint256)
+0xac5b8b34

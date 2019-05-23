@@ -1,0 +1,8 @@
+feedOnKitty(uint256,uint256)
+0x5f4623f1
+ideal_warn_timed(uint256,uint128)
+0xed556663
+transferOwnership(address)
+0xfd199715
+0xfdccc83e
+getKitty(uint256)

@@ -1,0 +1,9 @@
+add(address)
+remove(address)
+0x3804e84e
+getAll()
+removeBulk(address[])
+0x7ebd1b30
+administrator()
+isInList(address)
+addBulk(address[])

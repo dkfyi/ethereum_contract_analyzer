@@ -1,0 +1,9 @@
+0x59cf3173
+0x69891622
+Swap(uint256)
+safeDiv(uint256,uint256)
+safeMul(uint256,uint256)
+0xe3f77659
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

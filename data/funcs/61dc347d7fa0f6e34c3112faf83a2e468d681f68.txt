@@ -1,0 +1,4 @@
+SetPass(bytes32)
+GetGift(bytes)
+hashPass()
+GetHash(bytes)

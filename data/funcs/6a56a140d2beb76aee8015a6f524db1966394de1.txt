@@ -1,0 +1,11 @@
+addPicture(string,uint32,uint32,uint32,uint32,string,string,string)
+0x17072f46
+addManager(address)
+setSegment(string,uint32,uint32,string,string,string,string)
+setSegmentOwner(string,uint32,uint32,string,string)
+ideal_warn_timed(uint256,uint128)
+removeManager(address)
+MytilcoinStorage()
+0xba421b77
+transferOwnership(address)
+managers(address)

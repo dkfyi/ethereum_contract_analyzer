@@ -1,0 +1,4 @@
+0x060c77da
+kill()
+0x6e5cbede
+0xdd2015df

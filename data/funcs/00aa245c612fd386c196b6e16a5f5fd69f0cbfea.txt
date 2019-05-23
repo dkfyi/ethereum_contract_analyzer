@@ -1,0 +1,8 @@
+0x5475235b
+ownerOf(uint256)
+getSupply()
+0xbd08125a
+getKitty(uint256)
+ownerOf(uint256)
+totalSupply()
+exists(uint256)

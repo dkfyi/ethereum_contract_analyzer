@@ -1,0 +1,4 @@
+docs(uint256)
+index()
+manager()
+addDoc(string,string)

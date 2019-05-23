@@ -1,0 +1,2 @@
+isSigned(address,bytes32,uint8,bytes32,bytes32)
+recoverAddr(bytes32,uint8,bytes32,bytes32)

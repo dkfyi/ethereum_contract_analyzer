@@ -1,0 +1,12 @@
+0x45b61ea5
+0x5781aa86
+0x90b7cc6f
+0x92379af7
+0xee6804f0
+approve(address,uint256)
+refund(uint256,uint256)
+quickConvert(address[],uint256,uint256)
+balanceOf(address)
+refund(uint256,uint256)
+quickConvert(address[],uint256,uint256)
+many_msg_babbage(bytes1)

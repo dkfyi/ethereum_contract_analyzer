@@ -1,0 +1,9 @@
+partnerID(address)
+totalShares()
+0x3b3e67c5
+0x5211c4ab
+totalTokens()
+0x9105d748
+0xc3b49d04
+getHolder(uint256)
+numberOfPartners()

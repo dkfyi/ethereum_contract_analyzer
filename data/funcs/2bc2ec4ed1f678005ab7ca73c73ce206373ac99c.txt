@@ -1,0 +1,13 @@
+0x05df571f
+Time_Start_Crowdsale()
+0x204fff38
+bighype()
+hype()
+0xdcc37192
+Take_share_team_AES()
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

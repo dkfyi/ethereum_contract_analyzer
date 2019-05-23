@@ -1,0 +1,9 @@
+0x14e2d5df
+0x1d0a6e87
+tokenTransfer(address,uint256)
+0x822e342a
+0x8a63b35d
+batchTokenTransfer(address[],uint256[])
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

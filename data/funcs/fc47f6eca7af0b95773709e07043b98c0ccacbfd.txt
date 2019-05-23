@@ -1,0 +1,5 @@
+setOwner(address)
+removeAdmin(address)
+kill()
+random()
+addAdmin(address)

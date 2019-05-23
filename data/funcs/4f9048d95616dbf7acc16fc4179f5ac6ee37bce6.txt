@@ -1,0 +1,7 @@
+manager()
+pickWinner()
+getContractBalance()
+getPlayers()
+winner()
+enter()
+0xf71d96cb

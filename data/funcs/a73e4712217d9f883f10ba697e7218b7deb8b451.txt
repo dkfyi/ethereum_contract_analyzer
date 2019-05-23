@@ -1,0 +1,17 @@
+0x3dc17a52
+0x7eadebfe
+0x7fb8b61e
+ideal_warn_timed(uint256,uint128)
+0x9cf40c0b
+0xa10d0960
+deposit(string)
+0xa27cfdca
+balanceOfToken(address)
+tokens(address)
+0xe5188f55
+transferOwnership(address)
+gasprice_bit_ether(int128)
+link_classic_internal(uint64,int64)
+name()
+available_assert_time(uint16,uint64)
+totalSupply()

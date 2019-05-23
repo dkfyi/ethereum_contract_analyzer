@@ -1,0 +1,10 @@
+finalizeCrowdsale()
+coin()
+0x20f8e3dd
+ideal_warn_timed(uint256,uint128)
+0x988189ee
+0xd8b067be
+transferOwnership(address)
+burn(uint256)
+balanceOf(address)
+many_msg_babbage(bytes1)

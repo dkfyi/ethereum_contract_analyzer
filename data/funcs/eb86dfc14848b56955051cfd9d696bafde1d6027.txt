@@ -1,0 +1,8 @@
+AddGift(string,uint256,uint32[],uint256[])
+DelGift(string)
+HasGift(string)
+GetGiftInfo(string)
+IsExchanged(address,string)
+Exchange(address,string)
+SetAuth(address)
+ClearAuth(address)

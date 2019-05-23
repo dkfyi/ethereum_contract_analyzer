@@ -1,0 +1,5 @@
+getCreator()
+getBalance()
+kill()
+refund()
+share()

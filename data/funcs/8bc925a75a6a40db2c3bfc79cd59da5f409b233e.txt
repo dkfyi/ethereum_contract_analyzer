@@ -1,0 +1,14 @@
+getBalance()
+withdraw(uint256)
+0x56cc783c
+0x737019af
+0xb59bb066
+0xc1b14563
+0xc49b1f68
+deposit()
+0x5cf47192
+0xb88563e6
+0xb88563e6
+0xbd7b0e62
+random(uint64)
+lottery(uint256)

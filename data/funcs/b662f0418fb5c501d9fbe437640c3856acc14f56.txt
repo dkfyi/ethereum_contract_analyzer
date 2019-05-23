@@ -1,0 +1,2 @@
+isAuthorized()
+0xd5b9221b

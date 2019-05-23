@@ -1,0 +1,4 @@
+addFortune(string)
+0x8c8005a3
+drawFortune()
+countFortunes()

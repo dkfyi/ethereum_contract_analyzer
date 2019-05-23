@@ -1,0 +1,3 @@
+sendPayment()
+getOwner()
+setAddress(uint256,address)

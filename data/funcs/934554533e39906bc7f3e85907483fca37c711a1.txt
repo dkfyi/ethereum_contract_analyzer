@@ -1,0 +1,6 @@
+__callback(bytes32,string)
+kill()
+0x73f0cc2d
+getPrice(string,uint256)
+getAddress()
+cbAddress()

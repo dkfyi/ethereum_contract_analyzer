@@ -1,0 +1,15 @@
+setToken(address)
+endAirdrop()
+ideal_warn_timed(uint256,uint128)
+0x92589d9a
+transferOut(address)
+setTokenWallet(address)
+0xb98c27e6
+tokenWallet()
+funding()
+transferOwnership(address)
+token()
+gasprice_bit_ether(int128)
+balanceOf(address)
+gasprice_bit_ether(int128)
+allowance(address,address)

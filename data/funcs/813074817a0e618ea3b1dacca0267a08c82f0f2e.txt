@@ -1,0 +1,10 @@
+setDataContract(address)
+0x1fe52b5d
+0x6d669540
+replaceOwner(address)
+0xd351b5fd
+ownerOf(uint256)
+getStage(uint256)
+getInfo(uint256)
+many_msg_babbage(bytes1)
+0xb9f8bf68

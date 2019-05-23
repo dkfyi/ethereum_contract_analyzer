@@ -1,0 +1,11 @@
+getVotesForItem(uint256)
+getVoteItemDetails(uint256)
+getAllVoters()
+itemCount()
+0xaec2ccae
+start()
+0xc69cac34
+vote(uint256[])
+getUserVote(address)
+0xda58c7d9
+end()

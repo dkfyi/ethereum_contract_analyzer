@@ -1,0 +1,15 @@
+0x0f181358
+0x24cecec9
+0x3d5cf8e1
+0x63ce1d71
+0x6525284a
+0x6f29253a
+0x74fe803a
+ideal_warn_timed(uint256,uint128)
+0x9416e404
+presaleBalances(address)
+0xc6fd8ea4
+EXP_18()
+0xe0296069
+transferOwnership(address)
+0xf6e06f3b

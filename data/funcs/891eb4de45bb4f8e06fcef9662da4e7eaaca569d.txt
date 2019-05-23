@@ -1,0 +1,14 @@
+pot()
+pot()
+0x7a183e84
+number()
+0xb37f6e14
+0xdb9f0676
+timerStart()
+End()
+0x169ee8d6
+EscapeHatch()
+bid()
+0x3adb9114
+leader()
+0x75727265

@@ -1,0 +1,17 @@
+0x066e89a6
+setOwner(address)
+0x13e7c9d8
+lastBlockNumber()
+0x32bc8990
+0x4cbb0ed8
+0x57edff07
+0x68349324
+isOperator(address)
+0x77754136
+0x8649d43b
+submitBlockHeaders(bytes)
+ideal_warn_timed(uint256,uint128)
+0xc3943844
+0xd1c55ee8
+0xe2a56a44
+blocks(uint256)

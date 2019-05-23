@@ -1,0 +1,8 @@
+getBalance()
+totalFortunes()
+getEthereumToken()
+getFortune(uint256)
+withdraw(address)
+buyEthereumToken()
+payFortune(uint256)
+admin()

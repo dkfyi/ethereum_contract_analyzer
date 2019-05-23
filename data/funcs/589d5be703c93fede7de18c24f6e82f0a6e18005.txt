@@ -1,0 +1,4 @@
+pastFiveMinutes()
+pastOneHour()
+pastTenMinutes()
+today()

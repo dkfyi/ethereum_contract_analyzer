@@ -1,0 +1,12 @@
+hasClosed()
+rate()
+weiRaised()
+closingTime()
+wallet()
+openingTime()
+buyTokens(address)
+getCurrentRate()
+token()
+0x5bda4200
+0x5c01cf00
+mint(address,uint256)

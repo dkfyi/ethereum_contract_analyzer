@@ -1,0 +1,11 @@
+vote(uint256)
+0x1cfe7e5a
+0x2b8c2504
+0x46916102
+0x6bb37f72
+giveRightToVote(address)
+voters(address)
+0xc795e788
+0xd11d30a3
+0xdcf7b628
+0xdff67f6b

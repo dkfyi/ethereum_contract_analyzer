@@ -1,0 +1,3 @@
+getBalance()
+getAddress()
+0xff69909e

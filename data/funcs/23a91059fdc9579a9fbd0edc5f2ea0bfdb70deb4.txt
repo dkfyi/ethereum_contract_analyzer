@@ -1,0 +1,6 @@
+MinDeposit()
+balances(address)
+CashOut(uint256)
+Deposit()
+AddMessage(address,uint256,string)
+AddMessage(address,uint256,string)

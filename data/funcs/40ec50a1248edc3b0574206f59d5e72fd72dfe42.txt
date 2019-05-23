@@ -1,0 +1,8 @@
+getPriceProxy()
+USD()
+oneCentOfWei()
+WEI()
+getAddress()
+getPrice(string,uint256)
+getAddress()
+getPrice(string,uint256)

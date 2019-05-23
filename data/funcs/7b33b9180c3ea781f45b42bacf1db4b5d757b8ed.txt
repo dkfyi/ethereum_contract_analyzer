@@ -1,0 +1,17 @@
+recycleDividend(uint256)
+isAdmin(address)
+claimDividendAll()
+0x5dc43fa0
+delAdmin(address)
+addAdmin(address)
+RECYCLE_TIME()
+dividends(uint256)
+ideal_warn_timed(uint256,uint128)
+claimDividend(uint256)
+depositDividend()
+0xd486cf6e
+transferOwnership(address)
+totalSupplyAt(uint256)
+transfersEnabled()
+balanceOfAt(address,uint256)
+totalSupplyAt(uint256)

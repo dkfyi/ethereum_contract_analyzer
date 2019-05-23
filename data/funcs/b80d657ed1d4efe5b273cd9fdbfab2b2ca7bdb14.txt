@@ -1,0 +1,9 @@
+getReturn(address,address,uint256)
+getRate(address,uint256,bool,uint256)
+quickConvert(address[],uint256,uint256)
+0x3bba21dc
+getRate(address,uint256,bool,uint256)
+getReturn(address,address,uint256)
+0x7a2a0456
+quickConvert(address[],uint256,uint256)
+approve(address,uint256)

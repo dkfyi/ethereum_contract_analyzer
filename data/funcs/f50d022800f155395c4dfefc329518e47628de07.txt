@@ -1,0 +1,6 @@
+killContract()
+withdraw()
+withdrawForeignTokens(address)
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

@@ -1,0 +1,10 @@
+setTokenAddr(address)
+getMyBalance()
+getStatus()
+ethWithdraw()
+0x7cdf7547
+getTokenBalance()
+0xae4c6e5c
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

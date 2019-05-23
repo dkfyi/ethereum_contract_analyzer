@@ -1,0 +1,5 @@
+newDepositContract(address,address)
+withdrawDeposit()
+register(address)
+0x5aa6e675
+registrationVote(address,uint256)

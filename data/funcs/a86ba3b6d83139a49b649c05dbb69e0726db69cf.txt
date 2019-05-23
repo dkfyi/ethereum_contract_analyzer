@@ -1,0 +1,17 @@
+resolver()
+checkRole(address,string)
+removeRole(address,string)
+hasRole(address,string)
+0x34bdf216
+ens()
+associateWithSig(bytes32,bytes32,address,uint256,uint256,bytes32,bytes32,uint8)
+setRegistrar(uint256,address)
+addRole(address,string)
+unsetRegistrar(uint256,address)
+0x9e317f12
+multicall(bytes[])
+setSubnodeOwner(bytes32,bytes32,address)
+setResolver(bytes32,address)
+setResolver(bytes32,address)
+setOwner(bytes32,address)
+0x1b6c6578

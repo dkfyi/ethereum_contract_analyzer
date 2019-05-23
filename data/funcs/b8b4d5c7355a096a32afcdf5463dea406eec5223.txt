@@ -1,0 +1,10 @@
+name()
+approveRound(address)
+operator()
+arbitrationAddress()
+juryOnlineWallet()
+0xafbce3b9
+currentCycle()
+projectWallet()
+addRound()
+token()

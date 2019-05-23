@@ -1,0 +1,6 @@
+0x0fe329f5
+terminateContract()
+0x30204e80
+0x4e5e11cf
+0xbaeea90c
+withdrawContractBalance()

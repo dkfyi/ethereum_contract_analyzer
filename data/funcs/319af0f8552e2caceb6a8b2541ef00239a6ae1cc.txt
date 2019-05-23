@@ -1,0 +1,2 @@
+canDoLoop(uint256,uint256,uint256)
+maximumNumberOfLoops(uint256,uint256)

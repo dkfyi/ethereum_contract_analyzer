@@ -1,0 +1,12 @@
+0x066cfa20
+bankroll()
+stopContract()
+0x37874ed9
+0x3e458a8e
+isStopped()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+resumeContract()
+ownerWithdraw(address,uint256)
+0xdf9b65aa
+transferOwnership(address)

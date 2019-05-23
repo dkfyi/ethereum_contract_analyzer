@@ -1,0 +1,6 @@
+tokenReward()
+amountRaised()
+moneyWallet()
+priceRate()
+buy(address)
+many_msg_babbage(bytes1)

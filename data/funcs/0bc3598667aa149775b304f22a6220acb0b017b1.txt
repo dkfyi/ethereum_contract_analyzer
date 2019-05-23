@@ -1,0 +1,11 @@
+name()
+balances(address)
+cap()
+contributionMinimum()
+ideal_warn_timed(uint256,uint128)
+many_msg_babbage(bytes1)
+0xab01b469
+registered(address)
+contributionMaximum()
+contribute()
+transferOwnership(address)

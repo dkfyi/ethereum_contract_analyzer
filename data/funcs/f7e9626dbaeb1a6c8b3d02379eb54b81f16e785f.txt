@@ -1,0 +1,8 @@
+getPaymentByAddress(address)
+kill()
+newPhoneToAddr(address,uint256)
+getPaymentDataByAddress(address)
+getPhoneByAddress(address)
+sendEtherToOwner()
+0xf3730653
+hasPhone(address)

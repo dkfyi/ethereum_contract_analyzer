@@ -1,0 +1,5 @@
+bleachAppearance(uint128,uint128)
+randomSkinAppearance(uint256)
+recycleAppearance(uint128[5],uint256)
+calcNewSkinAppearance(uint128,uint128)
+summon10SkinAppearance(uint256)

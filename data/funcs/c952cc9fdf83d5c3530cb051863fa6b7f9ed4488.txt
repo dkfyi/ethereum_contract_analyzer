@@ -1,0 +1,15 @@
+setBeneficiary(address)
+beneficiary()
+0x3c9427b3
+setCost(uint256)
+buildingCostWei()
+destroy()
+ideal_warn_timed(uint256,uint128)
+0x962280b4
+getLastContract()
+0xcc093521
+0xe96a7c63
+transferOwnership(address)
+destroyAndSend(address)
+getContractsOf(address,uint256)
+0xf1c11f8f

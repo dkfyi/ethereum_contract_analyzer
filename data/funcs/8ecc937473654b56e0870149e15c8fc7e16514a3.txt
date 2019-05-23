@@ -1,0 +1,7 @@
+closeContract()
+0x6db51302
+0x7edd19a2
+buyProduct(uint256)
+changePrice(uint256,uint256)
+0xf50d35f3
+0xfd77e5de

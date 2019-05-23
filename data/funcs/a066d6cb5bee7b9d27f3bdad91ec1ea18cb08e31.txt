@@ -1,0 +1,8 @@
+upgradeContract(string,address)
+version()
+0xc3fb90d6
+getAddress(bytes32)
+setAddress(bytes32,address)
+setAddress(bytes32,address)
+deleteAddress(bytes32)
+getBool(bytes32)

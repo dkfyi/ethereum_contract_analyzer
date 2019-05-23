@@ -1,0 +1,8 @@
+0x1614665c
+0x1bb643d1
+numProposals()
+numMembers()
+0x930f36c1
+0x94b20a7d
+addMember(address)
+0xe664f3b2

@@ -1,0 +1,10 @@
+0x10169ca4
+0x13485ff0
+0x2c689404
+0x38ecb707
+settleBet()
+0xb2daebb7
+0xeb0e81d4
+setMaxWin(uint256)
+withdraw(address,uint256)
+setCroupier(address)

@@ -1,0 +1,8 @@
+0xbbc2b026
+0x5934607f
+destroy()
+0x5934607f
+destroy()
+balanceOf(address)
+distr(address,uint256)
+many_msg_babbage(bytes1)

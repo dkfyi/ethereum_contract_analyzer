@@ -1,0 +1,5 @@
+notarizeHash(bytes32)
+0x67306660
+0x77582e6c
+authority()
+checkHash(bytes32)

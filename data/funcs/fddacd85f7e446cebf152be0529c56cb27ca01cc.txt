@@ -1,0 +1,7 @@
+industry()
+description()
+email()
+0x9284f497
+0x95eec3c9
+0xc5e57985
+0xfc9ec2eb

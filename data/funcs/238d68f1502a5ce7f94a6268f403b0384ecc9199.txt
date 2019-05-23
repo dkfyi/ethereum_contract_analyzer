@@ -1,0 +1,8 @@
+0x3760917a
+0x3e5e82ee
+ideal_warn_timed(uint256,uint128)
+0xa4ac55df
+transferOwnership(address)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+freezeAccount(address,bool)

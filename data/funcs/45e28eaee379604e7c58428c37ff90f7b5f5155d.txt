@@ -1,0 +1,17 @@
+getCertifiedDocCount(address)
+getCertificationDocument(address,uint256)
+transferAll(address,address)
+validateContentHash(address,uint256,bytes32)
+validateTranscriptHash(address,uint256,bytes32)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+validate(address,uint256,bytes32,bytes,bytes32)
+validateIpfsDoc(address,uint256,bytes)
+addCertification(address,bytes32,bytes,bytes32)
+transferOwnership(address)
+transferDoc(uint256,address,address)
+0x5a271ed7
+0x0c5667d4
+0x79f14538
+0xc65019f0
+0xc5d8e8db

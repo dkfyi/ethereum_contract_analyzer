@@ -1,0 +1,10 @@
+0x08b80f61
+__callback(bytes32,string)
+kill()
+update()
+PriceTicker()
+getAddress()
+getPrice(string)
+query(uint256,string,string)
+getAddress()
+cbAddress()

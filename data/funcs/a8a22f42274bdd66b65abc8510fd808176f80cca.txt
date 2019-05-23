@@ -1,0 +1,8 @@
+isAuthorized(address,address,bytes)
+0x42053ac5
+validate()
+0x82d38954
+0x8b8ff718
+0x930e957b
+isApproved(bytes32,uint256,bytes)
+0xe3b252d8

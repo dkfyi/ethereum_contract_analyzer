@@ -1,0 +1,4 @@
+shuffle()
+addFortune(string)
+drawFortune()
+0xe430d5c3

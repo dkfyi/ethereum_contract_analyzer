@@ -1,0 +1,2 @@
+MyContract()
+0x725f4fa7

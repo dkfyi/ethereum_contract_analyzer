@@ -1,0 +1,10 @@
+makeGuess(uint256)
+0x3520cb0d
+kill()
+0x46d59b9b
+0x4bf71729
+getTicketPrice()
+0x8d582ae4
+getJackpot()
+0x05f5e100
+0x05f5e100

@@ -1,0 +1,4 @@
+setOracleAddress(address)
+0xe8ca017d
+getCoinInfo(string)
+getCoinInfo(string)

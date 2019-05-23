@@ -1,0 +1,5 @@
+kill()
+toString(address)
+getDigit()
+0xdc281aff
+0xf8cdfbf8

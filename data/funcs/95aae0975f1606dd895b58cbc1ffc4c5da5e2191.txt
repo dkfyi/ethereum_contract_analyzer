@@ -1,0 +1,15 @@
+0x08bea870
+0x0b9c8fe8
+0x2098bc0f
+kill()
+0x7300fd81
+0x74a28b99
+0x77c3ef3d
+0x84f5a87a
+ideal_warn_timed(uint256,uint128)
+0x901e982f
+getProxy(address)
+0xcfb7994a
+0xea5ae4d4
+transferOwnership(address)
+getBalance(address)

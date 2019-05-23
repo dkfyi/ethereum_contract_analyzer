@@ -1,0 +1,15 @@
+name()
+approve(address,uint256)
+getAvatar(uint256)
+totalSupply()
+approvedFor(uint256)
+0x394e9dee
+0x4a0706be
+tokensOf(address)
+ownerOf(uint256)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+takeOwnership(uint256)
+transferOwnership(address)

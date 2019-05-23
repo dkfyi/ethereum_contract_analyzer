@@ -1,0 +1,5 @@
+setToken(address)
+sendToken(address,uint256)
+sendEth(address)
+token()
+many_msg_babbage(bytes1)

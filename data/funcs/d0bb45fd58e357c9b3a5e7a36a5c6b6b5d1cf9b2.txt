@@ -1,0 +1,15 @@
+isDatasetRegistred(address)
+getDatasetsCount(address)
+getDatasetByIndex(uint256)
+getDataset(address,uint256)
+createDataset(string,uint256,string)
+setImmutableOwnership(address)
+m_owner()
+m_changeable()
+m_totalDatasetCount()
+0x0847c431
+0x62d598eb
+setImmutableOwnership(address)
+0xc2880e17
+m_owner()
+m_changeable()

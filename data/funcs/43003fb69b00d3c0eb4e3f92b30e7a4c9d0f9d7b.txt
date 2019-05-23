@@ -1,0 +1,4 @@
+totalSupply()
+withdraw(uint256)
+finalize()
+balanceOf(address)

@@ -1,0 +1,16 @@
+proposals(uint256)
+name()
+executeProposal(uint256)
+totalSupply()
+founder()
+0x5bb12a1a
+balanceOf(address)
+0x78600a4f
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+addPlayer(address)
+0xb7665613
+0xb89aeabe
+vote(uint256,bool)
+startGame()
+totalPlayers()

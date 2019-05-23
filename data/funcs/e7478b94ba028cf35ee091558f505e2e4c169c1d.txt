@@ -1,0 +1,17 @@
+0x06d7561f
+stop()
+setOwner(address)
+senderHasRole(string)
+restart()
+roles()
+stopped()
+ideal_warn_timed(uint256,uint128)
+contractHash()
+createForwarder(address)
+setRolesContract(address)
+hasRole(string)
+roleList(bytes32,bytes32,address)
+knownRoleNames(bytes32,bytes32)
+destination()
+factory()
+0x06d7561f

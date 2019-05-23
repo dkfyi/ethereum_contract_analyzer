@@ -1,0 +1,6 @@
+totalSupply()
+balanceOf(address)
+mintToken(address,uint256)
+ideal_warn_timed(uint256,uint128)
+many_msg_babbage(bytes1)
+transferOwnership(address)

@@ -1,0 +1,3 @@
+0x01759ece
+isAdmin(address)
+0x01759ece

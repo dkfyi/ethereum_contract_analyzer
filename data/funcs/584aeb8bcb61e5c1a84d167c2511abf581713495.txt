@@ -1,0 +1,7 @@
+mint()
+makeAdmin(address)
+0x5ebb56d3
+coinBalanceOf(address)
+sendCoin(uint256,address)
+0xd1d547de
+coinBalance()

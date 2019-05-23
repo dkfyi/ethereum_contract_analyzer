@@ -1,0 +1,10 @@
+0x394f000d
+0x787c5196
+changeAdmin(address)
+0x9d87cb3d
+fund()
+0xc0fad6ff
+0xf2e3a5a4
+withdraw(uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+deposit()

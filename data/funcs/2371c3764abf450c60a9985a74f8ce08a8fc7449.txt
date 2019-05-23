@@ -1,0 +1,15 @@
+0x331c7de3
+unpause()
+reject()
+tokenContract()
+paused()
+renounceOwnership()
+destroy()
+pause()
+ideal_warn_timed(uint256,uint128)
+gracePeriod()
+0xc79ce19a
+register(string)
+transferOwnership(address)
+destroyAndSend(address)
+balanceOf(address)

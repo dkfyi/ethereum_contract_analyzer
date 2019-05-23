@@ -1,0 +1,8 @@
+validate()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+transfer(address,address,uint256)
+transferWithAllowance(address,address,address,uint256)
+allowance(address,address)
+approve(address,address,uint256)
+setBalance(address,uint256)

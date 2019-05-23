@@ -1,0 +1,8 @@
+removeMessage()
+putMessage(string)
+withdraw()
+BASEPRICE()
+ideal_warn_timed(uint256,uint128)
+currentPrice()
+message()
+transferOwnership(address)

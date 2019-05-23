@@ -1,0 +1,2 @@
+multiply(uint256)
+execute(uint256)

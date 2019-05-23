@@ -1,0 +1,13 @@
+onSale()
+withdraw()
+version()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0x8f6f0332
+setPrice(uint256)
+price()
+buy()
+send(address,uint256)
+sell(uint256)
+transferOwnership(address)

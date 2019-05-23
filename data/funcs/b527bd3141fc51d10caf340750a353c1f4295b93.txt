@@ -1,0 +1,10 @@
+0x1a41dc8e
+0x5253baae
+0x8df8e17c
+kyberNetwork()
+walletId()
+trade(address,uint256,address,address,uint256,uint256,address)
+gasprice_bit_ether(int128)
+approve(address,uint256)
+trade(address,uint256,address,address,uint256,uint256,address)
+getExpectedRate(address,address,uint256)

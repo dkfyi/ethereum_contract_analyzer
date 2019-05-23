@@ -1,0 +1,2 @@
+generateLuckyNumbers(uint256)
+del()

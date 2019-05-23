@@ -1,0 +1,2 @@
+balances(address)
+send(address,uint256)

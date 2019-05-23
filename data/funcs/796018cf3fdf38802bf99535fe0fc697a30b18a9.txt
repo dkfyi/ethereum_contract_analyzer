@@ -1,0 +1,17 @@
+collectedEthers()
+changeMinInvestment(uint256)
+0x2e73ac57
+endTime()
+etherHolder()
+unsetAllowedMultivest(address)
+0x49ffebab
+allowedMultivests(address)
+setAllowedMultivest(address)
+changeTime(uint256,uint256)
+startTime()
+acceptOwnership()
+minInvestment()
+ideal_warn_timed(uint256,uint128)
+newOwner()
+verify(bytes32,uint8,bytes32,bytes32)
+transferOwnership(address)

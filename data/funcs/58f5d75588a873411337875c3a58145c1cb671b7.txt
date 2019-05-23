@@ -1,0 +1,7 @@
+transfer(uint256)
+withdraw()
+tokenFallback(address,uint256,bytes)
+buy(uint256)
+many_msg_babbage(bytes1)
+bid(uint256)
+transfer(uint256)

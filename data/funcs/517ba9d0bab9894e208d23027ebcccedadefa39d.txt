@@ -1,0 +1,13 @@
+creator()
+getTotalMinted()
+maxCost()
+candleCost()
+SUN()
+Candle()
+minCost()
+changeCreator(address)
+0x881c0165
+APP()
+GOD()
+FOG()
+mintToken(address,uint256)

@@ -1,0 +1,12 @@
+0x0f0cef6e
+removeAdmin(address)
+0x30464f8b
+admins(address)
+addAdmin(address)
+0x83a5549f
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+getBook(bytes32)
+0xadd8ac54
+confirmOwner()
+0xe9376911

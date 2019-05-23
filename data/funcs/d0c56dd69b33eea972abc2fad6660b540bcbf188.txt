@@ -1,0 +1,4 @@
+kill()
+set(string)
+get()
+0xaab27ef7

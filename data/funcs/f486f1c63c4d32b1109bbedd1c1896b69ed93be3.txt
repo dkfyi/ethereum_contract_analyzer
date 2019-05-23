@@ -1,0 +1,13 @@
+receivingAddress()
+resetIndex()
+index()
+allowances(address)
+recoverTokens(uint256)
+addAddresses(address[])
+C20Token()
+0x7f440103
+ideal_warn_timed(uint256,uint128)
+returnAddressList()
+addressList(uint256)
+allowance(address,address)
+gasprice_bit_ether(int128)

@@ -1,0 +1,6 @@
+manager()
+pickWinner()
+random()
+0xc1af5785
+0xd472b87f
+0xf71d96cb

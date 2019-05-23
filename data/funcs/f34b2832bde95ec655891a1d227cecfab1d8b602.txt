@@ -1,0 +1,13 @@
+gameManagerSecondary()
+setNFTContractAddress(address)
+unpause()
+paused()
+gameManagerPrimary()
+setSecondaryGameManager(address)
+pause()
+setPrimaryGameManager(address)
+0xc9d9760a
+nonFungibleContract()
+bankManager()
+setBanker(address)
+updateCurrentGameCardId(uint256,uint256)

@@ -1,0 +1,6 @@
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+setGasPrice(uint256)
+newOwner()
+transferOwnership(address)
+gasPrice()

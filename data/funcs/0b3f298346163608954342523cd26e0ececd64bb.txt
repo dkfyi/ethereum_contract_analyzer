@@ -1,0 +1,4 @@
+upgrade(address)
+last_completed_migration()
+setCompleted(uint256)
+setCompleted(uint256)

@@ -1,0 +1,16 @@
+0x37278fe6
+0x3cf4fa93
+returnWei()
+tokenPrice()
+ideal_warn_timed(uint256,uint128)
+bounty()
+phase()
+preICOStartTime()
+0xdcdfd74f
+create()
+totalProceeds()
+transferOwnership(address)
+token()
+mint(address,uint256)
+mint(address,uint256)
+mint(address,uint256)

@@ -1,0 +1,12 @@
+name()
+buy(address,address,uint256)
+totalSupply()
+INITIAL_SUPPLY()
+available_assert_time(uint16,uint64)
+balanceOf(address)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xdac77b42
+transferOwnership(address)

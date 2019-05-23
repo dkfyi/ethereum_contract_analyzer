@@ -1,0 +1,5 @@
+getBalance()
+kill()
+takeAGuess(uint256)
+getOwner()
+addBalance()

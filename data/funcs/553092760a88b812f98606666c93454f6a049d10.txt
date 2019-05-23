@@ -1,0 +1,7 @@
+0x3d4b0b6e
+renounceOwnership()
+0x86869cbe
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+0xf413b9ba
+playerRollDice(uint256)

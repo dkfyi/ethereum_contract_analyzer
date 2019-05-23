@@ -1,0 +1,5 @@
+deleteBio(bytes3)
+setBio(bytes3,bytes)
+getBio(address,bytes3)
+getBioLanguages(address)
+deleteAllBioTranslations()

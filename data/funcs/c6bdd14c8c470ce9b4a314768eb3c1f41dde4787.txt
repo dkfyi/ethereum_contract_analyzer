@@ -1,0 +1,15 @@
+GetContributionInfo(uint16,uint16)
+ChangeReuseCashInHarware(bool,uint16,uint16)
+GetUserIdByAddress(address)
+0x50b34d12
+WithdrawCashForHardwareReturn(uint256)
+CashForHardwareReturn()
+FreezedCash()
+Contribute(bool,uint8)
+Triger()
+0x97ca0a9f
+SendCashForHardwareReturn()
+ContributeWithSender(bool,uint8,address)
+ContributedAmount()
+0xeb18703f
+0xede92296

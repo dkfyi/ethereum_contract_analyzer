@@ -1,0 +1,5 @@
+count()
+best_gamer()
+endTime()
+endGame()
+fund()

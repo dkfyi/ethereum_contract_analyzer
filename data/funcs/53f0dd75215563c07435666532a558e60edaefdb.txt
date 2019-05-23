@@ -1,0 +1,11 @@
+0x26eac8da
+withdraw()
+purchase()
+0x6c40b19a
+sell(uint256)
+exit()
+withdraw()
+buy(address)
+sellAllCookies()
+sell(uint256)
+exit()

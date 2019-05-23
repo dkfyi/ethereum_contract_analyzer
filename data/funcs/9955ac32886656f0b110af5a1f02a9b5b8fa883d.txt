@@ -1,0 +1,8 @@
+multiplierFactor()
+changeFee(uint256)
+totalEntries()
+userStats(address)
+changeOwner(address)
+changeMultiplier(uint256)
+currentFee()
+entryDetails(uint256)

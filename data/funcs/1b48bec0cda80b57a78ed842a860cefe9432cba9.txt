@@ -1,0 +1,14 @@
+0x38dc19c3
+0x4deca5f6
+buy(uint256,address)
+0xb0065d4b
+set()
+0xd328b3f5
+0xdad8062b
+kill(string)
+admin()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)
+balanceOf(address)

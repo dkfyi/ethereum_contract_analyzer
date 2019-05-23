@@ -1,0 +1,9 @@
+beneficiary()
+safeWithdrawal(uint256)
+tokenReward()
+balanceOf(address)
+0x7b35ec79
+amountRaised()
+setPrice(uint256)
+price()
+many_msg_babbage(bytes1)

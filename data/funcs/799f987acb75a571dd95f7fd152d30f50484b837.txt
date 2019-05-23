@@ -1,0 +1,2 @@
+registerNewPubKeyForHash(bytes28,string)
+getPubKeyByHash(bytes28)

@@ -1,0 +1,10 @@
+0x08ae4b0c
+getMembershipExpiryDate(address)
+enroll(address,uint256)
+revoke(address)
+ideal_warn_timed(uint256,uint128)
+addRegistrar(address,string)
+isMember(address)
+changeOwner(address)
+removeRegistrar(address)
+isRegistrar(address)

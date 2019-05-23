@@ -1,0 +1,11 @@
+checkAddress(address)
+totalSupply()
+getAddress()
+createContract()
+balanceOf(address)
+getMyAddress()
+many_msg_babbage(bytes1)
+withdrawEtherOnlyOwner()
+0xd2f947e0
+ideal_warn_timed(uint256,uint128)
+many_msg_babbage(bytes1)

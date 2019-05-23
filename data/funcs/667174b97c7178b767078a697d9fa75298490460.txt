@@ -1,0 +1,13 @@
+0x28bc4631
+version()
+0xc3fb90d6
+0xe558d392
+transferOwnership(address)
+getAddress(bytes32)
+getAddress(bytes32)
+getAddress(bytes32)
+deleteBool(bytes32)
+setBool(bytes32,bool)
+getBool(bytes32)
+setBool(bytes32,bool)
+deleteBool(bytes32)

@@ -1,0 +1,11 @@
+getBet(uint256)
+0x16a621ea
+0x195ebf66
+bets(uint256)
+0x4f2bc57a
+0x7ca9621c
+granted(address)
+removeAccess(address)
+ideal_warn_timed(uint256,uint128)
+allowAccess(address)
+transferOwnership(address)

@@ -1,0 +1,4 @@
+0x31b4c976
+ideal_warn_timed(uint256,uint128)
+ownerkill()
+many_msg_babbage(bytes1)

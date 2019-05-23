@@ -1,0 +1,5 @@
+0x24615083
+docHash()
+0x5fdd59f8
+0x8a9c5436
+ideal_warn_timed(uint256,uint128)

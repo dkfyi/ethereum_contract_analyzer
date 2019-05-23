@@ -1,0 +1,8 @@
+transfer(uint256)
+0x454136a8
+many_msg_babbage(bytes1)
+RewardEnd()
+Mine()
+MaxMiningReward()
+CurrentMined()
+Mine()

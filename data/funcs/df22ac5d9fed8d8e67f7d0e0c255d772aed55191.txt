@@ -1,0 +1,14 @@
+0x161430a4
+delBot(address)
+withdraw(uint256)
+0x32bdb610
+0x394b6e89
+0x8c63efc4
+execute(address,bytes,uint256)
+transfer(address,address,uint256)
+0xc2927f8a
+addBot(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

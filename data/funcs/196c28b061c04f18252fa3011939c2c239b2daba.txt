@@ -1,0 +1,11 @@
+changeTokenOwner(address)
+balances(address)
+changeRoot(address)
+0x6b574842
+changeAdmin(address)
+myBalance()
+setBalance(address,uint256)
+root()
+admin()
+getBalance(address)
+gasprice_bit_ether(int128)

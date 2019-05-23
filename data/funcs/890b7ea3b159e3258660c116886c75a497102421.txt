@@ -1,0 +1,13 @@
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+0x573b9070
+0x6bc17c76
+balanceOf(address)
+0x7cd8c2eb
+ideal_warn_timed(uint256,uint128)
+0x92a0a078
+link_classic_internal(uint64,int64)
+0x98421a21
+many_msg_babbage(bytes1)
+0xc4a11628

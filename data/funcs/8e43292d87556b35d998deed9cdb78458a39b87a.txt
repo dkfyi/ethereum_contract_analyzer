@@ -1,0 +1,6 @@
+ownerOf(uint256)
+getSupply()
+0xbd08125a
+ownerOf(uint256)
+totalSupply()
+exists(uint256)

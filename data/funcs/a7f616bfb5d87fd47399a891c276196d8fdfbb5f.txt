@@ -1,0 +1,15 @@
+0x1f6dc4b1
+ownerOf(uint32)
+checkContract()
+0x3fe53b39
+transferContract(address)
+transferOwner(address)
+isPauseSave()
+0x7cb0d2f2
+pause()
+pubAddress()
+setPause()
+0xe882fd0e
+transferFrom(address,address,uint32)
+ownerOf(uint32)
+isUIntPublic()

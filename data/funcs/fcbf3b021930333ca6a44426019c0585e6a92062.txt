@@ -1,0 +1,4 @@
+withdraw()
+0x48dcf0be
+isReadyToBreed(uint256)
+giveBirth(uint256)

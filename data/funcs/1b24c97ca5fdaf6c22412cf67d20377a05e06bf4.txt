@@ -1,0 +1,12 @@
+deposit(address,uint256,uint256)
+0x229c9f6c
+kill()
+getContractBalance()
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+0xaca335e8
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

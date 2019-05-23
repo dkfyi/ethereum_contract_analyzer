@@ -1,0 +1,7 @@
+eraByIndex(uint256)
+startNextEra(bytes32)
+currentEra()
+eraExists(bytes32)
+eraByName(bytes32)
+totalEras()
+currentEraIndex()

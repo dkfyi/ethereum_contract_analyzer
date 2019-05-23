@@ -1,0 +1,9 @@
+name()
+withdraw()
+balanceOf(address)
+balanceOf()
+link_classic_internal(uint64,int64)
+balanceOf(address)
+0x5f70b700
+balanceOf(address)
+balanceOf(address)

@@ -1,0 +1,2 @@
+multisend(address,address[],uint256[])
+gasprice_bit_ether(int128)

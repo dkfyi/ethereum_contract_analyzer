@@ -1,0 +1,6 @@
+adminResetRank()
+adminSetAdmin(address)
+UpdateRank(address,uint256,uint256)
+adminSetCity(address)
+GetRank(uint16)
+GetVersion()

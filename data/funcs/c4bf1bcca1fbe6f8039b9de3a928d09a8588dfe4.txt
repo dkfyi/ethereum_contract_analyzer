@@ -1,0 +1,17 @@
+frozen()
+name()
+minter()
+0x07c2e449
+approve(address,uint256)
+create(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+balanceOf(address)
+0x8ccb2518
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+destroy(address,uint256)
+many_msg_babbage(bytes1)
+allowance(address,address)
+transferOwnership(address)

@@ -1,0 +1,13 @@
+0x1447b041
+unpause()
+kill()
+paused()
+0x8026f126
+pause()
+ideal_warn_timed(uint256,uint128)
+0xb73b13e2
+0xc0cd932d
+0xcc4cf0fd
+0xd3d5634a
+transferOwnership(address)
+0xfe2bfc33

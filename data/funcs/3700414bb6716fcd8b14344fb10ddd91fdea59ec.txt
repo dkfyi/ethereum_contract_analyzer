@@ -1,0 +1,12 @@
+0x1f7c5582
+0x3f80cff8
+0x4435b3d5
+0xd77366a4
+core()
+0x5e633498
+getExpectedRate(address,address,uint256)
+trade(address,uint256,address,address,uint256,uint256,address)
+balanceOf(address,address)
+transfer(address,address,uint256)
+allowance(address,address)
+approve(address,uint256)

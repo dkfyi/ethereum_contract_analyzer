@@ -1,0 +1,5 @@
+addWorkRecord(uint256,bytes16)
+ownerAddWorkRecord(address,uint256,bytes16)
+token()
+balanceOf(address)
+balanceOf(address)

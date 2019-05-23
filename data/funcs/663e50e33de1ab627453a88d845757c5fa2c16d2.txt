@@ -1,0 +1,11 @@
+0x1562621f
+0x17246800
+0x347192f1
+0xb1d131bf
+0xb3ffb5b1
+Command(address,bytes)
+SetPass(bytes32)
+PassHasBeenSet(bytes32)
+Revoce()
+hashPass()
+Revoce()

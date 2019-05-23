@@ -1,0 +1,6 @@
+name()
+totalSupply()
+standard()
+balanceOf(address)
+many_msg_babbage(bytes1)
+allowance(address,address)

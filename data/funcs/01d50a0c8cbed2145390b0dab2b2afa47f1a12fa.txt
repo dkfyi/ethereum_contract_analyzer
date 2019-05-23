@@ -1,0 +1,6 @@
+kill()
+tokenContract()
+ideal_warn_timed(uint256,uint128)
+receiveApproval(address,uint256,address,bytes)
+deposit()
+gasprice_bit_ether(int128)

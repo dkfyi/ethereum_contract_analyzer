@@ -1,0 +1,7 @@
+0x4ca896ad
+0x5e7dc7c1
+invested(address)
+interestRate()
+nextBlock()
+0x8aac1362
+0xb113e7ce

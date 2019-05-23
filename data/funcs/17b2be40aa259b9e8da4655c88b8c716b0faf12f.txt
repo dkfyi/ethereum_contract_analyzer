@@ -1,0 +1,10 @@
+setMessage(string)
+0x53f5e380
+0x5f03269b
+0x6747f391
+stopped()
+getMessage(uint256)
+ideal_warn_timed(uint256,uint128)
+0x99b979e1
+changeOwner(address)
+0xd3d8fa8d

@@ -1,0 +1,13 @@
+0x04d0a647
+remove(address)
+kill()
+getRole(address)
+claimContractOwnership()
+changeContractOwnership(address)
+pendingContractOwner()
+0x5abb0e18
+get()
+0x87324e35
+contractOwner()
+0xde424b33
+0xffd07a6a

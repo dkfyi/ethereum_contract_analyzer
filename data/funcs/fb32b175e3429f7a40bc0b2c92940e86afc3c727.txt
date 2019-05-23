@@ -1,0 +1,5 @@
+totalBalance()
+0xb8df2a1b
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

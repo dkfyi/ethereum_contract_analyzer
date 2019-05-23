@@ -1,0 +1,10 @@
+noteBallotDeployed(bytes32)
+ballotLog(address,uint256)
+getNextPrice(bytes32)
+setOwner(address)
+upgradeMe(address)
+ideal_warn_timed(uint256,uint128)
+setPriceWei(uint256)
+getBallotLogN(address)
+0xca9d39ee
+commBallotPriceWei()

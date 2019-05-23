@@ -1,0 +1,3 @@
+lastBlock()
+0xbb4c4974
+lastPlayer()

@@ -1,0 +1,8 @@
+kill()
+0x486581ea
+changeToken(address)
+0x79ff6fee
+transferRoot(address)
+root()
+token()
+many_msg_babbage(bytes1)

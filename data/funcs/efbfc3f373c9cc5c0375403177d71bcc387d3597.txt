@@ -1,0 +1,6 @@
+SetPass(bytes32)
+GetGift(bytes)
+PassHasBeenSet(bytes32)
+SetReciver(address)
+GetHash(bytes)
+GetGift()

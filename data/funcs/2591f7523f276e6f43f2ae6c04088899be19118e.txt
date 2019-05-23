@@ -1,0 +1,17 @@
+songTitle()
+hash()
+getOwnerAddress()
+duration()
+professionalName()
+0x483b812c
+version()
+getRegistration()
+0x6ce206cf
+0x8ba075ad
+0x8da09647
+ideal_warn_timed(uint256,uint128)
+digitalSignature()
+0xb885f70e
+0xc73ff844
+0xcdf1854f
+0xde2582e3

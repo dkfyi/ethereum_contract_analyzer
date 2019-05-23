@@ -1,0 +1,4 @@
+withdrawFunds(uint256)
+balances(address)
+getData_1()
+setData_1(uint256)

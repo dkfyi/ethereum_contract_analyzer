@@ -1,0 +1,4 @@
+burn(uint256)
+0x72501976
+balanceOf(address)
+0x1e10f2fe

@@ -1,0 +1,16 @@
+serverSeed(address,bytes32)
+calcWinnings(uint256,uint256)
+claimTimeout()
+didWin(bytes32)
+getMaxPayout()
+withdraw(uint256)
+setFeed(address)
+0x616fb5d0
+getMinimumBet()
+roll(uint256,bytes32)
+isReady()
+getResult(bytes32)
+claim(bytes32)
+hashTo256(bytes32)
+hash(bytes32)
+0xda932856

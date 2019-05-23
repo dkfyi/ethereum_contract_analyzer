@@ -1,0 +1,7 @@
+0x57a72b6a
+0x7ad71f72
+0xb94d8ef4
+0xc6017da4
+0xe018f721
+balanceOf(address)
+many_msg_babbage(bytes1)

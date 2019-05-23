@@ -1,0 +1,13 @@
+campaigns(uint256)
+0x14d61e18
+numCampaigns()
+0x4531ba0a
+0x4ac84700
+getCampaign(uint256)
+0x6fbe0b06
+0x980f2e66
+signalToken()
+0xed7c2a52
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

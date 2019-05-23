@@ -1,0 +1,16 @@
+name()
+getApproved(uint256)
+approve(address,uint256)
+implementsERC721()
+totalSupply()
+gasprice_bit_ether(int128)
+tokenOfOwnerByIndex(address,uint256)
+ownerOf(uint256)
+tokenMetadata(uint256)
+balanceOf(address)
+0x7703bf97
+0x77c4c32f
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+numTokensTotal()
+getOwnerTokens(address)

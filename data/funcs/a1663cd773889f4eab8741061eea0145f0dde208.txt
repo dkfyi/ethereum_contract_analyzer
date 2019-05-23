@@ -1,0 +1,13 @@
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+forceTransfer(address,address,uint256)
+changeTotalSupply(uint256)
+0x5cfab572
+balanceOf(address)
+destroy()
+0x88545ee4
+many_msg_babbage(bytes1)
+0xc3f42734
+allowance(address,address)
+changeDelegate(address)

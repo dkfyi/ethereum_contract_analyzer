@@ -1,0 +1,8 @@
+0x1a46ec82
+claimOwnership()
+addAllowance(address,address,uint256)
+ideal_warn_timed(uint256,uint128)
+subAllowance(address,address,uint256)
+setAllowance(address,address,uint256)
+pendingOwner()
+transferOwnership(address)

@@ -1,0 +1,11 @@
+isGuardian(address)
+0x1201b4bd
+register(string,string)
+0x4b139a47
+0x4cf1f60b
+0x50d8f786
+leave()
+0xd93d7d29
+update(string,string)
+0xf5660650
+VERSION()

@@ -1,0 +1,10 @@
+supply()
+totalSupply()
+0x6e2cf7d3
+balanceOf(address)
+mintToken(address,uint256)
+ideal_warn_timed(uint256,uint128)
+0x909151b5
+frozenAccount(address)
+transfer(address,address,uint256)
+freezeAccount(address,bool)

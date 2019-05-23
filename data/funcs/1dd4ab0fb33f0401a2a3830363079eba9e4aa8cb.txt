@@ -1,0 +1,2 @@
+ecverify(bytes32,bytes,address)
+ecrecovery(bytes32,bytes)

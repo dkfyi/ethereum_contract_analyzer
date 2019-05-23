@@ -1,0 +1,12 @@
+name()
+totalSupply()
+initialSupply()
+0x54fb76fd
+standard()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+many_msg_babbage(bytes1)
+balance(address)
+0xfbd71fe7
+0x05f5e100
+0x05f5e100

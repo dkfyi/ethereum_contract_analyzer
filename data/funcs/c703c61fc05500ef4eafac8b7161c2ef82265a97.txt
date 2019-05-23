@@ -1,0 +1,17 @@
+0x02e1afda
+0x0b1bcee7
+0x25c33e13
+0x27341faa
+0x34461067
+0x478d1266
+version()
+0x629a0190
+maxReward()
+0x8735a342
+ideal_warn_timed(uint256,uint128)
+feePercentage()
+setFeePercentage(uint256)
+0xb8d717b6
+transferEthToOwner(uint256)
+getFee()
+0xe437dce6

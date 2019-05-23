@@ -1,0 +1,4 @@
+withdraw()
+play()
+withdrawMyFunds()
+placeBet(address)

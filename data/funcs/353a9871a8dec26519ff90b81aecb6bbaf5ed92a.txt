@@ -1,0 +1,7 @@
+ideal_warn_timed(uint256,uint128)
+0xac8ec401
+transferOwnership(address)
+clean()
+balanceOf(address)
+getExpectedRate(address,address,uint256)
+trade(address,uint256,address,address,uint256,uint256,address)

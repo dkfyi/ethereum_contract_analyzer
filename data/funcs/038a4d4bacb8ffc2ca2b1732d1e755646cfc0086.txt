@@ -1,0 +1,3 @@
+endSplitAgreement()
+collectFees()
+createSplitAgreement(address,address,address)

@@ -1,0 +1,14 @@
+name()
+minter()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+0x3f04d040
+changeMintingAddress(address)
+balanceOf(address)
+mintToken(address,uint256)
+0x882f7e83
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+allowance(address,address)

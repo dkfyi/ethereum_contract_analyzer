@@ -1,0 +1,11 @@
+sellPriceEth()
+totalSupply()
+minBalanceForAccounts()
+buyPriceEth()
+balanceOf(address)
+0xc9828ae0
+sellPriceEth()
+totalSupply()
+minBalanceForAccounts()
+buyPriceEth()
+balanceOf(address)

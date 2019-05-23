@@ -1,0 +1,8 @@
+kill()
+0x9062117f
+0x9278a35a
+0xb1d131bf
+0xe3112254
+StartGame(string,string)
+NewQuestion(string,bytes32)
+StopGame()

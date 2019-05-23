@@ -1,0 +1,16 @@
+canAcceptPayment()
+end_time()
+getTimestamp()
+settings_added()
+0x2a677fb9
+TokenManagerEntity()
+AmountRaised()
+start_time()
+0x8484b9f8
+buy()
+0xb2482bbd
+tokensPerEth()
+deployer()
+outputWalletAddress()
+hardCap()
+0x28bc7dec

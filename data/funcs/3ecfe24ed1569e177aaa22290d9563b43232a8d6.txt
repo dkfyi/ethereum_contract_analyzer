@@ -1,0 +1,6 @@
+setupAmbi2(address)
+getImplementation()
+0xec3b7b78
+claimFor(address,address)
+isOwner(address,address)
+hasRole(address,bytes32,address)

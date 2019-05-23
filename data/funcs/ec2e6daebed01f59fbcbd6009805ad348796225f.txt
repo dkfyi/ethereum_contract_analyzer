@@ -1,0 +1,3 @@
+name()
+kill()
+link_classic_internal(uint64,int64)

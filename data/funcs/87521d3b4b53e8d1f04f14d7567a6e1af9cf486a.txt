@@ -1,0 +1,8 @@
+lockConfiguration()
+getBotContract()
+getCoinWallet(bytes4)
+addCoin(bytes4,address)
+getOwner()
+setUsersContract(address)
+getUsersContract()
+setBotContract(address)

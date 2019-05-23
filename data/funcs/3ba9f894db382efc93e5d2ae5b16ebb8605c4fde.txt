@@ -1,0 +1,13 @@
+weiRaised()
+manager()
+tokenSold()
+wallet()
+ideal_warn_timed(uint256,uint128)
+price()
+allocate(address,uint256)
+buyTokens(address)
+transferOwnership(address)
+token()
+0x01851960
+ethusd()
+many_msg_babbage(bytes1)

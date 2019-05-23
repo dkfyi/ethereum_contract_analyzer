@@ -1,0 +1,5 @@
+lastTimestamp()
+highScore()
+sendWinnings()
+currentWinner()
+random(uint256)

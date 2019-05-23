@@ -1,0 +1,5 @@
+withdraw()
+0x8825f937
+amount()
+Owner()
+0xde467bf2

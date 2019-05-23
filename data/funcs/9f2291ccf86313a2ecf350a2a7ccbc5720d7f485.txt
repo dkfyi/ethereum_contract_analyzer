@@ -1,0 +1,13 @@
+setOwner(address)
+0x2dd2ddad
+withdrawBalance()
+0x71686db7
+0x83c670eb
+ownerAddress()
+0x9d7c2770
+setTokenContract(address)
+0xbde25aa0
+0xcdb5d745
+nonFungibleContract()
+0xe3b3f570
+0xff4984b0

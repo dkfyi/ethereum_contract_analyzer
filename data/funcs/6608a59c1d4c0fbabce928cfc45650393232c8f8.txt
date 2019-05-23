@@ -1,0 +1,6 @@
+kill()
+0xc31370df
+0xc6820a6e
+0xcaf212b6
+0xcc5b4a94
+sendMessage(address,string)

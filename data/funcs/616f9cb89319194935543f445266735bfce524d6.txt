@@ -1,0 +1,16 @@
+totalSupply()
+0x279fcf3e
+available_assert_time(uint16,uint64)
+0x3ce301e5
+setAdmin(address)
+balanceOf(address)
+0x7e45e942
+availableTokens(address)
+link_classic_internal(uint64,int64)
+tokenAddress()
+many_msg_babbage(bytes1)
+0xc7b6d432
+0xd85d7f5b
+admin()
+unlockTokens()
+many_msg_babbage(bytes1)

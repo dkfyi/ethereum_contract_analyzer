@@ -1,0 +1,11 @@
+pIDxAddr_(address)
+pID_()
+getPlayerAddr(uint256)
+0x67a5669d
+gID_()
+0xd5241279
+addGame(address)
+0xdbbcaa97
+plyr_(uint256)
+getPlayerID(address)
+0x1749989d

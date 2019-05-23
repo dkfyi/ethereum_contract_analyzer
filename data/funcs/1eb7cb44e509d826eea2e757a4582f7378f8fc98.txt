@@ -1,0 +1,7 @@
+0x08c370d4
+version()
+destroy()
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+destroyAndSend(address)
+many_msg_babbage(bytes1)

@@ -1,0 +1,15 @@
+name()
+transferToken(address,uint256)
+available_assert_time(uint16,uint64)
+0x379254c5
+_totalSupply()
+0x5a55391f
+balanceOf(address)
+getEthBalance()
+currentSupply()
+setPrice(uint256)
+link_classic_internal(uint64,int64)
+getPrice()
+isLocked()
+0xaf4b4c6a
+0xcf1794f5

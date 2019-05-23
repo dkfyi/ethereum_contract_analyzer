@@ -1,0 +1,4 @@
+toggleAuthorization(address,bytes32)
+0x3bf934de
+getReference(bytes32)
+isAuthorized(address,bytes32)

@@ -1,0 +1,16 @@
+0x142d5ea2
+0x1885c471
+rate()
+0x330691ac
+setRate(uint256)
+setAdmin(address)
+renounceOwnership()
+lastRate()
+0x880deea0
+ideal_warn_timed(uint256,uint128)
+0x91a64b52
+0x988aaf0a
+0xab7a2252
+transferOwnership(address)
+admin()
+0xfd60d070

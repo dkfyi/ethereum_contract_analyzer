@@ -1,0 +1,3 @@
+0x13fff718
+stringToBytes32(string)
+0xe1ce37d0

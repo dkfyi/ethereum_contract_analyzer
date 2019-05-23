@@ -1,0 +1,11 @@
+tokens(address,address)
+0xbc80dd82
+quickConvert(address[],uint256,uint256)
+getExpectedRate(address,address,uint256)
+gasprice_bit_ether(int128)
+approve(address,uint256)
+0x3bba21dc
+getExpectedRate(address,address,uint256)
+0x7a2a0456
+many_msg_babbage(bytes1)
+quickConvert(address[],uint256,uint256)

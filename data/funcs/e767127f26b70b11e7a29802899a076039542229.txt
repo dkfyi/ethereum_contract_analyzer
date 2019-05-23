@@ -1,0 +1,16 @@
+0x05d5c595
+name()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+startBalance()
+available_assert_time(uint16,uint64)
+currentTotalSupply()
+0x4ed3a7c0
+decreaseApproval(address,uint256)
+balanceOf(address)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+increaseApproval(address,uint256)
+allowance(address,address)
+holder()

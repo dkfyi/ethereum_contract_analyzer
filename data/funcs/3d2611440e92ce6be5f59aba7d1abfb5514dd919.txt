@@ -1,0 +1,13 @@
+withdrawEth(address)
+distributeToken(address,uint256)
+setAdmin(address,bool)
+acceptOwnership()
+withdrawToken(address)
+ideal_warn_timed(uint256,uint128)
+0xb2e01e49
+0xb99be506
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

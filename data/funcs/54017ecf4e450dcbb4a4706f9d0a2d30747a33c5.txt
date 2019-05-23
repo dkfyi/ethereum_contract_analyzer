@@ -1,0 +1,11 @@
+setTokenPrice(uint256)
+buyPrice()
+price()
+buy()
+0xa91adc1e
+0xaf32c35d
+0xdd83dbb5
+0xe9928b91
+0x961974ba
+0x961974ba
+0x961974ba

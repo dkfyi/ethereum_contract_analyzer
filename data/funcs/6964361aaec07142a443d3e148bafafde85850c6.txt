@@ -1,0 +1,15 @@
+getVersion()
+0x0dd030c3
+setOwner(address)
+removeAdmin(address)
+0x538de0ec
+addAdmin(address)
+0x8666ea1d
+getOwner()
+0xa1973084
+0xa1d602e3
+remove()
+0xc2a0f88f
+0xcc4bd7c1
+0xfc080f62
+0xff3214af

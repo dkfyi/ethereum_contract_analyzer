@@ -1,0 +1,3 @@
+hack(address)
+deposit(address,uint256)
+withdraw()

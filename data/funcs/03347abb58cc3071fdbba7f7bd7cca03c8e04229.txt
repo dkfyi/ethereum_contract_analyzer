@@ -1,0 +1,6 @@
+pIDxAddr_(address)
+withdraw()
+0x6e7d3025
+destroy()
+getGen()
+deposit()

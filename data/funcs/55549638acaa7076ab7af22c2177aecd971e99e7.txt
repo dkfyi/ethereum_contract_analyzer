@@ -1,0 +1,4 @@
+getName()
+add()
+balanceOf()
+0xc54124be

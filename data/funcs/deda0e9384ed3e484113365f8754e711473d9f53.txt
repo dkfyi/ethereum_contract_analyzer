@@ -1,0 +1,17 @@
+0x21bedc9e
+cap()
+wallet()
+withdrawTokens(address,address,uint256)
+tokenPriceInETH()
+priceFeed()
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+newOwner()
+setWallet(address)
+usdRaised()
+end()
+0xf076e0f1
+transferOwnership(address)
+read(bytes32)
+read(bytes32)
+many_msg_babbage(bytes1)

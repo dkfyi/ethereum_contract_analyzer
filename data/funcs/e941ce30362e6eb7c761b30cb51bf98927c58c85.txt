@@ -1,0 +1,4 @@
+value()
+read()
+oracle()
+0x6b3d4968

@@ -1,0 +1,14 @@
+isPricingStrategy()
+calculatePrice(uint256,uint256,uint256,address,uint256)
+0x26c25962
+getPricingStartsAt()
+trancheCount()
+getPricingEndsAt()
+0x6f3a6bff
+0x816d6a5d
+isSane()
+MAX_TRANCHES()
+ideal_warn_timed(uint256,uint128)
+getCurrentPrice(uint256)
+getTranche(uint256)
+transferOwnership(address)

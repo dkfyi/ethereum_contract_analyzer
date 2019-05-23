@@ -1,0 +1,7 @@
+setConfig(string,uint256)
+releaseFunds()
+ideal_warn_timed(uint256,uint128)
+getConfig(string)
+getNodalblockTimestamp(string)
+transferOwnership(address)
+addNodalblockData(string)

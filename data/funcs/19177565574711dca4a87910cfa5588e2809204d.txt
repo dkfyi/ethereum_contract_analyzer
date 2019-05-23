@@ -1,0 +1,4 @@
+update(string)
+kill()
+getvalue()
+head()

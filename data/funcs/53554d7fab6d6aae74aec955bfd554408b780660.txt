@@ -1,0 +1,4 @@
+raiseApprovalEvent(address,address,uint256)
+isProxyLegit(address)
+raiseTransferEvent(address,address,uint256)
+dedicatedProxyAddress()

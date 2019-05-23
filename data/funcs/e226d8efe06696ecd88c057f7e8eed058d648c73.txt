@@ -1,0 +1,12 @@
+getWinnerAddress()
+0x2cbfa718
+0x393823f6
+getParticipants()
+organizer()
+generateRandomNum()
+joinraffle()
+0x92411bcd
+getChosenNumber()
+getPrize()
+enddate()
+startdate()

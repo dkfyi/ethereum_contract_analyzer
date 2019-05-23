@@ -1,0 +1,10 @@
+roundUp(uint256,uint256)
+0x579d94c0
+refererAllowed(address,address,address)
+isAddress(address)
+isNotSelf(address,address)
+isFirstBadgeEle(uint256)
+calcShare(uint256,uint256)
+isValidBuy(uint256,uint256)
+calcDiviDistribution(uint256,uint256)
+isLastBadgeEle(uint256,uint256)

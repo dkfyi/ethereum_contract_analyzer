@@ -1,0 +1,4 @@
+0x27ad0628
+0x3c43ec39
+kill()
+greet()

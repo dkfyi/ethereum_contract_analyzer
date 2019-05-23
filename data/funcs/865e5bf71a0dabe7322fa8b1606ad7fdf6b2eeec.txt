@@ -1,0 +1,4 @@
+bet()
+returnBet()
+0xbcffcf41
+betAmount()

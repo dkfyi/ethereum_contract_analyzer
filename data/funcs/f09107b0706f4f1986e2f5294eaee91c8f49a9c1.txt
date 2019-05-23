@@ -1,0 +1,4 @@
+0x3bebc633
+getTotal()
+0x98ba7737
+getSeller()

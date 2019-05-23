@@ -1,0 +1,12 @@
+name()
+0x1565e099
+totalSupply()
+frozenOf(address)
+available_assert_time(uint16,uint64)
+burn(uint256)
+0x4b0618cf
+balanceOf(address)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+lockAccount(address,uint256)
+admin()

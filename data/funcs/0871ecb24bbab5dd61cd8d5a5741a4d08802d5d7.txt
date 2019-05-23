@@ -1,0 +1,7 @@
+transferEther(address,uint256)
+0x643f0e2a
+0x6dbf2fa0
+isAuthorized(address,address,bytes)
+isAuthorized(address,address,bytes)
+validate()
+isAuthorized(address,address,bytes)

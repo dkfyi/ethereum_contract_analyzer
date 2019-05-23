@@ -1,0 +1,6 @@
+getOwner()
+ideal_warn_timed(uint256,uint128)
+changeAdmin(address)
+allowed(address)
+transferOwnership(address)
+admin()

@@ -1,0 +1,4 @@
+addresses(bytes32)
+0xb36050b4
+register(bytes32)
+usernames(address)

@@ -1,0 +1,4 @@
+getBool()
+kill()
+get()
+test()

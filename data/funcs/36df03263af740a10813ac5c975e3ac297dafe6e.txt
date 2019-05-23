@@ -1,0 +1,14 @@
+name()
+totalSupply()
+isTradeable()
+gasprice_bit_ether(int128)
+INITIAL_SUPPLY()
+available_assert_time(uint16,uint64)
+burn(uint256)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xdeb42f9f
+transferOwnership(address)
+0x10b07600

@@ -1,0 +1,7 @@
+getAttachesto(uint8)
+setLocked()
+getOccupies(uint8)
+getLocked()
+kill()
+0xd87a1166
+0xe579763b

@@ -1,0 +1,4 @@
+getRepPriceInAttoEth()
+getOwner()
+setRepPriceInAttoEth(uint256)
+transferOwnership(address)

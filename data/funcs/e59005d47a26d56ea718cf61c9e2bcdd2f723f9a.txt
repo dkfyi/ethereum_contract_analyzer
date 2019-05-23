@@ -1,0 +1,17 @@
+round()
+lastPlayerPaid()
+totalplayers()
+0x2ac51a0b
+playersAddresses(uint256)
+regeneration()
+jackpot()
+0xa363c9e1
+surrender()
+playersAmounts(uint256)
+0xcf8a5e02
+mainPlayer()
+collectFee()
+amountInvested()
+amountAlreadyPaidBack()
+collectedFee()
+0xfaa2a595

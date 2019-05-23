@@ -1,0 +1,3 @@
+kill()
+Owner()
+0xe28e4579

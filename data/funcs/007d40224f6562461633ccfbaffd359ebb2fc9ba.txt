@@ -1,0 +1,12 @@
+name()
+0x0f75e81f
+0x163aa631
+0x339b6b39
+0x4294857f
+version()
+0x5a9e03ca
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+revoke(bytes32)
+0xbf40b904
+transferOwnership(address)

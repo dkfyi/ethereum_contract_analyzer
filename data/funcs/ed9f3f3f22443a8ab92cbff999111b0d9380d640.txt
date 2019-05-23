@@ -1,0 +1,6 @@
+isPricingStrategy()
+minimumWeiAmount()
+newRateTime()
+calculateTokenAmount(uint256)
+rate1()
+rate2()

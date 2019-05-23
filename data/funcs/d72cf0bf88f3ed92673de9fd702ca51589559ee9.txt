@@ -1,0 +1,9 @@
+getAddress(bytes32)
+unregisterAddress(bytes32)
+0x4622ab03
+registerAddress(bytes32,address)
+0x7749cf23
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+newOwner()
+transferOwnership(address)

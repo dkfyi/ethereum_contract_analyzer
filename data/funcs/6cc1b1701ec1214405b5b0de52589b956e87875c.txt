@@ -1,0 +1,8 @@
+0x3e120a29
+0x81f58990
+0x8c8c3c9d
+ideal_warn_timed(uint256,uint128)
+0x9bad52df
+0xc27b0c7a
+creationTime()
+fee()

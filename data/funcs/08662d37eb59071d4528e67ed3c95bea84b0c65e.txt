@@ -1,0 +1,16 @@
+0x06f6e1d4
+0x0716326d
+0x18a49469
+addAuthorizedAddress(address)
+0x494503d4
+0x5cebcef1
+0x63bcd0cc
+0x671dc756
+removeAuthorizedAddress(address)
+ideal_warn_timed(uint256,uint128)
+0x909ce878
+0xb9181611
+0xc46e9678
+0xd070e581
+getAuthorizedAddresses()
+transferOwnership(address)

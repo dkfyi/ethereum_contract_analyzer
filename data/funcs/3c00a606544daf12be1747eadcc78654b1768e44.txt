@@ -1,0 +1,4 @@
+register(string,string)
+keys(address)
+account(address)
+nameAvailable(string)

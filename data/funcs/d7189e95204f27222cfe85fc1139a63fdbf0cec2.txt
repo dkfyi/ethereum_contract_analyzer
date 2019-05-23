@@ -1,0 +1,9 @@
+getCreator()
+getTotalBalance()
+substring(string,uint256,uint256)
+0x22400b78
+addressToString(address)
+0x8124b78e
+0xb07a0d04
+resetGame()
+0xf2e68fbb

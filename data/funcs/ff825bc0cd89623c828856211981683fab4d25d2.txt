@@ -1,0 +1,4 @@
+getVotes()
+endPoll()
+p()
+vote(bytes32)

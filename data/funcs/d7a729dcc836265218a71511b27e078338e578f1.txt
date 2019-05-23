@@ -1,0 +1,3 @@
+isOnTrading(uint64)
+tradingData()
+isOnTrade(uint256)

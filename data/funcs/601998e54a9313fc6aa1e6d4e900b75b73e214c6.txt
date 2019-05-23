@@ -1,0 +1,16 @@
+0x0daf1cf1
+0x133903a3
+0x367e3e4b
+0x74d8f48e
+0x9b7f838f
+0xd9599174
+0xe96bcd9d
+gasprice_bit_ether(int128)
+link_classic_internal(uint64,int64)
+available_assert_time(uint16,uint64)
+link_classic_internal(uint64,int64)
+available_assert_time(uint16,uint64)
+available_assert_time(uint16,uint64)
+allowance(address,address)
+available_assert_time(uint16,uint64)
+link_classic_internal(uint64,int64)

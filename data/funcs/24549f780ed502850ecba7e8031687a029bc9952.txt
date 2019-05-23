@@ -1,0 +1,10 @@
+setOwner(address)
+ideal_warn_timed(uint256,uint128)
+collectedFees()
+0xa1446b36
+persons(uint256)
+payoutIdx()
+balance()
+0xe9226cd8
+enter()
+0xed558555

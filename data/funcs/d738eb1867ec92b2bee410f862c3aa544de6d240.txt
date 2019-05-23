@@ -1,0 +1,11 @@
+0x0b945373
+0x76acf1b6
+0x88cdab94
+ideal_warn_timed(uint256,uint128)
+callOnRemoval()
+0xc979b05a
+callOnSignUp()
+transferOwnership(address)
+0xf9f451b8
+0xff59a90c
+getKey(bytes32)

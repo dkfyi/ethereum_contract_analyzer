@@ -1,0 +1,11 @@
+isPricingStrategy()
+0x26c25962
+getAmountOfTokens(uint256,uint256)
+isPresaleFull(uint256)
+trancheCount()
+ideal_warn_timed(uint256,uint128)
+getCurrentRate(uint256)
+getPresaleMaxValue()
+getTranche(uint256)
+presaleMaxValue()
+transferOwnership(address)

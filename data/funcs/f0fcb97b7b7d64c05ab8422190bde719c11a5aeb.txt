@@ -1,0 +1,8 @@
+checkRole(address,string)
+hasRole(address,string)
+0x662ac607
+adminRemoveRole(address,string)
+0x8af099aa
+adminAddRole(address,string)
+ROLE_ADMIN()
+0xe0769d93

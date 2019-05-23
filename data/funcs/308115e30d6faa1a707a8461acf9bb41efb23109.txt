@@ -1,0 +1,5 @@
+0x20740e9a
+getB()
+withdrawBalance()
+deposit()
+getBalance(address)

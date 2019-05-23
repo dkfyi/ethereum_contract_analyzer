@@ -1,0 +1,11 @@
+0x05204231
+renounceOwnership()
+transferAdmin(address)
+0x803fcd43
+0x89ad0a34
+ideal_warn_timed(uint256,uint128)
+0x92f96115
+0xd7fb8dc0
+transferOwnership(address)
+admin()
+available_assert_time(uint16,uint64)

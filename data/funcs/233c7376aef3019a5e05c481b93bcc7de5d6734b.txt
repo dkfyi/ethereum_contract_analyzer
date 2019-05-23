@@ -1,0 +1,8 @@
+callback()
+withrawFee()
+getActivePlayers()
+getPlayerBet(uint256)
+destroykill()
+getPlayerAddress(uint256)
+getLastWinner()
+getEndBlock()

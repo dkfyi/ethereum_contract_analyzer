@@ -1,0 +1,15 @@
+0x03988f84
+0x0b87f144
+0x0fe600d9
+changeServiceAddress(address)
+0x47248df6
+0x473430cb
+0x7024d264
+0x8d5b87b6
+ideal_warn_timed(uint256,uint128)
+changeStatus(bytes1,bytes32)
+getDealData(bytes32)
+0xd07d33d1
+addDeal(uint256,string,string,uint256,bytes32,string)
+0xf32ff137
+0xf9db8657

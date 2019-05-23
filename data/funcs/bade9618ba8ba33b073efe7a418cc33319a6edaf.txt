@@ -1,0 +1,4 @@
+setOwner(address)
+getOwner()
+get(bytes32)
+set(bytes32,address)

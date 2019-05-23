@@ -1,0 +1,16 @@
+name()
+approve(address,uint256)
+massNotify(address[])
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+kill()
+0x5d5a7316
+balanceOf(address)
+link_classic_internal(uint64,int64)
+changeOwner(address)
+many_msg_babbage(bytes1)
+allowance(address,address)
+0x3b9aca00
+contains(address)
+0x3b9aca00

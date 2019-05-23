@@ -1,0 +1,15 @@
+0x57202bfd
+deploy()
+setupAmbi2(address)
+0xa6ec80e2
+0x169f2bcd
+hasRole(address,bytes32,address)
+0x65cfd1b3
+0xcb9fa366
+claimFor(address,address)
+isOwner(address,address)
+0x169f2bcd
+hasRole(address,bytes32,address)
+constructor(address)
+0x11497e01
+constructor(address,address)

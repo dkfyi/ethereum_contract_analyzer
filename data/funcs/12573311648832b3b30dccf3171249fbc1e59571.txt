@@ -1,0 +1,14 @@
+0x1a8e14b7
+0x249b32a4
+close()
+withdraw(address)
+0x8771234c
+setMinDeposit(uint256)
+0xa5ce83ab
+0xa6cf8545
+setMaxDeposit(uint256)
+0xc90484a1
+0xca581174
+0xdd5967c3
+MIN_DEPOSIT()
+transferOwnership(address)

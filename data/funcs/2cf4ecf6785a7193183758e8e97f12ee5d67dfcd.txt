@@ -1,0 +1,6 @@
+win()
+0x8778658a
+winPercent()
+0xb7bbd567
+promo()
+places(uint256)

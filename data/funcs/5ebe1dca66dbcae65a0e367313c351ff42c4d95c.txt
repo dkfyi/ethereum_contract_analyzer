@@ -1,0 +1,8 @@
+setupAmbi2(address)
+deposit()
+withdrawWithReference(address,uint256,string)
+withdraw(address,uint256)
+depositWithReference(string)
+claimFor(address,address)
+isOwner(address,address)
+hasRole(address,bytes32,address)

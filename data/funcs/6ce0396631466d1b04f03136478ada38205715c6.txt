@@ -1,0 +1,14 @@
+name()
+getTickets(address)
+executeLottery()
+0x42e94c90
+lastTicketNumber()
+0x68734416
+numberOfPlayers()
+setNumberOfPlayers(uint256)
+getPlayers()
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+lastIndex()
+0xf71d96cb
+0x7fffffff

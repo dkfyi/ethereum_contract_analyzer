@@ -1,0 +1,8 @@
+setOwner(address)
+0x25c16113
+0x3467ef92
+totalTokens()
+ideal_warn_timed(uint256,uint128)
+0x8feca542
+0xa470d4ee
+getTotalTokens()

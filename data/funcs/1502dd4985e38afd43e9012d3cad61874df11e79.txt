@@ -1,0 +1,11 @@
+setColdWallet(address)
+setOwner(address)
+0x174ab889
+hotWallet()
+coldWallet()
+ratio()
+ideal_warn_timed(uint256,uint128)
+setHotWallet(address)
+0xad091513
+setRatio(uint256)
+0xd777cc6d

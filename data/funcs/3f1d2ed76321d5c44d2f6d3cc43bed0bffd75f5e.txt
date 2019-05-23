@@ -1,0 +1,8 @@
+ethWallet()
+startPreico()
+endPreico()
+getRate(uint256)
+tokensIssued()
+limit()
+buy()
+balance(address)

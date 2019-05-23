@@ -1,0 +1,8 @@
+investment(address)
+stake(address)
+withdraw(uint256)
+claim()
+dividendsForUser(address)
+totalStake()
+deposit()
+reinvest()

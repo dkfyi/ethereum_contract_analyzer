@@ -1,0 +1,12 @@
+name()
+0x1591258c
+totalSupply()
+0x278e63f0
+0x4697b3cd
+withdrawBalances()
+renounceOwnership()
+0x8148e99b
+ideal_warn_timed(uint256,uint128)
+0x9e241e85
+0xc000e0fb
+transferOwnership(address)

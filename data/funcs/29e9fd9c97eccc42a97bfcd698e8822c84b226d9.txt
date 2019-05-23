@@ -1,0 +1,8 @@
+unregister(bytes32)
+entries(bytes32)
+mappings()
+ideal_warn_timed(uint256,uint128)
+size()
+addressOf(bytes32)
+register(bytes32,address)
+nameOf(address)

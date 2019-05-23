@@ -1,0 +1,14 @@
+0x0958a9f3
+0x10840303
+0x3f454406
+admins(address)
+0x48663e7d
+investmentAddress()
+0x5cb59849
+ideal_warn_timed(uint256,uint128)
+0xb05f99f5
+0xdac54b8a
+0xdfb6c468
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

@@ -1,0 +1,4 @@
+validateReservedWindowSize(uint256,uint256)
+validateTemporalUnit(uint256)
+0x3c57ec9c
+0x683c3b8b

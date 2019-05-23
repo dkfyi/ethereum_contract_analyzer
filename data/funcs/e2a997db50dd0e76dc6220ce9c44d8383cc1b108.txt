@@ -1,0 +1,5 @@
+getAdmin()
+setAdmin(address)
+getOwner()
+ideal_warn_timed(uint256,uint128)
+admin()

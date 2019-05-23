@@ -1,0 +1,17 @@
+0x067199bc
+EXECUTE_EXTRA_GAS()
+0x32839d98
+0x3f8524f5
+0x4074b91c
+EXECUTION_GAS_OVERHEAD()
+0x7994549a
+0xab3b2e81
+CANCEL_EXTRA_GAS()
+PRE_EXECUTION_GAS()
+0xf06ce654
+0xf925a7d6
+min(uint256,uint256)
+validateEndowment(uint256,uint256,uint256,uint256,uint256,uint256,uint256)
+validateReservedWindowSize(uint256,uint256)
+validateTemporalUnit(uint256)
+0x3c57ec9c

@@ -1,0 +1,11 @@
+0x0e32db52
+ideal_warn_timed(uint256,uint128)
+0x8df8e17c
+0xb1ea0e88
+transferOwnership(address)
+0xf5cd6464
+quickConvert(address[],uint256,uint256)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)
+approve(address,uint256)
+quickConvert(address[],uint256,uint256)

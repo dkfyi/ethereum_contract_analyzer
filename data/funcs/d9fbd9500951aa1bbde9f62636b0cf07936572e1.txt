@@ -1,0 +1,16 @@
+add(uint256)
+setAmount(uint256)
+0x27ee58a6
+withdraw()
+unpause()
+paused()
+withdrawBalance()
+setGameAddress(address)
+0x73704f44
+pause()
+isStop()
+current()
+gameAddress()
+amount()
+0xd83e9d5f
+adminAddress()

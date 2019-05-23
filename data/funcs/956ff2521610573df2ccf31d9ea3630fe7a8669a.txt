@@ -1,0 +1,7 @@
+0x02506804
+0x78fc063c
+post(address,bytes32,bytes32)
+pre(address,bytes32,bytes32)
+setParameters(address,uint256)
+when()
+totalSupply()

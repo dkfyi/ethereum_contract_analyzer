@@ -1,0 +1,8 @@
+totalGames()
+cashOut()
+changeTarget(address)
+0xe830319d
+0xf5632bf1
+totalBet()
+deal()
+deal()

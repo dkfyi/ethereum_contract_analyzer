@@ -1,0 +1,10 @@
+setWithdrawer(address)
+memberCount()
+setOwner(address)
+shareOf(address)
+withdraw()
+ideal_warn_timed(uint256,uint128)
+0xc0cb7c6a
+withdrawer()
+0xd3c86f54
+0xf12b3f02

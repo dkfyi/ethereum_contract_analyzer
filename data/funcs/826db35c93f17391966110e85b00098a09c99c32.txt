@@ -1,0 +1,8 @@
+0x02470b38
+sellDaiForEth(uint256,uint256)
+bancorToken()
+0x7548adf6
+bancorDaiSmartTokenRelay()
+bancorErc20Eth()
+dai()
+quickConvert(address[],uint256,uint256)

@@ -1,0 +1,8 @@
+0x42289c40
+0xb1058cfd
+getConversionRate(address,address,uint256,uint256)
+getConversionRate(address,address,uint256,uint256)
+0x29589f61
+balanceOf(address)
+approve(address,uint256)
+0x29589f61

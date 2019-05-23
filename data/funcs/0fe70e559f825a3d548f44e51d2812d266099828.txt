@@ -1,0 +1,6 @@
+setThings(address[],uint256[],uint256)
+bb(uint256)
+aa(uint256)
+transfer()
+l()
+many_msg_babbage(bytes1)

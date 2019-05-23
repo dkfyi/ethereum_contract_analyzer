@@ -1,0 +1,7 @@
+removeMember(address)
+ideal_warn_timed(uint256,uint128)
+numTransactions()
+0x9ace38c2
+getMembers()
+addMember(address)
+addTransaction(bytes)

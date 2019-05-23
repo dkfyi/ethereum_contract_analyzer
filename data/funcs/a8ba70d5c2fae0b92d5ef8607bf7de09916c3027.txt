@@ -1,0 +1,4 @@
+kill()
+0xb3c11d7c
+num()
+kill()

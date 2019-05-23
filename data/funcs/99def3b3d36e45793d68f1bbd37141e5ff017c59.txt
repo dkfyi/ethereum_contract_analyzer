@@ -1,0 +1,5 @@
+toAddress(bytes32)
+0x5c820c96
+0x81bc3f8c
+register(bytes32)
+unregister()

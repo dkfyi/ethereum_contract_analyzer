@@ -1,0 +1,9 @@
+ceoAddress()
+payout(address)
+getVotes()
+setCEO(address)
+buyVotes(uint8)
+0x3c3a220d
+voteCost()
+schoolOrdering()
+NAME()

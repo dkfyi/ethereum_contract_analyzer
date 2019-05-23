@@ -1,0 +1,7 @@
+name()
+depositOf(address)
+withdraw(address)
+ideal_warn_timed(uint256,uint128)
+0x9193c485
+deposit()
+transferOwnership(address)

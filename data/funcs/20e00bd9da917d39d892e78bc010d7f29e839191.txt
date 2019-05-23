@@ -1,0 +1,14 @@
+recoveryAfterPeriod()
+0x08ae4b0c
+numProposals()
+auctionEndTime()
+WITHDRAWAL_TRIGGER_AMOUNT()
+auctionStart()
+biddingPeriod()
+nonHighestBidderRefund()
+bidderPlaceBid()
+highestBidder()
+0x92349fbe
+REQUIRED_SIGNATURES()
+getBid(address)
+highestBid()

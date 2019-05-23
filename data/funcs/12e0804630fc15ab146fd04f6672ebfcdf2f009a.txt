@@ -1,0 +1,13 @@
+0x22f8e566
+getCurrentTime()
+withdraw(uint256)
+0x4eec7c2b
+renounceOwnership()
+0x88be38ac
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0x90978d1b
+0x9381a345
+0xbd1f4b52
+transferOwnership(address)
+many_msg_babbage(bytes1)

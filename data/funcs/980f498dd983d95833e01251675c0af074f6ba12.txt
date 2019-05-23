@@ -1,0 +1,4 @@
+add(address)
+send(address)
+gasprice_bit_ether(int128)
+balanceOf(address)

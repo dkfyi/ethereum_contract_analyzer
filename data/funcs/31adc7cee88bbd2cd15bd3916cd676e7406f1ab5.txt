@@ -1,0 +1,6 @@
+teamAddress()
+total()
+claim(uint256)
+0x3f7db053
+team()
+0xa715d9bf

@@ -1,0 +1,3 @@
+0x87416c81
+0xb6f921ad
+register(string)

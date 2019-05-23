@@ -1,0 +1,17 @@
+withdrawBalance(address,uint256)
+transferOperator(address)
+exchangeRate()
+unpause()
+operator()
+paused()
+depositBalance()
+operate(bytes)
+pause()
+ideal_warn_timed(uint256,uint128)
+0xdae466d5
+setExchangeRate(uint256)
+transferOwnership(address)
+withdraw(address,uint256)
+0xfcbc4cee
+allowance(address,address)
+gasprice_bit_ether(int128)

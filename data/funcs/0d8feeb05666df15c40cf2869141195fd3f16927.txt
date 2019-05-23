@@ -1,0 +1,7 @@
+withdraw()
+investors(uint256)
+ico()
+balanceOf(address)
+getNumInvestors()
+buyTokens(uint256,uint256)
+invest(address)

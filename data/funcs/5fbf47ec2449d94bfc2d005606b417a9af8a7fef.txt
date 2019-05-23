@@ -1,0 +1,14 @@
+TechnicalRise()
+gamesPlayed(uint256)
+kill()
+play(uint256)
+drainMe(uint256)
+0x9bf48fb1
+ownerAddr()
+changeOwner(address)
+0xaf9a7373
+getSource()
+lastPlayed()
+betPrice()
+0xfee2806e
+shuffle()

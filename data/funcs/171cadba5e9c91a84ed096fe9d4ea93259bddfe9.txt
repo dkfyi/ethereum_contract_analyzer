@@ -1,0 +1,3 @@
+base()
+tokenURI(uint256)
+0xd86686ec

@@ -1,0 +1,6 @@
+kill()
+getOwner()
+sendCoin(address,uint256)
+convert(uint256,uint256)
+0xbef8c7d8
+getBalance(address)

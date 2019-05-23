@@ -1,0 +1,7 @@
+lockState()
+0x724ea4c9
+ideal_warn_timed(uint256,uint128)
+haraKiri()
+secretBids(address)
+0xce2f3d1a
+secretBidCount()

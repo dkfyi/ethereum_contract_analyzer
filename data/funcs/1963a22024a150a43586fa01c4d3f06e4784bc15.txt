@@ -1,0 +1,7 @@
+highBidder()
+bid(string)
+ideal_warn_timed(uint256,uint128)
+squak()
+auctionName()
+currentHighestBid()
+endAuction()

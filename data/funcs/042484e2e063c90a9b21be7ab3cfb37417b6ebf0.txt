@@ -1,0 +1,2 @@
+multiply(int256)
+kill()

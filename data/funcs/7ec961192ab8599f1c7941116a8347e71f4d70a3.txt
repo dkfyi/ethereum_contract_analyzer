@@ -1,0 +1,7 @@
+setMessage(string)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+maxLength()
+setMaxLength(uint256)
+message()
+transferOwnership(address)

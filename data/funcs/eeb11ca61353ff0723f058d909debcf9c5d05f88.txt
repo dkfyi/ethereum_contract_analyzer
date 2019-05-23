@@ -1,0 +1,12 @@
+manualSendTokens(address,uint256)
+getCurrentStage(uint256)
+refund()
+acceptOwnership()
+0x845ddcb2
+ideal_warn_timed(uint256,uint128)
+addNewStage(uint256,uint256,uint256,uint256,uint256)
+newOwner()
+transferOwnership(address)
+token()
+sendCrowdsaleTokens(address,uint256)
+sendCrowdsaleTokens(address,uint256)

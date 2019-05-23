@@ -1,0 +1,17 @@
+0x28dcb279
+withdraw(uint256)
+changeAdmin(address)
+0x95862cad
+0x987d95ab
+0xa60c1824
+0xd71055de
+admin()
+deposit()
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+withdraw(uint256)
+availableVolume(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32)
+availableVolume(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32)
+orderFills(address,bytes32)
+tokens(address,address)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)

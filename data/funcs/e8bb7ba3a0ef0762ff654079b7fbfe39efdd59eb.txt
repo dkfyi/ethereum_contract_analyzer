@@ -1,0 +1,3 @@
+0x2f64d386
+setWord(string)
+getWord()

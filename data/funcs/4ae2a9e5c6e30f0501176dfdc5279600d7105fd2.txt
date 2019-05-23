@@ -1,0 +1,7 @@
+kill()
+signup(bytes32)
+getUser(address)
+update(bytes32)
+ideal_warn_timed(uint256,uint128)
+login()
+transferOwnership(address)

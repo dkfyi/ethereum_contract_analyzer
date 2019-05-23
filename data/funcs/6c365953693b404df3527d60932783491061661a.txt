@@ -1,0 +1,15 @@
+0x03781556
+name()
+0x166b0053
+compare(string,string)
+equal(string,string)
+0x49da5a0f
+0x4df9dcd3
+set(uint256)
+0x63ffab31
+get()
+0x78568ae6
+0x95d2a6ed
+multiply(uint256)
+0xdff45e68
+0xfe704a9d

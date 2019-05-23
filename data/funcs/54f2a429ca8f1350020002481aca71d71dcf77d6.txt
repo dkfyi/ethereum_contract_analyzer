@@ -1,0 +1,9 @@
+0x4693f923
+0x5cda4b41
+0x64847eda
+0xbc52a8cd
+0xd78ad2c0
+allowance(address,address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+approve(address,uint256)

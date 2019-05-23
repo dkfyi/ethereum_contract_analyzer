@@ -1,0 +1,8 @@
+purchaseRound()
+getCard()
+startTime()
+currentRound()
+ideal_warn_timed(uint256,uint128)
+buy()
+STARTING_PRICE()
+cardPrice()

@@ -1,0 +1,10 @@
+creator()
+position()
+0x15dedf02
+created()
+0x38502e00
+manager()
+0x80e4b030
+0x8d62c64e
+0x8da7f232
+0xc5275d5f

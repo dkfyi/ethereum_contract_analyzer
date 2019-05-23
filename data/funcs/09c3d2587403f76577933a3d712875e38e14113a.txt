@@ -1,0 +1,7 @@
+fundingGoal()
+price()
+sendToken()
+token()
+totalSupply()
+balanceOf(address)
+many_msg_babbage(bytes1)

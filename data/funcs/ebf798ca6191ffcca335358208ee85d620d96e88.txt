@@ -1,0 +1,14 @@
+setPrivateSale(address)
+lockPeriod()
+ico()
+isTransferAllowed(address,uint256)
+ideal_warn_timed(uint256,uint128)
+0xa61bb764
+0xb69bcaf6
+setICO(address)
+privateSale()
+setTokenContract(address)
+transferOwnership(address)
+token()
+balanceOf(address)
+balanceOf(address)

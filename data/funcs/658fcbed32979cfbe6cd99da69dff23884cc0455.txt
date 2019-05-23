@@ -1,0 +1,13 @@
+name()
+setOwner(address)
+totalSupply()
+distribute(address[],uint256[])
+rate()
+available_assert_time(uint16,uint64)
+setRate(uint256)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+0x9b174fc4
+many_msg_babbage(bytes1)
+setAllowBuy(bool)

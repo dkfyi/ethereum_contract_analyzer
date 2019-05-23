@@ -1,0 +1,17 @@
+name()
+0x13cde9a2
+totalSupply()
+available_assert_time(uint16,uint64)
+initialSupply()
+sellPrice()
+version()
+0x5a1867e8
+balanceOf(address)
+ETH()
+buyPrice()
+link_classic_internal(uint64,int64)
+buy()
+spentAllowance(address,address)
+allowance(address,address)
+fee()
+sell(uint256)

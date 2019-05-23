@@ -1,0 +1,12 @@
+getACLRole5999294130779334338()
+upgradeTo(address)
+implementation()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0x95874631
+authorize(address)
+0xb9181611
+unauthorize(address)
+transferProxyOwnership(address)
+transferOwnership(address)
+isAuthorized(address)

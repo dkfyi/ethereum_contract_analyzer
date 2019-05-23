@@ -1,0 +1,13 @@
+transferEther(address,uint256)
+0x2a6400a5
+claimContractOwnership()
+changeContractOwnership(address)
+pendingContractOwner()
+withdrawTokens(address[])
+withdrawEther()
+0x7c8990dc
+transferContractOwnership(address)
+contractOwner()
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

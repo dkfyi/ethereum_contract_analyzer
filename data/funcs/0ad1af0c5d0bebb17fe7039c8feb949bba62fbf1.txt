@@ -1,0 +1,2 @@
+0x29589f61
+catchMonster(address,uint32,string)

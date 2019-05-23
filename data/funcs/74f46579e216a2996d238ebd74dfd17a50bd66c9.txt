@@ -1,0 +1,5 @@
+getAddress()
+addr()
+updateOwner(address)
+ideal_warn_timed(uint256,uint128)
+setAddress(address)

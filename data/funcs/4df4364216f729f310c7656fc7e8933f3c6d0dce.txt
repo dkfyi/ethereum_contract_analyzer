@@ -1,0 +1,4 @@
+CloseGift()
+0xbbcd99f1
+GetGift()
+SetGiftTime(uint256)

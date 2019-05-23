@@ -1,0 +1,7 @@
+0x08e0d29d
+add(address)
+remove(address)
+isOwner(address)
+getOwner()
+hasEntry(address)
+transferOwnership(address)

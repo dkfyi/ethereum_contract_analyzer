@@ -1,0 +1,5 @@
+Answer()
+Riddle()
+play(string)
+end(string)
+0xa3e18b4f

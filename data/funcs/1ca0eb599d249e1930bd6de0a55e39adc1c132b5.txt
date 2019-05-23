@@ -1,0 +1,7 @@
+insert(string,string)
+0x3aa114ac
+0x8998b87e
+0xb20eb4c4
+insert(string,string)
+0x3aa114ac
+0xb20eb4c4

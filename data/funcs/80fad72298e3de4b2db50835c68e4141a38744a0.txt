@@ -1,0 +1,4 @@
+getData()
+setData(string)
+0xc8b9c1ac
+0xe98cfb79

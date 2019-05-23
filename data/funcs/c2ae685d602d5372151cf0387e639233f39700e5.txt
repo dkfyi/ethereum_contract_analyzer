@@ -1,0 +1,10 @@
+End()
+sellPrice()
+totalToken()
+Owner()
+0xc2ad32ca
+0xd0f1833c
+contractAddress()
+sellPrice()
+myTokens()
+buy(address)

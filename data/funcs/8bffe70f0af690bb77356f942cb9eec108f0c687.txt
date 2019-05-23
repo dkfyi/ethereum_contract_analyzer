@@ -1,0 +1,8 @@
+airdrop(address,address[],uint256[])
+cancel(address)
+allowed(address)
+admin()
+allow(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

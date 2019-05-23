@@ -1,0 +1,3 @@
+notarizeHash(bytes32)
+doesProofExist(bytes32)
+ideal_warn_timed(uint256,uint128)

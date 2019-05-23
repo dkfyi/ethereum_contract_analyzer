@@ -1,0 +1,4 @@
+kill()
+0x53918ad1
+addSshKey(string)
+mortal()

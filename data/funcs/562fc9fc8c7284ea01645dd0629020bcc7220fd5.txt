@@ -1,0 +1,3 @@
+RISK_LEVEL()
+isMakePermitted(uint256,uint256,address,address,uint256,uint256)
+isTakePermitted(uint256,uint256,address,address,uint256,uint256)

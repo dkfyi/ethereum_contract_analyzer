@@ -1,0 +1,7 @@
+ticketPrice()
+setTicketPrice(uint256)
+luckyNumberOfAddress(address)
+kill()
+_myLuckyNumber()
+forceReseed()
+participate()

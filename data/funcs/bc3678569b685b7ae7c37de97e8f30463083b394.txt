@@ -1,0 +1,4 @@
+ideal_warn_timed(uint256,uint128)
+isRegistered(address)
+collectFees()
+transferOwnership(address)

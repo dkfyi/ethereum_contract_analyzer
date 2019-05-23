@@ -1,0 +1,10 @@
+buyToken(address)
+0xc690908a
+getAuctionIndex(address,address)
+deposit()
+deposit(address,uint256)
+postBuyOrder(address,address,uint256,uint256)
+claimBuyerFunds(address,address,address,uint256)
+withdraw(address,uint256)
+trade(address,uint256,address,address,uint256,uint256,address)
+approve(address,uint256)

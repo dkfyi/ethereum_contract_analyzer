@@ -1,0 +1,17 @@
+getOwnedAndTotalTokens(bytes32,address)
+buy(bytes32,uint256)
+claim(address)
+withdraw()
+buyOffer(uint256,uint256,address,bytes32)
+cancelOrder(bytes32)
+placeBet(bytes32,address)
+0x9672e3ba
+sell(bytes32,uint256)
+getOffer(bytes32)
+sellOffer(uint256,uint256,address,bytes32)
+checkReward()
+claim_reward()
+0x0f769644
+0x0f769644
+0x0f769644
+placeBet(bytes32)

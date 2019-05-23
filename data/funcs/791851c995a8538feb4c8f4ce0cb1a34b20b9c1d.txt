@@ -1,0 +1,5 @@
+assetPrices(address)
+0x6084747f
+0xbe59b4b1
+0xfb07ac86
+assetPrices(address)

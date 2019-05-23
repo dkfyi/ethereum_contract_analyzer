@@ -1,0 +1,12 @@
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+0x4c778090
+0x53d74fdf
+balanceOf(address)
+0x73e98e74
+0x7f5b002e
+ideal_warn_timed(uint256,uint128)
+many_msg_babbage(bytes1)
+allowance(address,address)
+0xe2377280

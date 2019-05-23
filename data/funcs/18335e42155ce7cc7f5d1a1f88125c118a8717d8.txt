@@ -1,0 +1,9 @@
+0x08ae4b0c
+removeMember(address)
+0x667022fd
+contractName()
+addAmountBoughtAsMember(address,uint256)
+memberKeys(uint256)
+authorize(string,address)
+authorize(string,address)
+authorize(string,address)

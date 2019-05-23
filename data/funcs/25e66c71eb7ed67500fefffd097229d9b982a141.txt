@@ -1,0 +1,15 @@
+transferEther(address,uint256)
+setAmount(uint256)
+0x5fdfc004
+0x6e1dc66e
+click()
+destroy()
+ideal_warn_timed(uint256,uint128)
+amount()
+0xd3a9c612
+transferAnyERC20Token(address,uint256)
+transferOwnership(address)
+destroyAndSend(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

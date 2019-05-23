@@ -1,0 +1,6 @@
+tyms(uint256)
+ban(uint256)
+urls(uint256)
+onrs(uint256)
+buy(uint256,string)
+prc(uint256)

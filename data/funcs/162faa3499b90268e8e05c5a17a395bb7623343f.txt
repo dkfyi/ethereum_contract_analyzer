@@ -1,0 +1,4 @@
+kill()
+Greeter(string)
+setGreeting(string)
+greet()

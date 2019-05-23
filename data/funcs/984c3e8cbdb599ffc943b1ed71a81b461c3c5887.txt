@@ -1,0 +1,12 @@
+0x3a68588a
+0x472b8a6a
+0x4a8e9170
+0x542ee1e9
+potSize()
+ideal_warn_timed(uint256,uint128)
+0xb1385177
+0xc63db22f
+0xe9e74835
+getNumberOfBets()
+0xf8d2971f
+placeBet()

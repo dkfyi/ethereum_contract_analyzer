@@ -1,0 +1,7 @@
+creator()
+withdraw()
+flag_hash()
+ideal_warn_timed(uint256,uint128)
+check_flag(bytes32)
+previous_owner()
+change_flag_hash(bytes32)

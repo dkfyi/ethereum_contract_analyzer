@@ -1,0 +1,6 @@
+withDraw()
+getIncrease()
+overwrite(string,string)
+getRichest()
+updateIncrease(uint256)
+buy(string,string)

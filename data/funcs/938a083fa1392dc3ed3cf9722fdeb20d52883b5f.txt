@@ -1,0 +1,17 @@
+currentPhase()
+name()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+finalize()
+changePhaseToPreICO2()
+tokenCreationCap()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+changePhaseToICO()
+many_msg_babbage(bytes1)
+0xc8b42930
+allowance(address,address)
+0xf53f0204

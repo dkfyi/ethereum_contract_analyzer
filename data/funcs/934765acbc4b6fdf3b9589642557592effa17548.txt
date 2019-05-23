@@ -1,0 +1,11 @@
+isInstantiation(address)
+instantiations(address,uint256)
+getInstantiationCount(address)
+0xd1a93cd8
+0xffe5725f
+beneficiary()
+release()
+releaseTime()
+token()
+balanceOf(address)
+many_msg_babbage(bytes1)

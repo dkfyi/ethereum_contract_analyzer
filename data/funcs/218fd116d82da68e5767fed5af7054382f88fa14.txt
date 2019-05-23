@@ -1,0 +1,16 @@
+name()
+approve(address,uint256)
+totalSupply()
+specialAllowed(address)
+gasprice_bit_ether(int128)
+0x254af075
+available_assert_time(uint16,uint64)
+transferAllowed()
+toggleTransfer()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+0xa501c669
+many_msg_babbage(bytes1)
+frozenAccount(address)
+allowance(address,address)

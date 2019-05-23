@@ -1,0 +1,13 @@
+getName()
+allEthOUT()
+getMetadataURL()
+setInfo(string,string,string)
+getUnlocktime()
+getOwner()
+getCryptodiamondAddress()
+0x9e29dc7f
+getID()
+getSurname()
+ethIN()
+getAmount()
+getNID()

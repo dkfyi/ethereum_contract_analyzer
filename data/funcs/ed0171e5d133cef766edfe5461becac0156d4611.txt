@@ -1,0 +1,4 @@
+numContracts()
+newContract(address)
+disableContract(address)
+getContracts()

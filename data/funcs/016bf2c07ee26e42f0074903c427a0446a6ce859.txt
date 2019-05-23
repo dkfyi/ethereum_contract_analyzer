@@ -1,0 +1,17 @@
+0x13c390ef
+pendingAdmin()
+getOperators()
+withdrawToken(address,uint256,address)
+transferAdmin(address)
+claimAdmin()
+transferAdminQuickly(address)
+0x87411480
+0x95d4ca9a
+0xa5996224
+removeOperator(address)
+isOperator(address,address)
+0xbce1cc66
+withdrawEther(uint256,address)
+checkOperator(address)
+admin()
+many_msg_babbage(bytes1)

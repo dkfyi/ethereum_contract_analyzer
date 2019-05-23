@@ -1,0 +1,9 @@
+0x31da454a
+removeInvestor(address)
+0x4fe41102
+changeOwner(address)
+isInvestorInWhitelist(address)
+0xcb924117
+addInvestor(address)
+0xfb890736
+many_msg_babbage(bytes1)

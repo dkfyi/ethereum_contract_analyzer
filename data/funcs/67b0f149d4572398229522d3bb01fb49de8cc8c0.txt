@@ -1,0 +1,7 @@
+rate()
+getTokens(address,uint256)
+weiRaised()
+wallet()
+buyTokens(address)
+token()
+many_msg_babbage(bytes1)

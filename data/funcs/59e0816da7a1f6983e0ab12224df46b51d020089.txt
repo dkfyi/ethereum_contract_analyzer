@@ -1,0 +1,16 @@
+cfoAddress()
+ceoAddress()
+0x252a4eeb
+refund(address,uint256)
+0x48edef5b
+0x492ca4ed
+0x569e0d29
+0x6059c384
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+0x954a3e5c
+getBalanceOf(address)
+0xa9e52987
+setCEOAddress(address)
+0xe1ac21c7
+transferOwnership(address)

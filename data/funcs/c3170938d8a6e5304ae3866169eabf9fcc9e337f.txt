@@ -1,0 +1,13 @@
+removeSigner(address)
+isInitialized()
+weiCollected()
+0x736c0d5b
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+0x96fc2256
+0xc3c78b21
+newOwner()
+addSigner(address)
+0xef4445b8
+transferOwnership(address)
+receiver()

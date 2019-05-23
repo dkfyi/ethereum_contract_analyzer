@@ -1,0 +1,4 @@
+kill()
+getBlockTime()
+getNowTime()
+getDeployTime()

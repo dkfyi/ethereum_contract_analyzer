@@ -1,0 +1,13 @@
+0x1fc3a9a7
+claimWinner()
+0x32983c9e
+kill()
+0x62287c31
+0x6c66cbb9
+0x71a2ee52
+0xcbb68369
+0xecff250f
+getRemainingTime()
+getRemainingTime()
+getRemainingTime()
+getRemainingTime()

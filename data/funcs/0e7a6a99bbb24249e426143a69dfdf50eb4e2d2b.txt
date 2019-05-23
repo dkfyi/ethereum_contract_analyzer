@@ -1,0 +1,10 @@
+kill()
+getContractOwner()
+0x6a5ef271
+0x84313024
+getContractVersion()
+0x901a66e2
+0xa2407de3
+0xd51eeafd
+0xebfad501
+getContractName()

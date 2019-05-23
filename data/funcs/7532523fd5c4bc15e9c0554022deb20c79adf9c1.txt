@@ -1,0 +1,16 @@
+0x1e41d075
+0x1efa9edb
+contract_owner()
+0x5e79a304
+0x69dc9ff3
+acceptOwnership()
+contract_newOwner()
+0xa2f891e6
+0xc329689f
+0xcd9955d5
+transferOwnership(address)
+0xff000000
+0x01000000
+0x01000000
+0x01000000
+0x01000000

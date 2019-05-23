@@ -1,0 +1,13 @@
+getBalance()
+0x291bfe97
+withdraw(uint256)
+close()
+wallet()
+enableRefunds()
+ideal_warn_timed(uint256,uint128)
+state()
+0xcb13cddb
+0xe710c562
+transferOwnership(address)
+deposit(address)
+refund(address)

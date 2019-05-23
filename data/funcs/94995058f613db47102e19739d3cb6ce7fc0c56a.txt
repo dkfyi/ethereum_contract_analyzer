@@ -1,0 +1,11 @@
+Attacker(address)
+0x87f14e6f
+0x88836eb5
+ideal_warn_timed(uint256,uint128)
+attack()
+setArbitrator(address)
+deposit()
+transferOwnership(address)
+cancelEscrow(bytes16,address,address,uint256)
+cancelEscrow(bytes16,address,address,uint256)
+setArbitrator(address)

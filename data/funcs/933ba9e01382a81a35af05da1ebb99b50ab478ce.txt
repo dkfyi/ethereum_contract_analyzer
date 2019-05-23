@@ -1,0 +1,12 @@
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+balanceOf(address)
+many_msg_babbage(bytes1)
+allowance(address,address)
+proxyApprove(address,uint256,bytes32,address)
+totalSupply(bytes32)
+0x580ac4b6
+balanceOf(address,bytes32)
+0xd8567e2f
+allowance(address,address,bytes32)

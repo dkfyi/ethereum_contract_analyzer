@@ -1,0 +1,2 @@
+setToken(address)
+token()

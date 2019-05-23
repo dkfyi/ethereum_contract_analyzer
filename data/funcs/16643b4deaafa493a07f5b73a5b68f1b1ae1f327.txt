@@ -1,0 +1,8 @@
+transferCurationRights(address)
+isWhitelisted(address)
+removeInvestor(address)
+ideal_warn_timed(uint256,uint128)
+whitelist(address)
+addInvestor(address)
+curator()
+transferOwnership(address)

@@ -1,0 +1,13 @@
+trade()
+withdraw(uint256)
+0x36f40c61
+0x58ed4ba3
+0x7b30aa47
+selfDestruct()
+withdrawToken(address,uint256)
+0xaeae547d
+balanceOf(address,address)
+withdrawToken(address,uint256)
+deposit()
+many_msg_babbage(bytes1)
+withdraw(uint256)

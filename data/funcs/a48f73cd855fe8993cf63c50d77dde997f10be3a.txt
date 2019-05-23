@@ -1,0 +1,11 @@
+LN2()
+0x137bf798
+log2Bounds(uint256)
+0x1d580123
+LOG2_E()
+ln(uint256)
+floorLog2(uint256)
+pow2Bounds(int256)
+ONE()
+max(int256[])
+exp(int256)

@@ -1,0 +1,5 @@
+0x5893253c
+renounceOwnership()
+setServiceRegistryEntry(uint256,address)
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)

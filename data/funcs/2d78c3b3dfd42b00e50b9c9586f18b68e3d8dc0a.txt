@@ -1,0 +1,9 @@
+enabled()
+0x2d2a1d20
+toggle()
+0x56cc4b09
+0x9cc43a7d
+oracleAddress()
+0xac20458d
+minimumAmount()
+destinationAddress()

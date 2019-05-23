@@ -1,0 +1,12 @@
+getBalance()
+withdrawTo(address,uint256)
+withdraw(uint256)
+0x6544afd4
+ideal_warn_timed(uint256,uint128)
+setManager(address,bool)
+0xce01cdb8
+transferOwnership(address)
+managers(address)
+etherBalanceOf(address)
+etherBalanceOf(address)
+withdraw(uint256)

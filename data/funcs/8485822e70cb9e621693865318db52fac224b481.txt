@@ -1,0 +1,3 @@
+getAuthorDrawings(uint256)
+getInternalDrawings(uint256)
+0xe6979569

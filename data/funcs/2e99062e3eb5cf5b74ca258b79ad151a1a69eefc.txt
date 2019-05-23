@@ -1,0 +1,15 @@
+createStandardToken(uint256)
+0x5f8dead3
+createdByMe()
+isApprovedFor(address,address)
+0x21af4feb
+balances(address)
+isApproved(address)
+sendCoinFrom(address,uint256,address)
+approveOnce(address,uint256)
+coinBalanceOf(address)
+sendCoin(uint256,address)
+coinBalance()
+approve(address)
+0xf4b16045
+unapprove(address)

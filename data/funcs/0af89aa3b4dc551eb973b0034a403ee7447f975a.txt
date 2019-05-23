@@ -1,0 +1,17 @@
+0xd6d75f51
+liquidateBorrow(address,address,address,uint256)
+0x8e8f294b
+0x25468f68
+liquidateBorrow(address,address,address,uint256)
+withdraw(address,uint256)
+0x25468f68
+getSupplyBalance(address,address)
+getSupplyBalance(address,address)
+getBorrowBalance(address,address)
+getBorrowBalance(address,address)
+allowance(address,address)
+balanceOf(address)
+gasprice_bit_ether(int128)
+approve(address,uint256)
+balanceOf(address)
+many_msg_babbage(bytes1)

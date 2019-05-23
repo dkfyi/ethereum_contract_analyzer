@@ -1,0 +1,4 @@
+issuer()
+0x98a2e7cb
+setWord(string)
+getWord()

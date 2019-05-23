@@ -1,0 +1,4 @@
+unregister(bytes32)
+die()
+0xcea6ab98
+register(bytes32)

@@ -1,0 +1,3 @@
+gkAddress()
+enter(bytes32)
+enter(bytes32,bytes8)

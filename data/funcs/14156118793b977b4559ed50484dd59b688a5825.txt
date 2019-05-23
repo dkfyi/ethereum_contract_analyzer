@@ -1,0 +1,10 @@
+investors(uint256)
+contracts(uint256)
+removeAddress(address)
+isWhiteListed(address)
+ideal_warn_timed(uint256,uint128)
+getInvestors()
+addAddress(address[])
+getContracts()
+transferOwnership(address)
+0xfa0fca84

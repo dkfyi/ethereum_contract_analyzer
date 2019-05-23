@@ -1,0 +1,5 @@
+withdraw()
+kill()
+0x5e53ab15
+0x95cf0f68
+betOnColor(uint256)

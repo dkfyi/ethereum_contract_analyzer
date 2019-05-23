@@ -1,0 +1,17 @@
+creator()
+startDate()
+setOwner(address)
+setToken(address)
+setCreator(address)
+sendToken(address,uint256)
+tokenReward()
+setEndtDate(uint256)
+setStartDate(uint256)
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+price()
+endDate()
+0x5a974280
+0x5aa47180
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

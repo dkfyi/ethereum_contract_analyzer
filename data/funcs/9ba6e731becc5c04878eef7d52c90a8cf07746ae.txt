@@ -1,0 +1,14 @@
+getWallet()
+close()
+claimOwnership()
+allowAddress(address,bool)
+wallet()
+0x631449e5
+enableRefunds()
+ideal_warn_timed(uint256,uint128)
+state()
+0xcb13cddb
+pendingOwner()
+transferOwnership(address)
+deposit(address)
+refund(address)

@@ -1,0 +1,6 @@
+rate()
+wallet()
+totalRaised()
+buyTokens(address)
+token()
+many_msg_babbage(bytes1)

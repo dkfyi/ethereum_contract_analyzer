@@ -1,0 +1,8 @@
+0x0ce62df4
+transfer(address,uint256,string)
+0x87cc6596
+tokenFallback(address,uint256,bytes)
+contractOwner()
+0xdba7da13
+getTokenAddress()
+many_msg_babbage(bytes1)

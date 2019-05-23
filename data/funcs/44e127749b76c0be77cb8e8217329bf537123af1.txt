@@ -1,0 +1,5 @@
+CryptoKitties()
+_prand(uint256)
+drain(uint256)
+authorizeAddress(address)
+drainMe(uint256)

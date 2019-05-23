@@ -1,0 +1,11 @@
+0x1aea6257
+0x1c3c8f0f
+addKey(bytes32,uint256,uint256)
+0x5e4505c7
+setAdministrator(bytes32,bool)
+0xbb5b27e1
+getKeyCount()
+transferOwnership(address)
+0xf7330081
+0xca5dbdb8
+0xf7330081

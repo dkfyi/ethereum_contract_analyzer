@@ -1,0 +1,10 @@
+setOwner(address)
+setToken(address)
+0x202f37cd
+airdrop(address[],uint256[])
+ideal_warn_timed(uint256,uint128)
+claimTokens(address)
+balanceOf(address)
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

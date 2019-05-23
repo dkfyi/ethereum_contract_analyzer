@@ -1,0 +1,6 @@
+lastWithdrawalTime()
+credentials(address)
+dailyCount()
+getRemainingLimit(address)
+withdrawTo(uint256,address,bytes)
+nonce()

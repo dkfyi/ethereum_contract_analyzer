@@ -1,0 +1,2 @@
+bytesToUInt(bytes32)
+uintToBytes(uint256)

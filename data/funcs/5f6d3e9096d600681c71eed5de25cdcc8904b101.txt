@@ -1,0 +1,13 @@
+claimedAirdropTokens(address)
+renounceOwnership()
+tokenAmountPerUser()
+ztx()
+ideal_warn_timed(uint256,uint128)
+airdropReceiversLimit()
+kill(address)
+0xd304380b
+numOfCitizensWhoReceivedDrops()
+transferOwnership(address)
+unpause()
+transferOwnership(address)
+mint(address,uint256)

@@ -1,0 +1,4 @@
+bid()
+info()
+0x6920eeb1
+content()

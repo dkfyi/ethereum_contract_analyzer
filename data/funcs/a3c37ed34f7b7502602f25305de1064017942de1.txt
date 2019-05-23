@@ -1,0 +1,13 @@
+getNumTickets()
+0x135e33d0
+0x1497eff7
+0x16f16714
+0x32e42638
+numTickets()
+organizer()
+0x81273b05
+destroy()
+0x9870dce0
+0xa07a78c5
+0xdc6f0d17
+0xffda36a6

@@ -1,0 +1,14 @@
+buyFrom(address)
+bonus()
+pause()
+ideal_warn_timed(uint256,uint128)
+0x92c51d3a
+many_msg_babbage(bytes1)
+setState(bool)
+0xba548298
+0xc3d073ff
+onIncome()
+withdrawal()
+watermark()
+setPrice(uint256,uint256)
+0xfcd393b9

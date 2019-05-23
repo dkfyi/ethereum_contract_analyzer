@@ -1,0 +1,5 @@
+whatRound()
+canceled()
+takeProfit()
+myAccount()
+deposit()

@@ -1,0 +1,15 @@
+isActive()
+0x2f5c022e
+BuyPresalePackage(uint8,address)
+0x3add9e0a
+withdraw()
+GetReferralDataOfAddress(address)
+SetActive(bool)
+0x8b6b0ee4
+SetPresaleHandler(address)
+GetAllReferralAddresses()
+AddNewPresalePackage(uint16,uint256)
+GetReferredCount()
+GetReferredAt(uint256)
+0xff7eb1ac
+CreateToken(address,uint8,uint16)

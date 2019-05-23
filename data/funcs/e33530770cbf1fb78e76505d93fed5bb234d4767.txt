@@ -1,0 +1,13 @@
+0x563a771c
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+0x9c3999a5
+kill(address)
+0xea48096c
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+0x563a771c
+many_msg_babbage(bytes1)

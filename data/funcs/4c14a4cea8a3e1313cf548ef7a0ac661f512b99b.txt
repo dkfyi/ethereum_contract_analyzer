@@ -1,0 +1,4 @@
+0x1fcfd9ad
+0x730f9da4
+oracleAddress()
+0xf7023bb6

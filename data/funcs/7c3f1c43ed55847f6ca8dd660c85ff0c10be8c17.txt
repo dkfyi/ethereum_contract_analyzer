@@ -1,0 +1,3 @@
+getRate(address,uint256,bool,uint256)
+recordImbalance(address,int256,uint256,uint256)
+getExpectedRate(address,address,uint256)

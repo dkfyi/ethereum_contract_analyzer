@@ -1,0 +1,14 @@
+setOwner(address)
+withDraw(uint256)
+0x1dcce717
+kill()
+0x69f9452e
+0x873de332
+ideal_warn_timed(uint256,uint128)
+0xa67aa26e
+0xa90016fd
+0xcfa471d8
+0xd30c0fca
+0xedd842cc
+0xeed0a154
+0xf2a20364

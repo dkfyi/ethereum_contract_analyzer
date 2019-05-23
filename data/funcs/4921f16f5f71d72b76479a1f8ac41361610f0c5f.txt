@@ -1,0 +1,5 @@
+0x4b47741f
+0x6d4478b9
+winners(uint256)
+0xdb595b3b
+extDestroyBot(uint256)

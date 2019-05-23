@@ -1,0 +1,12 @@
+removeOwner(address)
+release(address)
+isOwner(address)
+getLockAmount(address)
+addOwner(address)
+0xdd0ce56a
+lock(address,uint256,uint256)
+0xea518f30
+getReleaseBlock(address)
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)

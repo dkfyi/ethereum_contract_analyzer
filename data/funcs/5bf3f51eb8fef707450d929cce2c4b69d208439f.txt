@@ -1,0 +1,7 @@
+owners(uint256)
+0x0b8bb146
+transactions(bytes32)
+isConfirmed(bytes32)
+0xc4e72d47
+0xebfc8e27
+many_msg_babbage(bytes1)

@@ -1,0 +1,5 @@
+toContentID(address,string,string,address,uint256)
+ideal_warn_timed(uint256,uint128)
+0xa6748e76
+publish(string,string,address,uint256)
+publish(address,uint256,address,uint256)

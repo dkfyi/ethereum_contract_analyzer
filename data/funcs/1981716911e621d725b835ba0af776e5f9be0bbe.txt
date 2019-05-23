@@ -1,0 +1,8 @@
+round()
+status()
+tickets()
+lastWiningTicketNumber()
+changeSeed(uint32)
+changeStatus(string)
+buyTickets()
+lastWinner()

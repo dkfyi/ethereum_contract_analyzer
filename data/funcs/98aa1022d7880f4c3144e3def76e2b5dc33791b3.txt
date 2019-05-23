@@ -1,0 +1,14 @@
+selfdestructs()
+0x6821d804
+tokenReward()
+ideal_warn_timed(uint256,uint128)
+0xeceec009
+transferOwnership(address)
+0xf90ec177
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

@@ -1,0 +1,8 @@
+getPost(uint256)
+0x5688e6df
+0x81c6e4b1
+0xa973db7d
+0xacb346ac
+getUsername(address)
+like(uint256)
+setUsername(string)

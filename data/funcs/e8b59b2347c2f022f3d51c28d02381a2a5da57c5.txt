@@ -1,0 +1,2 @@
+getCount()
+increment()

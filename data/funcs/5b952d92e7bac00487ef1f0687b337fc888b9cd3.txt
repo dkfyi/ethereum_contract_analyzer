@@ -1,0 +1,5 @@
+isEtherSpaceBattle()
+calculateStake(bytes8,bytes5)
+battle(bytes8,bytes5,bytes8,bytes5)
+calculateLevel(bytes8,bytes5)
+bytesToBytes2(bytes)

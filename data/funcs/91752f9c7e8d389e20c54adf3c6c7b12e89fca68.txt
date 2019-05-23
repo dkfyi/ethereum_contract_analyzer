@@ -1,0 +1,13 @@
+gasprice_bit_ether(int128)
+0x2aa19768
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0xac979746
+changeBZRxTokenContract(address)
+0xe1086347
+transferOwnership(address)
+transferToken(address,address,uint256)
+minterTransferFrom(address,address,address,uint256)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

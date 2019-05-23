@@ -1,0 +1,11 @@
+name()
+kill()
+GetBalance(address)
+sellPrice()
+decimal()
+0x827e2479
+buyPrice()
+link_classic_internal(uint64,int64)
+0x98421a21
+0xaaeb4878
+balance(address)

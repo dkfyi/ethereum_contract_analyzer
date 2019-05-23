@@ -1,0 +1,5 @@
+withdraw(uint256)
+kill()
+bet(uint256,uint256)
+0x3b9aca00
+betOnNumber(uint256)

@@ -1,0 +1,6 @@
+0x19c25ff6
+kill()
+0x4f246a07
+getPrice()
+pay(uint256)
+0xfb207153

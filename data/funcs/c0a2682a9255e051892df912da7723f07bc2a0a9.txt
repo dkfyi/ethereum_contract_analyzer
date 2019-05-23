@@ -1,0 +1,3 @@
+Withdraw(uint256)
+coinBalanceOf(address)
+Kill()

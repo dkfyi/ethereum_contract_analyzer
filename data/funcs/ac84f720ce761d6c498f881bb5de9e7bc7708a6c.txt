@@ -1,0 +1,6 @@
+set(string)
+0x4f4b2cf9
+ownerOf(string)
+nickOf(address)
+unset()
+stringToBytes32(string)

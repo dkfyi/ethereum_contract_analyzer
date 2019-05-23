@@ -1,0 +1,6 @@
+currentManager()
+found()
+investors(uint256)
+setOfficialWebsite(string)
+balance()
+invest()

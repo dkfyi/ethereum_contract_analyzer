@@ -1,0 +1,4 @@
+nameRegAddress()
+setTestString(string)
+named(bytes32)
+addressOf(bytes32)

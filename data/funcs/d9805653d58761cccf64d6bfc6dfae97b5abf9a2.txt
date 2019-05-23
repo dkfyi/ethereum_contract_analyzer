@@ -1,0 +1,2 @@
+blockNumber()
+rand(uint256,uint256)

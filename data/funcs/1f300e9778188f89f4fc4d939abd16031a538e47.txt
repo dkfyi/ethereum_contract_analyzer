@@ -1,0 +1,16 @@
+priceList(uint256)
+0x3d80a83d
+0x41108659
+manager()
+wallet()
+0x658486cf
+ideal_warn_timed(uint256,uint128)
+changeWallet(address)
+0xb1ad9ca2
+onTokenReceived(address,uint256,bytes)
+0xd05eaae0
+setManager(address)
+0xdc68c52c
+transferOwnership(address)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

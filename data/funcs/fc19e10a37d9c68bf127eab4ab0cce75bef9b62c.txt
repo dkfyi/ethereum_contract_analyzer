@@ -1,0 +1,5 @@
+getCreator()
+setNumber(uint256)
+kill()
+MyContract()
+getNumber()

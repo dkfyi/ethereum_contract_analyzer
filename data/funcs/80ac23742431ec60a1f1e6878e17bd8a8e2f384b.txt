@@ -1,0 +1,15 @@
+CONFIG_MAX_VALUE()
+wins()
+0x386cd8f1
+0x3910b881
+ownerWithdraw()
+txs()
+CONFIG_FEES_MUL()
+losses()
+CONFIG_MIN_VALUE()
+CONFIG_FEES_DIV()
+CONFIG_PRICE()
+0xfffffffb
+0x10a860c1
+0xfffffffb
+0x10a860c1

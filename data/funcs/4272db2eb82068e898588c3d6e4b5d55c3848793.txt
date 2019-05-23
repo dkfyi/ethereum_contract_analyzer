@@ -1,0 +1,10 @@
+0x5b225526
+convertToWei(bytes32,uint256)
+revokePermission(address,bytes32)
+setRate(bytes32,uint256)
+revokeMultiplePermissions(address,bytes32[])
+convertFromWei(bytes32,uint256)
+grantMultiplePermissions(address,bytes32[])
+rates(bytes32)
+setMultipleRates(bytes32[],uint256[])
+grantPermission(address,bytes32)

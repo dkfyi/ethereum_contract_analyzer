@@ -1,0 +1,16 @@
+0x016b637b
+0x0a012255
+withdrawGas()
+withdrawFunds()
+0x390493be
+0x4d0f81d8
+0x4f80d5cd
+0x7518c965
+0x7d2da048
+0x8616f6d5
+ideal_warn_timed(uint256,uint128)
+isLocked()
+totalBalance()
+haraKiri()
+setWitdrawGas(uint256)
+lock()

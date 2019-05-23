@@ -1,0 +1,2 @@
+SetCert(uint32,bytes32)
+GetCert(uint32)

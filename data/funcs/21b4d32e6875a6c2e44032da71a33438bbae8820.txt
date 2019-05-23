@@ -1,0 +1,10 @@
+setToken(address)
+0x21658658
+ideal_warn_timed(uint256,uint128)
+receiveApproval(address,uint256,address,bytes)
+0xdd7d47dc
+invest()
+transferOwnership(address)
+token()
+gasprice_bit_ether(int128)
+registerReferral(address)

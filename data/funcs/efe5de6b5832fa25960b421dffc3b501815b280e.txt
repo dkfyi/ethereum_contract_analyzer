@@ -1,0 +1,3 @@
+init(address,bytes32)
+0x9131ecee
+0xb09b2f85

@@ -1,0 +1,11 @@
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+0x63cb0d5f
+update()
+0xa8d509ff
+0xb9094851
+getAddress()
+cbAddress()
+getAddress()
+getPrice(string)
+query(uint256,string,string)

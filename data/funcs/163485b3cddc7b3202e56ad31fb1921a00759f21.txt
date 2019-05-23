@@ -1,0 +1,9 @@
+0x08ae4b0c
+blockMessagesFrom(address)
+sendMessage(address,bytes,bytes32)
+join(bytes32,bytes32)
+getRelationWith(address)
+acceptContactRequest(address)
+addContact(address)
+unblockMessagesFrom(address)
+updateProfile(bytes32,bytes32)

@@ -1,0 +1,7 @@
+resolver(bytes32)
+owner(bytes32)
+setSubnodeOwner(bytes32,bytes32,address)
+setTTL(bytes32,uint64)
+ttl(bytes32)
+setResolver(bytes32,address)
+setOwner(bytes32,address)

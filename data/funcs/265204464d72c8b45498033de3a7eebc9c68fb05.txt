@@ -1,0 +1,11 @@
+burn()
+0x4d2e1b7f
+tokenReward()
+sendCount()
+0x83894548
+oldToken()
+myToken()
+0xdacd5b24
+transferOwnership(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

@@ -1,0 +1,8 @@
+setMessage(string)
+withdraw()
+0x4b11fdb4
+getPrice()
+price()
+author()
+getMessage()
+message()

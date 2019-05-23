@@ -1,0 +1,9 @@
+0x31d2111c
+0x3e27df2a
+0x7fd4b61a
+0x8d578121
+ideal_warn_timed(uint256,uint128)
+isWinner(address)
+0xc3e85124
+0xd2ec9fe7
+0xd4a55161

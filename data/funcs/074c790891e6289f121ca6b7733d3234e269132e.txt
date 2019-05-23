@@ -1,0 +1,15 @@
+_maint_updateOwner(address)
+_api_PlaceBet(bool)
+_maint_withdrawFromPool(uint256)
+GetMinimumBet_ether()
+gamesPlayed()
+_maint_setBlockLimit(uint256)
+_maint_setCustomSeed(uint256)
+GetMaximumBet_ether()
+0xa519c53e
+GetMinimumBet()
+createRandomNumber(uint256)
+_maint_EndPromo()
+maxGamesPerBlock()
+GetMaximumBet()
+0x499602d2

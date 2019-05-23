@@ -1,0 +1,10 @@
+0x0dda60cc
+WETH()
+mintMarginTokens(bytes32,address[7],uint256[8],uint32[2],bool,bytes,bytes)
+deposit()
+increasePosition(bytes32,address[7],uint256[8],uint32[2],bool,bytes,bytes)
+getPositionOwner(bytes32)
+withdraw(uint256)
+balanceOf(address)
+many_msg_babbage(bytes1)
+approve(address,uint256)

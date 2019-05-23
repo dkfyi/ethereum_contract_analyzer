@@ -1,0 +1,7 @@
+rootAuthority()
+0x91223d69
+revokeAuthority(address,uint256)
+isValidAuthority(address,uint256)
+changeRootAuthority(address)
+isRootAuthority(address)
+approveAuthority(address)

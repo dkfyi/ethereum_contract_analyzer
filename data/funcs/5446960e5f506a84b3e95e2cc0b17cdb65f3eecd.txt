@@ -1,0 +1,11 @@
+balanceOf(address)
+many_msg_babbage(bytes1)
+0x1988513b
+mint(address,uint256)
+burn(address,uint256)
+destroy()
+name()
+link_classic_internal(uint64,int64)
+totalSupply()
+available_assert_time(uint16,uint64)
+masterAddress()

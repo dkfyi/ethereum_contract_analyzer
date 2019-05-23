@@ -1,0 +1,3 @@
+name()
+coinage()
+0x77329f35

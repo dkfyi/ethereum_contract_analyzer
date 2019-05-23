@@ -1,0 +1,8 @@
+withdrawTo(address,uint256)
+withdraw(uint256)
+withdrawAll()
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+checkBalance()
+sendFunds(address)
+forwardFunds(address)

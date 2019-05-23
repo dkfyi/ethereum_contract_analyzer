@@ -1,0 +1,4 @@
+calc(uint256)
+play(uint8)
+0xe568a66b
+placeBet(uint8,uint8)

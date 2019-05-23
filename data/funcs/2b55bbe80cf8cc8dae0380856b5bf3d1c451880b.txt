@@ -1,0 +1,8 @@
+WithdrawTithes()
+ClaimBlessings()
+blessings()
+ExtendLife()
+doomsday()
+lifePoints()
+tithes()
+savior()

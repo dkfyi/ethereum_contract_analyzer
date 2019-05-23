@@ -1,0 +1,12 @@
+0x0944018f
+0x3d0327f4
+0x49df8a46
+0x586b8e3b
+0x5ed5eb50
+0x72475f2d
+0xcba5edf8
+0xf978fd61
+token()
+recover(bytes32,bytes)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

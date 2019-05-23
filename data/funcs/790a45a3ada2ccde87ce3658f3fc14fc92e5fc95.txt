@@ -1,0 +1,9 @@
+wrestle()
+withdraw()
+theWinner()
+0x9e07f92a
+0x9ede3858
+registerAsAnOpponent()
+0xe2f0a978
+0xf0f32497
+0xf973728e

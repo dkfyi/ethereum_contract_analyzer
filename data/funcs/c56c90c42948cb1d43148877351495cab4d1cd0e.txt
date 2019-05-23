@@ -1,0 +1,15 @@
+0x29ed39b1
+getClaim(string)
+ownerTransferWei(address,uint256)
+isAllowedOverrideAddress(address)
+getClaimKeys()
+claimExist(string)
+ideal_warn_timed(uint256,uint128)
+ownerRecoverTokens(address)
+addNewClaim(string,uint256,uint256,string,string)
+ownerSetOverride(address,bool)
+getClaimKeysCount()
+0xeff0f592
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

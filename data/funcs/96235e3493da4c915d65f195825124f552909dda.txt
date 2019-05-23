@@ -1,0 +1,11 @@
+0x5fcb246d
+0x68dd523d
+getUIntValue(bytes32)
+getAddressValue(bytes32)
+getUInt8Value(bytes32)
+getUInt8Value(bytes32)
+getUIntValue(bytes32)
+getUIntValue(bytes32)
+getUInt8Value(bytes32)
+getUInt8Value(bytes32)
+getUIntValue(bytes32)

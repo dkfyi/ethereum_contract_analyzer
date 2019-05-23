@@ -1,0 +1,10 @@
+0x275e5dbe
+0x605878d5
+0x61dff1f3
+jackpot()
+0x8762affd
+0x8765d1c6
+revealResult(uint256,bytes32)
+denominator()
+reset()
+0xedf26d9b

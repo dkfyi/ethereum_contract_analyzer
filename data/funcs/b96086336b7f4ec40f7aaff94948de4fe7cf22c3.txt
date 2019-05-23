@@ -1,0 +1,7 @@
+0x2e78c1c1
+isGeneScience()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0xa4590bd9
+0xe6f30d05
+transferOwnership(address)

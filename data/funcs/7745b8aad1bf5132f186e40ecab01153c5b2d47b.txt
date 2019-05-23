@@ -1,0 +1,9 @@
+totalInvestors()
+getPercent()
+withdraw()
+0x7a320e8a
+totalDeposits()
+0x804fed28
+0x8aac1362
+ideal_warn_timed(uint256,uint128)
+balance(address)

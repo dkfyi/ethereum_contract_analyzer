@@ -1,0 +1,3 @@
+claimDonations(uint256)
+isClassic()
+split(address)

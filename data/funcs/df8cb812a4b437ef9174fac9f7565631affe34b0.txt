@@ -1,0 +1,3 @@
+0x50306962
+0x7100c9d6
+blockHash(uint256)

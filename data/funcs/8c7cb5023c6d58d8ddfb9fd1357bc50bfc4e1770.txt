@@ -1,0 +1,11 @@
+0x2b500041
+manager()
+0x7de7edef
+NAME()
+setup()
+0xe52cb36a
+0xf6cc15d0
+VERSION()
+0x468721a7
+0xe75235b8
+isOwner(address)

@@ -1,0 +1,3 @@
+newDocument(bytes32)
+0x40385fb7
+0xa9baa23c

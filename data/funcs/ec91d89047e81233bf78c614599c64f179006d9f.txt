@@ -1,0 +1,16 @@
+isProxy(address)
+cache()
+build()
+build(address)
+0x65fae35e
+0x9c52a7f1
+0x65fae35e
+0x65fae35e
+setCache(address)
+0x9c52a7f1
+0xbf353dbb
+execute(address,bytes)
+execute(bytes,bytes)
+cache()
+read(bytes)
+write(bytes)

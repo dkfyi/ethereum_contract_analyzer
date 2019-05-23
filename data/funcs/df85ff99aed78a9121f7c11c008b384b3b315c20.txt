@@ -1,0 +1,9 @@
+0x0255fa1e
+deleteUser(address)
+0x62beb312
+getUser(address)
+ideal_warn_timed(uint256,uint128)
+0x969a2b39
+getUserCount()
+transferOwnership(address)
+getUserAtIndex(uint256)

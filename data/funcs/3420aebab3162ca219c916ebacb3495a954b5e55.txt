@@ -1,0 +1,14 @@
+getUserPayoutBalance(address)
+0x1b371059
+0x3636080b
+getUserReferrals(address)
+totalInvest()
+profit()
+0x6fe4d97a
+getUserReferralsProfit(address)
+0xa2c9776d
+0xa7c60560
+getUserInvestBalance(address)
+0xd08525e5
+0xd9df98a2
+totalPaid()

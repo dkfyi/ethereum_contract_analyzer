@@ -1,0 +1,11 @@
+receiverAddress()
+0x528afedc
+getReceiverAddress()
+setReceiverAddress(address)
+ideal_warn_timed(uint256,uint128)
+0xdf8128b6
+transferOwnership(address)
+getBalance(address)
+gasprice_bit_ether(int128)
+balanceOf(address)
+many_msg_babbage(bytes1)

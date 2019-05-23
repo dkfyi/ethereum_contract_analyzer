@@ -1,0 +1,7 @@
+0x41a62a87
+kill()
+0x49b6cba5
+0x4d4aacad
+0x6d8b35bf
+0xb026bf4a
+checkBalance()

@@ -1,0 +1,8 @@
+0x1696e0a7
+removeAdmin(address)
+kill()
+getNum()
+0x6ec6333d
+getCount()
+addTokens(uint256)
+fixTokens()

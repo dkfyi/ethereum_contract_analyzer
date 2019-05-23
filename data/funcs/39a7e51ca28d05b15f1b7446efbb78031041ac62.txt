@@ -1,0 +1,10 @@
+tokenAddr()
+balanceOf(address)
+0x716197b1
+ideal_warn_timed(uint256,uint128)
+kill(address)
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

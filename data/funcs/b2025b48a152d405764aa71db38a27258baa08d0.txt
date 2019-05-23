@@ -1,0 +1,2 @@
+bakeCookie(string)
+0xe34c74f1

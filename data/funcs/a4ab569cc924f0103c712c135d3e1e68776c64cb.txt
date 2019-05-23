@@ -1,0 +1,4 @@
+name()
+balanceOf(address)
+link_classic_internal(uint64,int64)
+allowance(address,address)

@@ -1,0 +1,15 @@
+name()
+setCOO(address)
+0x48179ee5
+recharge()
+setGameAddress(address)
+setEnable(bool)
+0x77d223b2
+0x83a5fa83
+0x8901b9ae
+link_classic_internal(uint64,int64)
+0x9c118238
+CEO()
+gameAddress()
+transferCEO(address)
+COO()

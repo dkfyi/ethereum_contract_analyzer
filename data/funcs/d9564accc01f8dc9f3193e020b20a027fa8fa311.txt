@@ -1,0 +1,7 @@
+0x1fe2a6f2
+addJugada(uint256,string,string,uint256,uint256)
+fetchJugadas()
+updateDireccion(address,bool)
+0x9cc7c398
+0xcd63c14a
+stringToBytes32(string)

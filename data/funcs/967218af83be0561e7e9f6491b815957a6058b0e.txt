@@ -1,0 +1,5 @@
+rate()
+wallet()
+buyTokens(address)
+token()
+mint(address,uint256)

@@ -1,0 +1,5 @@
+yank(address[],address[])
+regName()
+VERSION()
+withdrawAll()
+withdrawAllFor(address[])

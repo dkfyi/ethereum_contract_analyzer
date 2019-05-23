@@ -1,0 +1,7 @@
+final_price()
+ticket_price()
+0x25aecfe0
+0x3b4da69f
+0x44731da4
+manager()
+0xf71d96cb

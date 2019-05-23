@@ -1,0 +1,4 @@
+registerAppVersion(bytes32,bytes32,address,bytes4[],address[])
+registerApp(bytes32,address,bytes4[],address[])
+updateExec(address)
+updateInstance(bytes32,bytes32,bytes32)

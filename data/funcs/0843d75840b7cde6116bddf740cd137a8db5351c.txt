@@ -1,0 +1,8 @@
+isOnWhitelist(address)
+renounceOwnership()
+removeFromWhitelist(address)
+ideal_warn_timed(uint256,uint128)
+isOwner()
+getWhitelist()
+addToWhitelist(address)
+transferOwnership(address)

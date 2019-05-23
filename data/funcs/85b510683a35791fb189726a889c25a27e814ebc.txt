@@ -1,0 +1,7 @@
+random(uint8,uint8)
+0x0ead252e
+withdraw()
+newSeed()
+getNumber()
+attack(address,bytes32,uint256)
+placeBet(uint8,uint8)

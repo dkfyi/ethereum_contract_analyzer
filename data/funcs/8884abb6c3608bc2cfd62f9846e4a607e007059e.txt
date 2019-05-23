@@ -1,0 +1,7 @@
+addManager(address)
+start(uint256,uint256)
+removeManager(address)
+isManager(address)
+users(uint256)
+addUser(address,address)
+addTeam(address)

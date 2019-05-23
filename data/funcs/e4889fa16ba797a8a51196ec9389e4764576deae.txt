@@ -1,0 +1,15 @@
+setParties(address,address,address,address,address)
+destroyContract()
+isAvailable(uint32)
+addCutie(uint32,uint128,uint128,uint128,uint128)
+unpause()
+purchasesCount()
+bid(uint32)
+paused()
+withdrawEthFromBalance()
+0x8392fe31
+pause()
+ideal_warn_timed(uint256,uint128)
+0x9bb684bf
+getPrice(uint32)
+transferOwnership(address)

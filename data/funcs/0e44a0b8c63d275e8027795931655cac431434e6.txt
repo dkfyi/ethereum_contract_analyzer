@@ -1,0 +1,11 @@
+0x1567be3e
+0x1fe52b5d
+0x30c7094d
+0x73014477
+0xd4ae9138
+ownerOf(uint256)
+getType(uint256)
+getRarity(uint256)
+allowance(address,address)
+many_msg_babbage(bytes1)
+0xb9f8bf68

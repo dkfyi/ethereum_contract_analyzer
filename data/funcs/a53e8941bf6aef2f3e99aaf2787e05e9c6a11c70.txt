@@ -1,0 +1,2 @@
+0x038defd7
+record(string)

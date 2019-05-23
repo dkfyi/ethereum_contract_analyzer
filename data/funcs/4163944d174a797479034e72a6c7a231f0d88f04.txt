@@ -1,0 +1,6 @@
+getGameNum()
+ideal_warn_timed(uint256,uint128)
+getGameInfoById(uint256)
+0xdc2275de
+transferOwnership(address)
+getGameInfoByIndex(uint256)

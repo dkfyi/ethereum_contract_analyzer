@@ -1,0 +1,11 @@
+getOwnerAddress()
+isActive()
+resumeGame()
+withdraw()
+getUserBalance(address)
+pauseGame()
+getPlayerOwner(uint256)
+getJackpotBalance()
+getPlayerPrice(uint256)
+0xd0399bb8
+buy(uint256)

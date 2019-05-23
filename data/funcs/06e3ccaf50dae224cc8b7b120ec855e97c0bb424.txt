@@ -1,0 +1,16 @@
+proposals(uint256)
+0x0dcd68e3
+0x2d026921
+0x30dc1551
+cancel(uint256)
+0x7a41984b
+0x896937a4
+0x8d2c9eb9
+ideal_warn_timed(uint256,uint128)
+0xa318c1a4
+0xa9405923
+confirm(uint256)
+0xce74da4f
+allowance(address,address)
+transferOwnership(address)
+mint(address,uint256)

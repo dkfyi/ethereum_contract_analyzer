@@ -1,0 +1,13 @@
+0x0e2d9627
+0x37cbafdf
+withdraw()
+wallet()
+0x88ce46c5
+ideal_warn_timed(uint256,uint128)
+tokenAddress()
+lockupDate()
+0xdb7cb4c4
+setWallet(address)
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

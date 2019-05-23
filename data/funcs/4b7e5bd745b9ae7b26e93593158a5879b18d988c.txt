@@ -1,0 +1,14 @@
+kill()
+proofs(bytes32)
+withdrawTokens(address)
+0x49e4fae2
+ideal_warn_timed(uint256,uint128)
+0x9160eb1a
+0xb07c411f
+0xc8f3f986
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+allowance(address,address)
+gasprice_bit_ether(int128)

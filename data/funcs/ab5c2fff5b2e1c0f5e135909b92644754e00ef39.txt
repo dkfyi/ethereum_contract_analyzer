@@ -1,0 +1,11 @@
+0x26319833
+0x50a053cd
+0x50f11d2a
+0x801d2cf1
+destroy()
+ideal_warn_timed(uint256,uint128)
+0x9eca49f7
+isVerified(address)
+0xd08e813e
+0xd387ac9a
+transferOwnership(address)

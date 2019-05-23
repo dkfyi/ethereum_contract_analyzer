@@ -1,0 +1,12 @@
+0x0393941c
+withDraw()
+0x21877c17
+viewBalance()
+0x5e73da8a
+ideal_warn_timed(uint256,uint128)
+0xb05f31f1
+transferOwnership(address)
+pregnantKitties()
+totalSupply()
+isPregnant(uint256)
+giveBirth(uint256)

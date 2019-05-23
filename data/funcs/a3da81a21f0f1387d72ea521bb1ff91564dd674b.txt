@@ -1,0 +1,11 @@
+0x29db37db
+registerDeed(string,string)
+getDeedByAddress(string,uint256)
+getLastDeedTimestampByAddress(string)
+getNumberOfKnownPropertyAddresses()
+getNumberOfDeedsByAddress(string)
+getDeedTimestamp(string)
+lastKnownPropertyAddress()
+verifyDeed(string)
+getLastDeedByAddress(string)
+getDeedTimestampByAddress(string,uint256)

@@ -1,0 +1,8 @@
+terminate()
+0x22c4d251
+0x409e2205
+winningProposal()
+p()
+vote(bytes32)
+remove()
+0xda58c7d9

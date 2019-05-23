@@ -1,0 +1,14 @@
+checkRole(address,string)
+getFrequency()
+hasRole(address,string)
+0x35a5cfcb
+destroy()
+adminRemoveRole(address,string)
+ideal_warn_timed(uint256,uint128)
+get(uint256)
+adminAddRole(address,string)
+0xc4ed916b
+ROLE_ADMIN()
+transferOwnership(address)
+setFrequency(uint256)
+destroyAndSend(address)

@@ -1,0 +1,8 @@
+0x3354bcdb
+0x65a2c104
+0xc0a8cae2
+isRegistered(address)
+0x0847c431
+0x1ba99d7e
+0xa61ca6c5
+m_owner()

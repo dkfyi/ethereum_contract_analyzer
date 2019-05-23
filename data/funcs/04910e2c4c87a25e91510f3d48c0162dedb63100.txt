@@ -1,0 +1,14 @@
+Emitter()
+setNotes(string)
+setCreator(address)
+kill()
+setRevision(address)
+FileHash()
+FileData()
+Name()
+Description()
+0x8e06caa3
+FileName()
+0xc5c04c44
+Revision()
+Notes()

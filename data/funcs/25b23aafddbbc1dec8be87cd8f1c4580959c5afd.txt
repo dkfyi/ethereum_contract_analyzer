@@ -1,0 +1,7 @@
+endTime()
+weiRaised()
+wallet()
+startTime()
+buyTokens(address)
+hasEnded()
+many_msg_babbage(bytes1)

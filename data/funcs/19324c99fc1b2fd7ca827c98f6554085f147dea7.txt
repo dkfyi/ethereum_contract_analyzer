@@ -1,0 +1,11 @@
+getCurrentPrice(uint256,uint256)
+0x226b876c
+getDividendPayout(uint256,uint256,uint256)
+getStockShares(uint256)
+0x541b9ff4
+0x57a858fc
+purchase(uint256,uint256)
+ideal_warn_timed(uint256,uint128)
+getStockCount()
+addStock(string,uint256,uint256,uint256,uint8)
+transferOwnership(address)

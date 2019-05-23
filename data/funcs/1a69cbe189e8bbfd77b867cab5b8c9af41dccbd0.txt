@@ -1,0 +1,5 @@
+initializeToken(address)
+0xb90caaf5
+0x792a0a80
+0x792a0a80
+0x21446e7b

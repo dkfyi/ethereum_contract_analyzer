@@ -1,0 +1,17 @@
+requestCustodianChange(address)
+totalSupply()
+addBalance(address,uint256)
+balances(address)
+custodian()
+confirmCustodianChange(bytes32)
+erc20Impl()
+requestImplChange(address)
+allowed(address,address)
+confirmImplChange(bytes32)
+0xb508069b
+lockRequestCount()
+0xcf6e4488
+subBalance(address,uint256)
+setAllowance(address,address,uint256)
+setBalance(address,uint256)
+setTotalSupply(uint256)

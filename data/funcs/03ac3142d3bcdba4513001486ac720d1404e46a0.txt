@@ -1,0 +1,3 @@
+createCoin()
+balances(address)
+sendToken(address,uint256)

@@ -1,0 +1,11 @@
+getHash(uint256)
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+0xa494c455
+newOwner()
+transferOwnership(address)
+changeAddress(address)
+hashFirst()
+hashesSize()
+0x501895ae
+0x01000000

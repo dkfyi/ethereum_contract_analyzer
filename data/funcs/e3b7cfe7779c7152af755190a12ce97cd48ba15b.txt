@@ -1,0 +1,7 @@
+setOwner(address)
+setToken(address)
+addOwner(address)
+ideal_warn_timed(uint256,uint128)
+getOwner(uint256)
+getOwnerCount()
+token()

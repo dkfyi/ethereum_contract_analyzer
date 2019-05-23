@@ -1,0 +1,8 @@
+0x164b045a
+setPercentage(uint256)
+ideal_warn_timed(uint256,uint128)
+0x8fa80599
+balance()
+percentage()
+send(address,uint256)
+deposit()

@@ -1,0 +1,5 @@
+bonusSize()
+0x3a7269c0
+0x6c9cd097
+withdrawEther(address)
+0xcd402c8e

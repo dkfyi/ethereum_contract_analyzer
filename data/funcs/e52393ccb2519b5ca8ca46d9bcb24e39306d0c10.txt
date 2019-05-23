@@ -1,0 +1,14 @@
+height()
+0x1b8e3ca4
+0x1fabf9dd
+withdraw(uint256)
+0x336e155e
+0x47ef54bc
+0x6ef142a1
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0x8da7f232
+isOwner()
+width()
+getColor(uint256,uint256)
+transferOwnership(address)

@@ -1,0 +1,4 @@
+addScore(string)
+withdrawBalance()
+get()
+leaderboard(uint256)

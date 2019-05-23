@@ -1,0 +1,13 @@
+0x0419816e
+kill()
+0x50017f3e
+0x547c27ee
+version()
+owner_address()
+0xc9ce532e
+token()
+0xfc7e286d
+balanceOf(address)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

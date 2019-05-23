@@ -1,0 +1,16 @@
+escrowAddress()
+removeOwner(address)
+isOwner(address)
+0x38d5630b
+0x3e6494db
+m_numOwners()
+amIOwner()
+addOwner(address)
+m_multiOwnedRequired()
+getOwners()
+revoke(bytes32)
+changeRequirement(uint256)
+0xbb8236eb
+hasConfirmed(bytes32,address)
+getOwner(uint256)
+changeOwner(address,address)

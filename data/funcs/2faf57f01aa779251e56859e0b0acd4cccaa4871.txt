@@ -1,0 +1,4 @@
+getLongGap()
+getFastGap()
+getFastExtra()
+getLongExtra()

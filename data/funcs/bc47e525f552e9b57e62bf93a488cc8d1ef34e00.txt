@@ -1,0 +1,3 @@
+whatWasTheVal()
+kill()
+indexOf(string,string)

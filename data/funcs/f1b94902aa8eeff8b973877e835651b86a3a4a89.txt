@@ -1,0 +1,16 @@
+0x07443e82
+withdraw()
+renounceOwnership()
+withdrawToken(address)
+ideal_warn_timed(uint256,uint128)
+0x967f359c
+exchange()
+MAX_UINT()
+transferOwnership(address)
+trade(address,uint256,address,address,uint256,uint256,address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+allowance(address,address)
+approve(address,uint256)
+trade(address,uint256,address,address,uint256,uint256,address)

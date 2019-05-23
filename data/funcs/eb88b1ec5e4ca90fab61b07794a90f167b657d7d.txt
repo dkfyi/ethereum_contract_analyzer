@@ -1,0 +1,4 @@
+hashesSize()
+hashFirst()
+0x84e561cf
+0x01000000

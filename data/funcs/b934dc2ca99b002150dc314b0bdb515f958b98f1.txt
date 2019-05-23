@@ -1,0 +1,12 @@
+name()
+totalSupply()
+0x29181cbf
+available_assert_time(uint16,uint64)
+balanceOf(address)
+setSellInfo(uint8,uint256,uint256)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+buy(address)
+0xf8638dd3
+0xf9569beb

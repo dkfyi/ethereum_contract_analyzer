@@ -1,0 +1,8 @@
+isInitialized()
+0x84e84506
+0x99ff0246
+crowdsale()
+0xb893e86e
+0xe7221785
+token()
+0xb69bcaf6

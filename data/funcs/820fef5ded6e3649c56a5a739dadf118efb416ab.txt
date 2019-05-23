@@ -1,0 +1,13 @@
+withdraw(uint256)
+kill()
+setName(string,string)
+getName(string)
+renounceOwnership()
+withdrawAll()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+setPrice(uint256)
+0x9fdc4d62
+price()
+balance()
+transferOwnership(address)

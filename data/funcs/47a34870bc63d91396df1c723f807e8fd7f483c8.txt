@@ -1,0 +1,9 @@
+0x7e44c294
+0x82d38954
+ideal_warn_timed(uint256,uint128)
+getTrader(uint8)
+removeTrader(uint8)
+0xd6d6e8bd
+transferOwnership(address)
+isValidTraderAddress(address)
+getProtocol()

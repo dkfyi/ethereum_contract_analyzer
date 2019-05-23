@@ -1,0 +1,7 @@
+heroContract()
+claimOwnership()
+ideal_warn_timed(uint256,uint128)
+pendingOwner()
+transferOwnership(address)
+0xf51982c2
+mint(address,uint32)

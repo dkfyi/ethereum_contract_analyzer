@@ -1,0 +1,4 @@
+getAddress()
+addr()
+changeOwner(address)
+setAddress(address)

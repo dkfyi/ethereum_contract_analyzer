@@ -1,0 +1,12 @@
+0x171e15ed
+getCardInfo(uint32)
+0x2c8fca30
+getCardType(uint32)
+setSellable(uint32,bool)
+getSellable(uint32)
+0x74d41fa4
+setCaptainIndexToCount(uint32,uint256)
+getCalFactor(uint32)
+getLevelConfig(uint32,uint32)
+setCalFactor(uint32,uint32)
+getCaptainIndexToCount(uint32)

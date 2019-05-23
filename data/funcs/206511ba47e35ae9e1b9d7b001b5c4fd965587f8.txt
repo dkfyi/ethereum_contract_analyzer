@@ -1,0 +1,8 @@
+bid()
+text()
+acceptOwnership()
+bid(string)
+ideal_warn_timed(uint256,uint128)
+newOwner()
+0xe4c494bb
+transferOwnership(address)

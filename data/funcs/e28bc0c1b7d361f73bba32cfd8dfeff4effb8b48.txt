@@ -1,0 +1,16 @@
+0x16b861bb
+pay()
+balances(address)
+0x2b195bd4
+0x34919790
+withdraw()
+kill()
+0x4aa31261
+0x6f529bce
+0x7cdc6d5c
+ideal_warn_timed(uint256,uint128)
+amount()
+set_amount(uint256)
+get_amount()
+deposit()
+0xfc8e89b7

@@ -1,0 +1,14 @@
+0x0fa7f840
+0x38874a1a
+0x77b727ac
+registry()
+ideal_warn_timed(uint256,uint128)
+setRegistry(address)
+0xabcca75e
+0xc03cced3
+transferOwnership(address)
+createForwarder(address)
+0x36b8153c
+getFees()
+0x8319a87b
+0x0596030d

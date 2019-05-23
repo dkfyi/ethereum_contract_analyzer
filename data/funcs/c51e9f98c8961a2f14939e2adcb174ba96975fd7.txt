@@ -1,0 +1,3 @@
+changeAuthorizedCaller(address)
+0x8a4e3769
+0x01000000

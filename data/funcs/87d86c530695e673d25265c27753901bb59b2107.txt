@@ -1,0 +1,15 @@
+withdraw(uint256)
+0x426317bd
+0xcf86b157
+withdraw_all()
+0xe3440d27
+0xe95f5080
+lastReparation()
+repairTheCastle()
+repairTheCastle()
+totalCitizens()
+citizensAddresses(uint256)
+citizensAddresses(uint256)
+repairTheCastle()
+repairTheCastle()
+lastReparation()

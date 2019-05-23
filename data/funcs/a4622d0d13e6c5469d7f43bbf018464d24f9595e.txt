@@ -1,0 +1,11 @@
+removeAddressesFromWhitelist(address[])
+removeAddressFromWhitelist(address)
+0x3bfcf4dd
+addAddressToWhitelist(address)
+ideal_warn_timed(uint256,uint128)
+whitelist(address)
+tokenAddress()
+changeTokenAddress(address)
+addAddressesToWhitelist(address[])
+transferOwnership(address)
+many_msg_babbage(bytes1)

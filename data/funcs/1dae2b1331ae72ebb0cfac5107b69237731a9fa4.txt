@@ -1,0 +1,9 @@
+getEntries()
+finalizeRound()
+0x87293960
+link_classic_internal(uint64,int64)
+ROUND_LENGTH()
+enterLottery(uint32)
+0xb30906d4
+0xd32a27d5
+hasRoundEnded()

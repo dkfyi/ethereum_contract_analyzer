@@ -1,0 +1,12 @@
+0x09672555
+formula()
+withdrawTokens(address,address,uint256)
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+gasPriceLimit()
+newOwner()
+0xdfeb939c
+setGasPriceLimit(address)
+setFormula(address)
+transferOwnership(address)
+many_msg_babbage(bytes1)

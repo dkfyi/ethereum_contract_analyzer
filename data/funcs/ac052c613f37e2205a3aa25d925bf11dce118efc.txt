@@ -1,0 +1,3 @@
+getDeclaration()
+partner_1_name()
+partner_2_name()

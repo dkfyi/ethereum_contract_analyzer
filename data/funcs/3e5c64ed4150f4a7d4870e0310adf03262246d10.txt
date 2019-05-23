@@ -1,0 +1,12 @@
+0x01495c1c
+ended()
+auctionEnd()
+beneficiary()
+withdraw()
+0x423b217f
+auctionStart()
+reveal(uint256[],bool[],bytes32[])
+highestBidder()
+bid(bytes32)
+0xa6e66477
+highestBid()

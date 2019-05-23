@@ -1,0 +1,5 @@
+version()
+ideal_warn_timed(uint256,uint128)
+receive()
+pay(address,uint256)
+getAddress(bytes32)

@@ -1,0 +1,3 @@
+fireFightResultsEvents(uint8[4])
+Kill()
+0x05397fb1

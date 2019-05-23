@@ -1,0 +1,9 @@
+queuePayment(bytes)
+setAvailability(bool)
+0x3ecbc1b7
+kill()
+isAvailable()
+0x86086ba8
+payments(uint256)
+0xc31bfcbb
+0xf010264a

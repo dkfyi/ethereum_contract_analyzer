@@ -1,0 +1,7 @@
+getHashes()
+createCard(string)
+0x501895ae
+0x70908f21
+0x88d9f40d
+0x99b96d0b
+payOut()

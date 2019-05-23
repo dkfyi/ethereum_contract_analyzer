@@ -1,0 +1,4 @@
+createICO(bytes,bytes)
+transferRole(string,address)
+transferOwnership(address)
+transferOwnership(address)

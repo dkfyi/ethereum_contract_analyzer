@@ -1,0 +1,8 @@
+wallet()
+tokenPrice()
+ideal_warn_timed(uint256,uint128)
+tokenMultiplier()
+buyTokens(address)
+transferOwnership(address)
+token()
+mint(address,uint256)

@@ -1,0 +1,17 @@
+0x1c8214bd
+0x22122cc4
+withdraw(uint256,uint256)
+0x497ce71f
+0x4d6861a6
+version()
+0x5df4dcfd
+0x662c42ab
+0x6b8d676b
+newOwner(address)
+ideal_warn_timed(uint256,uint128)
+0xafa022c1
+deposit(uint256,uint256)
+0xe382b3c9
+0xe8c8457d
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

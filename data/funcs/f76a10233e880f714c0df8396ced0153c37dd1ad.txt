@@ -1,0 +1,15 @@
+0x200f84a0
+kittiesContract()
+recoverEther()
+ideal_warn_timed(uint256,uint128)
+0x9be65a60
+0xcd12306f
+0xd486c2fb
+trigger(uint256)
+0xf0bd2b9e
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+getKitty(uint256)
+getKitty(uint256)
+giveBirth(uint256)

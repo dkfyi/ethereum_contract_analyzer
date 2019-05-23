@@ -1,0 +1,11 @@
+chairperson()
+numProposals()
+delegate(address)
+winningProposal()
+0x861b7d75
+giveRightToVote(address)
+0xaec2ccae
+vote(uint8)
+0xbdeba8bc
+0xbffe3486
+0xd8bff5a5

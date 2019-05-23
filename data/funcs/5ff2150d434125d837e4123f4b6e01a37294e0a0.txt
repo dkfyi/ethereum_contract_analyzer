@@ -1,0 +1,10 @@
+adminUnregister(string)
+getNumberOfAccounts()
+0x327c285e
+0x4f2c0aec
+0x8a3e6c1c
+addressOfName(string)
+0xb08fec62
+getFee()
+unregister()
+register(string)

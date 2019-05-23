@@ -1,0 +1,10 @@
+0x01e64725
+unregister(bytes32)
+getAddr(bytes32)
+getContent(bytes32)
+numRecords()
+setContent(bytes32,bytes32)
+setAddr(bytes32,address)
+getOwner(bytes32)
+register(bytes32)
+0xef5d6bbb

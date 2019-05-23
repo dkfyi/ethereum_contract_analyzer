@@ -1,0 +1,10 @@
+removeFromWhiteList(address)
+addToWhiteList(address,address)
+0x372c12b1
+addToWhiteListMultiple(address[],address[])
+0x4f51e294
+returnReferral(address)
+ideal_warn_timed(uint256,uint128)
+totalWhiteListed()
+isWhiteListedAndAffiliate(address)
+transferOwnership(address)

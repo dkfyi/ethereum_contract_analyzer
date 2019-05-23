@@ -1,0 +1,4 @@
+addInstitution(address,string)
+getInstitutionByAddress(address)
+getInstitutionByName(string)
+setNewAdmin(address)

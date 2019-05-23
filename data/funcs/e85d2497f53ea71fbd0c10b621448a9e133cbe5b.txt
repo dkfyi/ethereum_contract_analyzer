@@ -1,0 +1,8 @@
+contractExists()
+accountCreated(address,bytes32,int256)
+validateUserByHash(bytes32)
+adminRetrieveDonations()
+adminDeleteRegistry()
+adminSetAccountAdministrator(address)
+adminSetRegistrationDisabled(bool)
+newUser(bytes32)

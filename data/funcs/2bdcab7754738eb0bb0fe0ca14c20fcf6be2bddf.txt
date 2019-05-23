@@ -1,0 +1,12 @@
+0x16a06b99
+0x45b1d818
+whitelistSupplier()
+finalize()
+0x8198c029
+actualPrice()
+finalized()
+0xc514b6af
+0xc6cef0ad
+token()
+balanceOf(address)
+gasprice_bit_ether(int128)

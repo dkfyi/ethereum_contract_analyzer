@@ -1,0 +1,6 @@
+bet()
+releaseFunds(uint256)
+random()
+unlock()
+own(address)
+lock()

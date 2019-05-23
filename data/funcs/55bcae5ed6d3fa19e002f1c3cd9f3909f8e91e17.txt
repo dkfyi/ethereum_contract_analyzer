@@ -1,0 +1,8 @@
+0x618b6e98
+getEthBalance()
+numberofGamePlay()
+getAccounts()
+depositEther()
+enter(uint256)
+withDrawalether(uint256)
+getMaximumBetRate()

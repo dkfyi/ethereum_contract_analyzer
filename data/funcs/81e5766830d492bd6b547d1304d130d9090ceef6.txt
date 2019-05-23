@@ -1,0 +1,16 @@
+0x067a1a36
+0x247bfbd0
+change_owner(address)
+min(uint256,uint256)
+get_order_book_length(string)
+0xcb3fe695
+get_order(string,uint256)
+0xfce2ab2d
+get_coin(uint256)
+get_order_book_length(string)
+get_order_book_length(string)
+get_coins_count()
+get_order(string,uint256)
+get_order(string,uint256)
+get_coin(uint256)
+allowance(address,address)

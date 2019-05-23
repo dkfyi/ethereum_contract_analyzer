@@ -1,0 +1,8 @@
+0x3e6b1c16
+registerPackage(bytes32,string)
+getAll()
+version()
+0x56260a71
+0x58b83ba4
+getOwner(bytes32)
+0xf7291121

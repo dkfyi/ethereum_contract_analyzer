@@ -1,0 +1,5 @@
+0x43aafcc8
+ping()
+CLE_Beta_Pictoris()
+0xeebc2261
+ReinsureSeveralDeaths(bool)

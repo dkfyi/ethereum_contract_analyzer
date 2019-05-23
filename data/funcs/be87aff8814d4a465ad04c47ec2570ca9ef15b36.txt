@@ -1,0 +1,7 @@
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+update()
+cbAddress()
+getPrice(string,uint256)
+queryN_withGasLimit(uint256,string,bytes,uint256)
+setProofType(bytes1)

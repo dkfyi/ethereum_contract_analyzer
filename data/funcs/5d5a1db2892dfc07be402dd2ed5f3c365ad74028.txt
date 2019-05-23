@@ -1,0 +1,11 @@
+0x142ebf3c
+renounceOwnership()
+destroy()
+ideal_warn_timed(uint256,uint128)
+setUsersContract(address)
+0xcccb7c75
+0xd183ce74
+0xe5e1e62d
+transferOwnership(address)
+destroyAndSend(address)
+0xfc0d561e

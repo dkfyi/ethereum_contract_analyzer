@@ -1,0 +1,4 @@
+values(uint256)
+tokenValueCount()
+tokenValuePublish(uint256,string,uint256)
+isCurrentAdmin(address)

@@ -1,0 +1,8 @@
+0x01750152
+checkRole(address,string)
+removeRole(address,string)
+hasRole(address,string)
+addRole(address,string)
+removeNode(address)
+0xdb87e836
+0xdb8ec38c

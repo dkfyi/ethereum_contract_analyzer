@@ -1,0 +1,3 @@
+add(string,uint256)
+kill()
+contentCount()

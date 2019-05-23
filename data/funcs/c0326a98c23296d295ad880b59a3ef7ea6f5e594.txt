@@ -1,0 +1,10 @@
+setOwner(address)
+withdrawFees(address)
+0x571a26a0
+ideal_warn_timed(uint256,uint128)
+collectedFees()
+feePercentage()
+0xbc610c63
+0xc5617769
+placeBid()
+collectPrize(uint256)

@@ -1,0 +1,3 @@
+totalInvestment()
+kill()
+0x96a8797e

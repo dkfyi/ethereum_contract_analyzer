@@ -1,0 +1,15 @@
+0x0edc7cc7
+0x25946c2a
+withdraw(uint256)
+kill()
+0x587e1655
+0x615f1ef5
+0xa696e37d
+0xbb53b183
+0xeed5577c
+deposit()
+availableVolume(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+availableVolume(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+withdraw(uint256)

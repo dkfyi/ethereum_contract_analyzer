@@ -1,0 +1,12 @@
+0x0fccd864
+0x12f33a40
+0x4209a1ef
+version()
+ideal_warn_timed(uint256,uint128)
+0x9df8ed43
+0xa2c07c31
+0xa8cac80c
+0xaa37db6c
+0xae5d4bb0
+0xc891f8e7
+transferOwnership(address)

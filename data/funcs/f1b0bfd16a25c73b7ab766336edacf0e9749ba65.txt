@@ -1,0 +1,17 @@
+setOwner(address)
+0x2d960397
+0x38044b99
+withdraw()
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+0xa6ef26c6
+nonce()
+checkPwnData()
+authority()
+setNonce(uint256)
+0xffe7549c
+airDropTracker_()
+canCall(address,address,bytes4)
+0x01000000
+0x01000000
+withdraw()

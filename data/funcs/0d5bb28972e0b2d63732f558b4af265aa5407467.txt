@@ -1,0 +1,17 @@
+0x03cfd469
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+unpause()
+isPauser(address)
+paused()
+renouncePauser()
+balanceOf(address)
+0x80317597
+addPauser(address)
+pause()
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xb36d6919
+0xe0ca5dbc

@@ -1,0 +1,5 @@
+withDraw()
+bet()
+setaddress(address)
+random()
+balance()

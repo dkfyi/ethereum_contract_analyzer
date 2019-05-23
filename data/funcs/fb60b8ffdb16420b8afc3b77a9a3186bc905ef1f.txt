@@ -1,0 +1,7 @@
+createCentralizedOracle(bytes)
+0xaf09ff55
+outcome()
+ideal_warn_timed(uint256,uint128)
+masterCopy()
+ipfsHash()
+isSet()

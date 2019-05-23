@@ -1,0 +1,14 @@
+removeFromWhiteList(address)
+0x2a14a9da
+0x372c12b1
+addToWhiteList(address,uint256)
+isWhiteListed(address)
+renounceOwnership()
+0x81ae5977
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0x904e19a9
+totalWhiteListed()
+_owner()
+transferOwnership(address)
+0xff36f77c

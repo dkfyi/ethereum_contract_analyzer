@@ -1,0 +1,6 @@
+tokenReward()
+updateOwner(address)
+price()
+amount()
+safeWithdrawal()
+many_msg_babbage(bytes1)

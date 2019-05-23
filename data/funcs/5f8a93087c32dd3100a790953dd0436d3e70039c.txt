@@ -1,0 +1,12 @@
+disputeLength()
+setArbiters(address,address[])
+quorum()
+0x390a9e00
+disputes(uint256)
+operator()
+openDispute(address,string)
+vote(uint256,bool)
+isPending(uint256)
+currentMilestone()
+disputeOpened(address)
+verdictExecuted(address,bool,uint256)

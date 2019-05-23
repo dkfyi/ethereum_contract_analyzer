@@ -1,0 +1,13 @@
+0x0eb610e9
+0x5e96327c
+changeToken(address)
+ideal_warn_timed(uint256,uint128)
+crowdsale()
+send(address[],uint256[])
+changeCrowdsale(address)
+0xb3c90e11
+token()
+changeWallet(uint8,address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

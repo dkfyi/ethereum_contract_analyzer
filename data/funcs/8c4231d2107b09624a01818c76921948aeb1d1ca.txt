@@ -1,0 +1,6 @@
+owners(address)
+removeOwner(address)
+validate(address)
+addOwner(address)
+sendCoin(address,uint256)
+getBalance(address)

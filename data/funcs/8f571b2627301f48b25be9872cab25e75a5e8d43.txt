@@ -1,0 +1,13 @@
+plcrFactory()
+0xc0479073
+proxyFactory()
+canonizedParameterizer()
+0xf4d5686c
+newPLCRWithToken(uint256,string,uint8,string)
+token()
+many_msg_babbage(bytes1)
+createProxy(address,bytes)
+0x5513d755
+0xd5b8169c
+createProxy(address,bytes)
+0x5513d755

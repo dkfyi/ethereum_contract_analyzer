@@ -1,0 +1,7 @@
+withdraw(address,uint256,bytes32,uint256)
+getAddress(bytes32)
+balances(address)
+0x5250fec7
+setAddress(bytes32,address)
+deposit(address,uint256,bytes32,uint256)
+getBalance(address)

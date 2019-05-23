@@ -1,0 +1,4 @@
+ping()
+0xaf8473a8
+reset()
+move(uint8)

@@ -1,0 +1,6 @@
+0x021be57a
+0x0e807d6e
+addr()
+0x84b25e53
+getVal()
+mixGenes(uint256,uint256,uint256)

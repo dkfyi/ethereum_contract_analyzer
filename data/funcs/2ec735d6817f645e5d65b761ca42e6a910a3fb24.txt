@@ -1,0 +1,3 @@
+vote(bool)
+0x8d337b81
+getStats()

@@ -1,0 +1,10 @@
+lookup(uint256)
+0x1b4fd32f
+kill()
+0x45bf97ab
+0x648ec7b9
+0x6f7b5589
+ideal_warn_timed(uint256,uint128)
+0xa5525736
+0xc2937ab5
+0xe952dd05

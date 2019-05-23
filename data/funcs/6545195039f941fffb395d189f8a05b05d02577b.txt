@@ -1,0 +1,11 @@
+getDescription()
+isOwner(address)
+getAddress()
+kill()
+0x5b53f9ab
+elementsAreSet()
+getAuthor()
+0xcd812430
+0xcead9223
+0xcf3e7c7c
+getTitle()

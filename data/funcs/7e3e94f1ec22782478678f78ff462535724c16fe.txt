@@ -1,0 +1,7 @@
+0x07526c70
+0x2ad08ddf
+tokenReward()
+balanceOf(address)
+0x957936f3
+amount()
+many_msg_babbage(bytes1)

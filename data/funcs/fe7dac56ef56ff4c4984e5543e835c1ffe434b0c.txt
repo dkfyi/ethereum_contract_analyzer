@@ -1,0 +1,9 @@
+upgrade(address)
+isContractMiniGame()
+0x67b8e6ce
+0x8a56b230
+setupMiniGame(uint256,uint256)
+0xe353255b
+0xffa651b6
+addVirus(address,uint256)
+addCrystal(address,uint256)

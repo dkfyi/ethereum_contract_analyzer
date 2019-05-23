@@ -1,0 +1,2 @@
+balanceOf(address,address)
+balanceOf(address)

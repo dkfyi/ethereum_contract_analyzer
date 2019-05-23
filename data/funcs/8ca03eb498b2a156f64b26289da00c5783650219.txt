@@ -1,0 +1,5 @@
+beneficiary()
+tokenReward()
+balanceOf(address)
+0xd67476eb
+many_msg_babbage(bytes1)

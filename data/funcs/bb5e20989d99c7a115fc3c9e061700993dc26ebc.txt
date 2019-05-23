@@ -1,0 +1,17 @@
+0x04a58c5e
+0x2ec5a655
+0x2faf7bd5
+0x443f7d8a
+beneficiary1()
+0x577b33c0
+fundingGoal()
+amountRaised()
+price()
+beneficiary3()
+0xa5ec9a78
+0xa84e2f07
+0xc12d8b35
+getFunder(uint256)
+0xf3c2a267
+beneficiary2()
+many_msg_babbage(bytes1)

@@ -1,0 +1,2 @@
+0x4896eb59
+kill(address)

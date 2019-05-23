@@ -1,0 +1,6 @@
+totalAmount()
+0x4445dff2
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+transferOwnership(address)

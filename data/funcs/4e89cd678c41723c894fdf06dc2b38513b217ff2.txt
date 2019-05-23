@@ -1,0 +1,8 @@
+getBoard()
+0x8086a92a
+ideal_warn_timed(uint256,uint128)
+0xafe7214d
+0xf27a0447
+transferOwnership(address)
+0xf6be35e1
+pixelPrice()

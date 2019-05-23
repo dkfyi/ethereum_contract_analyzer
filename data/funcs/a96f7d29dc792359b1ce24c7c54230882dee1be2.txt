@@ -1,0 +1,16 @@
+CONFIG_MAX_VALUE()
+tktotal()
+tklosses()
+turnover()
+ownerWithdraw()
+txs()
+CONFIG_FEES_MUL()
+CONFIG_MIN_VALUE()
+CONFIG_MAX_TICKETS()
+tkwins()
+CONFIG_FEES_DIV()
+CONFIG_PRICE()
+0xfffffffb
+0x10a860c1
+0xfffffffb
+0x10a860c1

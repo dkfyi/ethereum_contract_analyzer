@@ -1,0 +1,6 @@
+addEntry(string,string)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+stringToBytes32(string)
+transferOwnership(address)

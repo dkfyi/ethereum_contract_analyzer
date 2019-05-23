@@ -1,0 +1,8 @@
+disapprove(address)
+isApproved(address)
+sendCoinFrom(address,uint256,address)
+approveOnce(address,uint256)
+coinBalanceOf(address)
+sendCoin(uint256,address)
+coinBalance()
+approve(address)

@@ -1,0 +1,5 @@
+formula(uint256)
+calculateStep(uint256)
+calcaultePrizes(uint256,uint256)
+getNumWinners(uint256)
+getPrizeAmount(uint256)

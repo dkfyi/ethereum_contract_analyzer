@@ -1,0 +1,11 @@
+certify(address)
+setStorageAddress(address)
+isCertified(address)
+destroy()
+ideal_warn_timed(uint256,uint128)
+0xa9068f86
+transferOwnership(address)
+destroyAndSend(address)
+0x52cf4431
+isCertified(address)
+0x2d4286bf

@@ -1,0 +1,15 @@
+approve(address,uint256)
+set_active_contract()
+gasprice_bit_ether(int128)
+create_safe(address,string,string)
+set_prices(uint256,uint256,uint256)
+decreaseApproval(address,uint256)
+balanceOf(address)
+edit_safe(address,string,string)
+many_msg_babbage(bytes1)
+0xbbabdee9
+prices()
+increaseApproval(address,uint256)
+allowance(address,address)
+0xeed03dab
+get_data_benefited(address,string)

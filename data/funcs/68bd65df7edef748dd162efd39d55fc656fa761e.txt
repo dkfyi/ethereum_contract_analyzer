@@ -1,0 +1,3 @@
+0x49a74bc0
+compareStrings(string,string)
+stringToBytes32(string)

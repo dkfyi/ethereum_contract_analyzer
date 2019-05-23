@@ -1,0 +1,7 @@
+transferRole(string,address)
+0x55ea6c47
+getRole(string)
+ideal_warn_timed(uint256,uint128)
+0xdd867be2
+checkOwner(address)
+transferOwnership(address)

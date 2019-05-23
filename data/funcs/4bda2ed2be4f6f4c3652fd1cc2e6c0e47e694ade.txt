@@ -1,0 +1,15 @@
+cancelTrade(uint256)
+godPause()
+0x7806988f
+0x813ad083
+godChangeGod(address)
+godSetInterfaceContract(address)
+0xa71a13e1
+godUnpause()
+isPaused()
+god()
+0xc2f79b79
+0x199968f9
+0x53d0cd31
+0x20e0319b
+0xcfe1de35

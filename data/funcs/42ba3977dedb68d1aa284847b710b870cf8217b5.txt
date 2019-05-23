@@ -1,0 +1,2 @@
+0x627fd239
+write(string)

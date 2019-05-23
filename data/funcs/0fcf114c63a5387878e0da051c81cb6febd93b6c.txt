@@ -1,0 +1,15 @@
+0x1206dc5f
+0x19dad16d
+unpause()
+burn()
+pause()
+ideal_warn_timed(uint256,uint128)
+marketplace()
+mana()
+transferOwnership(address)
+transferOwnership(address)
+0x19dad16d
+unpause()
+burn(uint256)
+balanceOf(address)
+pause()

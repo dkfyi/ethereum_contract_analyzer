@@ -1,0 +1,14 @@
+0x04fbc985
+0x4a199497
+0x860377e6
+0x94b3bbe0
+0x9cd81e69
+0xa381dac1
+0xcc86ba95
+0xe2e6540c
+add(uint256,uint256)
+add(uint256,uint256)
+sub(uint256,uint256)
+sub(uint256,uint256)
+add(uint256,uint256)
+add(uint256,uint256)

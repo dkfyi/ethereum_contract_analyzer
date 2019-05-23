@@ -1,0 +1,15 @@
+name()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+forceTransfer(address,address,uint256)
+changeTotalSupply(uint256)
+0x5cfab572
+balanceOf(address)
+destroy()
+0x88545ee4
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xc3f42734
+allowance(address,address)

@@ -1,0 +1,5 @@
+0x47323a0c
+0x802c37fc
+0xb653155d
+cancelMarginCallOnBehalfOf(address,bytes32)
+marginCallOnBehalfOf(address,bytes32,uint256)

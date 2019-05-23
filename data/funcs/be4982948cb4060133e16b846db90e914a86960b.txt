@@ -1,0 +1,17 @@
+0x05d85eda
+getBalance()
+0x18bcfbed
+manager()
+pickWinner()
+0x644af9dd
+0x78262703
+0x82d8ecbc
+pause()
+getPlayers()
+0x97c29624
+setPause(bool)
+0xd9d897d5
+getWinners()
+clearArray()
+enter()
+0xf71d96cb

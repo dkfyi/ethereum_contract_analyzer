@@ -1,0 +1,10 @@
+0x25d89026
+0x2d23102d
+0x380d24e6
+0x3c050b7e
+0x7548adf6
+0x8c958f53
+0xd77366a4
+0xe1657e0e
+getExpectedRate(address,address,uint256)
+getReturn(address,address,uint256)

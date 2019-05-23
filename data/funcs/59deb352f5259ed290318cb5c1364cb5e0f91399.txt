@@ -1,0 +1,10 @@
+withdraw(uint256)
+priceToMint()
+ideal_warn_timed(uint256,uint128)
+0x962edc3e
+withdrawToken(address,uint256)
+mint(bytes32)
+transferOwnership(address)
+0xf39f4867
+setPrice(uint256,uint256)
+many_msg_babbage(bytes1)

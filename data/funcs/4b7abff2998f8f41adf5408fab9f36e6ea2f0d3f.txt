@@ -1,0 +1,11 @@
+name()
+0x339b6b39
+0x416adc77
+0x4294857f
+0x5e6b4a47
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0xa1f81824
+0xbf40b904
+revokeCertificate(bytes32)
+transferOwnership(address)

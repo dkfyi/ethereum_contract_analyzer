@@ -1,0 +1,6 @@
+authType()
+0x0a25035b
+signDate(bytes32)
+signer()
+sign(bytes32)
+remove(bytes32)

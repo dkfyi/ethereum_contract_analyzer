@@ -1,0 +1,7 @@
+getContractAddress(string)
+0x38aed2f7
+version()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+0xfccb9bc9

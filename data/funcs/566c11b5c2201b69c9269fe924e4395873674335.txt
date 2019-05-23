@@ -1,0 +1,17 @@
+0x33db2ad2
+0x542fef91
+0x7c6b8ef5
+ideal_warn_timed(uint256,uint128)
+0x9398608b
+0xc011b1c3
+0xc4faf7df
+0xcbf2b8bf
+0xea721569
+transferOwnership(address)
+removeController(address)
+isMinter(address)
+minterAllowance(address)
+isMinter(address)
+minterAllowance(address)
+removeMinter(address)
+configureMinter(address,uint256)

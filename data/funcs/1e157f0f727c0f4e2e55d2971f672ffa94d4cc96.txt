@@ -1,0 +1,13 @@
+totalSupply()
+0x19e536e8
+Controller_Address1()
+Controller_Address3()
+balanceOf(address)
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+setController(address)
+0xa7412471
+Controller_Address2()
+0xcd2c02f1
+newOwner()
+transferOwnership(address)

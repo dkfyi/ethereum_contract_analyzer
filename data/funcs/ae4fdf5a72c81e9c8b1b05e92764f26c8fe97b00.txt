@@ -1,0 +1,5 @@
+0x270bab0e
+transferOwner(address)
+0x560a52f1
+ideal_warn_timed(uint256,uint128)
+kill(string)

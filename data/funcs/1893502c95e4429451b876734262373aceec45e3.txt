@@ -1,0 +1,7 @@
+0x1d71c31d
+AddAuthority()
+ChainSign()
+destroy()
+0x8661856b
+0xce4bac3e
+0xe9084ec4

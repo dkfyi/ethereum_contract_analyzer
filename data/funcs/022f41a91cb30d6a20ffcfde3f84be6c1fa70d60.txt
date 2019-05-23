@@ -1,0 +1,5 @@
+getAttributes(address)
+version()
+previousPublishedVersion()
+setAttributes(bytes)
+ipfsAttributeLookup(address)

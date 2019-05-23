@@ -1,0 +1,4 @@
+depositMoney()
+multiplicate(address)
+withdraw()
+Owner()

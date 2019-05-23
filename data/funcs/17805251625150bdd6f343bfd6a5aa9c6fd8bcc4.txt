@@ -1,0 +1,6 @@
+withdraw()
+gifter()
+recipient()
+changeRecipient(address)
+lockTs()
+giftMessage()

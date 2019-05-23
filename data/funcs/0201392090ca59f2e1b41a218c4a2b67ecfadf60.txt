@@ -1,0 +1,12 @@
+0x19b108c0
+getGasPrice()
+0x50529b0c
+0x618bb079
+setFee(uint256)
+updateOwner(address)
+setGasPrice(uint256)
+getFee()
+0xdf5c1571
+getPrice(uint256)
+withdraw(address,uint256)
+0xfc903d1c

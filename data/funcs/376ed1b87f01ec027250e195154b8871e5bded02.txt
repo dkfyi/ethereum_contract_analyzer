@@ -1,0 +1,4 @@
+myAddress()
+balances(address)
+amount()
+send()

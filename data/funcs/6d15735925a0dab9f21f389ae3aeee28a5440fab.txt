@@ -1,0 +1,15 @@
+0x2b89115c
+0x46941e53
+version()
+signControllerChange(address)
+signRecoveryChange(address)
+changeController()
+changeUserKey()
+signUserKeyChange(address)
+changeRecovery()
+forward(address,uint256,bytes)
+0xf653b81e
+transferOwnership(address)
+forward(address,uint256,bytes)
+forward(address,uint256,bytes)
+transferOwnership(address)

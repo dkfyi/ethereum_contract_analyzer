@@ -1,0 +1,7 @@
+0x15ecef92
+bets(uint256)
+getStatus()
+cashOut()
+addEther()
+0x8c0e554f
+0xd773f46e

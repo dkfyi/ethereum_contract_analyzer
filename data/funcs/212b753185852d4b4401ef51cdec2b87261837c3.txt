@@ -1,0 +1,14 @@
+0x19b5fb98
+tokenDecimals()
+withdrawEther(uint256)
+0x64e6a972
+tokenName()
+balanceOf(address)
+tokenSymbol()
+0x913ee93d
+0x9ea21a8b
+many_msg_babbage(bytes1)
+etherRaised()
+tokenTotalSupply()
+admin()
+getBalance(address)

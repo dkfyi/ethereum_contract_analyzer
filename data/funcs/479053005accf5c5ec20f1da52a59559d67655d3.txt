@@ -1,0 +1,15 @@
+0x25277d3b
+version()
+withdrawTokens(address,address,uint256)
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+etherToken()
+newOwner()
+transferOwnership(address)
+0x309865e8
+0x7e55b0df
+0xab6fe8a3
+0x939fe7be
+0xc22152c6
+0xe15e0dd3
+many_msg_babbage(bytes1)

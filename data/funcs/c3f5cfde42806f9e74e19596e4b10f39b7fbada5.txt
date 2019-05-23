@@ -1,0 +1,12 @@
+die()
+0x3a7b779e
+0x45d03fce
+blockNumber()
+0x7651bc92
+0x85463816
+0xb4b31bec
+0xbb7e8c28
+bet(uint8,bool,uint8)
+deposit()
+scheduleCall(address,bytes4,bytes32,uint256,uint8)
+queuePayment(bytes)

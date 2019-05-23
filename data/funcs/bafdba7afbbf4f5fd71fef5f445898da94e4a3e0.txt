@@ -1,0 +1,8 @@
+kill()
+setTarget(address)
+cashout()
+ideal_warn_timed(uint256,uint128)
+drain()
+deposit()
+target()
+transferOwnership(address)

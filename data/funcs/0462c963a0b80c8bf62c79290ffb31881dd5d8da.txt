@@ -1,0 +1,4 @@
+getRate(string)
+0x9d1939db
+0xa73dee2d
+0xd06186a1

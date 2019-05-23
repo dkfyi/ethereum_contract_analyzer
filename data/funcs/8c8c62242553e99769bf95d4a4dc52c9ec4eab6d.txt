@@ -1,0 +1,13 @@
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+0x3da7b3f3
+kill()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+price()
+many_msg_babbage(bytes1)
+0xd8bff5a5
+0xda4ca413
+tokenFallback(address,uint256,bytes)

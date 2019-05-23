@@ -1,0 +1,11 @@
+0x3e4a89d1
+founder()
+setStorageAddress(address)
+halt()
+admin(address)
+storageAddress()
+setPrice(uint256)
+changeable()
+price()
+pay(address,uint256)
+update(address,uint256)

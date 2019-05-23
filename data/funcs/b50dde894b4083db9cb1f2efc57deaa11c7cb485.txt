@@ -1,0 +1,16 @@
+0x336f0bef
+0x4e60860e
+acceptOwnership()
+0x8078caab
+ideal_warn_timed(uint256,uint128)
+0x9a26e35b
+0xc6eea465
+newOwner()
+0xe0bab4c4
+transferOwnership(address)
+0xf82b8178
+0xfe6bf5e7
+available_assert_time(uint16,uint64)
+getReturn(address,address,uint256)
+available_assert_time(uint16,uint64)
+getReturn(address,address,uint256)

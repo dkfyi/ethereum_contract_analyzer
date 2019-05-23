@@ -1,0 +1,17 @@
+sendTokens(address,uint256)
+setToken(address)
+cancelOwnershipTransfer()
+isOwner(address)
+value()
+setValue(uint256)
+ideal_warn_timed(uint256,uint128)
+0x9ec32f38
+initiateOwnershipTransfer(address)
+proposedOwner()
+0xd78c2443
+completeOwnershipTransfer()
+getBalance(address)
+token()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

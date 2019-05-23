@@ -1,0 +1,5 @@
+kill()
+0x46232d21
+0x66385af5
+0x7cd7ee3d
+ideal_warn_timed(uint256,uint128)

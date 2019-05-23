@@ -1,0 +1,17 @@
+pizza_mandate_apology(uint256)
+0x0d083a83
+setText(bytes32,string,string)
+content(bytes32)
+addr(bytes32)
+text(bytes32,string)
+name(bytes32)
+setName(bytes32,string)
+0x8c06517f
+setContent(bytes32,bytes32)
+setAddr(bytes32,address)
+owner(bytes32)
+owner(bytes32)
+owner(bytes32)
+owner(bytes32)
+owner(bytes32)
+owner(bytes32)

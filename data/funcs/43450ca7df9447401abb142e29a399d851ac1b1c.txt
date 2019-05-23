@@ -1,0 +1,12 @@
+0x0cf91894
+0x0ddca26a
+0x1e73ff4f
+0x23a98404
+0x26dce03e
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0x91ef1fc7
+transferOwnership(address)
+ownerOf(uint256)
+gasprice_bit_ether(int128)

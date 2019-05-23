@@ -1,0 +1,13 @@
+name()
+totalSupply()
+difficulty()
+gasprice_bit_ether(int128)
+0x25622598
+available_assert_time(uint16,uint64)
+0x44edfe09
+currentChallenge()
+proofOfWork(uint256)
+balanceOf(address)
+timeOfLastProof()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)

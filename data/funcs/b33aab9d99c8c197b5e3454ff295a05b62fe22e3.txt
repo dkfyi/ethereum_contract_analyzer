@@ -1,0 +1,13 @@
+getBalance()
+0x1c6cc8c4
+0x1fb1c61e
+getAddress()
+0x406e3e07
+0x4cc80b79
+0x7c4822c0
+0xac9b845d
+0xb5af8556
+0xc0896578
+check(address)
+0xd173b392
+setUnlockTime(uint256)

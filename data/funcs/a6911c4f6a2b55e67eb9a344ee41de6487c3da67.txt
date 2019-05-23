@@ -1,0 +1,16 @@
+0x24a63321
+totalCount()
+initializeToken()
+0x4e69018d
+renounceOwnership()
+seed()
+ideal_warn_timed(uint256,uint128)
+takeAll()
+transferOwnership(address)
+token()
+allowance(address,address)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)
+random(uint256)
+many_msg_babbage(bytes1)
+balanceOf(address)

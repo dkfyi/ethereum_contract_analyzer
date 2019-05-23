@@ -1,0 +1,3 @@
+ETHERDELTA_ADDR()
+getBalance(address,address)
+balanceOf(address,address)

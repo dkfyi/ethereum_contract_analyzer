@@ -1,0 +1,11 @@
+0x2a518024
+withdrawAllFunds()
+0x4e45351f
+jackpotSize()
+0x6100d922
+ideal_warn_timed(uint256,uint128)
+0xb7f9ec46
+acceptNextOwner()
+approveNextOwner(address)
+increaseJackpot(uint256)
+0x616c6c65

@@ -1,0 +1,11 @@
+rateA()
+0x44989806
+0xa888c3a7
+pair()
+0xacd0e91a
+0xcd58c872
+rateB()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+allowance(address,address)
+gasprice_bit_ether(int128)

@@ -1,0 +1,12 @@
+0x037e098d
+get(string)
+0x6ecc62ce
+setAdmin(address)
+0x7d56fa22
+0x809ef06a
+0xa1603159
+0xb2b2b44d
+getAsset(string)
+0xd6d90498
+nextContract()
+admin()

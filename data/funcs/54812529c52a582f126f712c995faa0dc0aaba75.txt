@@ -1,0 +1,3 @@
+kill()
+0x80cc6ac1
+greet()

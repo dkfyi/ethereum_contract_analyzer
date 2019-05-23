@@ -1,0 +1,6 @@
+getContractAddress()
+kill()
+getOwnerBalance()
+0x5af1a7d6
+increment()
+getIteration()

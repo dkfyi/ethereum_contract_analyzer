@@ -1,0 +1,12 @@
+0x21ea3bb0
+addNote(bytes32,bytes20,string)
+setComment(bytes3,string)
+setNote(uint256,bytes32,bytes20,string)
+getCommentAccounts()
+0x61c3a7e6
+0x6cdeefe3
+commentsLength()
+getNote(uint256)
+getCommentAccountsLength()
+notesLength()
+0xf6bb0cf1

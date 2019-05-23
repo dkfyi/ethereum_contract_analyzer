@@ -1,0 +1,15 @@
+getACLRole5999294130779334338()
+0x07435b53
+0x1ffc615e
+0x291a265e
+upgradeTo(address)
+0x4f6dd943
+implementation()
+renounceOwnership()
+auction()
+ideal_warn_timed(uint256,uint128)
+0x945c37cb
+0x9624e83e
+0xee466b48
+transferProxyOwnership(address)
+transferOwnership(address)

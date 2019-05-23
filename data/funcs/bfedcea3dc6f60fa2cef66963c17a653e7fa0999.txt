@@ -1,0 +1,10 @@
+0x059d290b
+0x1fc340a7
+0x43aed311
+0x47e96d8f
+ideal_warn_timed(uint256,uint128)
+0xc4d2d6f2
+ownerOf(uint256)
+many_msg_babbage(bytes1)
+balanceOf(address)
+ownerOf(uint256)

@@ -1,0 +1,12 @@
+0x3b47a9ac
+get(string)
+0x7dc532c5
+0x7fe955d4
+0x8319a87b
+ideal_warn_timed(uint256,uint128)
+0x9255e0d6
+0x9c4f7d59
+0xa275b704
+set(string,address)
+getFees()
+transferOwnership(address)

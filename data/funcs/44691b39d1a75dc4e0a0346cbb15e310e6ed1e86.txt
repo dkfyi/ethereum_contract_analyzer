@@ -1,0 +1,6 @@
+setOwner(address)
+totalSignatures()
+ideal_warn_timed(uint256,uint128)
+drain()
+entries(bytes4)
+register(string)

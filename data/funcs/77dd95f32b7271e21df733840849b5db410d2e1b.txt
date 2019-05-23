@@ -1,0 +1,16 @@
+beneficiary()
+close()
+refundeesListLength()
+withdraw(address)
+withdrawalAllowed(address)
+renounceOwnership()
+enableRefunds()
+0x8cdd2fa0
+ideal_warn_timed(uint256,uint128)
+beneficiaryWithdraw()
+state()
+depositsOf(address)
+0xe8488252
+transferOwnership(address)
+deposit(address)
+0xf3c8f08a

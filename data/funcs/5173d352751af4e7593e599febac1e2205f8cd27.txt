@@ -1,0 +1,7 @@
+ownerWithdraw()
+canBet()
+revealWinner()
+winnerWithdraw()
+changeBet(uint256)
+transferOwnership(address)
+placeBet()

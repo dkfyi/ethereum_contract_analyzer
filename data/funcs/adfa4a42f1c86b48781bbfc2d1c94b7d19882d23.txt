@@ -1,0 +1,13 @@
+resolver()
+registrarOwner()
+registrar()
+withdraw()
+unsealBid(bytes32,uint256,bytes32)
+0x5daa962e
+registry()
+0x80869853
+finalizeAuction(bytes32)
+startAuctionsAndBid(bytes32[],bytes32)
+unsealBid(bytes32,uint256,bytes32)
+finalizeAuction(bytes32)
+startAuctionsAndBid(bytes32[],bytes32)

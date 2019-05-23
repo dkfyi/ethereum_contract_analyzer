@@ -1,0 +1,7 @@
+0x08c1c8cd
+totalVotesFor(bytes32)
+validCandidate(bytes32)
+kill()
+0x7021939f
+0xb13c744b
+voteForCandidate(bytes32)

@@ -1,0 +1,4 @@
+Donate(string)
+0xe1c24257
+0xf8626af8
+NewShare(string,bool,string)

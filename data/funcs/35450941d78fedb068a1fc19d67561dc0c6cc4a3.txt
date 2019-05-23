@@ -1,0 +1,4 @@
+kill()
+increment()
+greeter(string)
+getIteration()

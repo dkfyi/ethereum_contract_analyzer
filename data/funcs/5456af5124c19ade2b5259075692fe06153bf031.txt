@@ -1,0 +1,4 @@
+0x0126d50f
+0x6cb3a130
+getReplyCount(bytes32)
+0xefa24bce

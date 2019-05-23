@@ -1,0 +1,3 @@
+set(string)
+get()
+0xb889dc8d

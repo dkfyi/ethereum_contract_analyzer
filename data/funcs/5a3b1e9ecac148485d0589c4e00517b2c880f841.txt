@@ -1,0 +1,8 @@
+0x24bcb0d0
+0x42dad49e
+ideal_warn_timed(uint256,uint128)
+rollDice(uint256)
+collect()
+defaultPrice()
+transferOwnership(address)
+random(uint256)

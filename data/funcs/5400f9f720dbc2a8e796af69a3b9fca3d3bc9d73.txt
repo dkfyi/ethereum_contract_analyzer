@@ -1,0 +1,7 @@
+setOwner(address)
+setToken(address)
+0x2dd0bdc0
+0x588dff18
+0xaaae15ea
+createDefaultGen0EtherDog(uint256,address,uint256,uint256)
+createDefaultEtherDog(uint256,uint256,uint256,address,uint256,uint256)

@@ -1,0 +1,2 @@
+changeOwner(address)
+confirmOwner()

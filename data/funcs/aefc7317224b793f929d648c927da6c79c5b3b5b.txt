@@ -1,0 +1,4 @@
+name()
+getName()
+changeName(string)
+ideal_warn_timed(uint256,uint128)

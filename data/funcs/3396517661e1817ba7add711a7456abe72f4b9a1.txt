@@ -1,0 +1,2 @@
+balanceOf(address)
+sendCoin(address,uint256)

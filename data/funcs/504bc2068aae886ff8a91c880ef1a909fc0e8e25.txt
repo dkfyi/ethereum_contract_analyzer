@@ -1,0 +1,9 @@
+transfer(address)
+0x6dbf2fa0
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+transfer(address,address,uint256)
+many_msg_babbage(bytes1)
+balanceOf(address)
+totalSupply()
+many_msg_babbage(bytes1)

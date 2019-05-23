@@ -1,0 +1,5 @@
+kill()
+log()
+0x8f5d232d
+0x95431fbd
+0xac9fbfde

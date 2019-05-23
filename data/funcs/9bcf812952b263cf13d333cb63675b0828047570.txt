@@ -1,0 +1,17 @@
+0x010c9a03
+0x15679a2f
+removeOwner(address)
+getBalanceOfContract()
+0x3988e969
+kill()
+0x58ed4ba3
+addOwner(address)
+0xc8ef6955
+0xc8f781c2
+0xca38c3a9
+0xdca278bc
+0xe59f3734
+0xe7b50a8e
+test()
+many_msg_babbage(bytes1)
+orderFills(address,bytes32)

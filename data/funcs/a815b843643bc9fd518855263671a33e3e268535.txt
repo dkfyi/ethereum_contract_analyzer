@@ -1,0 +1,14 @@
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+grants(address,uint256)
+0x3efcfcc1
+0x4403d05b
+0x5610fe05
+0x66228d01
+balanceOf(address)
+many_msg_babbage(bytes1)
+0xc6a8ad68
+0xc8342acb
+allowance(address,address)
+0xfe736a80

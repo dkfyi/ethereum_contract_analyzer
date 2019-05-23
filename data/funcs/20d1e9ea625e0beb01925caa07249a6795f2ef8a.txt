@@ -1,0 +1,8 @@
+beneficiary()
+tokenReward()
+balanceOf(address)
+amountRaised()
+0x7be6786b
+price()
+safeWithdrawal()
+many_msg_babbage(bytes1)

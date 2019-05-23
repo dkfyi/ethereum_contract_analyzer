@@ -1,0 +1,4 @@
+totaleFrasi()
+leggiFrase(uint256)
+kill()
+aggiungiFrase(string)

@@ -1,0 +1,10 @@
+withdraw(uint256)
+transferOwner(address)
+donated()
+0x68fab514
+ideal_warn_timed(uint256,uint128)
+0x9284f497
+0xb16ad021
+0xb71d2cec
+donate()
+0xfac52bfd

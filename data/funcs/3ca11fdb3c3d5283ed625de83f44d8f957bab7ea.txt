@@ -1,0 +1,7 @@
+maxEntrants()
+0x7c7af137
+0xb54cfa4f
+0xb6cd98bf
+0xfdf8d5af
+maxEntrants()
+enter(bytes32,bytes8)

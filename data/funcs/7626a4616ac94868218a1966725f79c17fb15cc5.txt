@@ -1,0 +1,11 @@
+0x0a39ce02
+0x0b87812e
+0x19cee057
+killme()
+payout()
+0x6ed4e5b4
+0x81a80757
+ideal_warn_timed(uint256,uint128)
+0xb18f5354
+0xe13ba906
+transferOwnership(address)

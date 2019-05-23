@@ -1,0 +1,13 @@
+numPolls()
+polls(uint256)
+allPolls()
+0xfe201c17
+voteFor(uint16,address,bytes32,bytes)
+endTime()
+startTime()
+pollDataMultihash()
+author()
+numChoices()
+vote(uint16)
+0xf978fd61
+recover(bytes32,bytes)

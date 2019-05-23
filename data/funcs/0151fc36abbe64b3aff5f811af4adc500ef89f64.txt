@@ -1,0 +1,15 @@
+status()
+getGranteesSize()
+processProcessableAllocations()
+0x3ca017f7
+getGrantees()
+addProcessableAllocation(address,uint256)
+ideal_warn_timed(uint256,uint128)
+initiateOwnershipTransfer(address)
+proposedOwner()
+0xd35c50e3
+completeOwnershipTransfer()
+lock()
+0xff9ddfe7
+processAllocation(address,uint256)
+adminAddress()

@@ -1,0 +1,11 @@
+withdrawToken(address,uint256,address)
+0x668d40ce
+withdraw(address,uint256,address)
+balanceOf(address)
+tokenBalance(address)
+isOperator(address,address)
+many_msg_babbage(bytes1)
+isOperator(address,address)
+isOperator(address,address)
+balanceOf(address)
+balanceOf(address)

@@ -1,0 +1,5 @@
+name()
+balances(address)
+version()
+transferOwnership(address)
+many_msg_babbage(bytes1)

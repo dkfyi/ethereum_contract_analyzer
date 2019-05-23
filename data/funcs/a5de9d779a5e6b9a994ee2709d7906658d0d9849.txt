@@ -1,0 +1,17 @@
+creationDate()
+name()
+removeMember(address)
+0x1791fe4e
+0x1b26be1d
+isFunder(address)
+getMember(address)
+getEvent(uint256)
+renounceOwnership()
+description()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+isMember(address)
+addMember(address,string)
+0xc431dc8e
+0xd2d30010
+transferOwnership(address)

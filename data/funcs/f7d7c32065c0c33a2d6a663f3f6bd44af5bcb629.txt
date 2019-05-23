@@ -1,0 +1,10 @@
+name()
+0x426cfd68
+0x5092f2ec
+ideal_warn_timed(uint256,uint128)
+0xb9ccf219
+kill(address)
+transferOwnership(address)
+withdraw(address,uint256)
+withdrawAll(address)
+0x3b9aca00

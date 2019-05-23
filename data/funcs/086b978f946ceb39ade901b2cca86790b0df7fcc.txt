@@ -1,0 +1,13 @@
+withdrawRewardedTokens(address,uint256)
+0x3cb5d100
+numberOfContributors()
+setup(address)
+getContributorInfo(address,string)
+workshop()
+addRewardforNewContributor(address,uint256,string)
+ideal_warn_timed(uint256,uint128)
+starbaseToken()
+0xceb35605
+updateRewardForContributor(address,uint256,string)
+transferOwnership(address)
+allocateToMarketingSupporter(address,uint256)

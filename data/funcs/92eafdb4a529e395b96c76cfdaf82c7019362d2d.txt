@@ -1,0 +1,2 @@
+getBalances(address,address[])
+balanceOf(address)

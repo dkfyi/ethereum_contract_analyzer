@@ -1,0 +1,4 @@
+ideal_warn_timed(uint256,uint128)
+solvePuzzle(uint256)
+0x499602d2
+0x499602d2

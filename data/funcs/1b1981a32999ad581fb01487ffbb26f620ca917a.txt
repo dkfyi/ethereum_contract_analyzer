@@ -1,0 +1,6 @@
+getBalance()
+isForgiven(string)
+withdrawFees()
+askForgiveness(string)
+ideal_warn_timed(uint256,uint128)
+ownerBalance()

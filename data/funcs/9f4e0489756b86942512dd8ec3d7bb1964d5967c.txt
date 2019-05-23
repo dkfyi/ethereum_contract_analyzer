@@ -1,0 +1,10 @@
+dividend()
+fuel()
+buyTickets(uint256)
+maintain()
+0x66798751
+0x6dcbf2a3
+ideal_warn_timed(uint256,uint128)
+charity()
+distribute(uint256,uint256,address,uint256)
+winner()

@@ -1,0 +1,5 @@
+totalVotes()
+0x27686c1d
+kill()
+0x9727df83
+0xbabc6608

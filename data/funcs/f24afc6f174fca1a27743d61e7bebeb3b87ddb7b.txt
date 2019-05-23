@@ -1,0 +1,3 @@
+kill()
+0x515bb16b
+getHistory(string)

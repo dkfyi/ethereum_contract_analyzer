@@ -1,0 +1,3 @@
+emitError(bytes32)
+emitTransferToICAP(address,address,bytes32,uint256,string)
+versions(address)

@@ -1,0 +1,8 @@
+kill()
+proofs(bytes32)
+0x49e4fae2
+ideal_warn_timed(uint256,uint128)
+0xb07c411f
+0xcb81bbe6
+transferOwnership(address)
+0xf37241e8

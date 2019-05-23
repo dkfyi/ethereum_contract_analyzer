@@ -1,0 +1,7 @@
+getBalance()
+0x1acd23ec
+withdraw()
+0xaf2c35fe
+getDeposits(address)
+0xb5c32365
+getDeposits(address)

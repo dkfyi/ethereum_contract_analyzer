@@ -1,0 +1,17 @@
+0x02a22337
+resetState(address)
+balances(address)
+verify(address,bytes)
+0x537cd7be
+0x66b3d743
+getbalance(address)
+report(address,address,bytes)
+withdrawloss(address,address)
+0x95bcf4a5
+getstate(address)
+changeOwner(address)
+0xac612a7a
+0xbf10a704
+getverifytime(address)
+0xdbe32e54
+withdraw(address,uint256)

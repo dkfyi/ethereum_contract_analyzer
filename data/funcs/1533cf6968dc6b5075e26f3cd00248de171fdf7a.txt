@@ -1,0 +1,14 @@
+0x08f13f8f
+setOwner(address)
+0x25f70344
+deadline()
+setup(string,string,uint256,uint256)
+beneficiary()
+checkGoal()
+fundingGoal()
+amountRaised()
+ideal_warn_timed(uint256,uint128)
+currency()
+balanceOf(address)
+0x24b76fd5
+balanceOf(address)

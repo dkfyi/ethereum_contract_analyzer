@@ -1,0 +1,13 @@
+0x09f80abd
+0x0f7d29a0
+0x17026921
+0x1cc50da9
+0x331028f8
+0x48c47622
+ideal_warn_timed(uint256,uint128)
+0xc81ba8f0
+0xcd543ef0
+0xd5c3bffd
+transferOwnership(address)
+getKitty(uint256)
+giveBirth(uint256)

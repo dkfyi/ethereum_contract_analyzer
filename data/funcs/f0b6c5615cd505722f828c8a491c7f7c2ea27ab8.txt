@@ -1,0 +1,7 @@
+flushEthers()
+balances(address)
+ideal_warn_timed(uint256,uint128)
+changeAdmin(address)
+changeOwner(address)
+payDividends(address,uint256)
+admin()

@@ -1,0 +1,4 @@
+setContractAddress(address)
+Winners(uint256)
+newWinner(uint256,address,uint256,uint256,uint256)
+0x1cc41b3b

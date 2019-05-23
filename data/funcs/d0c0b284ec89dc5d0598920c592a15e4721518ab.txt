@@ -1,0 +1,9 @@
+removeAddressFromWhitelist(address)
+getNewGens(address,uint256)
+addAddressToWhitelist(address)
+destroy()
+ideal_warn_timed(uint256,uint128)
+whitelist(address)
+0xd7690770
+transferOwnership(address)
+0x28af4c14

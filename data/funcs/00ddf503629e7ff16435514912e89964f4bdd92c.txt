@@ -1,0 +1,3 @@
+getIdentities(address[])
+getIdentity(address)
+register(uint256)

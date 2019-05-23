@@ -1,0 +1,10 @@
+0x0a0a05e6
+0x2211012d
+0x3c2474ca
+rules()
+ideal_warn_timed(uint256,uint128)
+destination()
+transferOwnership(address)
+setController(address)
+0xa31f831f
+0x3c2474ca

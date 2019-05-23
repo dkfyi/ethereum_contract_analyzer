@@ -1,0 +1,11 @@
+removeMember(address)
+memberCount()
+memberLevel(address)
+memberId(address)
+setMemberInfo(address,bytes32)
+setMemberLevel(address,uint8)
+ideal_warn_timed(uint256,uint128)
+memberInfo(address)
+0xac5ad188
+addMember(address)
+transferOwnership(address)

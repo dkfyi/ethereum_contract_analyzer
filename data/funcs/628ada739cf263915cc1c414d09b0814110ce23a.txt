@@ -1,0 +1,5 @@
+kill()
+0x51958a56
+0x5b1dc14f
+balanceOf(address)
+0x90371cd2

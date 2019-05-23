@@ -1,0 +1,5 @@
+checkDocument(string)
+notarize(string)
+calculateProof(string)
+storeProof(bytes32)
+hasProof(bytes32)

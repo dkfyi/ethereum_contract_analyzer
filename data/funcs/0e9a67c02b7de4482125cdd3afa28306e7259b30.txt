@@ -1,0 +1,16 @@
+0x0509fe28
+diceRollAddress()
+createWinner()
+jackpotPaused()
+ownerSetdiceRollAddress(address)
+nextJackpotTime()
+jackpotPersent()
+0x75964b55
+ownerTransferEther(address,uint256)
+ideal_warn_timed(uint256,uint128)
+winnerLimit()
+ownerPauseJackpot(bool)
+seTJackpotPersent(uint256)
+addPlayer(address)
+getWinnerHistory(uint256)
+JackpotPeriods()

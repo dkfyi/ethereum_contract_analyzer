@@ -1,0 +1,9 @@
+0x129d94a4
+0x2a8c5d88
+totalEthereumBalance()
+0x7739b401
+0x79b6fead
+0xc15fb1fe
+buy(address)
+sell(uint256)
+reinvest()

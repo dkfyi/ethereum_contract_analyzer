@@ -1,0 +1,14 @@
+setPeriod(uint256)
+0x2e64cec1
+stake()
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+0x9b2d1554
+price()
+0xe73e14bf
+period()
+transferOwnership(address)
+balanceOf(address)
+allowance(address,address)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

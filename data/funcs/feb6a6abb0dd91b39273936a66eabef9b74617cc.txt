@@ -1,0 +1,13 @@
+0x0d50844b
+0x1182dd90
+withdraw(uint256)
+0x57be945b
+balanceOf(address)
+0x8c299f5f
+deposit()
+withdraw(uint256)
+balanceOf(address,address)
+deposit()
+testTrade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256,address)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+availableVolume(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32)

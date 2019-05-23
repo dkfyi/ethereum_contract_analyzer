@@ -1,0 +1,4 @@
+0x291e7b71
+burn(address,uint256)
+many_msg_babbage(bytes1)
+deleteThisContract()

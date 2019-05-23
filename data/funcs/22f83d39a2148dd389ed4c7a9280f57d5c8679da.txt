@@ -1,0 +1,3 @@
+withdraw(uint256)
+kill()
+SendEmail(string,string)

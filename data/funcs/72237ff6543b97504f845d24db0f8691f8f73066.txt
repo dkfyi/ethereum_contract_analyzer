@@ -1,0 +1,2 @@
+giveBirth(uint256)
+0x01000000

@@ -1,0 +1,12 @@
+approve(address,uint256)
+rejectMany(address[])
+close()
+wallet()
+closed()
+approveMany(address[],uint256[])
+ideal_warn_timed(uint256,uint128)
+changeWallet(address)
+placeValue(address)
+reject(address)
+0xcb13cddb
+transferOwnership(address)

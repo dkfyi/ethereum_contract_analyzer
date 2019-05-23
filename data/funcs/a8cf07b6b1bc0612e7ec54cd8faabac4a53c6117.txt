@@ -1,0 +1,9 @@
+0x0164ee96
+0x1a4df518
+0x2010c97e
+0x5bfc7f77
+0x8fa3dd13
+0x92dfa9f9
+getFunctions()
+totalFunctions()
+getDelegates()

@@ -1,0 +1,16 @@
+0x0c81d32c
+0x20732976
+abandonListingService(uint256)
+getListingService(uint8)
+assignListingDB(address)
+abandonEscrowService(uint256)
+0x7dd2ca45
+authorizeListingService(address)
+abandon()
+authorizeEscrowService(address)
+admin()
+getListingDB(uint8)
+abandon()
+abandon()
+updateService(address,address)
+updateService(address,address)

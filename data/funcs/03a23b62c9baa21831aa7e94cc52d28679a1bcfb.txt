@@ -1,0 +1,3 @@
+blockNumber()
+rand(uint256,uint256)
+0xf15da33c

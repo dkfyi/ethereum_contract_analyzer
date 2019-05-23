@@ -1,0 +1,8 @@
+0x1052506f
+0x1445f713
+substring(string,uint256,uint256)
+0x38b025b2
+uintToBytes32(uint256)
+0xdae21454
+0xdca95419
+uintToString(uint256)

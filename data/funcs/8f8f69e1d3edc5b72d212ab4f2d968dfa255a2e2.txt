@@ -1,0 +1,7 @@
+setContract(address,address)
+APPROVE_CONTRACT()
+APPROVE_OWNER()
+ideal_warn_timed(uint256,uint128)
+0x96a97252
+transferOwnership(address)
+gasprice_bit_ether(int128)

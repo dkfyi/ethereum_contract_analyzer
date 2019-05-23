@@ -1,0 +1,16 @@
+totalSquareStakesByUser(address,uint256,uint256)
+totalUserStakes(address)
+bet(uint256,uint256)
+oracle()
+totalSquareStakes(uint256,uint256)
+totalStakes()
+collectWinnings(uint256,uint256,uint256)
+getWinnings(address,uint256,uint256)
+developer()
+currentTime()
+GAME_START_TIME()
+getVoterStakes(address,uint256)
+0x5a779778
+isFinalized()
+getSquareWins(uint256,uint256)
+0x5a779778

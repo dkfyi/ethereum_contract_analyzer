@@ -1,0 +1,7 @@
+0x064367bb
+0x106f09f2
+0x602bead5
+payout()
+affiliatePercentage()
+0x9cb45e65
+0xdd446298

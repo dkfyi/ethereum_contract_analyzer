@@ -1,0 +1,4 @@
+kill()
+getUnlockTime()
+deposit()
+getNumberOfDeposits()

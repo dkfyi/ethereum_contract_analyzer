@@ -1,0 +1,3 @@
+0x0f8518af
+setFee(uint256)
+getFee()

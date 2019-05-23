@@ -1,0 +1,10 @@
+0x16934fc4
+0x1d6b8b72
+goal()
+refundStake()
+destroy()
+increment()
+0xd4deada4
+buyStake(bool)
+recentWins(uint256)
+host()

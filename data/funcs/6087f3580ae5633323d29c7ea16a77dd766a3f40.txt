@@ -1,0 +1,4 @@
+0x386e416b
+0x8c25daeb
+ideal_warn_timed(uint256,uint128)
+updateOdds(uint256,uint256)

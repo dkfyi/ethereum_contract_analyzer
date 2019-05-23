@@ -1,0 +1,17 @@
+pizza_mandate_apology(uint256)
+totalSupply()
+0x1a745a4d
+gasprice_bit_ether(int128)
+0x2992220b
+0x613d0df8
+ownerOf(uint256)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+0xa38adf3a
+many_msg_babbage(bytes1)
+0xb347d856
+0xbe333a93
+getOwnerTokens(address)
+0xe66b6000
+0xf2a5b43f
+transferOwnership(address)

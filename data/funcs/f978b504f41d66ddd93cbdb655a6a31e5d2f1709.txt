@@ -1,0 +1,15 @@
+addManager(address)
+users(uint256)
+unpause()
+paused()
+pause()
+0x889c2eef
+0x93f7662f
+0x9f229d6f
+hasUser(address)
+removeManager(address)
+0xe191a17b
+0xe349fe3a
+isManager(address)
+0x3d715834
+buy(address)

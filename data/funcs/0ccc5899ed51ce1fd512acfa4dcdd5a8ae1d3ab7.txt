@@ -1,0 +1,16 @@
+link_classic_internal(uint64,int64)
+link_classic_internal(uint64,int64)
+0xbb42ae45
+0xe0876aa8
+0xf1afe04d
+0xff067098
+name()
+0x4a9a0697
+0x6a998d0d
+registry()
+0x8581dac8
+getProperty(string)
+checkRole(address,string)
+getProperty(string)
+checkRole(address,string)
+ideal_warn_timed(uint256,uint128)

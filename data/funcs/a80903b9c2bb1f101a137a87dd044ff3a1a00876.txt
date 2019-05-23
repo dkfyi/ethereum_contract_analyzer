@@ -1,0 +1,10 @@
+withdraw()
+0x3f6f123a
+0x6b44efd3
+ratio()
+isManager(address)
+changeRatio(uint256)
+token()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

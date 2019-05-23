@@ -1,0 +1,12 @@
+0x2906247e
+findClaim(uint32,string,string)
+removeClaim(uint32,string,string)
+0xd40ffacb
+clearClaims(uint32)
+addClaim(uint32,string,string,bytes)
+0x9137fe0a
+isActive(uint32)
+0x9137fe0a
+ideal_warn_timed(uint256,uint128)
+0x9137fe0a
+isActive(uint32)

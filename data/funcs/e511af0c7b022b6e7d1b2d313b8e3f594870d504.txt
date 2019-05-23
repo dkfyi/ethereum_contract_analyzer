@@ -1,0 +1,5 @@
+setReceiver(address)
+ideal_warn_timed(uint256,uint128)
+_destroyContract()
+destination()
+setNewOwner(address)

@@ -1,0 +1,3 @@
+issueAndActivateTokenBounty(address,uint256,string,uint256,address,bool,address,uint256,address)
+approve(address,uint256)
+issueAndActivateBounty(address,uint256,string,uint256,address,bool,address,uint256)

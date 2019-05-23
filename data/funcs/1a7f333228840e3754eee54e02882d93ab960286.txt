@@ -1,0 +1,12 @@
+0x05fe800c
+0x0cdd44a7
+weth()
+0xccc07959
+0xd6d75f51
+dai()
+bat()
+getSupplyBalance(address,address)
+getSupplyBalance(address,address)
+getSupplyBalance(address,address)
+getSupplyBalance(address,address)
+getSupplyBalance(address,address)

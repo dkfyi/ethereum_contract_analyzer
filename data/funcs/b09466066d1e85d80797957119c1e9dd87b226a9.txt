@@ -1,0 +1,6 @@
+getGravatar(address)
+0x88d0d391
+0xa5ac3634
+updateGravatarName(string)
+createGravatar(string,string)
+0xd5ce24ed

@@ -1,0 +1,8 @@
+balances(address)
+SetLogFile(address)
+Collect(uint256)
+Initialized()
+SetMinSum(uint256)
+MinSum()
+AddMessage(address,uint256,string)
+AddMessage(address,uint256,string)

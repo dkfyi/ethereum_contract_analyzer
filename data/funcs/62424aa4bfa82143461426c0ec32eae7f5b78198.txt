@@ -1,0 +1,17 @@
+0x0ba9325c
+0x295f71bd
+payBounties(address[],uint256[])
+burnTokens(uint256)
+finishMinting()
+startICO()
+ideal_warn_timed(uint256,uint128)
+0x8f5ba1e8
+createTokens()
+transferOwnership(address)
+token()
+totalSupply()
+mint(address,uint256)
+mint(address,uint256)
+burn(address,uint256)
+totalSupply()
+mint(address,uint256)

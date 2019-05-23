@@ -1,0 +1,5 @@
+getMyInfo()
+balanceOf(address)
+etherBalanceOf(address)
+getGooProduction(address)
+getPlayersBattleStats(address)

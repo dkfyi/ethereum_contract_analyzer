@@ -1,0 +1,17 @@
+name()
+totalSupply()
+balances(address)
+0x2ae87a78
+available_assert_time(uint16,uint64)
+0x44feb8a4
+manager()
+0x5ef91bcc
+balanceOf(address)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xc38f27ae
+0xd48bd836
+0xd72310d1
+allowance(address,address)
+0xf980c6c9
+0xffb29d39

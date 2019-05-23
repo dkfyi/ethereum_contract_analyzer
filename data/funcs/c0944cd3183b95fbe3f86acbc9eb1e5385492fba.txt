@@ -1,0 +1,16 @@
+0x17e0726d
+0x20880c74
+0x25632a72
+0x34729460
+description()
+0x7477bc40
+0x8493f71f
+ideal_warn_timed(uint256,uint128)
+setDescription(string)
+author()
+0xb1234e43
+0xe941d694
+0xedbbdf2e
+0xf0a8603e
+transferOwnership(address)
+project()

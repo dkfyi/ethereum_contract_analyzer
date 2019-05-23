@@ -1,0 +1,13 @@
+0x0cc36c36
+getPot()
+0x5d5015e8
+buyTicket(uint256)
+0x8152bd4b
+getWinningNumber()
+0xa8e5458c
+0xb4fd06fd
+0xdc408109
+getPot()
+0x66a5ef2f
+winningNumber()
+0xdc408109

@@ -1,0 +1,9 @@
+changeFriend(address,address)
+friends(address)
+gift()
+changeGift(uint256)
+ideal_warn_timed(uint256,uint128)
+transferGift(address,address)
+0xd6065935
+sendGift(address)
+transferOwnership(address)

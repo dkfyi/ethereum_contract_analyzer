@@ -1,0 +1,3 @@
+0x05ea0de0
+0x74f1e496
+isWhiteListed(address,address)

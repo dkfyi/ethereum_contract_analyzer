@@ -1,0 +1,5 @@
+0x23098973
+0x540c2fb6
+setText(string)
+ideal_warn_timed(uint256,uint128)
+currentText()

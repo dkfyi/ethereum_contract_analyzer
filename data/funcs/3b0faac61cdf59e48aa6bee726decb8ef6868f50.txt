@@ -1,0 +1,6 @@
+getProfile(address)
+updateProfileImgurl(string)
+updateProfileEmail(string)
+updateProfileAboutMe(string)
+updateProfile(string,string,string,string)
+updateProfileName(string)

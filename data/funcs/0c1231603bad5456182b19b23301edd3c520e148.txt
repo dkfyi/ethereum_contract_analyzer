@@ -1,0 +1,4 @@
+0x0ff4477c
+0x641657cb
+isStop()
+getCurrentRoundInfo()

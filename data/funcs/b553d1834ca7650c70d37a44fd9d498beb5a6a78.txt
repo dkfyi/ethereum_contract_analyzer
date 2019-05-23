@@ -1,0 +1,5 @@
+claim(uint256)
+getClaimedAmount(uint256)
+setWinner(uint256,uint256)
+bet(uint256,uint256)
+getTotalAmount(uint256)

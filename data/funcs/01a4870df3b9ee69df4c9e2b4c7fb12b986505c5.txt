@@ -1,0 +1,14 @@
+0x0b4e6ecb
+rate()
+endTime()
+weiRaised()
+wallet()
+startTime()
+softCap()
+preICOEndTime()
+0xce61bb83
+buyTokens(address)
+hasEnded()
+hardCap()
+token()
+mint(address,uint256)

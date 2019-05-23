@@ -1,0 +1,13 @@
+__callback(bytes32,string)
+kill()
+oraclize_query(uint256,string,string,string)
+oraclize_query(uint256,string,string)
+update()
+ETHXBT()
+0xd5948770
+getAddress()
+getPrice(string)
+0xa4c8a1c1
+getAddress()
+getAddress()
+0x4c773795

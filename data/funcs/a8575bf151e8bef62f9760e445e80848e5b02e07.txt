@@ -1,0 +1,14 @@
+0x0430fb4b
+0x63262339
+0x64418270
+0x7764b4d2
+ideal_warn_timed(uint256,uint128)
+totalBonus()
+0xbfd66cf8
+0xde242ff4
+transferOwnership(address)
+token()
+0x3b9aca00
+balanceOf(address)
+gasprice_bit_ether(int128)
+allowance(address,address)

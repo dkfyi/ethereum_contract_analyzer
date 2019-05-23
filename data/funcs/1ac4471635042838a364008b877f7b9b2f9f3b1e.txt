@@ -1,0 +1,3 @@
+0x9870dce0
+0xc5406888
+ownerOf(uint256)

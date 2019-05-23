@@ -1,0 +1,13 @@
+setOwner(address)
+register()
+setLookup(address)
+0x49c02814
+0x625d0be9
+unlinkAddress(address)
+updateAccount(uint8,bytes32,bool,bytes32)
+linkAddress(address)
+linkAccount(uint8,string,string)
+addressToPersonId(address)
+0xadcd45c8
+0xadcd45c8
+verify(bytes32,string,string)

@@ -1,0 +1,14 @@
+name()
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+_myDecimal()
+balanceOf(address)
+_myTokeName()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+_mySymbol()
+_myinitialSupply()
+allowance(address,address)
+0x01406f40
+0x66666666

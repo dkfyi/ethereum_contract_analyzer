@@ -1,0 +1,13 @@
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+withdraw()
+0x44aa5700
+refund()
+0x3b9aca00
+getAddress()
+getAddress()
+cbAddress()
+getAddress()
+getAddress()
+getPrice(string)
+query(uint256,string,string)

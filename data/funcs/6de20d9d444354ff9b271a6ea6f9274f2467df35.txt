@@ -1,0 +1,13 @@
+setOwner(address)
+0x4782f779
+totalSetCredit()
+getCredit(address)
+ideal_warn_timed(uint256,uint128)
+receiveApproval(address,uint256,address,bytes)
+withdrawToken(address,uint256)
+setCredit(address,uint256)
+totalReturnedCredit()
+token()
+balanceOf(address)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

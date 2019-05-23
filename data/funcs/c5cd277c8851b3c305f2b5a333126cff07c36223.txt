@@ -1,0 +1,17 @@
+owners(address)
+name()
+voteUID()
+totalSupply()
+ownerCounter()
+available_assert_time(uint16,uint64)
+balanceOf(address)
+delOwner(address)
+actionVotedRate()
+newOwner(address)
+changeAdmin(address)
+link_classic_internal(uint64,int64)
+0xa8c204ba
+0xb705cd36
+0xf3abde32
+nameOf(address)
+admin()

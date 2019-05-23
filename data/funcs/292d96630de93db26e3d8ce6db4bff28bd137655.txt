@@ -1,0 +1,3 @@
+subtract(uint256,uint256)
+add(uint256,uint256)
+0xa30d6c9f

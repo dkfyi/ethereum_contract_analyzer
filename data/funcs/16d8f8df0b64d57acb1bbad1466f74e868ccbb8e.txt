@@ -1,0 +1,17 @@
+totalSupply()
+0x3158aa7f
+0x37dc33db
+unpause()
+0x59bbb6f5
+paused()
+0x6b5e27ef
+balanceOf(address)
+renounceOwnership()
+pause()
+ideal_warn_timed(uint256,uint128)
+0x9411a305
+0xa9c6f4e7
+allowance(address,address)
+0xeeb68427
+transferOwnership(address)
+0x3158aa7f

@@ -1,0 +1,5 @@
+isChemistry()
+0x5dddf3a3
+turnOnFurnace(uint16[5],uint128)
+computeCooldownTime(uint128,uint256)
+0xa367890d

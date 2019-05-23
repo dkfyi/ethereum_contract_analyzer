@@ -1,0 +1,5 @@
+transferAdminship(address)
+batch(address[],uint256)
+DEEM()
+admin()
+many_msg_babbage(bytes1)

@@ -1,0 +1,11 @@
+totalTokenSupply()
+withdraw()
+tokenContract()
+0x6fcd5b99
+ideal_warn_timed(uint256,uint128)
+transferAnyERC20Token(address,uint256)
+withdrawEther(uint64)
+addMinerTokens(uint64,address[],uint64[])
+0xf83b149f
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

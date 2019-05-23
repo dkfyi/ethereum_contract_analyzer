@@ -1,0 +1,9 @@
+isEatingAndDrinking(address)
+register(address)
+allergy(string)
+0x7e55d275
+giveMeBackMyMoney()
+chris()
+ideal_warn_timed(uint256,uint128)
+isEating(address)
+payments(address)

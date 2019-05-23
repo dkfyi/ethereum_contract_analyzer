@@ -1,0 +1,5 @@
+0x58d4dc38
+company()
+ideal_warn_timed(uint256,uint128)
+0xc6a63611
+transferOwnership(address)

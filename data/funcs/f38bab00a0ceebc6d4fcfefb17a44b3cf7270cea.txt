@@ -1,0 +1,5 @@
+vote(uint256)
+isStarted()
+isFinished()
+isVoted()
+results()

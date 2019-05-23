@@ -1,0 +1,6 @@
+name()
+status()
+ideal_warn_timed(uint256,uint128)
+0x9bb3c7d3
+setTeamPerfitAddr(address)
+deposit()

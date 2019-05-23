@@ -1,0 +1,17 @@
+owners(address)
+setAttribute(address,string,bytes,uint256)
+0x0d44625b
+validDelegate(address,string,address)
+changeOwnerSigned(address,uint8,bytes32,bytes32,address)
+validDelegateSignature(address,string,uint8,bytes32,bytes32,bytes32)
+addDelegateSigned(address,uint8,bytes32,bytes32,string,address,uint256)
+nonce(address)
+revokeDelegate(address,string,address)
+revokeAttribute(address,string,bytes)
+identityOwner(address)
+addDelegate(address,string,address,uint256)
+revokeDelegateSigned(address,uint8,bytes32,bytes32,string,address)
+revokeAttributeSigned(address,uint8,bytes32,bytes32,string,bytes)
+changeOwner(address,address)
+setAttributeSigned(address,uint8,bytes32,bytes32,string,bytes,uint256)
+0xf96d0f9f

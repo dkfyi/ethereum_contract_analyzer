@@ -1,0 +1,3 @@
+0x213c1fcb
+register(string)
+test()

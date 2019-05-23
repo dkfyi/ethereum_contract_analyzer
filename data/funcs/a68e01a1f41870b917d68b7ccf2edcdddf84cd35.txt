@@ -1,0 +1,16 @@
+0x1803456f
+0x1c96cae9
+0x21295a1f
+0x30ced2e8
+0x4fb7db3f
+0x538ba4f9
+0x647ac724
+renounceOwnership()
+0x82809ca7
+0x89fc0056
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0x979b24ed
+0xa734f06e
+0xd1322962
+transferOwnership(address)

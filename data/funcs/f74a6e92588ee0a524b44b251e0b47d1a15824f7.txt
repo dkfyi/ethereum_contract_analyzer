@@ -1,0 +1,15 @@
+setOwner(address)
+register(address,bytes32)
+0x2c0f5f59
+badgeCount()
+setFee(uint256)
+meta(uint256,bytes32)
+ideal_warn_timed(uint256,uint128)
+drain()
+unregister(uint256)
+setAddress(uint256,address)
+fromAddress(address)
+0xc0f6faed
+setMeta(uint256,bytes32,bytes32)
+registerAs(address,bytes32,address)
+fee()

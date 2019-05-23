@@ -1,0 +1,3 @@
+0x2e3f93fd
+setMessage(string)
+getMessage()

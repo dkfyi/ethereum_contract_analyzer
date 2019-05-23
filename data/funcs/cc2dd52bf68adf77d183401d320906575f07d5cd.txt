@@ -1,0 +1,15 @@
+0x0c080198
+0x2297c58f
+getSecret(address)
+0x329d386c
+0x3b66e9f6
+kill()
+0x4e5bf631
+0x544cb57e
+0x667d244d
+bet(uint256)
+ideal_warn_timed(uint256,uint128)
+0x8dbd5fed
+0xb1e7de38
+0xd3f97605
+0xeaa65613

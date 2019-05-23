@@ -1,0 +1,17 @@
+battleId()
+getBalance()
+0x1b04da1f
+0x2195b53b
+0x556bf8ee
+withdrawPayments()
+0x720d5b90
+0x8af3ed38
+ideal_warn_timed(uint256,uint128)
+theBet(uint256,uint256,uint256)
+ownerOfPiranha(uint256)
+0xdc06e9df
+payments(address)
+piranhasTotalSupply()
+transferOwnership(address)
+ownerOf(uint256)
+totalSupply()

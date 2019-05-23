@@ -1,0 +1,6 @@
+0x837479c9
+0xce55c852
+0xd740b9a3
+0xe3503ca2
+available_assert_time(uint16,uint64)
+getExpectedRate(address,address,uint256)

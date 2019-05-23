@@ -1,0 +1,3 @@
+getSignatures(string)
+getSignatureAtIndex(string,uint256)
+sign(string)

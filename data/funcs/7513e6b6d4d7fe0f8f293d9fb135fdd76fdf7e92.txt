@@ -1,0 +1,11 @@
+0x840f71d6
+transferToVault(bytes32,address,address,uint256)
+transferTokens(address,address,address,uint256)
+exchange(address,address,address,address,uint256,bytes)
+transferToVault(bytes32,address,address,uint256)
+transferTokens(address,address,address,uint256)
+transferTokens(address,address,address,uint256)
+transferTokens(address,address,address,uint256)
+receivePositionOwnership(address,bytes32)
+receiveLoanOwnership(address,bytes32)
+verifyLoanOffering(address[9],uint256[7],uint32[4],bytes32,bytes)

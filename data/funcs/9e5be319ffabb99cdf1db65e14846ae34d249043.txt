@@ -1,0 +1,3 @@
+welcomeMsg()
+0x37b9a0ce
+add(string)

@@ -1,0 +1,7 @@
+0x0f722e4b
+0x167d87e2
+difficulty()
+0x2a722839
+burn()
+number()
+coinbase()

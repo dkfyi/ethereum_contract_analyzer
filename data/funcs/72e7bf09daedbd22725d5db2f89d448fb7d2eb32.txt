@@ -1,0 +1,17 @@
+burnTokens()
+rate()
+endTime()
+weiRaised()
+wallet()
+0x6383c23a
+startTime()
+pause()
+ideal_warn_timed(uint256,uint128)
+0xba226a28
+buyTokens(address)
+hasEnded()
+transferOwnership(address)
+hardCap()
+many_msg_babbage(bytes1)
+balanceOf(address)
+burn(uint256)

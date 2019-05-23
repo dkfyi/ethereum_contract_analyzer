@@ -1,0 +1,12 @@
+generateNumberWinner()
+numberOfBets()
+checkPlayerExists(address)
+kill()
+playerInfo(address)
+distributePrizes(uint256)
+bet(uint256)
+ideal_warn_timed(uint256,uint128)
+minimumBet()
+0xe08a96cd
+0xf71d96cb
+totalBet()

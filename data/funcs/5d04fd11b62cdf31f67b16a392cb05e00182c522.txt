@@ -1,0 +1,12 @@
+getCreator()
+getTotalBalance()
+isEntity(address)
+substring(string,uint256,uint256)
+0x22400b78
+entityList(uint256)
+0x4dd448bf
+addressToString(address)
+0x7526747d
+0x9455a11e
+resetGame()
+0xf2e68fbb

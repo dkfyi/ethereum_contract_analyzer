@@ -1,0 +1,3 @@
+getMetadataUrl(uint256)
+uintToBytes(uint256)
+getMetadata(uint256)

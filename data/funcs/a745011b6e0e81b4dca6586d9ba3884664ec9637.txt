@@ -1,0 +1,10 @@
+0x386d31de
+0x515ea00b
+addBeneficiary(address)
+0x63871d25
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+beneficiaries(uint256)
+transferOwnership(address)
+0xf82e0eb2

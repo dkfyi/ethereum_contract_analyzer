@@ -1,0 +1,5 @@
+kill()
+0x68744046
+getTitle(uint256)
+history(uint256)
+0xf60886b5

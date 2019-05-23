@@ -1,0 +1,10 @@
+pizza_mandate_apology(uint256)
+addManager(address)
+0x377e32e6
+addr(bytes32)
+name(bytes32)
+setName(bytes32,string)
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+setAddr(bytes32,address)
+managers(address)

@@ -1,0 +1,8 @@
+completedAt()
+weiRaised()
+wallet()
+currentRound()
+tranches()
+buyTokens(address)
+token()
+many_msg_babbage(bytes1)

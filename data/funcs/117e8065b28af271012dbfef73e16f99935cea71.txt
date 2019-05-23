@@ -1,0 +1,10 @@
+0x03988f84
+dealRevert(uint256)
+0x7326c9c0
+confirmBeneficiary(uint256)
+ideal_warn_timed(uint256,uint128)
+finishDeal(uint256)
+confirmCustomer(uint256)
+dealConfirm(uint256)
+createNew(address,address,address,uint256,uint256,uint256)
+transferOwnership(address)

@@ -1,0 +1,16 @@
+name()
+0x440277e8
+transferEth(uint256,address)
+0x4abf6677
+changeName(string)
+ideal_warn_timed(uint256,uint128)
+0x94c7d8fa
+price()
+changePrice(uint256)
+destroy(address[])
+payments(address)
+transferOwnership(address)
+send(address,address[],uint256[])
+balanceOf(address)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

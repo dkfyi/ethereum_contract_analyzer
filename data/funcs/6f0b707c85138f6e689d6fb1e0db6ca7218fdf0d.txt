@@ -1,0 +1,7 @@
+getPlayerGainLossOnLastFlip()
+betAndFlip()
+getLastBlockNumberUsed()
+kill()
+getEndowmentBalance()
+getLastBlockHashUsed()
+getResultOfLastFlip()

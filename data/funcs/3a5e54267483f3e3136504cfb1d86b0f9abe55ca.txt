@@ -1,0 +1,8 @@
+forwardTokens(address[])
+0x88c4f0f6
+destinationAddress()
+forward()
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

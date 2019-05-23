@@ -1,0 +1,4 @@
+entries(bytes32)
+0x58fd6aec
+ideal_warn_timed(uint256,uint128)
+0xc2797a31

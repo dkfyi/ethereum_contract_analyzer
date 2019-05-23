@@ -1,0 +1,6 @@
+balances(address)
+kill()
+changeOwner(address)
+0xab377daa
+0xd59933d5
+addShareholder(address)

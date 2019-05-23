@@ -1,0 +1,11 @@
+name()
+0x13e7c9d8
+getRate()
+setRate(uint256,bool)
+acceptOwnership()
+transferOwnershipImmediately(address)
+ideal_warn_timed(uint256,uint128)
+addOperator(address)
+removeOperator(address)
+newOwner()
+transferOwnership(address)

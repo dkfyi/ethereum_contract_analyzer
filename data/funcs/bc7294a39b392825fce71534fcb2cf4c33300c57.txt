@@ -1,0 +1,2 @@
+doRandom(uint64)
+admin()

@@ -1,0 +1,6 @@
+0x16fe63af
+0x5a66bc6a
+0x75322e47
+0xd2a8d388
+PRESALE_ADDRESS()
+gasprice_bit_ether(int128)

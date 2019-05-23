@@ -1,0 +1,6 @@
+signers(uint256)
+sendMultiSig(address,uint256,bytes,uint256,uint256,bytes)
+isSigner(address)
+getNextSequenceId()
+safeMode()
+activateSafeMode()

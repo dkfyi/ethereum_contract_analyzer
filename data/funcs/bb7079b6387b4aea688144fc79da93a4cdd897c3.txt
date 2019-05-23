@@ -1,0 +1,11 @@
+name()
+balances(address)
+INITIAL_SUPPLY()
+available_assert_time(uint16,uint64)
+totalSupply_()
+denyAccess(address)
+balanceOf(address)
+0x81ba8449
+link_classic_internal(uint64,int64)
+allowAccess(address)
+setBalance(address,uint256)

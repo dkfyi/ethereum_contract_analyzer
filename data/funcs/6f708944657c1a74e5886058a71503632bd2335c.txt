@@ -1,0 +1,4 @@
+0x7252ff25
+amount()
+init(uint256)
+0xfa95bcb3

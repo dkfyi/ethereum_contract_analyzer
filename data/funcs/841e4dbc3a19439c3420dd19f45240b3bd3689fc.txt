@@ -1,0 +1,4 @@
+result()
+StopGame(uint8)
+Play(uint8)
+StartRoulette(uint8)

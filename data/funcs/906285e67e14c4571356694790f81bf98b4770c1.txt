@@ -1,0 +1,16 @@
+unregisterToken(address,string)
+getAddressBySymbol(string)
+0x16066e69
+isTokenRegistered(address)
+TOKEN_STANDARD_ERC223()
+0x4676e7b9
+getTokens(uint256,uint256)
+claimOwnership()
+ideal_warn_timed(uint256,uint128)
+TOKEN_STANDARD_ERC20()
+0xc5dfaa9e
+registerToken(address,string)
+pendingOwner()
+0xedf26d9b
+transferOwnership(address)
+isTokenRegisteredBySymbol(string)

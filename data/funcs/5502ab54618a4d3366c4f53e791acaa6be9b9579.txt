@@ -1,0 +1,12 @@
+0x49ee9817
+0x6700035c
+setAdmin(address)
+0x72fae366
+fromHex(string)
+0xb18ab370
+fromHexChar(uint256)
+0xba85e408
+0xc70eacff
+0xce8f70bc
+0xd601640b
+admin()

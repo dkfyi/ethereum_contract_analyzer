@@ -1,0 +1,11 @@
+transferFrom(address,address,address,uint256)
+addAuthorizedAddress(address)
+0x44d8c816
+0x494503d4
+removeAuthorizedAddress(address)
+ideal_warn_timed(uint256,uint128)
+0xb9181611
+getAuthorizedAddresses()
+transferOwnership(address)
+gasprice_bit_ether(int128)
+0x2bd22071

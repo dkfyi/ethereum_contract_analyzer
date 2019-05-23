@@ -1,0 +1,7 @@
+0x1e1648bf
+0x20054a6b
+kill()
+sendToOwner()
+ideal_warn_timed(uint256,uint128)
+0xcccf634d
+0xe6d25245

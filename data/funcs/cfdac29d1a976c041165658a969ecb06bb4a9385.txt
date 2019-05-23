@@ -1,0 +1,7 @@
+0x18a5bbdc
+0x4914fb27
+0x58e1835d
+addHolder(address,uint256)
+setAdmin(address)
+0xcd75c7d4
+admin()

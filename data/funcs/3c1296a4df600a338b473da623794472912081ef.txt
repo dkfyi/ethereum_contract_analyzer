@@ -1,0 +1,9 @@
+regulatorApprovedKycProvider()
+0x399b5a07
+0x698e434b
+ideal_warn_timed(uint256,uint128)
+setKycHash(bytes32)
+getKycHash(uint256)
+setKycProvider(address)
+getKycApproved(uint256)
+0xfbd7dafd

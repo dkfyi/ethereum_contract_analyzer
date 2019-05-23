@@ -1,0 +1,4 @@
+powerWithModulus(uint256,uint256,uint256)
+solvePuzzle(uint256)
+0x499602d2
+0x499602d2

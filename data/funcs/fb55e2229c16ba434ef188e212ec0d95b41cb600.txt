@@ -1,0 +1,5 @@
+0x026294a7
+0x27df8f2a
+contains(string,string)
+equals(string,string)
+indexOf(string,string)

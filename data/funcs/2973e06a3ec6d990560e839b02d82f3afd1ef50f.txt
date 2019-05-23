@@ -1,0 +1,13 @@
+bid()
+0x1dceace8
+auctionEnd()
+beneficiary()
+bids(address)
+0x7fb45099
+highestBidder()
+0xa17bf884
+0xbb2d2372
+0xd37b82aa
+minimumBid()
+highestBid()
+endAuction()

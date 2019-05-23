@@ -1,0 +1,5 @@
+getBalance()
+0x584c5a04
+0x6b55e991
+0x816cd85e
+deposit()

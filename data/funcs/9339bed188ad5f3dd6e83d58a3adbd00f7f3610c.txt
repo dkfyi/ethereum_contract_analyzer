@@ -1,0 +1,2 @@
+getCurrentHeroOwners()
+0xd7f0ad75

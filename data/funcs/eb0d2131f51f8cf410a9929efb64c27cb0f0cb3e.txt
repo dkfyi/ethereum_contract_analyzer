@@ -1,0 +1,16 @@
+0x0a08fd31
+removeAdmin(address)
+isAdmin(address)
+0x4fa4f7db
+0x5e898dac
+addAdmin(address)
+renounceOwnership()
+0x7449cf92
+0x7edfb701
+ideal_warn_timed(uint256,uint128)
+isLocked()
+unlock()
+0xaba4eea1
+0xaf1ee561
+transferOwnership(address)
+lock()

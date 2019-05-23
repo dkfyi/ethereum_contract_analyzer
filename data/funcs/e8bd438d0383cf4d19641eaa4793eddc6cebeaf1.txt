@@ -1,0 +1,17 @@
+0x0d9a8233
+isSpawningAllowed(uint256,address)
+reclaimToken(address)
+isRetirementAllowed(uint256,bool)
+reclaimContract(address)
+0x2cc4ec56
+ideal_warn_timed(uint256,uint128)
+isEvolvementAllowed(uint256,uint256)
+reclaimEther()
+tokenFallback(address,uint256,bytes)
+isRebirthAllowed(uint256,uint256)
+transferOwnership(address)
+isTransferAllowed(address,address,uint256)
+balanceOf(address)
+transferOwnership(address)
+paused()
+many_msg_babbage(bytes1)

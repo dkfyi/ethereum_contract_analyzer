@@ -1,0 +1,5 @@
+terminate()
+won()
+flipTheCoinAndWin()
+lost()
+coinsFlipped()

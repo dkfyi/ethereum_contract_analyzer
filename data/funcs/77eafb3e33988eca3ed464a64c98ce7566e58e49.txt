@@ -1,0 +1,5 @@
+0x48ae238f
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

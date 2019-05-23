@@ -1,0 +1,6 @@
+tokenReward()
+balanceOf(address)
+setEtherCostOfEachToken(uint256)
+ideal_warn_timed(uint256,uint128)
+price()
+many_msg_babbage(bytes1)

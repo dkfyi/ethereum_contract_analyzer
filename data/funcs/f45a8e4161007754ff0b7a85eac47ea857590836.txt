@@ -1,0 +1,3 @@
+0x2c075c15
+kill()
+greet()

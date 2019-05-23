@@ -1,0 +1,4 @@
+checkIdentity(bytes32)
+setIdentityExtended(bool,bool,bool)
+isIdentity(address)
+setMyIdentity(bytes32,string,string)

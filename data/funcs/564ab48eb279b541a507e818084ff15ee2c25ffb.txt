@@ -1,0 +1,3 @@
+setGameAddress(address)
+getDraw(uint256)
+newDraw(uint256,uint8[3],uint256,uint256,uint256,uint256)

@@ -1,0 +1,5 @@
+getCreator()
+kill()
+MyContract()
+0x6ffd773c
+getNumber()

@@ -1,0 +1,7 @@
+getCap(string)
+ideal_warn_timed(uint256,uint128)
+updateCap(string,uint256)
+updateCaps(uint256[])
+getHardCap()
+caps(bytes32)
+transferOwnership(address)

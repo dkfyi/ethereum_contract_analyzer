@@ -1,0 +1,2 @@
+setNickname(string)
+getNickname(address)

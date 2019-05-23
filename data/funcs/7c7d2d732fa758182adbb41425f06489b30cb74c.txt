@@ -1,0 +1,13 @@
+0x5832d5b6
+0x65c90521
+0x6ffcb792
+TokenContract()
+0xa845276e
+getHash(bytes)
+0xbdbcd573
+0xd8bfcc7f
+0xf68748ad
+isAdmin(address)
+gasprice_bit_ether(int128)
+approve(address,uint256)
+many_msg_babbage(bytes1)

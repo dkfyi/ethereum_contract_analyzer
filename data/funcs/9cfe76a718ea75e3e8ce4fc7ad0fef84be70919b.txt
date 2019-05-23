@@ -1,0 +1,5 @@
+0x2122e98b
+0xe4588b64
+0xfef3ee73
+naturalUnit()
+tokenIsComponent(address)

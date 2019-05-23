@@ -1,0 +1,15 @@
+0x08b01349
+0x0b58c8e8
+setOwner(address)
+0x40097b23
+0x51a6b5ab
+0x5748966c
+implementation()
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+0x990dc9db
+authority()
+setImplementation(address)
+0xf9afbc2b
+mint(address,uint256)
+canCall(address,address,bytes4)

@@ -1,0 +1,17 @@
+0x20304928
+registerUser(address)
+0x28200dc7
+0x48613472
+0x5c39cd84
+getUserByAddress(address)
+Manager()
+0x9ee20b15
+0xb23fee70
+Owner()
+0xc0c9ab71
+0xcf9987e3
+setManager(address)
+0x7f4965a7
+0xfe92cb4e
+0x7f4965a7
+0xfe92cb4e

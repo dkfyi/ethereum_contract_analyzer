@@ -1,0 +1,7 @@
+db()
+ideal_warn_timed(uint256,uint128)
+owner_linkage()
+set_iconiq_token_amount(address,uint256)
+set_sale_owner(address,bool)
+get_sale_owner(address)
+set_participant_num_of_pro_rata_tokens_alloted(address,uint256)

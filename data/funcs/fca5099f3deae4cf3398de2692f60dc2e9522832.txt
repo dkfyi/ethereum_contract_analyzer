@@ -1,0 +1,8 @@
+0x4d44e663
+make(uint256)
+0x7ef1dbea
+sum()
+0x8c18f2f1
+0xad17055f
+0xb625fe0c
+dice(uint256)

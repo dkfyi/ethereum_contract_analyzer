@@ -1,0 +1,6 @@
+addInvestment(address,uint256)
+0x41b2121c
+setPaymentTime(address,uint256)
+size()
+isInvestor(address)
+investorInfo(address)

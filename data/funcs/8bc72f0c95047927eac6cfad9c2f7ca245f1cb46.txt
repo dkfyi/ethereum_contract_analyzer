@@ -1,0 +1,8 @@
+0x6e25f653
+0xd1142a75
+gasprice_bit_ether(int128)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

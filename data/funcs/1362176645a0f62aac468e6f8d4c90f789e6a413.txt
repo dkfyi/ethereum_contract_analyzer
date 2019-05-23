@@ -1,0 +1,11 @@
+name()
+0x1d7695d9
+0x343222b9
+0x35b5b1c6
+tokenReward()
+link_classic_internal(uint64,int64)
+comment()
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

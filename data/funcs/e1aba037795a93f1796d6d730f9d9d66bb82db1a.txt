@@ -1,0 +1,17 @@
+hasRole(address,string)
+setRBACAddress(address)
+getODEMClaim(address,bytes32)
+0x464619c4
+0x55038e89
+setODEMClaim(address,bytes32,bytes,bytes32)
+ideal_warn_timed(uint256,uint128)
+setSelfClaim(bytes32,bytes32)
+0x9810c73d
+setClaim(address,bytes32,bytes32)
+0xa8ecc7f1
+removeODEMClaim(address,bytes32)
+removeClaim(address,address,bytes32)
+getClaim(address,address,bytes32)
+transferOwnership(address)
+resolveAddress(address)
+hasRole(address,string)

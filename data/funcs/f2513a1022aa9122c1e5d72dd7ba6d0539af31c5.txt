@@ -1,0 +1,7 @@
+changeController(address)
+onTransfer(address,address,uint256)
+sale()
+onApprove(address,address,uint256)
+proxyPayment(address)
+token()
+changeController(address)

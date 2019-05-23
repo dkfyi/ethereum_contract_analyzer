@@ -1,0 +1,17 @@
+0x437dd5c4
+ideal_warn_timed(uint256,uint128)
+0xb82a86c2
+0xd843910b
+0xf0aa8abb
+transferOwnership(address)
+0xa72d31b2
+0xea69b4f2
+0xa72d31b2
+0x7b143e27
+0xa72d31b2
+0xb90c899d
+0x02c5ec52
+ideal_warn_timed(uint256,uint128)
+price()
+gasprice_bit_ether(int128)
+transferFromOrigin(address,uint256)

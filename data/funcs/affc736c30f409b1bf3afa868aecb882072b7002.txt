@@ -1,0 +1,8 @@
+total_points()
+publicGetExchangeRate()
+ideal_warn_timed(uint256,uint128)
+userWithdraw()
+0xa87430ba
+publicGetUserHistory(address,uint256)
+userPlay()
+publicGetUserInfo(address)

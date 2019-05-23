@@ -1,0 +1,7 @@
+rate()
+getRate()
+updateRate(uint256)
+setAuthorized(address,bool)
+ideal_warn_timed(uint256,uint128)
+0xb9181611
+transferOwnership(address)

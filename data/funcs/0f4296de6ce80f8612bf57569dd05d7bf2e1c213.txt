@@ -1,0 +1,7 @@
+kill()
+C()
+transferFrom(address,address,uint256,bytes,string)
+balanceOf(address)
+burn(address,uint256)
+mint(address,uint256)
+setOwner(address)

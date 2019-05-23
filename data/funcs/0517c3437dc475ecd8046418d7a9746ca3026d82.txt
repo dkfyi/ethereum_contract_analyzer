@@ -1,0 +1,13 @@
+erase(uint256)
+0x101e9eb8
+0x36c527ef
+0x5be80528
+withdrawBalance()
+0x782935b5
+changeOwner(address)
+0xb1acb1fe
+0xb30906d4
+authorize(address)
+0xb9181611
+unauthorize(address)
+0xfe36e72f

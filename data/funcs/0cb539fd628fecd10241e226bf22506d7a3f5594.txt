@@ -1,0 +1,12 @@
+posts(uint256)
+0x32cb25be
+getPost(uint256)
+title()
+setTitle(string)
+ideal_warn_timed(uint256,uint128)
+0xb406db9b
+0xb4c2f727
+0xc5719463
+0xd9524ee4
+0xdcb9f271
+VERSION()

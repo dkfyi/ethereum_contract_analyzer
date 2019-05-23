@@ -1,0 +1,9 @@
+0x8a46a33a
+0x8a46a33a
+ideal_warn_timed(uint256,uint128)
+isOwner()
+transferOwnership(address)
+setTicketPrice(uint256)
+pickWinner()
+renounceOwnership()
+0x7e40be66

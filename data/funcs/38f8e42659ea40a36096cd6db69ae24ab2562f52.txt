@@ -1,0 +1,6 @@
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+ideal_warn_timed(uint256,uint128)
+external_oraclize_randomDS_setCommitment(bytes32,bytes32)
+0xac0379da
+external_oraclize_randomDS_proofVerify(bytes,bytes32,bytes,string)

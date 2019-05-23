@@ -1,0 +1,4 @@
+0x1c99b8fb
+0x489f19eb
+get(string)
+add(string,string)

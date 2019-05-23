@@ -1,0 +1,17 @@
+length()
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+0x5a4ed84a
+0x6af83b24
+deposit()
+0xdf1994ae
+getAddress()
+getAddress()
+cbAddress()
+getAddress()
+getAddress()
+getPrice(string)
+getAddress()
+getAddress()
+getPrice(string)
+query(uint256,string,string)

@@ -1,0 +1,15 @@
+removeSigner(address)
+withdraw(string,uint256,address,bytes)
+tokenHolder()
+generateWithdrawalHash(string,uint256,address)
+claimOwnership()
+updateTokenHolder(address)
+0x736c0d5b
+ideal_warn_timed(uint256,uint128)
+0x9e317f12
+pendingOwner()
+addSigner(address)
+transferOwnership(address)
+token()
+recover(bytes32,bytes)
+gasprice_bit_ether(int128)

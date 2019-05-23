@@ -1,0 +1,13 @@
+sunset()
+beneficiary()
+withdrawBalance()
+balanceOf()
+amountRaised()
+withdrawTokens()
+ideal_warn_timed(uint256,uint128)
+price()
+changeOwner(address)
+0xae852f88
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

@@ -1,0 +1,11 @@
+numMessages()
+0x34a07798
+getGraffiti(uint256)
+kill()
+0x5bd2dd11
+setParameters(uint256,uint256)
+0x96c2e789
+0xa63d92dd
+0xbac47455
+0xd3381053
+0xe04fe4f5

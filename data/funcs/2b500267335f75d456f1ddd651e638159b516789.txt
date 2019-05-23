@@ -1,0 +1,7 @@
+take()
+wallet()
+ideal_warn_timed(uint256,uint128)
+amount()
+transferOwnership(address)
+token()
+mint(address,uint256)

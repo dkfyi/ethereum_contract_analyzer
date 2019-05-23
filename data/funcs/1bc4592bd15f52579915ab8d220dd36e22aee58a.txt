@@ -1,0 +1,8 @@
+0x1d80ab33
+setPrice(uint256)
+allowance(address,address)
+allowance(address,address)
+transferFrom(address,uint256)
+many_msg_babbage(bytes1)
+transferFrom(address,uint256)
+many_msg_babbage(bytes1)

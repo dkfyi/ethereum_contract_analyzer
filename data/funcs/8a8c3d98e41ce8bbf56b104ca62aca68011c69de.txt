@@ -1,0 +1,14 @@
+setStore(address)
+available_assert_time(uint16,uint64)
+kill()
+0x6253383b
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+initSupply()
+buy()
+isPaused()
+getStore()
+0xeb8e95f1
+transferOwnership(address)
+0xfd8c8689

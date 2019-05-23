@@ -1,0 +1,17 @@
+name()
+0x12b24786
+totalSupply()
+changeState(uint8)
+0x2c981946
+available_assert_time(uint16,uint64)
+decreaseTokens(address,uint256)
+addTokens(address,uint256)
+balanceOf(address)
+min_amount()
+link_classic_internal(uint64,int64)
+price()
+changePrice(uint256)
+0xaf120304
+initialHolder()
+state()
+changeMinAmount(uint256)

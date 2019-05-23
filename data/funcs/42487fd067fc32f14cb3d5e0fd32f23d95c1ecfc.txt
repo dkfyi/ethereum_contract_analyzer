@@ -1,0 +1,5 @@
+setPersonaAttributes(bytes)
+version()
+previousPublishedVersion()
+ipfsAttributeLookup(address)
+getPersonaAttributes(address)

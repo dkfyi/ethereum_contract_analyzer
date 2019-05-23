@@ -1,0 +1,13 @@
+0x2e37eef6
+minPurchase()
+weiRaised()
+wallet()
+addPhase(uint256,uint256,uint256)
+validatePhaseDates(uint256,uint256)
+delPhase(uint256)
+tokensIssued()
+getCurrentPhaseIndex()
+setWallet(address)
+buyTokens(address)
+token()
+many_msg_babbage(bytes1)

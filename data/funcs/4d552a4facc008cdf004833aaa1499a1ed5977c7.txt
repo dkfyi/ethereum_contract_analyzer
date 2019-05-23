@@ -1,0 +1,7 @@
+checkRole(address,string)
+hasRole(address,string)
+adminRemoveRole(address,string)
+setPrice(uint256)
+adminAddRole(address,string)
+ROLE_ADMIN()
+priceUSDcETH()

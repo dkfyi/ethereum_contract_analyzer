@@ -1,0 +1,10 @@
+0x175ccd55
+0x2a752ac8
+0x2b47dcc7
+contractName()
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+0x92fc2986
+newOwner()
+transferOwnership(address)
+0xf7ccf689

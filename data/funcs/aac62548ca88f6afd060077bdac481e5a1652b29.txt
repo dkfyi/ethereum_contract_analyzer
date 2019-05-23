@@ -1,0 +1,13 @@
+GetMoney(uint256,address)
+0x3ffd80df
+CalcAll()
+GetUserRank(uint8,address)
+GetCategoryValue(uint8)
+AddNewSmallContract(address)
+GetCategoryNumber(bytes4)
+0x797fdd7b
+GetSmallCotractIndex(address)
+0x85a1c950
+0x8a4c4527
+0x95df6906
+0xf1273c0b

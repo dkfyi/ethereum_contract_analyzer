@@ -1,0 +1,14 @@
+creator()
+0x40dda742
+multiCall()
+0x878bfaa3
+0xb3752fd0
+approve(address,uint256)
+balanceOf(address)
+deposit()
+many_msg_babbage(bytes1)
+withdraw(uint256)
+gasprice_bit_ether(int128)
+totalSupply()
+allowance(address,address)
+multiCall()

@@ -1,0 +1,3 @@
+WEI_PER_ETHER()
+0xb2709a7e
+0xcbef362f

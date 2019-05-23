@@ -1,0 +1,17 @@
+0x040448c6
+deleteCaller(address)
+kill()
+jackpotSize()
+0x5da47721
+0x62b686fc
+addCaller(address)
+0x772c658b
+0x77e24446
+ideal_warn_timed(uint256,uint128)
+0x9232fdb5
+0xb4ddb371
+0xb98f5932
+0xbab46bd3
+increaseJackpot(uint256)
+0xe78e0362
+0xe82c4abc

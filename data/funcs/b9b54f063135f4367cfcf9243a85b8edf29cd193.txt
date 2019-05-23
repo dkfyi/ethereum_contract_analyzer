@@ -1,0 +1,7 @@
+getLockInfo(address)
+0xdb2d5841
+beneficiary()
+releaseTime()
+token()
+name()
+release()

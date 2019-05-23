@@ -1,0 +1,9 @@
+invest(address)
+0x11a94a2e
+withdraw()
+checkInvestments(address)
+0x85b3b2eb
+ownerWallet()
+checkDivsBalance()
+transferOwnership(address)
+reinvest()

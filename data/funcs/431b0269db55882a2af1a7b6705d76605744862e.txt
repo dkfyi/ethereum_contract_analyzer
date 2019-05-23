@@ -1,0 +1,7 @@
+destroyMe()
+sendEth(address[])
+changeAmount(uint256)
+ideal_warn_timed(uint256,uint128)
+amountToSend()
+getEth()
+transferOwnership(address)

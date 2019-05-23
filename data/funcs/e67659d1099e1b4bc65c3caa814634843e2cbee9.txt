@@ -1,0 +1,7 @@
+win()
+0x7002ce42
+ideal_warn_timed(uint256,uint128)
+0xcd61386d
+getPlayer(uint256)
+0xa34cc845
+0xf71d96cb

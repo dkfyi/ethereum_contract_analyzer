@@ -1,0 +1,14 @@
+0x08a6d790
+position()
+setOwner(address)
+0x2290a2c6
+addToBlacklist(address)
+identifier()
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+getMemberCount()
+getMembers()
+isMember(address)
+authority()
+0xe9ae57e5
+canCall(address,address,bytes4)

@@ -1,0 +1,11 @@
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+withdraw(uint256)
+addUser(address)
+cashout()
+0x986a4c98
+0xb7c68dc9
+deposit()
+testTrade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256,address)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+withdraw(uint256)
+deposit()

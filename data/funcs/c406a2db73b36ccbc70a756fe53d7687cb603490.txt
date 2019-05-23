@@ -1,0 +1,5 @@
+invested(address)
+getInvestor()
+approveInvestor(address)
+0x8aac1362
+sendInvestor(address,uint256)

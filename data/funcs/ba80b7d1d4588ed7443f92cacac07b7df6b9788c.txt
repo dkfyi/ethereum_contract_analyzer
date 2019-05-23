@@ -1,0 +1,9 @@
+0x0d2e0980
+0x2a4f55ca
+kill()
+0x581ef7eb
+0x720d42b4
+ideal_warn_timed(uint256,uint128)
+0x8dd7dd5e
+0x8de57363
+transferOwnership(address)

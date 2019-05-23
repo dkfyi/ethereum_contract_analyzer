@@ -1,0 +1,10 @@
+0x1450257f
+w()
+cancel(address,bytes32)
+0xaa98cba3
+sealedBids(address,bytes32)
+cancelBid(address,bytes32)
+sealedBids(address,bytes32)
+cancelBid(address,bytes32)
+sealedBids(address,bytes32)
+cancelBid(address,bytes32)

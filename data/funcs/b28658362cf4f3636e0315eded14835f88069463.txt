@@ -1,0 +1,12 @@
+approve(address,uint256)
+0x1eb33ed6
+0x27d6d6e0
+0x2d58ba1d
+0x2f2f2d56
+deleteToken()
+ownerOf(uint256)
+balanceOf(address)
+0xa700c202
+many_msg_babbage(bytes1)
+takeOwnership(uint256)
+getTotalSupply()

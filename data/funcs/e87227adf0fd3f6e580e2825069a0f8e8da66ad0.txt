@@ -1,0 +1,9 @@
+payFee()
+version()
+0x7ad8fe58
+0xae128e75
+0xf667526a
+getContractAddress(string)
+distribute(uint256)
+getContractAddress(string)
+burn(address,uint256)

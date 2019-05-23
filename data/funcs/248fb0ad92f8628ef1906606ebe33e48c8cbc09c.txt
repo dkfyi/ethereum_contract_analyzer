@@ -1,0 +1,5 @@
+0x1b008a9f
+setMessage(string)
+value()
+kill()
+0x71509d31

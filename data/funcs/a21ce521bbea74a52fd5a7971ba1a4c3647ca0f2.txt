@@ -1,0 +1,7 @@
+0x3c0a6cc7
+remaining()
+tokensIssued()
+0x89f3084e
+calculatePrice(uint256)
+crowdsaleEnds()
+tokenCap()

@@ -1,0 +1,3 @@
+test_suicide()
+withdraw(string)
+test_withdraw()

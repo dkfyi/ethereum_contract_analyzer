@@ -1,0 +1,2 @@
+access(address)
+provideAccess(address,uint8)

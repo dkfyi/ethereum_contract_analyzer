@@ -1,0 +1,6 @@
+selectWinner()
+kill()
+getPreviousWinners()
+enteredTotalAmount()
+enter(uint256)
+totalPool()

@@ -1,0 +1,8 @@
+getBalance()
+draw_number()
+slots_left()
+last_winner()
+ideal_warn_timed(uint256,uint128)
+joinGame()
+transferOwnership(address)
+withdrawlBalance()

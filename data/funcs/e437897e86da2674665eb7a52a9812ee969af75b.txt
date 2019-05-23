@@ -1,0 +1,9 @@
+0x2542e76b
+0xa4734c9a
+0xd0ed26ae
+getExpectedRate(address,address,uint256)
+gasprice_bit_ether(int128)
+approve(address,uint256)
+approve(address,uint256)
+0x3bba21dc
+addReward(address)

@@ -1,0 +1,7 @@
+kill()
+0x8a60f7b2
+0xc8dfef92
+contractOwner()
+allowance(address,address)
+balanceOf(address)
+allowance(address,address)

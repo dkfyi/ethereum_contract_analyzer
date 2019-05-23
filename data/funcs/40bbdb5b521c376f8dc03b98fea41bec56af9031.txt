@@ -1,0 +1,12 @@
+reclaimContract(address)
+withdraw()
+airdrop(address[])
+ideal_warn_timed(uint256,uint128)
+reclaimEther()
+amount()
+0xeb820312
+transferOwnership(address)
+token()
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

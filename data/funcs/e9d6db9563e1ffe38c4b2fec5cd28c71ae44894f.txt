@@ -1,0 +1,5 @@
+participants(uint256)
+pot()
+0x78b91d4a
+0xd21f8350
+murder()

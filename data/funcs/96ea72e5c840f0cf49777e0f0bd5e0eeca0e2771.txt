@@ -1,0 +1,7 @@
+close()
+tokenReward()
+resumeIco()
+pauseIco()
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

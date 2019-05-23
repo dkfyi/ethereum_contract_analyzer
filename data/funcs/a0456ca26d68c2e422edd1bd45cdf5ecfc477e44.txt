@@ -1,0 +1,15 @@
+removeMember(address)
+complained(address,address)
+sizeLimit()
+complaint(address)
+banMember(address,string)
+0x772ccf5d
+updateBanThreshold(uint256)
+ideal_warn_timed(uint256,uint128)
+isMember(address)
+setTotalPersistLimit(uint256)
+addHash(string,uint256)
+addMember(address)
+0xf00c6741
+transferOwnership(address)
+removeHash(string)

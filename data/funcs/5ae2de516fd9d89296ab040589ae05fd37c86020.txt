@@ -1,0 +1,13 @@
+0x01e64725
+unregister(bytes32)
+getRecord(bytes32)
+isRegistered(bytes32)
+0x2d8ae549
+kill()
+0x695a7d49
+0x774caefe
+getRecordAtIndex(uint256)
+0x93fc0ec4
+numRecords()
+getOwner(bytes32)
+0xe573087a

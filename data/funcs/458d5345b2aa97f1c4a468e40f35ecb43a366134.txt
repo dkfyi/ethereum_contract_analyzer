@@ -1,0 +1,2 @@
+0x54b580df
+double()

@@ -1,0 +1,17 @@
+revokeValidator(address)
+revokeInitiator(address)
+maxValidators()
+0x0b9c0c00
+qtyInitiators()
+canary()
+superAdmin()
+0x32ed5b12
+addValidator(address)
+logic_contract()
+setLogicContract(address)
+transferSuperAdminOwnership(address)
+qtyValidators()
+transferCanaryOwnership(address)
+addInitiator(address)
+0xbdbfccee
+0xfa52c7d8

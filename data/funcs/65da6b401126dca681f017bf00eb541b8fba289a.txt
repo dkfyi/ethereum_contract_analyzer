@@ -1,0 +1,10 @@
+0x1cc09c9a
+0x2971be68
+0x7ba603e4
+0x7be1f5dc
+destroy()
+0x8ae64161
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+price()
+0xef9f2bd0

@@ -1,0 +1,15 @@
+0x1b74b1d4
+0x306e6a1d
+withdraw()
+0x48c350b6
+0x52a9039c
+renounceOwnership()
+0x776646d9
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0xb83710e9
+disableAllocationModificationsForEver()
+transferOwnership(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

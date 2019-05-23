@@ -1,0 +1,7 @@
+0x0299965e
+admins(address)
+0x5009c296
+0x98b130eb
+0xa1884512
+changeAdmin(address,bool)
+VERSION()

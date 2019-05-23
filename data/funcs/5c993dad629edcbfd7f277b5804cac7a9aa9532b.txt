@@ -1,0 +1,12 @@
+deleteAddress(bytes32)
+0x1e5479e2
+getAddress(bytes32)
+deleteBool(bytes32)
+0x30f878a3
+getBool(bytes32)
+setBool(bytes32,bool)
+getUint(bytes32)
+setAddress(bytes32,address)
+0xcc54bb42
+setUint(bytes32,uint256)
+deleteUint(bytes32)

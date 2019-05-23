@@ -1,0 +1,12 @@
+withdrawSuccessful(bytes32)
+removeOwner(address)
+verifiedUser(bytes32)
+createdUser(bytes32)
+refundSuccessful(address,bytes32)
+goldBought(uint256,address,bytes32,string,string,string,string,string)
+logBalance(uint256)
+addOwner(address)
+userTipped(address,bytes32,uint256)
+logQuery(bytes32,address)
+0xeeb596bc
+0xf6858498

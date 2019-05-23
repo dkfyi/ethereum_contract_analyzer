@@ -1,0 +1,15 @@
+__callback(bytes32,string)
+withdraw(uint256)
+0x36fd3d98
+kill()
+0x4daf7571
+0xd3d8f699
+0xd4e80f98
+0xe9b0f1b2
+getAddress()
+getAddress()
+cbAddress()
+getAddress()
+getAddress()
+getPrice(string)
+query(uint256,string,string)

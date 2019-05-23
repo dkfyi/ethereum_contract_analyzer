@@ -1,0 +1,14 @@
+0x48ca7de3
+changeowner(address)
+destory()
+ideal_warn_timed(uint256,uint128)
+0xa15ab08d
+get(address)
+0xd06f59d6
+newowner()
+approve(address)
+0xfa1d540d
+0xac7a1fe1
+0xda6b49f6
+0xfa1d540d
+0x95627e84

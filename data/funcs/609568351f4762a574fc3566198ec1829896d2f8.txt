@@ -1,0 +1,9 @@
+0x0d80fefd
+0x1f1e0c92
+0x3e784e63
+addMessage(string,string)
+acceptOwnership()
+getMessage(uint256)
+ideal_warn_timed(uint256,uint128)
+newOwner()
+transferOwnership(address)

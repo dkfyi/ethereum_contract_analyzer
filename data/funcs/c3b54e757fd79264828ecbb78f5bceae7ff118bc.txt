@@ -1,0 +1,17 @@
+addOperator(address,uint256)
+0x22864839
+features()
+0x35748701
+0x39d3c9f4
+tokenInstance()
+0x74d5e100
+removeRole(address,uint256)
+addRole(address,uint256)
+removeOperator(address)
+updateFeatures(uint256)
+0x10000000
+0xdd6c8724
+0x10000000
+0x10000000
+0x10000000
+0x20000000

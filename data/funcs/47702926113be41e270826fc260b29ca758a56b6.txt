@@ -1,0 +1,15 @@
+setMin(uint256,uint256)
+0x4dc8f892
+0x4f4412d4
+getMin(uint256)
+getMoney(address)
+0x8768fa94
+ownerAddress()
+0x9e358a8a
+0xa4efe323
+0xa83733a4
+0xcfba6865
+0xd0ee4de0
+0xd2cf20dc
+0xfaa7b729
+0xfc4977df

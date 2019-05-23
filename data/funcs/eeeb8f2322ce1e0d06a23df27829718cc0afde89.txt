@@ -1,0 +1,13 @@
+0x05bb4e5b
+isRunning()
+setWhiteListAddress(address)
+0x5fc7f334
+0x6290caec
+getOwner()
+0x9ad1ee10
+changeOwner(address)
+0xf45ccbf5
+setRunSwitch(bool)
+0xff47e75e
+isApproved(address)
+version()

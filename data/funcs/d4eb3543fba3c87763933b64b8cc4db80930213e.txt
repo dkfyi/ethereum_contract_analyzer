@@ -1,0 +1,6 @@
+0x812f82d9
+initialize(address)
+getController()
+setController(address)
+controllerLookupName()
+lookup(bytes32)

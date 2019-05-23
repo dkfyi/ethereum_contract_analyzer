@@ -1,0 +1,12 @@
+0x76e66536
+0x76e66536
+player1()
+0xe52a7874
+0xed8bde80
+0xfea9f5ed
+currentState()
+player2()
+result()
+wager()
+0x6b437572
+0x61736550

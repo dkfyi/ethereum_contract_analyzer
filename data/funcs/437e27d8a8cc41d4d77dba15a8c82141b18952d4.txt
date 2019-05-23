@@ -1,0 +1,9 @@
+SetHFee(uint16)
+HVAL()
+TimeFinish()
+PotOwner()
+DEVP()
+0xba2a22d4
+Pot()
+SetDevFee(uint16)
+Buy(uint8,string)

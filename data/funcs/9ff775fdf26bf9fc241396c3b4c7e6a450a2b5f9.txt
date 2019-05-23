@@ -1,0 +1,8 @@
+cost()
+0x1c904c53
+changeCost(uint256)
+0x7d265813
+0x8bc38e17
+ideal_warn_timed(uint256,uint128)
+getCost()
+0xf36f82a6

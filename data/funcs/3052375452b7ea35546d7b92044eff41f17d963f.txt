@@ -1,0 +1,16 @@
+0x014e2817
+testDeadChickenCnt()
+buy(uint8)
+getChickenAmount()
+getFreeHatchCnt()
+0x46e827f5
+getFarm()
+testChickenCnt()
+0x606b77cb
+ideal_warn_timed(uint256,uint128)
+getPrice()
+getEggsCount()
+testEggIds()
+transferOwnership(address)
+0xf550690e
+0xfda2a000

@@ -1,0 +1,9 @@
+proposals(uint256)
+0x0ce0ebf4
+0x1a8cbcaa
+0x396a4726
+polls(uint256)
+0xc3ce4500
+0xc48b7cb8
+getProposal(uint256)
+0xee8089f2

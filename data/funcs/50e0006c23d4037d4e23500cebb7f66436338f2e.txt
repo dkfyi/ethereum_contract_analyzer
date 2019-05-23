@@ -1,0 +1,16 @@
+0x647f9a13
+0xb897458e
+transferToVault(bytes32,address,address,uint256)
+getCompoundedInterest(uint256,uint256,uint256)
+getExchangeCost(address,address,uint256,bytes)
+transferTokens(address,address,address,uint256)
+exchange(address,address,address,address,uint256,bytes)
+transferToVault(bytes32,address,address,uint256)
+transferToVault(bytes32,address,address,uint256)
+increasePositionOnBehalfOf(address,bytes32,uint256)
+increaseLoanOnBehalfOf(address,bytes32,uint256,uint256)
+0xd93d7361
+transferTokens(address,address,address,uint256)
+transferTokens(address,address,address,uint256)
+transferTokens(address,address,address,uint256)
+verifyLoanOffering(address[9],uint256[7],uint32[4],bytes32,bytes)

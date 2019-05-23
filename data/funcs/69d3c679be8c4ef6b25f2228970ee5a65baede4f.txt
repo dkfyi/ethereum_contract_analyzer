@@ -1,0 +1,5 @@
+cashout()
+play()
+SetPass(bytes32)
+SetGiftTime(uint256)
+Revoce()

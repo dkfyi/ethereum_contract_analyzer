@@ -1,0 +1,7 @@
+0x0a333a0f
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+sendEther(address[],uint256[])
+transferOwnership(address)
+many_msg_babbage(bytes1)

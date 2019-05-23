@@ -1,0 +1,9 @@
+Press(uint256,uint256)
+GetPlayer(uint256)
+GetMainInvestor()
+getButtonPrice()
+FundContract()
+0xb3c49c77
+0xbb4d7363
+withdrawReward()
+GetCurrentNumbers()

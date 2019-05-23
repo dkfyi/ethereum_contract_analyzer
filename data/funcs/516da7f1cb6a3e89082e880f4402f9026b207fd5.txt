@@ -1,0 +1,14 @@
+0x2052465e
+closeArea(uint256)
+awardInvation(bytes32)
+0x5632bbdb
+addArea(uint256,uint8,uint8[],uint256,string,uint256,bool,uint32)
+ideal_warn_timed(uint256,uint128)
+0x9b2c6125
+startInvasion(uint256,uint256[])
+transferOwnership(address)
+seeZombieStar(uint256)
+mint(address,uint256)
+checkAllOwner(uint256[],address)
+seeZombieDna(uint256)
+seeZombieRole(uint256)

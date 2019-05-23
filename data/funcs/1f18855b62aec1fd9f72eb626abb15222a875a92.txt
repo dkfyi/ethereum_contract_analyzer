@@ -1,0 +1,13 @@
+immortals(address,uint256)
+withdraw()
+deleteUser(address)
+ideal_warn_timed(uint256,uint128)
+numberImmortals()
+maxImmortals()
+addFace(string,string)
+0xf2a40db8
+removeFace()
+photoText()
+deleted()
+removeFace()
+photoData()

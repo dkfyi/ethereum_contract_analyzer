@@ -1,0 +1,12 @@
+stop()
+0x443970c7
+0x639cc67d
+getOwner()
+changeOwner(address)
+0xbfafff5b
+0xd315347f
+init()
+0xfe5c5a6f
+isContract(address)
+isContract(address)
+isContract(address)

@@ -1,0 +1,3 @@
+accept()
+kill()
+0x5051a5ec

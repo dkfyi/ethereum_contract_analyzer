@@ -1,0 +1,11 @@
+minimum_donation()
+changeDonationWallet(address)
+running_id()
+destroy()
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+0xb30906d4
+changeMinimumDonation(uint256)
+getEntry(uint256)
+createEntry(string,string)
+donationWallet()

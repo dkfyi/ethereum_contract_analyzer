@@ -1,0 +1,5 @@
+getValue(uint8)
+kill()
+setArray(uint8[10])
+getArraySettingResult()
+getArray()

@@ -1,0 +1,12 @@
+0x4146a229
+0x4980e1be
+getRegistry()
+0x7249bb50
+ideal_warn_timed(uint256,uint128)
+_owner()
+0xd9a9d404
+transferOwnership(address)
+0x0d2aaf41
+0xf0a1ec2b
+0x6ed5e9ba
+0x61a931ec

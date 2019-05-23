@@ -1,0 +1,6 @@
+pIDxAddr_(address)
+withdraw()
+destory()
+0x6e7d3025
+getGen()
+deposit()

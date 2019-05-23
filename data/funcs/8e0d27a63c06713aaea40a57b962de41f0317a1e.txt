@@ -1,0 +1,2 @@
+setStr(string,uint256)
+getStr(string)

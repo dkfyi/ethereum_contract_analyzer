@@ -1,0 +1,5 @@
+setOwner(address)
+setBeneficiary(address)
+beneficiary()
+ideal_warn_timed(uint256,uint128)
+kill(address)

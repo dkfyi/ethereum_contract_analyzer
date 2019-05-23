@@ -1,0 +1,7 @@
+0x039f6251
+buyAllAmountPayEth(address,address,uint256,address)
+0xa4bad7de
+deposit()
+allowance(address,address)
+approve(address,uint256)
+buyAllAmount(address,uint256,address,uint256)

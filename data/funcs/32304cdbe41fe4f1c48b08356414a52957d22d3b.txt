@@ -1,0 +1,6 @@
+getBlockHash(int256)
+getPrevHash(int256)
+getLastBlockHeight()
+getBlockchainHead()
+getFeeAmount(int256)
+getBlockHeader(int256)

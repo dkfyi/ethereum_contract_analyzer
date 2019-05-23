@@ -1,0 +1,10 @@
+floorLog2(uint256)
+floorLog2(uint256)
+ONE()
+max(int256[])
+exp(int256)
+LN2()
+LOG2_E()
+ln(uint256)
+0x1c3bd650
+0x01816193

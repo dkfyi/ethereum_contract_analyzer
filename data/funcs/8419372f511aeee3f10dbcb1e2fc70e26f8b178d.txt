@@ -1,0 +1,6 @@
+releaseProof(bytes32,string)
+retrieveCompletedProof(bytes32)
+proofs(bytes32)
+retrieveIncompleteProof(bytes32)
+submitProof(bytes32)
+isValidProof(bytes32,string)

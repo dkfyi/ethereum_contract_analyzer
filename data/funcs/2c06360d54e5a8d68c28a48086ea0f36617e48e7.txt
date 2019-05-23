@@ -1,0 +1,9 @@
+0x3233f612
+gamesPlayed(uint256)
+kill()
+play(uint256)
+ownerAddr()
+secretNumber()
+lastPlayed()
+betPrice()
+0xe5257726

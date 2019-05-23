@@ -1,0 +1,13 @@
+0x8a4f5d27
+ideal_warn_timed(uint256,uint128)
+allocated()
+startICO(address)
+transferOwnership(address)
+token()
+mint(address,uint256)
+mint(address,uint256)
+mint(address,uint256)
+mint(address,uint256)
+mint(address,uint256)
+mint(address,uint256)
+transferOwnership(address)

@@ -1,0 +1,6 @@
+yesHash()
+noHash()
+calculateTally(address,uint256)
+getVoterCount(uint256)
+getVoter(uint256,uint256)
+getVote(uint256,address)

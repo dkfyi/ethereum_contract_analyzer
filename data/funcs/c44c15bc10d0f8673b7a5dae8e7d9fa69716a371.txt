@@ -1,0 +1,8 @@
+addToCart(uint256,string)
+kill()
+getMenu()
+readFromCart(uint256)
+emptyCart()
+0xb564eaaa
+getSandwichInfoCaloriesPrice(uint256)
+getCartLength()

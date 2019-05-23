@@ -1,0 +1,11 @@
+0x2649a8bb
+0x2ae54447
+0x2c6de7c5
+kittiesContract()
+STEP_SIZE()
+isReady(uint256)
+totalSupply()
+totalSupply()
+isPregnant(uint256)
+totalSupply()
+getKitty(uint256)

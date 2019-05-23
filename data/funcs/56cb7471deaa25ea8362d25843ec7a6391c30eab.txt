@@ -1,0 +1,6 @@
+0x5573e5fc
+ideal_warn_timed(uint256,uint128)
+getResult(uint256)
+getYear(uint256)
+getMonth(uint256)
+getDay(uint256)

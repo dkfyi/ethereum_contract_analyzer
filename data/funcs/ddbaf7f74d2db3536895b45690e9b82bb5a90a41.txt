@@ -1,0 +1,5 @@
+tokenFallback(address,uint256)
+_balances(address)
+0x6f2b1226
+balanceOf(address)
+many_msg_babbage(bytes1)

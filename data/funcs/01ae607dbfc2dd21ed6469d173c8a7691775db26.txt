@@ -1,0 +1,2 @@
+transferOwnership(address)
+admin()

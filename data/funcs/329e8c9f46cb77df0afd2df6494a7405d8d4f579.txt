@@ -1,0 +1,5 @@
+addToNumber(uint256)
+substractNumber(uint256)
+multiplyWithNumber(uint256)
+getResult()
+divideByNumber(uint256)

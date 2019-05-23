@@ -1,0 +1,10 @@
+LastMsg()
+0x288d47de
+bal()
+0x4b906714
+AddMessage(address,uint256,string)
+0x89977cdf
+0x9003e39a
+History(uint256)
+0xc144811f
+0xc4d68b6d

@@ -1,0 +1,11 @@
+admins(uint256)
+removeAdmin(address)
+isAdmin(address)
+0x3ec9d493
+setTokenPrice(address,uint256)
+addAdmin(address)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0xb0a79459
+0xd02641a0
+transferOwnership(address)

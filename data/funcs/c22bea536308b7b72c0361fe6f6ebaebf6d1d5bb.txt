@@ -1,0 +1,5 @@
+balanceOf(address)
+amountRaised()
+contractOwner()
+coldStorage()
+Crowdsale(address,address)

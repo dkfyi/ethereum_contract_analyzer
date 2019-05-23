@@ -1,0 +1,9 @@
+getHistoricPrice(uint256)
+updatedTime()
+renounceOwnership()
+ETHUSD()
+updatePrice(uint256)
+ideal_warn_timed(uint256,uint128)
+0xb27a0484
+getPrice(uint256)
+transferOwnership(address)

@@ -1,0 +1,9 @@
+users(uint256)
+0x8167d996
+ideal_warn_timed(uint256,uint128)
+getUserCount()
+authorize(address)
+addPersonalInfo(address,string,string,string,string,string,string,string)
+transferOwnership(address)
+getPersonalInfo(address)
+isAuthorized(address)

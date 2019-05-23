@@ -1,0 +1,16 @@
+name()
+approve(address,uint256)
+0x12cae7af
+totalSupply()
+gasprice_bit_ether(int128)
+withdraw(uint256)
+INITIAL_SUPPLY()
+available_assert_time(uint16,uint64)
+increaseAllowance(address,uint256)
+balanceOf(address)
+link_classic_internal(uint64,int64)
+decreaseAllowance(address,uint256)
+many_msg_babbage(bytes1)
+deposit()
+allowance(address,address)
+0x05f5e100

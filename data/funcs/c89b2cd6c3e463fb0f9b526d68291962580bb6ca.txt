@@ -1,0 +1,11 @@
+totalAmount()
+0x38fdebea
+wallet()
+0x582e8584
+ideal_warn_timed(uint256,uint128)
+totalTransfer()
+transfersEnabled()
+enableTransfer(bool)
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)

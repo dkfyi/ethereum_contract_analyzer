@@ -1,0 +1,5 @@
+tokenSplit(address,address,address,uint256)
+isMainChain()
+etherSplit(address,address)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

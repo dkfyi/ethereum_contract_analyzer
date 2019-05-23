@@ -1,0 +1,13 @@
+bet()
+bets(uint256)
+withdrawPrize()
+0x626eff62
+0x76e9deaa
+0x76f23005
+0x888ad4bf
+0x8af67ff1
+finishGame()
+0xb35d11bf
+totalBets()
+0xf0f32497
+0xf14a8863

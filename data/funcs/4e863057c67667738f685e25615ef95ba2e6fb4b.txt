@@ -1,0 +1,7 @@
+isPricingStrategy()
+ideal_warn_timed(uint256,uint128)
+0xcfe9f778
+setPreicoAddress(address,uint256)
+isPresalePurchase(address)
+preicoAddresses(address)
+transferOwnership(address)

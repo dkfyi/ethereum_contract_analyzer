@@ -1,0 +1,11 @@
+getChannelFeed(address,uint256,uint256)
+getContents(uint256[])
+getContentReplies(uint256)
+getAccountFeed(address,uint256,uint256)
+getChannelSize(address)
+0xfd1e51ac
+getContent(uint256)
+getReplyCount(uint256)
+0xb221a22e
+getAccountSize(address)
+0x68ee5908

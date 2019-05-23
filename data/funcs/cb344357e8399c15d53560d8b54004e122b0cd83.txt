@@ -1,0 +1,6 @@
+getUsernameByIndex(uint256)
+putUsername(string)
+size()
+removeUsername()
+getAddressByIndex(uint256)
+0xed1a998d

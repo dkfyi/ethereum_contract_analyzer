@@ -1,0 +1,13 @@
+neverdieSigner()
+setNeverdieSignerAddress(address)
+withdraw()
+kill()
+receiveTokenLoot(uint256[],uint256,uint8,bytes32,bytes32)
+tokens(uint256)
+setTokens(address[])
+0x7ecebe00
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

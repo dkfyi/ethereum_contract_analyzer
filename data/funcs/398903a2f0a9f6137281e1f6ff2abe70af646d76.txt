@@ -1,0 +1,6 @@
+makeDeposit(uint256)
+makeClaim(uint256)
+withdraw(uint256)
+dealStatus(uint256)
+newDeal(uint256,uint256,uint256,uint256,uint256)
+Withdraw(address,uint256,uint256,bool,bool,string)

@@ -1,0 +1,9 @@
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+getPrice()
+0xdc7c11e7
+getPrice(string,uint256)
+getPrice(string,uint256)
+getAddress()
+getAddress()
+setCustomGasPrice(uint256)

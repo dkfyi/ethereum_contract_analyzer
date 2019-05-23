@@ -1,0 +1,17 @@
+resolver()
+key()
+read_user(address)
+get_contract(bytes32)
+0x7346dd81
+destroy()
+0x858dd4fa
+CONTRACT_ADDRESS()
+0xe9550822
+get_contract(bytes32)
+get_contract(bytes32)
+locked()
+ideal_warn_timed(uint256,uint128)
+unregister_contract(bytes32)
+get_contract(bytes32)
+locked()
+0xc0f6ef4a

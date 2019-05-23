@@ -1,0 +1,6 @@
+claim(address)
+weiBalance()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+transferOwnership(address)

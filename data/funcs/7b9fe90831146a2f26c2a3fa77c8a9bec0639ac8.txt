@@ -1,0 +1,13 @@
+setTransfersEnabled(bool)
+destroy()
+ideal_warn_timed(uint256,uint128)
+0x99fae587
+airdrop(uint256,address[])
+finish()
+transferOwnership(address)
+destroyAndSend(address)
+token()
+setTransfersEnabled(bool)
+setName(string,string)
+mint(address,uint256)
+transferOwnership(address)

@@ -1,0 +1,8 @@
+0x2416fbb8
+0xc873ef64
+blockVersion()
+balanceOf(address)
+0xc863bac1
+balanceOf(address)
+allowance(address,address)
+gasprice_bit_ether(int128)

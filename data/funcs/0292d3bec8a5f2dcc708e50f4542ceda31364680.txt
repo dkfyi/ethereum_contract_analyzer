@@ -1,0 +1,17 @@
+0x09218129
+currentState()
+setOwner(address)
+0x2ad7d308
+endTime()
+0x4e409733
+0x50feaee9
+0x5740554e
+startTime()
+0x7cce91e9
+getOwner()
+currentRound()
+getWinner()
+0xc591d2b2
+0xdf2a4f2f
+0xfddaaea6
+0xfee0e056

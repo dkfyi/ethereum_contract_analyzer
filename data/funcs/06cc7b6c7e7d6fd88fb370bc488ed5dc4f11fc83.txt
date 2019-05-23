@@ -1,0 +1,4 @@
+version()
+calculatePurchaseReturn(uint256,uint256,uint16,uint256)
+calculateSaleReturn(uint256,uint256,uint16,uint256)
+0x05f5e100

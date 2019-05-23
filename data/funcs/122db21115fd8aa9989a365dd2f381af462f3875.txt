@@ -1,0 +1,5 @@
+isThisHardforkedVersion()
+transferIfHardForked(address)
+isThisPuritanicalVersion()
+transferIfPuritanical(address)
+afterForkRescueContractBalance()

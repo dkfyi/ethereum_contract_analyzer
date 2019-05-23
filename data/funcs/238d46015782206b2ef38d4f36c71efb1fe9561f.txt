@@ -1,0 +1,6 @@
+isWhiteListed(address)
+setAuthorized(address,bool)
+ideal_warn_timed(uint256,uint128)
+0xac0379da
+0xb9181611
+transferOwnership(address)

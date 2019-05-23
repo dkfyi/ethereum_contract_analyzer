@@ -1,0 +1,7 @@
+getBalance()
+withdraw()
+invite(address)
+0x5ff4a1f7
+donation()
+donate()
+getStage()

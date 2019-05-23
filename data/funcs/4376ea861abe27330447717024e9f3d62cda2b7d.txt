@@ -1,0 +1,6 @@
+getWhatHappened()
+kill()
+getUint8FromByte32(bytes32,uint8)
+0x84ad4488
+0xbd9807ea
+getElevation(uint8,uint8)

@@ -1,0 +1,5 @@
+n()
+m()
+finalValue()
+submitValue(bytes8)
+addVoter(address)

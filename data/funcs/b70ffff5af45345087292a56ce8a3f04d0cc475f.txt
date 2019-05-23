@@ -1,0 +1,16 @@
+requestCustodianChange(address)
+totalSupply()
+addBalance(address,uint256)
+balances(address)
+0x2bfa6ac7
+custodian()
+confirmCustodianChange(bytes32)
+0x46f08fc0
+0x486cefbb
+allowed(address,address)
+0x6d905442
+0xbd4fce01
+setAllowance(address,address,uint256)
+setBalance(address,uint256)
+setTotalSupply(uint256)
+0xfe895afa

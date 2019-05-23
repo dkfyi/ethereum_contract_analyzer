@@ -1,0 +1,4 @@
+setup(string)
+withdraw(string)
+sweep()
+update(bytes32)

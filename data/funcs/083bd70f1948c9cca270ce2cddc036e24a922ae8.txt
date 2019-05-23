@@ -1,0 +1,6 @@
+bet()
+__callback(bytes32,string)
+kill()
+rollDice()
+query(uint256,string,string)
+0x4c773795

@@ -1,0 +1,16 @@
+0x07c6e57c
+getState()
+0x2c30e13b
+0x40cf1fcb
+0x42e7085c
+0x514af038
+m_lastDay()
+pay(address,uint256,uint256)
+0x6206f029
+m_spentToday()
+0x74420f4c
+0x79860361
+0x9123f2eb
+setDailyLimit(uint256)
+kill(address)
+m_dailyLimit()

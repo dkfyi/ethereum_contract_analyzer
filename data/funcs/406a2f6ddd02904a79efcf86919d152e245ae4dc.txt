@@ -1,0 +1,10 @@
+0x0fa58c7d
+0x11e5198f
+getAddress(bytes32)
+isLocked(bytes32)
+0x4374d9fe
+isLocked(address)
+0x737f79df
+0xb51a1a76
+0xcc069e2d
+0xe001f841

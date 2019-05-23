@@ -1,0 +1,8 @@
+masterCopy()
+masterCopy()
+fee()
+master()
+changeMaster(address)
+0x0eee1ec5
+0x29a5c5cf
+changeFee(uint256)

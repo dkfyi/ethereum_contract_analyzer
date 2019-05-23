@@ -1,0 +1,12 @@
+0x3d3057a9
+partnernames()
+wedaddress()
+indexdate()
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+0xb394c794
+execute(address,uint256,bytes)
+weddingdate()
+displaymultisig()
+newOwner()

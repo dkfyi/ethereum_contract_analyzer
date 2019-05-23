@@ -1,0 +1,7 @@
+isPricingStrategy()
+calculatePrice(uint256,uint256,uint256,address,uint256)
+tokensToWei(uint256)
+ideal_warn_timed(uint256,uint128)
+isSane(address)
+getCurrentRound()
+transferOwnership(address)

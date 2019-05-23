@@ -1,0 +1,2 @@
+feedMessage(uint256,string,string)
+newFeed(string)

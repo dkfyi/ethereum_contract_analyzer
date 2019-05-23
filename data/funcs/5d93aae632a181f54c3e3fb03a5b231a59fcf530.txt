@@ -1,0 +1,17 @@
+advisers(uint256)
+founder1()
+ADVISER_STAKE()
+0x28fb889d
+0x37994925
+wallet()
+0x69a3a0d0
+getConfiguration()
+FOUNDER2_STAKE()
+CONTRIB_PERIOD2_STAKE()
+founder2()
+earlySponsor()
+CONTRIB_PERIOD3_STAKE()
+0xa61c666b
+CONTRIB_PERIOD1_STAKE()
+FOUNDER1_STAKE()
+transfersEnabled()

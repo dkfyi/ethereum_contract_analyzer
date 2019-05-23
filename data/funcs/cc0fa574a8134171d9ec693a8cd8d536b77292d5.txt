@@ -1,0 +1,14 @@
+0x05a8749d
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+balanceOfOwner()
+balanceOf(address)
+team()
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0x5e835af0
+0x01312d00
+0x60648e70
+0x6245c1f0

@@ -1,0 +1,16 @@
+name()
+initialSupplyPerAddress()
+totalSupply()
+totalGenesisAddresses()
+availableBalanceOf(address)
+maxTotalSupply()
+available_assert_time(uint16,uint64)
+0x46799db1
+balanceOf(address)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xbe44ea8a
+0xd95efb98
+rewardPerBlockPerAddress()
+currentBlock()
+initialBlockCount()

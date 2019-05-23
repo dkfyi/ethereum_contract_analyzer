@@ -1,0 +1,11 @@
+0x3ee37fff
+claim()
+hasClaimed(address)
+getTokenBalance()
+0xc32580b0
+0xcaf9b502
+0xce9fbc33
+extractFund(uint256)
+balanceOf(address)
+balanceOf(address)
+totalSupply()

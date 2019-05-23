@@ -1,0 +1,8 @@
+renounceOwnership()
+getBalanceInEth(address)
+ideal_warn_timed(uint256,uint128)
+isOwner()
+sendCoin(address,uint256)
+initialize(address)
+transferOwnership(address)
+getBalance(address)

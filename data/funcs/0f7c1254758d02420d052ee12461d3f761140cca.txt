@@ -1,0 +1,14 @@
+getContent(uint256)
+getAccountSize(address)
+0x44ff0c4b
+getChannelSize(address)
+0x68ee5908
+updatePublishContract(address)
+ideal_warn_timed(uint256,uint128)
+0xb221a22e
+0xb4fa649c
+getReplyCount(uint256)
+publish(address,uint256,address,uint256)
+updateChannelMinimum(address,uint256)
+tip(uint256,address,uint256)
+0xfd1e51ac

@@ -1,0 +1,11 @@
+collectBack()
+tokenReward()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+totalCandyNo()
+collectorAddress()
+transferOwnership(address)
+0x05f5e100
+many_msg_babbage(bytes1)
+0x05f5e100
+many_msg_babbage(bytes1)

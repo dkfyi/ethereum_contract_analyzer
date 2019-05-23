@@ -1,0 +1,6 @@
+0x392efb52
+0x3fc929de
+tokenContract()
+0xee2a6323
+getBalance(address)
+balanceOf(address)

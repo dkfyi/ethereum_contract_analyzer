@@ -1,0 +1,13 @@
+getImpactCount(string)
+linkImpact(string)
+setMasterContract(address)
+registerDonation(address,uint256)
+registerOutcome(string,uint256)
+payBack(address)
+getImpactDonor(string,uint256)
+getImpactLinked(string)
+unit()
+getImpactValue(string,address)
+setUnit(uint256)
+0xcd446e22
+getBalance(address)

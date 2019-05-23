@@ -1,0 +1,10 @@
+checkRole(address,string)
+removeAdmin(address)
+hasRole(address,string)
+addAdmin(address)
+SUPER_ADMIN()
+adminRemoveRole(address,string)
+0x920b3027
+LIMITED_ADMIN()
+adminAddRole(address,string)
+0xe4901776

@@ -1,0 +1,16 @@
+0x18dc661c
+0x8027beda
+0x86361104
+getPartialAmount(uint256,uint256,uint256)
+exchangeAddress()
+0xb6de4097
+deposit()
+getOrderHash(address[5],uint256[6])
+fillOrder(address[5],uint256[6],uint256,bool,uint8,bytes32,bytes32)
+many_msg_babbage(bytes1)
+getOrderHash(address[5],uint256[6])
+getUnavailableTakerTokenAmount(bytes32)
+approve(address,uint256)
+TOKEN_TRANSFER_PROXY_CONTRACT()
+fillOrder(address[5],uint256[6],uint256,bool,uint8,bytes32,bytes32)
+withdraw(uint256)

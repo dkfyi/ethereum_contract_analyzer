@@ -1,0 +1,8 @@
+getDataColla_AA_02(string)
+getDataColla_AB_02(string)
+getDataColla_AB_01(string)
+setDataColla_AA_02(string,string)
+setDataColla_AB_02(string,string)
+setDataColla_AB_01(string,string)
+getDataColla_AA_01(string)
+setDataColla_AA_01(string,string)

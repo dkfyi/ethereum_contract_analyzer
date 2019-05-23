@@ -1,0 +1,4 @@
+setFirstLogEntry()
+0x3db06976
+0x9dc611c5
+getNumberOfLogEntries()

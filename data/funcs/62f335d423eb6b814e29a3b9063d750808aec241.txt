@@ -1,0 +1,11 @@
+0x21601a9b
+0x41dc8b09
+0x4bbe3675
+0xa0de51cb
+0xa8445e28
+0xdf9117b8
+0xf634ef29
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

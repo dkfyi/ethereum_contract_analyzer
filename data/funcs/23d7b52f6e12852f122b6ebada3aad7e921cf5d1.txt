@@ -1,0 +1,15 @@
+init(address)
+assetOwnerRemoved(bytes32,address,address)
+claimContractOwnership()
+changeContractOwnership(address)
+pendingContractOwner()
+assetOwnerAdded(bytes32,address,address)
+destroy()
+transferContractOwnership(address)
+contractOwner()
+0xb7c46cd5
+0xc7eff32e
+assetOwnerRemoved(bytes32,address,address)
+0xc7eff32e
+assetOwnerAdded(bytes32,address,address)
+0xbc657927

@@ -1,0 +1,6 @@
+getBalance()
+withdraw()
+kill()
+0x74523e77
+ideal_warn_timed(uint256,uint128)
+isPregnant(uint256)

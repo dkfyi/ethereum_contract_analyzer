@@ -1,0 +1,4 @@
+vote(uint256)
+registerVoter(address)
+addCandidate(string)
+0xb2c2f2e8

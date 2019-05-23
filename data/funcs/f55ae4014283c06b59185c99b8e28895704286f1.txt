@@ -1,0 +1,11 @@
+setToken(address)
+0x64afaed8
+ideal_warn_timed(uint256,uint128)
+0xdc94ef30
+claimTokens(address)
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

@@ -1,0 +1,9 @@
+companySite()
+setCompanyInfo(bytes32,string)
+kill()
+phoneNumber()
+email()
+ideal_warn_timed(uint256,uint128)
+0x93312f5d
+getCompanyInfo(bytes32)
+companyName()

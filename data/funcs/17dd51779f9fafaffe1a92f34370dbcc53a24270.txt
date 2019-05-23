@@ -1,0 +1,9 @@
+isPricingStrategy()
+0x4120657a
+allowAddress(address,bool)
+oneTokenInWei()
+ideal_warn_timed(uint256,uint128)
+reclaimEther()
+0xa6413a27
+setTokenPriceInWei(uint256)
+transferOwnership(address)

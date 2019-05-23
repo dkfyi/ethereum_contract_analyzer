@@ -1,0 +1,17 @@
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+0x3a88360c
+0x3ae584a1
+0x57137bf6
+balanceOf(address)
+mintToken(address,uint256)
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+link_classic_internal(uint64,int64)
+price()
+many_msg_babbage(bytes1)
+crowdsaleClosed()
+burnToken(address,uint256)
+transferOwnership(address)
+0xc4a11628

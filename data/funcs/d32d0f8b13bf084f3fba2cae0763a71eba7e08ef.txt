@@ -1,0 +1,8 @@
+doUnpause()
+doPause()
+setAdmin(address)
+maxRound()
+0x98dba09c
+isPaused()
+addrAdmin()
+calcFight(uint64,uint64,uint256,uint256)

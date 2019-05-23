@@ -1,0 +1,11 @@
+registrationFee_()
+0x27814f7b
+0x3ed240d7
+pID_()
+getPlayerAddr(uint256)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0xa3f310b8
+getPlayerID(address)
+0xef428213
+transferOwnership(address)

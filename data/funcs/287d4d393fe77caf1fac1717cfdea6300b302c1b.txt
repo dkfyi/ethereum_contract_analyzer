@@ -1,0 +1,11 @@
+getExchange(uint256)
+cancelExchange(uint256)
+newExchange(address,uint256,address,address,uint256)
+doExchange(uint256)
+0x0c474f80
+0x0c474f80
+0x0c474f80
+0x0c474f80
+0x0c474f80
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

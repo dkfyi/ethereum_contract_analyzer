@@ -1,0 +1,2 @@
+setAdAccount(address)
+agentInvo(address)

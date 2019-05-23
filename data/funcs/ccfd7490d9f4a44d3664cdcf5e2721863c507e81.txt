@@ -1,0 +1,3 @@
+addAuthorizedAddress(address)
+0x6e77218d
+removeAuthorizedAddress(address)

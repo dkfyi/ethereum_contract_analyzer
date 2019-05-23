@@ -1,0 +1,13 @@
+getSettingAddress(string)
+setOwner(address)
+kill()
+increaseBalance(address,uint256)
+ideal_warn_timed(uint256,uint128)
+0x9466178a
+getSetting(string)
+setSetting(string,uint256)
+transfer(address,address,uint256)
+setBalance(address,uint256)
+withdraw(address,uint256)
+getBalance(address)
+decreaseBalance(address,uint256)

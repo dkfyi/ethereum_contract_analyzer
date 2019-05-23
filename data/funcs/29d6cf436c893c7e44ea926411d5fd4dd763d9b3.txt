@@ -1,0 +1,4 @@
+withdraw(uint256)
+play(uint256)
+minBet()
+log(uint256)

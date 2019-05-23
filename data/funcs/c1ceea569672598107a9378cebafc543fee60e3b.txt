@@ -1,0 +1,15 @@
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+cancelOrder(address,uint256,address,uint256,uint256,uint256,uint8,bytes32,bytes32)
+withdraw(uint256)
+setEtherDelta(address)
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+deposit()
+0xd75d0414
+0xd9209129
+0xdf0a3fc3
+testTrade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256,address)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+cancelOrder(address,uint256,address,uint256,uint256,uint256,uint8,bytes32,bytes32)
+deposit()
+withdraw(uint256)

@@ -1,0 +1,15 @@
+0x3a5fccee
+0x7157337c
+numBets()
+getReward(uint256[])
+lockBet()
+settleBet(uint256)
+0x425e9412
+0x57e36c64
+getReward(uint256[])
+0x73974447
+settled()
+totalBets()
+locked()
+gameId()
+0xff15b45f

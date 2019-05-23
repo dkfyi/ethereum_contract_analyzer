@@ -1,0 +1,14 @@
+erc20token()
+0x622ed8be
+0x7974b88b
+ideal_warn_timed(uint256,uint128)
+0xb462c8fa
+0xb4a28283
+0xe49dad99
+transferOwnership(address)
+balanceOf(address,address)
+deposit()
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+balanceOf(address,address)
+balanceOf(address,address)
+withdraw(uint256)

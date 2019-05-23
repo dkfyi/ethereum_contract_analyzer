@@ -1,0 +1,6 @@
+isAdmin(address)
+title()
+0x4d253b50
+setAdmin(address)
+0xc6ce059d
+0xdeb23985

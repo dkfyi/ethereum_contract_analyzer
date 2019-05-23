@@ -1,0 +1,14 @@
+getVoted(address,uint256)
+vote(address,uint256,uint256)
+0x54b598ec
+finishBallot(bytes32)
+getProposalsNum(address,uint256)
+isVoted(address,uint256)
+getProposalIndex(address,uint256,bytes32)
+getBallotIndex(address,bytes32)
+getWinner(address,uint256)
+getVotesCount(address,uint256,bytes32)
+0xe19a84f1
+getBallotsNum(address)
+startNewBallot(bytes32,bool,bytes32[])
+getVotedData(address,uint256,address)

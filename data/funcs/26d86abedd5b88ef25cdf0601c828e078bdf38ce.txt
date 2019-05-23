@@ -1,0 +1,3 @@
+balances(address)
+withdraw(uint256)
+deposit()

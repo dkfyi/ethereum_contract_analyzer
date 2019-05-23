@@ -1,0 +1,6 @@
+0x02e31512
+number()
+ideal_warn_timed(uint256,uint128)
+amount()
+lastResult()
+transferOwnership(address)

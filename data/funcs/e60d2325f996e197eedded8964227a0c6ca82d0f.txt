@@ -1,0 +1,10 @@
+cryptoRomeWallet()
+paused()
+0x5e18f075
+0x6eccc6a3
+0x7514bffc
+0x8415fd9b
+ownerWallet()
+ownerPrimary()
+0x9b3b2495
+ownerSecondary()

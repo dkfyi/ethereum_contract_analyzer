@@ -1,0 +1,5 @@
+getName()
+close()
+returnAll()
+getAge()
+0xe69bfc84

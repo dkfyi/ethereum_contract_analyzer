@@ -1,0 +1,7 @@
+getAvailableAmount(address[8],uint256[6],uint256,uint8,bytes32,bytes32)
+performSell(address[8],uint256[6],uint256,uint256,uint8,bytes32,bytes32)
+0x708c3e44
+performBuy(address[8],uint256[6],uint256,uint256,uint8,bytes32,bytes32)
+approve(address,uint256)
+quickConvert(address[],uint256,uint256)
+many_msg_babbage(bytes1)

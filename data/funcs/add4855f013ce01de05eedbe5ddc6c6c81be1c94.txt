@@ -1,0 +1,4 @@
+0x2c638643
+withdraw()
+ideal_warn_timed(uint256,uint128)
+getBettingStatus()

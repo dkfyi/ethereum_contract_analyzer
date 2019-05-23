@@ -1,0 +1,14 @@
+0x09c48e88
+0x0fb4f65c
+0x31a76535
+0x31e6ef50
+0x35609283
+0x539577f0
+0x670cec37
+0x8a2e1eaf
+0x9ece058a
+0xdebdde18
+allowance(address,address)
+many_msg_babbage(bytes1)
+allowance(address,address)
+many_msg_babbage(bytes1)

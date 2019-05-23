@@ -1,0 +1,13 @@
+0x212b4f74
+endTime()
+0x3e0881a9
+isStarted()
+0x61f0b25f
+startTime()
+isFinished()
+ideal_warn_timed(uint256,uint128)
+0xcc2c9e19
+getVoters()
+0xd9f4dd8f
+0xedee3887
+transferOwnership(address)

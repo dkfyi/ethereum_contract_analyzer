@@ -1,0 +1,15 @@
+exchange(address,uint256)
+0x151f3734
+version()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0xa0736912
+0xcf050395
+0xcf0a7b4d
+approve(address,address,uint256)
+0xe2601a57
+transferOwnership(address)
+0xff740c1d
+approve(address,uint256)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

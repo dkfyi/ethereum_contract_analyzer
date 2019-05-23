@@ -1,0 +1,6 @@
+removeAttestation(address)
+ideal_warn_timed(uint256,uint128)
+attestForIdentity(address)
+isRedemptionPermitted(address,uint256,uint256)
+0xe158fa00
+0xf653b81e

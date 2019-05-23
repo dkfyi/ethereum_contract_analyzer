@@ -1,0 +1,3 @@
+name()
+changeName(string)
+0xffbee270

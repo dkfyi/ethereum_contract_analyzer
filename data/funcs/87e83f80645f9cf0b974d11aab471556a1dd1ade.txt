@@ -1,0 +1,8 @@
+0x2af3eecb
+tokenContract()
+ideal_warn_timed(uint256,uint128)
+0x9ee41cf1
+0xa22215c4
+0xb816f513
+0xf0565ef6
+0xff24001c

@@ -1,0 +1,4 @@
+getMy()
+get(address)
+addToWhitelist(address)
+change(address,int256)

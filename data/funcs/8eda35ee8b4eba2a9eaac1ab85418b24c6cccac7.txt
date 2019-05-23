@@ -1,0 +1,15 @@
+startDate()
+0x0fc069d1
+getBalance()
+isContract(address)
+0x1a8ba72f
+maxBet()
+0x81119130
+0x82555323
+ideal_warn_timed(uint256,uint128)
+minBet()
+0x9ef21628
+0xb00b5d61
+endDate()
+gameState()
+0xf2eb6ff1

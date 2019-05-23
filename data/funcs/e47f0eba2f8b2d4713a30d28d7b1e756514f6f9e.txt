@@ -1,0 +1,2 @@
+dragonHandler(uint256)
+burnDragons(uint256)

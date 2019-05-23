@@ -1,0 +1,6 @@
+purchase()
+0x6c40b19a
+exit()
+buy(address)
+sellAllCookies()
+exit()

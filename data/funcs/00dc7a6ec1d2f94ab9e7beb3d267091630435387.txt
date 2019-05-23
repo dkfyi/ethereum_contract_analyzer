@@ -1,0 +1,8 @@
+balanceOf(address)
+available_assert_time(uint16,uint64)
+name()
+link_classic_internal(uint64,int64)
+totalSupply()
+many_msg_babbage(bytes1)
+0x46504f50
+0x01406f40

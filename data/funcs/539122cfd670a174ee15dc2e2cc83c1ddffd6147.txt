@@ -1,0 +1,11 @@
+0x064ca444
+greeter()
+auctionEnd()
+beneficiary()
+kill()
+auctionStart()
+0x73344963
+bid(string)
+highestBidder()
+biddingTime()
+highestBid()

@@ -1,0 +1,16 @@
+0x0620f6a8
+0x3e530e5b
+0x501895ae
+0x5482bdf9
+withdrawBalance()
+ideal_warn_timed(uint256,uint128)
+price()
+0xbc54adf1
+0xd4ea3de1
+0xedd3ba9a
+transferOwnership(address)
+balanceOf(address)
+approve(address,uint256)
+approve(address,uint256)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

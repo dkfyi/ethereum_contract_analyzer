@@ -1,0 +1,11 @@
+emitTransfer(address,address,bytes32,uint256,string)
+emitErrorCode(uint256)
+emitOwnershipChange(address,address,bytes32)
+emitIssue(bytes32,uint256,address)
+0xb82d1948
+emitRevoke(bytes32,uint256,address)
+contractOwner()
+emitApprove(address,address,bytes32,uint256)
+emitRecovery(address,address,address)
+getEventsHistory()
+0x2a6400a5

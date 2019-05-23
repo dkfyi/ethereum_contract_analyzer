@@ -1,0 +1,16 @@
+setOwner(address)
+__callback(bytes32,string)
+kill()
+transfer(string,string)
+0x59eaac53
+0x5ad77157
+getAddress()
+cbAddress()
+getAddress()
+getAddress()
+useCoupon(string)
+setProofType(bytes1)
+getAddress()
+getAddress()
+query2(uint256,string,string,string)
+getPrice(string)

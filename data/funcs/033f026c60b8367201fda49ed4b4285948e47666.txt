@@ -1,0 +1,11 @@
+setOwner(address)
+participants(uint256)
+setBitcoinBridge(address)
+enter(bytes,bytes)
+ideal_warn_timed(uint256,uint128)
+collectedFees()
+collectFees(address)
+payoutIdx()
+0xb4b31bec
+getNumberOfParticipants()
+queuePayment(bytes)

@@ -1,0 +1,12 @@
+fixedLog2(uint256)
+fixedLoge(uint256)
+power(uint256,uint256,uint32,uint32)
+ln(uint256,uint256)
+version()
+fixedExpUnsafe(uint256)
+calculatePurchaseReturn(uint256,uint256,uint16,uint256)
+fixedExp(uint256)
+calculateSaleReturn(uint256,uint256,uint16,uint256)
+0xe32753ca
+0x39b78e80
+0x01fd8080

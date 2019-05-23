@@ -1,0 +1,15 @@
+0x0e287de3
+unpause()
+isGeneScience()
+version()
+0x5b1960ad
+paused()
+0x708d8c42
+setVersion(string)
+pause()
+0x86331908
+ideal_warn_timed(uint256,uint128)
+0xc9e491da
+0xdd594969
+transferOwnership(address)
+0xf35791aa

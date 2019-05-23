@@ -1,0 +1,8 @@
+timestamp_msg()
+to()
+registrar()
+ack(string)
+hash_ack()
+hash_msg()
+from()
+timestamp_ack()

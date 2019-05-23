@@ -1,0 +1,16 @@
+unlock(address)
+withdraw()
+0x4611a4d6
+0x4aaae94d
+0x4f24909d
+0x746d89e2
+0x78d0e228
+0x7f0a16af
+0x861b6c12
+0x8bb6afc6
+newRound()
+0xdf002d63
+withdrawOwner()
+deposit(address)
+lock(address)
+getBalance(address)

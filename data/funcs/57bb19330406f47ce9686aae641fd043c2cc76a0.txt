@@ -1,0 +1,11 @@
+name()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+_totalSupply()
+balanceOf(address)
+decimal()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xd01d1fa7
+allowance(address,address)

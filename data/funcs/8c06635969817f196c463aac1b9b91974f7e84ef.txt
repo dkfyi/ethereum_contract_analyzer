@@ -1,0 +1,12 @@
+minWeiAmount()
+calcWeiForTokensAmount(uint256)
+0x26fd786b
+rate()
+setRate(uint256)
+unpause()
+paused()
+pause()
+ideal_warn_timed(uint256,uint128)
+convertTokensAmountInWeiAtRate(uint256,uint256)
+setMinWeiAmount(uint256)
+transferOwnership(address)

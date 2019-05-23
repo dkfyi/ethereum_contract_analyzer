@@ -1,0 +1,11 @@
+renounceOwnership()
+0x8b582712
+ideal_warn_timed(uint256,uint128)
+TOTAL_SUPPLY()
+0xac5c6e12
+0xca1a70be
+0xed3487fe
+transferOwnership(address)
+0xf65a5c1b
+available_assert_time(uint16,uint64)
+totalSupply()

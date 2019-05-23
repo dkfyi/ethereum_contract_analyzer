@@ -1,0 +1,6 @@
+Answer()
+End(string)
+Riddle()
+Play(string)
+0xa3e18b4f
+Quiz(string,string)

@@ -1,0 +1,6 @@
+0x384bc466
+getAddress()
+kill()
+balanceOf(address)
+decrementBalance(address,uint256)
+getBalance(address)

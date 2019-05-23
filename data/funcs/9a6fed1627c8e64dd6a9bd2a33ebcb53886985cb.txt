@@ -1,0 +1,16 @@
+0x0b9431ca
+0x2bcb095b
+0x3bf47720
+0x3c4d2381
+0x431684c0
+0x5e6cb8bd
+0x61c9665c
+ideal_warn_timed(uint256,uint128)
+0x98f0c8ab
+0x9bffe6d6
+currentPrice()
+0xae02ce43
+0xb18b8595
+currentCycle()
+0xcc1a553d
+creatorAddress()

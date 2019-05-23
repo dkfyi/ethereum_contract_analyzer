@@ -1,0 +1,12 @@
+transferTokenOwnership()
+0x48477f9c
+bulkTransfer(uint32[],address[],uint256[])
+bulkTransferFrom(uint32[],address,address[],uint256[])
+ideal_warn_timed(uint256,uint128)
+0x983ae94e
+transferOwnership(address)
+transferOwnership(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

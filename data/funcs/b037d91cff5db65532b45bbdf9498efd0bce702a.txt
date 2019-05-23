@@ -1,0 +1,10 @@
+0x17414c7f
+0x323745db
+eventDate()
+0x511418f8
+0x664a2e17
+pdfCertificateProof(bytes)
+eventName()
+getOwner()
+ideal_warn_timed(uint256,uint128)
+majorEventFunc(uint256,bytes32,bytes32)

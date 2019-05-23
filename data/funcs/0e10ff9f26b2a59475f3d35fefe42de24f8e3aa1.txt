@@ -1,0 +1,4 @@
+numberOfContributors()
+buyTokens(address)
+raised()
+buyTokens(address)

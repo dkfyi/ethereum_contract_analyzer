@@ -1,0 +1,12 @@
+checkRole(address,string)
+0x0994ac6d
+withdraw(bytes32,address)
+hasRole(address,string)
+0x530e931c
+adminRemoveRole(address,string)
+adminAddRole(address,string)
+0xb921e796
+0xcfa54f39
+ROLE_ADMIN()
+0xd7de091f
+0xf5470e2b

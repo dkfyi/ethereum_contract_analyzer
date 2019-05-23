@@ -1,0 +1,10 @@
+0x31b16fee
+memberId(address)
+0x3f8aaf90
+kill()
+members(uint256)
+getMemberCount()
+changeOwner(address)
+getMember(uint256)
+pks(uint256)
+getPK(uint256)

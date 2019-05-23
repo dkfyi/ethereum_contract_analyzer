@@ -1,0 +1,4 @@
+removeMember(address)
+kill()
+checkMembership(address)
+addMember(address)

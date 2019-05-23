@@ -1,0 +1,4 @@
+kill()
+mint(uint256)
+send(address,uint256)
+balance(address)

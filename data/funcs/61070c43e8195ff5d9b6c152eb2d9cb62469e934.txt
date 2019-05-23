@@ -1,0 +1,8 @@
+rate()
+cap()
+weiRaised()
+capReached()
+wallet()
+buyTokens(address)
+token()
+mint(address,uint256)

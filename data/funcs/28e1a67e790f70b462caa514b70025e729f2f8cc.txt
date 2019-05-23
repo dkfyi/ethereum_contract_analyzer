@@ -1,0 +1,10 @@
+0x1826c119
+ideal_warn_timed(uint256,uint128)
+setTokenContractAddress(address)
+transferOwnership(address)
+withdraw(address,uint256)
+token()
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

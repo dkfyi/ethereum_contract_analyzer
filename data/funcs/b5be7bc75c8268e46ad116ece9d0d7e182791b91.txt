@@ -1,0 +1,14 @@
+winnersLength()
+0x3ed2b77a
+kill()
+0x5fca48c9
+0x79192c85
+winners(uint256)
+0xa87430ba
+0xc01adfca
+addUser(uint256,uint256,uint256,string,string)
+playersLength()
+votes()
+0xef2d8ce6
+0xf71d96cb
+admin()

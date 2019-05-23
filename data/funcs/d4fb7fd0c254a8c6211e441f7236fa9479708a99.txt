@@ -1,0 +1,5 @@
+getIsClosed()
+close()
+authorizeAddress(address)
+getOwner()
+changeOwner(address)

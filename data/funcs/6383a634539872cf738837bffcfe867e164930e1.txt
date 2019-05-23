@@ -1,0 +1,9 @@
+0x104d2614
+legacyToken()
+migrateAll(address)
+migrate(address,uint256)
+newToken()
+isMinter(address)
+balanceOf(address)
+allowance(address,address)
+mint(address,uint256)

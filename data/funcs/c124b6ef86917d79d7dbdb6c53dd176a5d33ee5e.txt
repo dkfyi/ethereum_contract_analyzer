@@ -1,0 +1,13 @@
+allowance(uint256,address,address)
+transferFrom(uint256,address,address,uint256)
+acceptDividends(uint256)
+balanceOf(uint256,address)
+0x7ba47d9a
+approve(uint256,address,uint256)
+init(uint256,uint256)
+decreaseApproval(uint256,address,uint256)
+totalSupply(uint256)
+increaseApproval(uint256,address,uint256)
+0xc9a0ab7e
+transfer(uint256,address,uint256)
+0xff6350fc

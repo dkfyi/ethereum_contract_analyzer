@@ -1,0 +1,16 @@
+0x0cec5b93
+cost()
+enabled()
+0x25efc91d
+0x2eccd877
+0x33f6cfb2
+0x3d81e455
+kill()
+0x4708e04f
+0x4ecc365f
+isEnabled()
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+disableContract(bool)
+getCost()
+0xc71ce36f

@@ -1,0 +1,5 @@
+0x5dc98e20
+0x6e87ce09
+checkHash(address,string)
+0xc2a08015
+0xcb913319

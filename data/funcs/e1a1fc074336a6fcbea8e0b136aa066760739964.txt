@@ -1,0 +1,15 @@
+0x13fa59ff
+0x1e2f9835
+getPercent()
+withdraw()
+getWinner(uint256)
+0x5748c130
+0x57b47ae1
+0x67dfd4c9
+0x6f29a853
+getWager(uint256)
+changePercent(uint256)
+0x89bc7473
+0x95b3cacf
+0x9c37d7ea
+0xf9a1f17f

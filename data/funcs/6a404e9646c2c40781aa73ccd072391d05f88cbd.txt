@@ -1,0 +1,4 @@
+getBalance()
+transferBalance(address)
+getOwner()
+0xd892ddfc

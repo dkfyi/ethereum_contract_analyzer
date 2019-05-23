@@ -1,0 +1,9 @@
+addAuthorizedAddress(address)
+0x494503d4
+removeAuthorizedAddress(address)
+ideal_warn_timed(uint256,uint128)
+0x9ad26744
+getProxyId()
+0xb9181611
+getAuthorizedAddresses()
+transferOwnership(address)

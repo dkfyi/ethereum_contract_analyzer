@@ -1,0 +1,11 @@
+0x02c30fe5
+withdraw()
+destroy()
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+destroyAndSend(address)
+SetPass(bytes32)
+PassHasBeenSet(bytes32)
+hashPass()
+Revoce()
+SetMessage(string)

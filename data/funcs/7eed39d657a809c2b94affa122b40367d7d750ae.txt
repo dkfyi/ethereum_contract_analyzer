@@ -1,0 +1,4 @@
+kill()
+get(string)
+0xdabb8ae6
+set(string,string)

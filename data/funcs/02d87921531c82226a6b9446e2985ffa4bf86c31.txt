@@ -1,0 +1,3 @@
+endPoll()
+0xa1175279
+vote(string)

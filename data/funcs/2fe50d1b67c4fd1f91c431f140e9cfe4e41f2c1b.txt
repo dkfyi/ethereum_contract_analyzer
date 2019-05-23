@@ -1,0 +1,12 @@
+0x4635fd68
+0x4c193153
+0x72c4d85f
+0x8352536f
+0x8a4366c0
+ideal_warn_timed(uint256,uint128)
+totalWallets()
+0xa7a9ccec
+totalUsers()
+owned()
+0xe91ac393
+transferOwnership(address)

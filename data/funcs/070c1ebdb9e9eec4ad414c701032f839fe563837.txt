@@ -1,0 +1,11 @@
+withdrawalToken(address)
+0x150fae9c
+ideal_warn_timed(uint256,uint128)
+withdrawal(address)
+batchTransfer(address[],uint256[],address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

@@ -1,0 +1,8 @@
+createAdSlot(string,uint256,uint256,uint256[])
+createLineItem(string,uint256,uint256,uint256,uint256[])
+0x665a133d
+activateLineItem()
+deactivateAdSlot()
+activateAdSlot()
+changeOwner(address)
+deactivateLineItem()

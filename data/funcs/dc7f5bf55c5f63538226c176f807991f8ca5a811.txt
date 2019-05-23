@@ -1,0 +1,5 @@
+ConsultaRegistro(string)
+0x762849cc
+TrocarAdmin(address)
+GuardaRegistro(string)
+admin()

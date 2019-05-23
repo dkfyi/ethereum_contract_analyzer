@@ -1,0 +1,8 @@
+setOwner(address)
+getFactorybyIndex(uint256)
+removeFactory(address)
+setFactory(address)
+0x7ff25bbb
+deployFactory()
+getFactoryCount()
+init(address)

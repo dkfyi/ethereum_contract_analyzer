@@ -1,0 +1,17 @@
+endTime()
+withdraw()
+balanceOf(address)
+startTime()
+0x872a4518
+0x8b38e59a
+ideal_warn_timed(uint256,uint128)
+0x9feb8f50
+0xa92bd72c
+totalBalance()
+addresses()
+lock()
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+allowance(address,address)
+gasprice_bit_ether(int128)
+0x01e13380

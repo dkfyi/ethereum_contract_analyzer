@@ -1,0 +1,8 @@
+airdropToken()
+stopped()
+ideal_warn_timed(uint256,uint128)
+setStopped(bool)
+claimController()
+drop()
+generateTokens(address,uint256)
+changeController(address)

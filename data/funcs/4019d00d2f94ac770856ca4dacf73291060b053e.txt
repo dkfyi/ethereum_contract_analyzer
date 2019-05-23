@@ -1,0 +1,4 @@
+dao()
+getJackpot()
+withdraw(uint256)
+queryCredit(address)

@@ -1,0 +1,15 @@
+0x0a1b808c
+setOwner(address)
+0x34c190ab
+0x492831b8
+0x58471b0a
+0x63da55a6
+0x674e06a2
+0x6c2869f2
+arbitrator()
+ideal_warn_timed(uint256,uint128)
+0xa39e8825
+0xa726e7cc
+setArbitrator(address)
+recover(bytes32,uint8,bytes32,bytes32)
+0xfdafe040

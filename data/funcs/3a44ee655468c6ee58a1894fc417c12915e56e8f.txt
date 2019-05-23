@@ -1,0 +1,12 @@
+0x10e8bf9c
+0x3410f154
+acceptOwnership()
+getCodeHash(address)
+0x829ddcd6
+0x85cb4258
+ideal_warn_timed(uint256,uint128)
+0xd046de2b
+newOwner()
+0xd729ce9b
+0xe242d9ef
+transferOwnership(address)

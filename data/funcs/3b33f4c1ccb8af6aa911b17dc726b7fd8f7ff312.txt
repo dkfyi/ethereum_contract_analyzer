@@ -1,0 +1,11 @@
+0x5e6ffac7
+renounceOwnership()
+updateIpfsGateway(string)
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0xa1506f6d
+tokenURI(uint256)
+strikersBaseContract()
+transferOwnership(address)
+0xfe33f6d4
+0x8dc10768

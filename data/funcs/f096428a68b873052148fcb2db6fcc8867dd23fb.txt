@@ -1,0 +1,3 @@
+0xc70b0e01
+register(string)
+getAccount(address)

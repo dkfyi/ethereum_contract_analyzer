@@ -1,0 +1,6 @@
+beneficiary()
+sellPrice()
+tokenReward()
+balanceOf(address)
+totalSold()
+setSellPrice(uint256)

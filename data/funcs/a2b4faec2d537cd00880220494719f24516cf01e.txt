@@ -1,0 +1,12 @@
+revoke(uint256)
+0x20ff99f2
+m_numOwners()
+0x4a7805c3
+0x5699a139
+recover(address,address)
+m_required()
+init(address,uint256,uint256)
+confirm(uint256)
+0xec043ca3
+balanceOf(address)
+many_msg_babbage(bytes1)

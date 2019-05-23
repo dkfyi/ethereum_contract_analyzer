@@ -1,0 +1,10 @@
+setRate(address,uint256)
+payment()
+changeAdmin(address)
+0xa8734f0b
+pay(address,address,uint256)
+buy(address)
+admin()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

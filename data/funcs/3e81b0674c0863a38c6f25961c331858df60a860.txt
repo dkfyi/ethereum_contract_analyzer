@@ -1,0 +1,9 @@
+0x07ea2bef
+deleteContract()
+0x7d633476
+0x85542bed
+ideal_warn_timed(uint256,uint128)
+0x9b643de4
+changeOwner(address)
+0xae34bfcb
+0xf52bccad

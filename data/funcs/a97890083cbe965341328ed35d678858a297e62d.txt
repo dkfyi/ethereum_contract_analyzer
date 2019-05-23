@@ -1,0 +1,5 @@
+kill()
+getBlockNumber()
+Greeter(string)
+setGreeting(string)
+greet()

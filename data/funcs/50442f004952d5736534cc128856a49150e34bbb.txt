@@ -1,0 +1,17 @@
+getImplementation(string,string)
+0x50cadc85
+renounceOwnership()
+0x71eb64cc
+0x87c60483
+ideal_warn_timed(uint256,uint128)
+0xad358d99
+0xcd3e318a
+transferOwnership(address)
+getImplementation(string)
+0x1df40eaa
+0x35ce4016
+upgradeTo(address)
+upgradeToAndCall(address,bytes)
+implementation()
+changeAdmin(address)
+admin()

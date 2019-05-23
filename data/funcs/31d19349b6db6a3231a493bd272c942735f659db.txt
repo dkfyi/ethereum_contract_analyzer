@@ -1,0 +1,6 @@
+games(uint256)
+getBalance()
+0x43c5cd74
+getGameInfo(uint256)
+0x96ff55d9
+0xd960e8de

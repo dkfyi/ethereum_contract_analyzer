@@ -1,0 +1,17 @@
+totalZTHWagered()
+0x1fc9cee8
+maxBet(uint256)
+resumeGame()
+0x486b123f
+pauseGame()
+execute(address,uint256,uint256,bytes)
+totalSpins()
+finishSpin()
+divertDividendsToBankroll()
+changeOwner(address)
+changeBankroll(address)
+getZethrTokenBankroll(uint256)
+bankrollExternalUpdateTokens(uint256,uint256)
+gameActive()
+gameTokenAmount(address)
+gameRequestTokens(address,uint256)

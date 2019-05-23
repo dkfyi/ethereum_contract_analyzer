@@ -1,0 +1,2 @@
+setCleide(uint256)
+getCleide()

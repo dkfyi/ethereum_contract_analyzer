@@ -1,0 +1,14 @@
+removeAdmin(address)
+0x69dc9ff3
+0x6e7a845a
+getContract(uint256)
+addAdmin(address)
+nonce()
+0xb11524c5
+0xf4109d12
+0x87b295e8
+airDropPot_()
+buyXid(uint256,uint256)
+withdraw()
+buyXid(uint256,uint256)
+withdraw()

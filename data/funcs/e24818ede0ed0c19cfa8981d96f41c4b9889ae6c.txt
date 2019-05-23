@@ -1,0 +1,14 @@
+0x0494cd9a
+addAddress(address)
+0x479b97d7
+removeAddress(address)
+0x6503fe37
+0x79729636
+0x79b0ec2a
+0x7bf18775
+0x7f5153e0
+ideal_warn_timed(uint256,uint128)
+0xa5025222
+0xefe2a60e
+transferOwnership(address)
+0xfdd189a8

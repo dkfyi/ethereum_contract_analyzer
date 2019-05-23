@@ -1,0 +1,2 @@
+queryBalance(address)
+send(address,uint256)

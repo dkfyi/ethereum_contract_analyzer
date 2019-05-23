@@ -1,0 +1,6 @@
+batchAddAddresses(address[])
+addAddress(address)
+removeAddress(address)
+ideal_warn_timed(uint256,uint128)
+isAddressVerified(address)
+transferOwnership(address)

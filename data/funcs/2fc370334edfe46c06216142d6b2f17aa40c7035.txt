@@ -1,0 +1,12 @@
+kill()
+title()
+0x5c7b6557
+0x65211b29
+description()
+0x89313286
+ideal_warn_timed(uint256,uint128)
+0x9da23ecf
+0xcec65a03
+0xf1e7bb8b
+0xfa93a93d
+0xfc1e6414

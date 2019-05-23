@@ -1,0 +1,7 @@
+ETH_TOKEN_ADDRESS()
+getAvailableAmount(address[8],uint256[6],uint256,uint8,bytes32,bytes32)
+performSell(address[8],uint256[6],uint256,uint256,uint8,bytes32,bytes32)
+performBuy(address[8],uint256[6],uint256,uint256,uint8,bytes32,bytes32)
+exchange()
+approve(address,uint256)
+trade(address,uint256,address,address,uint256,uint256,address)

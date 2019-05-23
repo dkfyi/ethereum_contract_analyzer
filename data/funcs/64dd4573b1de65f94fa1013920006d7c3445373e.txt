@@ -1,0 +1,7 @@
+0x16020273
+0x17b5ed11
+killContract()
+0x42189f8e
+addCandidate(string)
+0xe8685ba1
+vote(string)

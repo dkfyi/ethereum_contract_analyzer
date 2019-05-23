@@ -1,0 +1,3 @@
+balances(address)
+sendToken(address,uint256)
+kill()

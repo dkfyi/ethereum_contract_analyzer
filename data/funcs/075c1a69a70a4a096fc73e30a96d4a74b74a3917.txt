@@ -1,0 +1,14 @@
+ceoAddress()
+x()
+getBalance()
+0x1e83cdab
+0x27823fbf
+devFee(uint256)
+0x46609d7f
+0x5e699d37
+newGame()
+0x86aa3a8a
+history(uint256)
+tmp()
+0xc6414e91
+init()

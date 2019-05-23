@@ -1,0 +1,15 @@
+multiAccessRecipient()
+0x4ee66449
+multiAccessAddOwner(address)
+multiAccessChangeRequirement(uint256)
+multiAccessCall(address,uint256,bytes)
+multiAccessRemoveOwner(address)
+multiAccessRevoke(bytes32)
+multiAccessChangeOwner(address,address)
+multiAccessOwners(uint256)
+multiAccessRequired()
+multiAccessSetRecipient(address)
+multiAccessIsOwner(address)
+multiAccessHasConfirmed(bytes32,address)
+0xf134b351
+0x1cc41b3b

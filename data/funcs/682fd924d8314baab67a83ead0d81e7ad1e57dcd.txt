@@ -1,0 +1,7 @@
+__callback(bytes32,string)
+kill()
+transfer(string,string)
+getAddress()
+cbAddress()
+getAddress()
+useCoupon(string)

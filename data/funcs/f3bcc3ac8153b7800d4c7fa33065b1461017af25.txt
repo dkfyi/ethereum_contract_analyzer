@@ -1,0 +1,8 @@
+0x361edfa6
+add(uint256,uint256)
+0xea98a950
+0xf1cbee9a
+getWorseOffer(uint256)
+offers(uint256)
+getWorseOffer(uint256)
+getBestOffer(address,address)

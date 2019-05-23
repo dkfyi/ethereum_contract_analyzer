@@ -1,0 +1,2 @@
+remove()
+changeAddress(address)

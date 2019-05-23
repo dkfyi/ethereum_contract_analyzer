@@ -1,0 +1,10 @@
+adminSetAdmin(address)
+isAdmin(address)
+0x6d432878
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+0xa18dd4f3
+newOwner()
+0xde9fb908
+0xe3aedab8
+transferOwnership(address)

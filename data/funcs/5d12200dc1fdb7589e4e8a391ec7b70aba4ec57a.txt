@@ -1,0 +1,2 @@
+flip(bool)
+0xe6f334d7

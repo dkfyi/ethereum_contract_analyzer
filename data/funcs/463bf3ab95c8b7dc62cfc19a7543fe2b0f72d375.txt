@@ -1,0 +1,6 @@
+count()
+Update(uint256,uint256,string)
+ReplyShare(uint256,string,bool,string)
+0x82ed13d1
+0xb1a867d5
+NewShare(string,bool,string)

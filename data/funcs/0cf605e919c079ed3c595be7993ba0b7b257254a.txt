@@ -1,0 +1,7 @@
+0x11538f29
+abbuchen(uint256)
+addieren(uint256,uint256)
+guthabenAnzeigen(address)
+einzahlen()
+gesamtGuthaben()
+spardosenName()

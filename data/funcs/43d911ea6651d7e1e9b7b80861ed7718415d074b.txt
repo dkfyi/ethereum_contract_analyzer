@@ -1,0 +1,9 @@
+0x0801b654
+temporalUnit()
+feeRecipient()
+computeEndowment(uint256,uint256,uint256,uint256,uint256)
+factoryAddress()
+0xd7ceab4c
+0xd7ceab4c
+computeEndowment(uint256,uint256,uint256,uint256,uint256,uint256)
+getEXECUTION_GAS_OVERHEAD()

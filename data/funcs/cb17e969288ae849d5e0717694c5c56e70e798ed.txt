@@ -1,0 +1,4 @@
+getExchangeCost(address,address,uint256,bytes)
+exchange(address,address,address,address,uint256,bytes)
+balanceOf(address)
+many_msg_babbage(bytes1)

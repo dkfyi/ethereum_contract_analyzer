@@ -1,0 +1,2 @@
+bonus()
+buyTokens(address,address,uint256)

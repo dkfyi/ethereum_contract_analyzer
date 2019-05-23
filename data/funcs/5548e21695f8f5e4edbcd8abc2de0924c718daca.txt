@@ -1,0 +1,9 @@
+0x06ae19a2
+newDocument(bytes32)
+getDocument(uint256)
+history(uint256)
+0xaef18bf7
+getLatest()
+documentExists(bytes32)
+transferDocument(bytes32,address)
+empty()

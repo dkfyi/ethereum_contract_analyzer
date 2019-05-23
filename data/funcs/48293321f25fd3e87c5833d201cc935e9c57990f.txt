@@ -1,0 +1,7 @@
+minter()
+0x32454dbb
+queryBalance(address)
+mint(address,uint256)
+Coin(uint256)
+killCoin()
+send(address,uint256)

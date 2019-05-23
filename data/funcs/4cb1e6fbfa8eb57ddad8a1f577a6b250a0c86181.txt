@@ -1,0 +1,4 @@
+kill()
+message()
+mortal()
+0xf57269a5

@@ -1,0 +1,17 @@
+rate()
+weiRaised()
+mint(address,uint256)
+updateRate(uint256)
+renounceOwnership()
+0x781bb4d8
+finishMinting()
+0x7d94ac37
+ideal_warn_timed(uint256,uint128)
+0xbd32ab18
+buyTokens(address)
+transferOwnership(address)
+admin()
+mint(address,uint256)
+finishMinting()
+transferOwnership(address)
+mint(address,uint256)

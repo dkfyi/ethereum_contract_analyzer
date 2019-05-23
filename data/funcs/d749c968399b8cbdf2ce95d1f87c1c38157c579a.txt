@@ -1,0 +1,12 @@
+0x01e64725
+0x28073edf
+exists(bytes32)
+ecverify(bytes32,bytes,address)
+ecrecovery(bytes32,bytes)
+0x8ade01a4
+0x8c32d9a6
+ideal_warn_timed(uint256,uint128)
+0xb5872958
+getTimestamp(bytes32)
+0xdd89581f
+transferOwnership(address)

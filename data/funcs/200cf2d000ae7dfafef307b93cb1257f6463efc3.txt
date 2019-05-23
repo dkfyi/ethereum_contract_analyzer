@@ -1,0 +1,13 @@
+0x1ce1f7de
+0x2ed6e7d5
+0x346cf97e
+0x86ed2dae
+0x92cf8797
+0x93f1736c
+0xc27a23eb
+getUIntValue(bytes32)
+setUIntValue(bytes32,uint256)
+getUIntValue(bytes32)
+setUIntValue(bytes32,uint256)
+setUIntValue(bytes32,uint256)
+getUIntValue(bytes32)

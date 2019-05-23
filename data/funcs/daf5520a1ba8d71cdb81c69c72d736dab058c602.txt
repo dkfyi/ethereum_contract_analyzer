@@ -1,0 +1,7 @@
+numUsers()
+setSignUpOnOff(bool)
+isSignedUp(address)
+getAdmin()
+signUpOn()
+signUp()
+userAtIndex(uint256)

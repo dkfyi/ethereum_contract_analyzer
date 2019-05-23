@@ -1,0 +1,15 @@
+0x2cf2c0af
+withdraw(uint256)
+0x3c261b0c
+close()
+0x5c73dcea
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+deposit()
+0xf1b83630
+deposit()
+testTrade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256,address)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+testTrade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256,address)
+balanceOf(address,address)
+withdraw(uint256)

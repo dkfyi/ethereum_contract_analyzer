@@ -1,0 +1,10 @@
+GetGamestatus()
+0x0f0a09a0
+getVideoGameItemOwner(uint256)
+0x42b0b0c4
+pauseGame()
+0x72e4f1c1
+0xad0ffd1c
+0xb959a0e5
+unPauseGame()
+getVideoGameOwner(uint256)

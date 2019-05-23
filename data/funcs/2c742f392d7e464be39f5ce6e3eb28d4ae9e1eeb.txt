@@ -1,0 +1,12 @@
+getBalance()
+getAreaIndex(string)
+getSoldAreasCount()
+enableArea(string)
+withdraw()
+buy(string)
+getAreaOwner(string)
+setDefaultPrice(uint256)
+0xb33d5fd2
+getPriceRiseAndFeePercent(uint256)
+isAreaEnabled(string)
+defaultPrice()

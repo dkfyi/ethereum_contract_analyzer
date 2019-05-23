@@ -1,0 +1,2 @@
+storeAuthenticity(string)
+checkAuthenticity(string)

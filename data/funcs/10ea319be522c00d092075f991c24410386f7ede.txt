@@ -1,0 +1,6 @@
+kill()
+ideal_warn_timed(uint256,uint128)
+0xb2cecdc3
+0xff7799c5
+isPregnant(uint256)
+giveBirth(uint256)

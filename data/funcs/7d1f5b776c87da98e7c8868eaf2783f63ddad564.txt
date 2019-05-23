@@ -1,0 +1,2 @@
+setNumber(uint256)
+number()

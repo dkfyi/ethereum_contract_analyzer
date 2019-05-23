@@ -1,0 +1,13 @@
+0x0958a9f3
+0x10840303
+admins(address)
+add()
+transferOwner(address)
+0x60c0388c
+ideal_warn_timed(uint256,uint128)
+0xace33c67
+0xdfb6c468
+invest()
+transferOwnership(address)
+0xd353ffa9
+transferOwnership(address)

@@ -1,0 +1,4 @@
+getBalanceInEth(address)
+many_msg_babbage(bytes1)
+getBalance(address)
+convert(uint256,uint256)

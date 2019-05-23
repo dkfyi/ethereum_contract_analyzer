@@ -1,0 +1,5 @@
+payer()
+release(uint256)
+burn(uint256)
+recipient()
+burnAddress()

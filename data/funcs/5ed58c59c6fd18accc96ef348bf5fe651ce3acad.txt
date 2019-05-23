@@ -1,0 +1,10 @@
+0x062dfffa
+0x17dd1e59
+deleteShare(address)
+doPayments()
+changeRecipientAddress(address)
+getMyBalance()
+addShare(address,uint256)
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+changeShare(address,uint256)

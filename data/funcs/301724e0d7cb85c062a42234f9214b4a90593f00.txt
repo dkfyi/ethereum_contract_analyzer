@@ -1,0 +1,8 @@
+0x0a3b2cb4
+0x2a048ab5
+nextContract()
+0xdc2f4e0e
+withdraw(address,uint256)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

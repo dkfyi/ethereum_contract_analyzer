@@ -1,0 +1,11 @@
+exchangeRate()
+0x50f9b6cd
+ETHUSD()
+ideal_warn_timed(uint256,uint128)
+0x8ffa56b1
+0x98bc7c87
+totalDiscount(uint256,uint256,string)
+getLatest(uint256,uint256)
+transferOwnership(address)
+0xfc2650d8
+0x05f5e100

@@ -1,0 +1,7 @@
+H4DAddress()
+myDividends()
+makeItRain()
+myTokens()
+myDividends(bool)
+reinvest()
+myTokens()

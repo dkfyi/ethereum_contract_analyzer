@@ -1,0 +1,9 @@
+setToken(address)
+beneficiary()
+release()
+crowdsale()
+token()
+finalizedTime()
+0x03c26700
+balanceOf(address)
+many_msg_babbage(bytes1)

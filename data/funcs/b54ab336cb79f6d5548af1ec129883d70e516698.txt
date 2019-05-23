@@ -1,0 +1,3 @@
+0x0965b0dd
+kill()
+changeOwner(address)

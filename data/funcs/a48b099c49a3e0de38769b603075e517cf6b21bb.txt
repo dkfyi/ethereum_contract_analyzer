@@ -1,0 +1,9 @@
+0x4883c329
+payoutAmount()
+0x7960eff8
+0x7c67a3e2
+percentRate()
+ownerAddress()
+balance(address)
+0xf3f7d633
+0xf488fdd0

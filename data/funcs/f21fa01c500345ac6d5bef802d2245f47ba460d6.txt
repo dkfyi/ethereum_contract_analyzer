@@ -1,0 +1,8 @@
+name()
+0x0eff55e3
+available_assert_time(uint16,uint64)
+getContractAddress()
+0x36f2c437
+0x59fc20bb
+link_classic_internal(uint64,int64)
+0x96958e19

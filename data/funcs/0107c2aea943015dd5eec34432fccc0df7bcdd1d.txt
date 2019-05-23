@@ -1,0 +1,5 @@
+getExtensionPublication(string)
+getInfos()
+0xd33ef3a1
+getInitiated()
+haveExtension(string)

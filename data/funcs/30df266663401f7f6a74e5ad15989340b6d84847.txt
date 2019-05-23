@@ -1,0 +1,7 @@
+object()
+buyObject(address)
+ideal_warn_timed(uint256,uint128)
+closeShop()
+shopSettings()
+transferOwnership(address)
+mint(address,uint256)

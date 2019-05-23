@@ -1,0 +1,7 @@
+balances(address)
+getPercent()
+getDepositMultiplier()
+0x7c67a3e2
+0x8beab70e
+ideal_warn_timed(uint256,uint128)
+authorizationPayment()

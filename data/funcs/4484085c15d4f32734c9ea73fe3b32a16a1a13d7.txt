@@ -1,0 +1,6 @@
+ticketPrice()
+rand()
+payout()
+maxTickets()
+0xc615ff3b
+payout()

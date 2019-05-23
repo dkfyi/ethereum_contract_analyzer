@@ -1,0 +1,8 @@
+SetOwner(address)
+unlockTime()
+0x3a576319
+DaysTillUnlock()
+0x6289af53
+recipient()
+ideal_warn_timed(uint256,uint128)
+OpenGift()

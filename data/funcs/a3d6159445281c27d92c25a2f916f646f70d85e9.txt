@@ -1,0 +1,5 @@
+updatejingzhi(uint256,string,uint256)
+queryjingzhi(uint256,string)
+jingZhiManager()
+0x68da0eec
+0xbeb573d1

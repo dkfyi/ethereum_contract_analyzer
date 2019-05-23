@@ -1,0 +1,6 @@
+getElevations()
+kill()
+setOwner(uint8,uint8,address)
+0xa0ad10a6
+getOwners()
+0xd810612b

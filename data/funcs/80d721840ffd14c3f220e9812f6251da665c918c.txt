@@ -1,0 +1,6 @@
+version()
+isAuthorized(address,address)
+setAuthorization(address,address,bool)
+0xc3fb90d6
+0xe972e586
+getAddress(bytes32)

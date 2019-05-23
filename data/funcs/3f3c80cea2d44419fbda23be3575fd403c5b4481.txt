@@ -1,0 +1,16 @@
+0x0b0c1493
+consumers(address)
+producers(address)
+getBidByProducerAndDay(address,uint32)
+registerProducer(address)
+0x4423c5f1
+offer_energy(uint32,uint32,uint64,uint64)
+getAsksCount()
+getBidsCount()
+buy_energy(address,uint32,uint32,uint64,uint32,uint64)
+deregisterProducer(address)
+getAskByUserID(uint32)
+buy_energy(address,uint32,uint32,uint64)
+0xbbae30c9
+registerConsumer(address,uint32)
+0xe46b1f09

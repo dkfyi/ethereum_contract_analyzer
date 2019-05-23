@@ -1,0 +1,11 @@
+getRecord(uint256)
+unpause()
+0x4cfabebe
+paused()
+pause()
+ideal_warn_timed(uint256,uint128)
+0x9cc8525d
+nonFungibleContract()
+0xf0503e80
+transferOwnership(address)
+0x01000000

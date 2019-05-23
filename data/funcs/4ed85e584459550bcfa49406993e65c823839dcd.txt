@@ -1,0 +1,12 @@
+nextDraw()
+0x3cb5d100
+goal()
+0x42e94c90
+changeHost(address)
+destroy()
+setDrawDate(uint256)
+numContributors()
+addToContribution()
+recentWins(uint256)
+host()
+0x6ee38a35

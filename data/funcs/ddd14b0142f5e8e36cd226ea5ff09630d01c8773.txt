@@ -1,0 +1,13 @@
+0x065b2c13
+adminUnregister(string)
+0x0cc3be2f
+register(string,address)
+getNumberOfAccounts()
+adminRetrieveDonations()
+adminDeleteRegistry()
+adminSetAccountAdministrator(address)
+0x4dfcf411
+adminSetRegistrationDisabled(bool)
+0xab99d510
+unregister()
+getAddressOfId(uint256)

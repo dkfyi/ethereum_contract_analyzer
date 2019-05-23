@@ -1,0 +1,12 @@
+0x1113a5b6
+0x14f19804
+0x17a00ed3
+0x1d4cec60
+0x2bd8f1df
+developerAddr()
+setContractAddress(address)
+0x685c8eff
+computeEarningsAmount(uint256,uint256,uint256,uint256,uint256)
+adminAddr()
+getStageTargetAmount(uint256)
+0x3b9aca00

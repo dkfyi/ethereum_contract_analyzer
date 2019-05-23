@@ -1,0 +1,10 @@
+getVersion()
+checkIn()
+kill()
+0x82678dd6
+getOwner()
+0x8f4f106e
+0x9f417563
+setKey(string)
+0xb1bedda3
+0xdbf4ab4e

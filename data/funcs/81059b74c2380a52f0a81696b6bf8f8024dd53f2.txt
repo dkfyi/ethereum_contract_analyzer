@@ -1,0 +1,4 @@
+getAdopters()
+gimmeTendies(address,uint256)
+returnEth(address,uint256)
+adopt(uint256)

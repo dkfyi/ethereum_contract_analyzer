@@ -1,0 +1,10 @@
+0x22d2a9f9
+0x3164d955
+receiveToken(uint256)
+0x3ddea47c
+setServiceTokenAddress(address)
+ideal_warn_timed(uint256,uint128)
+getMaxNumberOfTokens()
+0xef464902
+balanceOf(address)
+many_msg_babbage(bytes1)

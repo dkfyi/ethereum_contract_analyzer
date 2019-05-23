@@ -1,0 +1,6 @@
+transfer(address)
+kill()
+Limit()
+DataBase()
+Owner()
+0xfd28ec3e

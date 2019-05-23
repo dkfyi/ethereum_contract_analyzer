@@ -1,0 +1,7 @@
+0x8a0ccd56
+0x06f2bf62
+0x06f2bf62
+0xb040d545
+0xddf7e1a7
+allowance(address,address)
+approve(address,uint256)

@@ -1,0 +1,9 @@
+getOwnerAddress()
+0x14d11544
+0x15c79396
+0x24eb4289
+getContractAddress()
+0x7bd6fd9b
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

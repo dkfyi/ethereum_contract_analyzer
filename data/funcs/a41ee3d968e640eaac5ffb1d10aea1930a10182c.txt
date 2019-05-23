@@ -1,0 +1,12 @@
+withdraw()
+claim()
+0x71493aeb
+0x8c3bc7ef
+claimWinnings()
+currentGameCost()
+claimTile(uint256,uint256,uint256)
+currentGameNumber()
+numTilesClaimed()
+NUM_TILES()
+getRightCoordinate(bytes1)
+getLeftCoordinate(bytes1)

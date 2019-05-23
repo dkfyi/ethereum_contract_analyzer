@@ -1,0 +1,5 @@
+0x2f4b87bd
+kill()
+0x9cf27f37
+getNumber()
+setName(string)

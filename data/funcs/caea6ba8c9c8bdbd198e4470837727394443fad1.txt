@@ -1,0 +1,16 @@
+registrator(address)
+0x267b6665
+0x437b7e25
+0x57324cd2
+0x6b279ea3
+ideal_warn_timed(uint256,uint128)
+updateRegistratorStatus(address,bool)
+0xa10b3220
+0xb11cfa7c
+0xbf1b9387
+documents(uint256)
+0xc89c3d9e
+0xd4448235
+0xd9c0b512
+0xe991b59e
+transferOwnership(address)

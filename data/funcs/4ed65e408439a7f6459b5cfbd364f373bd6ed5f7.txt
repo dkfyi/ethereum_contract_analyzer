@@ -1,0 +1,5 @@
+lucky_number()
+attempts()
+last_number()
+admin_kill()
+winner()

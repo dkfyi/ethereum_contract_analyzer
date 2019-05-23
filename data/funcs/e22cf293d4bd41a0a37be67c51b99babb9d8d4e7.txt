@@ -1,0 +1,3 @@
+withdraw()
+bet(uint256)
+buyTicket(uint256)

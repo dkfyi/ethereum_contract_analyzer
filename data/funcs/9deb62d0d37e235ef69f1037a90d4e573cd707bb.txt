@@ -1,0 +1,5 @@
+name()
+tokenReward()
+link_classic_internal(uint64,int64)
+comment()
+many_msg_babbage(bytes1)

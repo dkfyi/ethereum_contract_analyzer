@@ -1,0 +1,14 @@
+addExecutor(address)
+removeExecutor(address)
+executePullPayment(address,string)
+getRate(string)
+deletePullPayment(uint8,bytes32,bytes32,string,address,address)
+renounceOwnership()
+0x7d45bd2f
+ideal_warn_timed(uint256,uint128)
+registerPullPayment(uint8,bytes32,bytes32,string,string,address,address,string,uint256,uint256,uint256,uint256,uint256)
+0x9ac2a011
+setRate(string,uint256)
+transferOwnership(address)
+token()
+gasprice_bit_ether(int128)

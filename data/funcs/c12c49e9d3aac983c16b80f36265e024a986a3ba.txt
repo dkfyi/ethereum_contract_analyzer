@@ -1,0 +1,11 @@
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+0x31d67353
+0x430f6ce2
+version()
+balanceOf(address)
+totalEthInWei()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xac19a2a9

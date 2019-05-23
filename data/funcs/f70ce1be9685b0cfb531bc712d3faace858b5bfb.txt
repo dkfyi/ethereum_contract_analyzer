@@ -1,0 +1,6 @@
+setOwner(address)
+ideal_warn_timed(uint256,uint128)
+persons(uint256)
+payoutIdx()
+balance()
+enter()

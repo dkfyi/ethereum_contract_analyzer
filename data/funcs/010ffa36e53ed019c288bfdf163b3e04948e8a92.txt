@@ -1,0 +1,8 @@
+0x01bc7742
+hotWallet()
+kill()
+0x66698774
+ideal_warn_timed(uint256,uint128)
+setHotWallet(address)
+0xbe170c29
+transferOwnership(address)

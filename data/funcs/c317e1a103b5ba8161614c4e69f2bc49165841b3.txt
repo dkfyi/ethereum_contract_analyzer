@@ -1,0 +1,11 @@
+0x1dc2ae38
+0x6763583e
+0x6d24c846
+addOrgCertificate(string)
+ideal_warn_timed(uint256,uint128)
+0x962f5f18
+getCertificateInfoByNo(address,uint8)
+0xc1fdc0d6
+getOrgInfo(address)
+0xd1e65191
+0xde0cf157

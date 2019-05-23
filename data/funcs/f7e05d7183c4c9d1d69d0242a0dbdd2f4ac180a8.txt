@@ -1,0 +1,14 @@
+totalTokenSupply()
+getPayouts(address)
+withdraw()
+withdrawEther(uint32)
+tokenContract()
+0x6fcd5b99
+bitcoinContract()
+ideal_warn_timed(uint256,uint128)
+transferAnyERC20Token(address,uint256)
+0xf83b149f
+getBalance(address)
+addMinerTokens(uint32,address[],uint32[])
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

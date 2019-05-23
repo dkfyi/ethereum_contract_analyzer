@@ -1,0 +1,13 @@
+endTime()
+kill()
+endOfRound()
+0x74b11d8a
+startTime()
+currentRound()
+winningBid()
+0x9d78325d
+0xa7eaa241
+0xb0b2e607
+0xd7c654c6
+winner()
+0xfeef5559

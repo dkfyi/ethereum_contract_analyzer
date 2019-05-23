@@ -1,0 +1,2 @@
+sol_clean(uint256,uint256)
+asm_clean(uint256,uint256)

@@ -1,0 +1,4 @@
+0x746c181b
+sendCoin(address,uint256)
+0xdaca6f78
+getBalance(address)

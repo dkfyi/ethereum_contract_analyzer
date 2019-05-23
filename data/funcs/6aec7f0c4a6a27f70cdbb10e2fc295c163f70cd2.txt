@@ -1,0 +1,4 @@
+targetContractId()
+setController(address)
+controller()
+getContract(bytes32)

@@ -1,0 +1,5 @@
+draw()
+random(uint256)
+getTicket()
+winner()
+entrants(uint256)

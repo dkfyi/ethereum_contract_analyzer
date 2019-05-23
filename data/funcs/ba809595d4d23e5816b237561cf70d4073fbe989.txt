@@ -1,0 +1,7 @@
+kill()
+0x7cf3a433
+0x8b69450d
+0x8f486210
+sendCoin(address,uint256)
+coinBalanceOf(address)
+0xcf8c8ed6

@@ -1,0 +1,9 @@
+0x1d4db761
+0x3e7d47bf
+kill()
+ideal_warn_timed(uint256,uint128)
+0x978285ff
+bulkSend(address[],uint256[])
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

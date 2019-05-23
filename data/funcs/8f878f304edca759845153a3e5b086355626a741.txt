@@ -1,0 +1,15 @@
+0x0ae6da48
+0x0f53c069
+setOwner(address)
+bets(uint256)
+0x25c4e875
+0x27963395
+cancelBet(uint256)
+0x4768d4ef
+0x479c2d4b
+getProfit()
+destroy()
+ideal_warn_timed(uint256,uint128)
+setFee(uint16)
+0xbecd46ad
+fee()

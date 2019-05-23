@@ -1,0 +1,12 @@
+addExtension(address)
+removeExtension(address)
+0x3400f6cc
+withdraw()
+0x497716e3
+getSettings()
+ideal_warn_timed(uint256,uint128)
+0xada78ea6
+0xc612343f
+0xdebd753f
+transferOwnership(address)
+0xfa2820b4

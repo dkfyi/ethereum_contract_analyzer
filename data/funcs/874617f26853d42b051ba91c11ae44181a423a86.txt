@@ -1,0 +1,7 @@
+finalizeCrowdsale()
+isFinalizeAgent()
+isSane()
+crowdsale()
+token()
+releaseTokenTransfer()
+releaseAgent()

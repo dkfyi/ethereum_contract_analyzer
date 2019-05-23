@@ -1,0 +1,5 @@
+0x5923be0d
+DranMe()
+becomePlayer()
+manipulateSecret()
+claimPrize()

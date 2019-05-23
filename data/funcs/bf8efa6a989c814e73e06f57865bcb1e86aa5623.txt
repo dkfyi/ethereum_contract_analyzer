@@ -1,0 +1,17 @@
+0x193a2050
+0x23e23746
+bonus(uint256)
+0x42b03ee7
+0x4898d98d
+0x5d19d233
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0x8dc3505b
+0x9a4e4936
+0x9fa4bcb6
+0xbf9ae089
+0xd6ff23f2
+0xe41bea25
+0xee8c2bd0
+transferOwnership(address)
+0xfe8287a7

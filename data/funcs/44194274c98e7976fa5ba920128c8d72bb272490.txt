@@ -1,0 +1,8 @@
+approve(address,uint256)
+mint(address,uint256)
+ownerTransferFrom(address,address,uint256)
+balanceOf(address)
+tranferFrom(address,address,uint256)
+many_msg_babbage(bytes1)
+allowance(address,address)
+unapprove(address)

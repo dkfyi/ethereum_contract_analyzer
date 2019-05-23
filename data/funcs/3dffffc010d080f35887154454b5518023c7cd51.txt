@@ -1,0 +1,5 @@
+0x09e2d1a6
+kill()
+getPrizePool()
+Coin()
+0xbcaec98a

@@ -1,0 +1,17 @@
+0x2866e77a
+0x448c1635
+0x4b47741f
+0x6d4478b9
+0x87be68c5
+0x8c2275b0
+0x9959b824
+winners(uint256)
+0xd0380340
+0xdb595b3b
+0xdd6df21a
+geneScience()
+allowance(address,address)
+gasprice_bit_ether(int128)
+0xd1f90e30
+totalSupply()
+extCreateBot(uint256,uint256,uint256,uint256,address)

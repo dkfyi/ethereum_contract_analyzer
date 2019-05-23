@@ -1,0 +1,7 @@
+getPercent()
+getDepositMultiplier()
+totalDeposits()
+0x804fed28
+0x8aac1362
+0xb9c797f6
+balance(address)

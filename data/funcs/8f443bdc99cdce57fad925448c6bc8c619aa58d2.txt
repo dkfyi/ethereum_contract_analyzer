@@ -1,0 +1,7 @@
+kill()
+0x5d149f2a
+0x683d1681
+setGreeting(string)
+_owner()
+0xc71bf6f0
+greet()

@@ -1,0 +1,12 @@
+jadd(uint256,uint256,uint256,uint256,uint256,uint256)
+hash_pubkey_to_pubkey(uint256,uint256)
+jrecover_y(uint256,uint256)
+jdecompose(uint256,uint256,uint256)
+jsub(uint256,uint256,uint256,uint256,uint256,uint256)
+jdouble(uint256,uint256,uint256)
+isbit(uint256,uint256)
+jexp(uint256,uint256,uint256)
+0xd876fb21
+jtest()
+0x400000f4
+0x400000f4

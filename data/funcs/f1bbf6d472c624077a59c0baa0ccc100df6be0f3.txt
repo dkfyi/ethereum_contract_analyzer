@@ -1,0 +1,11 @@
+0x2616d253
+beneficiary()
+0x47e8a548
+0x6a310813
+tokenReward()
+amountRaised()
+withdrawal()
+preSalePrice()
+getBalance(address)
+many_msg_babbage(bytes1)
+getBalance(address)

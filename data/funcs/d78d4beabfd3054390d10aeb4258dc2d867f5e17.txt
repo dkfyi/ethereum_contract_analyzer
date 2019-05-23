@@ -1,0 +1,8 @@
+totalDelegations()
+0x1f0b2f32
+_rawGetTokenDelegation(address,address)
+resolveDelegation(address,address)
+ideal_warn_timed(uint256,uint128)
+setGlobalDelegation(address)
+setTokenDelegation(address,address)
+_rawGetGlobalDelegation(address)

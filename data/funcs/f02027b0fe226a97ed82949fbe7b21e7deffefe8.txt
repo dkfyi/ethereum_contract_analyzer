@@ -1,0 +1,8 @@
+0x09d4aa62
+kill()
+0x863c16ff
+0xb2cecdc3
+0xc959e072
+0xff7799c5
+isPregnant(uint256)
+giveBirth(uint256)

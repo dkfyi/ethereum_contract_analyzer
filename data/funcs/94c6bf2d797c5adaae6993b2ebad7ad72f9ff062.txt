@@ -1,0 +1,10 @@
+0x150cdf37
+registerProposal(uint256,uint256[])
+getTotalVotersCount()
+getTotalProposalsCount()
+getProposalVotesCount(uint256)
+getProposalVotersCount(uint256)
+0xd4e8bb86
+getCKOwner(uint256)
+0xeb6a8ef8
+ownerOf(uint256)

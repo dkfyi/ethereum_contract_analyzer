@@ -1,0 +1,13 @@
+0x0360a0e4
+_ownerOf(uint256)
+0x4474891d
+0x5a4dce76
+0x71767e78
+ideal_warn_timed(uint256,uint128)
+0x901e4229
+constructor()
+balance()
+_balanceOf(address)
+ownerOf(uint256)
+balanceOf(address)
+many_msg_babbage(bytes1)

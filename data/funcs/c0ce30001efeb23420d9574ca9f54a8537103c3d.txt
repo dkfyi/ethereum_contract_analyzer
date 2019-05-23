@@ -1,0 +1,11 @@
+setContractName(string)
+0x33d8e379
+0x8222e88b
+many_msg_babbage(bytes1)
+0xac19a2a9
+buy(uint256)
+gameInfo()
+0xe1ad418e
+getContractName()
+getCurrentRoundLeft()
+0x3b9aca00

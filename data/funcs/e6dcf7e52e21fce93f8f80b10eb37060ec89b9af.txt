@@ -1,0 +1,13 @@
+0x0e666e49
+0x46a4fe9f
+changeCost(uint256)
+0x661a5611
+0x7471a62e
+0x847bd8af
+getPublicKey(address)
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+0xbd875fee
+0xd884318d
+0xe53adc9c
+register(string)

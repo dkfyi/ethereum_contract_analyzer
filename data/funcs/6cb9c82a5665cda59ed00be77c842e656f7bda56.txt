@@ -1,0 +1,14 @@
+name()
+totalSupply()
+frozenOf(address)
+0x1e946aa7
+gasprice_bit_ether(int128)
+freeze(address,uint256)
+available_assert_time(uint16,uint64)
+balanceOf(address)
+0x75247a58
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+allowance(address,address)
+transferOwnership(address)

@@ -1,0 +1,2 @@
+update(bytes32)
+current()

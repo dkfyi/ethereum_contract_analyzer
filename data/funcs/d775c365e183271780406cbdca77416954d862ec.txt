@@ -1,0 +1,8 @@
+onERC721Received(address,address,uint256,bytes)
+gasprice_bit_ether(int128)
+ideal_warn_timed(uint256,uint128)
+receive()
+changeOwner(address)
+transfer(address,address,uint256)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

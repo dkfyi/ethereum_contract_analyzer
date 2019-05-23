@@ -1,0 +1,4 @@
+kill()
+0x93bd5160
+p()
+vote(string)

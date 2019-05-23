@@ -1,0 +1,8 @@
+distribute(address[],uint256[])
+0x36a1b5a0
+manager()
+checkAllowance()
+checkBalance()
+many_msg_babbage(bytes1)
+allowance(address,address)
+balanceOf(address)

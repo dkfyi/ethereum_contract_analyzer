@@ -1,0 +1,3 @@
+selfAddress()
+0x45d364c0
+buy()

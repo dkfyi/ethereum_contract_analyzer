@@ -1,0 +1,9 @@
+upgrade(address)
+getAddress(bytes32)
+0x40129a40
+add(bytes32,address)
+0x9b8831df
+isAdmin(address)
+isAdmin(address)
+isAdmin(address)
+0x9b8831df

@@ -1,0 +1,5 @@
+tokenReward()
+0xb789acf2
+transferOwnership(address)
+admin()
+0xaac756b8

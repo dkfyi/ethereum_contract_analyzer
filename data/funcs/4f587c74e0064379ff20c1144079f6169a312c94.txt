@@ -1,0 +1,8 @@
+0x04031852
+mint(string,uint256)
+withdraw()
+supplyOf(string)
+setFee(uint256)
+ideal_warn_timed(uint256,uint128)
+transfer(string,address,uint256)
+fee()

@@ -1,0 +1,14 @@
+isDev(address)
+removeAdmin(address)
+isAdmin(address)
+adminCount()
+changeRequiredDevSignatures(uint256)
+addAdmin(address,bytes32,bool)
+changeRequiredSignatures(uint256)
+requiredSignatures()
+adminName(address)
+devCount()
+0xd0704a11
+requiredDevSignatures()
+deposit()
+0x616e6e6f

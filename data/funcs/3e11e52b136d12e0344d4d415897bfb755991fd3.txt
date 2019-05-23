@@ -1,0 +1,13 @@
+0x516c4b84
+isApproved(address)
+0x6943b017
+balanceOf(address)
+0x97a5d5b5
+many_msg_babbage(bytes1)
+isFrozen(address)
+0xfb55a055
+0x13c01368
+0x9afd453c
+0x295f36d7
+0x295f36d7
+0x461b09c0

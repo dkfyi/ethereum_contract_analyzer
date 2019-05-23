@@ -1,0 +1,6 @@
+proposals(uint256)
+executeProposal(uint256)
+0x24a7f211
+tokenAddress()
+vote(uint256,bool)
+balanceOf(address)

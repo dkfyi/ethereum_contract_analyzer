@@ -1,0 +1,8 @@
+minLimit()
+balanceOf(address)
+isFinished()
+ideal_warn_timed(uint256,uint128)
+finishICO()
+totalRaised()
+deposit()
+transferOwnership(address)

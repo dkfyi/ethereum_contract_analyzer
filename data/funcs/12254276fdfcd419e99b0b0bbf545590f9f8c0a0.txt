@@ -1,0 +1,17 @@
+name()
+totalSupply()
+ROLE_WHITELISTED()
+hasRole(address,string)
+removeAddressesFromWhitelist(address[])
+removeAddressFromWhitelist(address)
+available_assert_time(uint16,uint64)
+0x6b385e09
+balanceOf(address)
+addAddressToWhitelist(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+whitelist(address)
+0x9f0e622c
+many_msg_babbage(bytes1)
+0xc7fac570
+addAddressesToWhitelist(address[])

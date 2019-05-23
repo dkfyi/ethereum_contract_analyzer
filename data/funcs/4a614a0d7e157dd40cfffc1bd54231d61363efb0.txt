@@ -1,0 +1,10 @@
+0x2e6e800b
+setCrowdsale(address)
+partnerAddress()
+ideal_warn_timed(uint256,uint128)
+crowdsale()
+setPartnerETHRewardsPercent(uint256)
+partnerETHRewardsPercent()
+withdrawToFounders(uint256)
+transferOwnership(address)
+icoPartner(address,uint256)

@@ -1,0 +1,11 @@
+0x1f58e670
+Withdraw(uint256)
+setPrice(uint256)
+price()
+0xb2dd7cc8
+balance()
+tokenFallback(address,uint256,bytes)
+token()
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

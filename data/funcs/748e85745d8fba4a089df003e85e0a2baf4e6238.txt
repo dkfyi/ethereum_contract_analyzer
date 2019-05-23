@@ -1,0 +1,12 @@
+0x48d45d80
+0x550959d0
+0xaaa8c294
+0xce3dde9b
+Destroy()
+0xf91179ed
+balanceOf(address)
+available_assert_time(uint16,uint64)
+balanceOf(address)
+many_msg_babbage(bytes1)
+available_assert_time(uint16,uint64)
+many_msg_babbage(bytes1)

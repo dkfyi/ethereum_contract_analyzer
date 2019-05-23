@@ -1,0 +1,4 @@
+commitTo(bytes32)
+0x92d3199b
+SHA256(string)
+claim(string)

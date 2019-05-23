@@ -1,0 +1,12 @@
+0x3ad71f1f
+0x425d784f
+0x44b3b11b
+0x4e080682
+isGeneScience()
+0x55a19de3
+getColor(uint256)
+0x84425a84
+getRandom(uint256)
+0xdf720497
+0xe976b4b7
+0xedd7f02a

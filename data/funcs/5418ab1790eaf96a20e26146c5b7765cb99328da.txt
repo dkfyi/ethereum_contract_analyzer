@@ -1,0 +1,15 @@
+0x015a0488
+name()
+0x2b4e4e96
+available_assert_time(uint16,uint64)
+getContractAddress()
+0x4bd13cdd
+isStormBirdContract()
+balanceOf(address)
+0x7a230791
+link_classic_internal(uint64,int64)
+endContract()
+myBalance()
+0xcf0b41a3
+getDecimals()
+0xfe60ebdc

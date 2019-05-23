@@ -1,0 +1,12 @@
+parseOutputScript(bytes,uint256,uint256)
+parseVarInt(bytes,uint256)
+isP2PKH(bytes,uint256,uint256)
+scanOutputs(bytes,uint256,uint256)
+sliceBytes20(bytes,uint256)
+isP2SH(bytes,uint256,uint256)
+getBytesLE(bytes,uint256,uint256)
+getFirstTwoOutputs(bytes)
+scanInputs(bytes,uint256,uint256)
+checkValueSent(bytes,bytes20,uint256)
+0x01000000
+0x01000000

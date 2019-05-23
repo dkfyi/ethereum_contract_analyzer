@@ -1,0 +1,3 @@
+0x0f91a4de
+0x20201c01
+ratings(bytes32)

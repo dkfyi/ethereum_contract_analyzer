@@ -1,0 +1,8 @@
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+update()
+randomNumber()
+getAddress()
+getAddress()
+getPrice(string)
+query(uint256,string,string)

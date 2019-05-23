@@ -1,0 +1,8 @@
+readTeamByIndex(uint256)
+readTeam(bytes32)
+0x2a00a46a
+deleteTeam(bytes32)
+countTeam()
+0x960aa675
+0xa2f6be43
+0xaf9a1ec1

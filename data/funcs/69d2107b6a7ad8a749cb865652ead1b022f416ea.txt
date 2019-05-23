@@ -1,0 +1,10 @@
+0x16ce5d54
+removeOwner(address)
+isOwner(address)
+m_numOwners()
+0x5e59b39d
+0x6c1a5f85
+addOwner(address)
+revoke(bytes32)
+hasConfirmed(bytes32,address)
+changeOwner(address,address)

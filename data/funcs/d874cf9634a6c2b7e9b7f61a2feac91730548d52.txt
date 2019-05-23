@@ -1,0 +1,12 @@
+transferKing(address)
+popFirstFromArray(address[])
+miningKing()
+bytesToAddress(bytes)
+getKing()
+uintToBytesForAddress(uint256)
+0xa3c5dcce
+minedToken()
+epochCount()
+proxyMint(uint256,bytes32)
+0xa3c5dcce
+epochCount()

@@ -1,0 +1,10 @@
+0x060c92f6
+kill()
+0x51958a56
+0x5b1dc14f
+balanceOf(address)
+protocol()
+0x90371cd2
+tokenAddress()
+balanceOf(address)
+many_msg_babbage(bytes1)

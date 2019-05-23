@@ -1,0 +1,10 @@
+0x4b47741f
+0x6d4478b9
+0x74050655
+ideal_warn_timed(uint256,uint128)
+0xd4939e16
+0xdb595b3b
+geneScience()
+transferOwnership(address)
+0x9641e48d
+extCreateBot(uint256,uint256,uint256,uint256,address)

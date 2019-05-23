@@ -1,0 +1,4 @@
+0x43e42622
+calculatePrice(uint256,uint16)
+basePrice()
+purchaseFor(address,uint16,address)

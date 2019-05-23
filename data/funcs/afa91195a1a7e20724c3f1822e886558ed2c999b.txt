@@ -1,0 +1,6 @@
+balanceOf(address,bytes32)
+transfer(address,uint256,bytes32)
+0x9d12e015
+totalSupply(bytes32)
+0xc4242719
+assets(uint256)

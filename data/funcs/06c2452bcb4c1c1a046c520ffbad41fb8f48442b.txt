@@ -1,0 +1,5 @@
+Jeopardy()
+NewQuestion(string,bytes32)
+QuestionIs(string,string)
+EndQuestion()
+Answer(string)

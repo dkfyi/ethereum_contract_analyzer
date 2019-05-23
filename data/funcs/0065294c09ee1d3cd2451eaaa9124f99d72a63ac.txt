@@ -1,0 +1,7 @@
+0x3a2ac06a
+updateOwner(address)
+0xc1dcec83
+suicide()
+0xe59d0a00
+getInitiated()
+0xfbc51e4b

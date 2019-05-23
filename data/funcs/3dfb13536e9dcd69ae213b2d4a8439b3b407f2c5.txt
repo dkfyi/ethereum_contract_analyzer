@@ -1,0 +1,7 @@
+0x17983a06
+bid()
+getCurrentWinner()
+withdraw()
+0x571a26a0
+ideal_warn_timed(uint256,uint128)
+0xdcb66f12

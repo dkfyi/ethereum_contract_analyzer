@@ -1,0 +1,3 @@
+gasprice_bit_ether(int128)
+burn()
+setStart(uint256)

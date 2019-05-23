@@ -1,0 +1,10 @@
+0x4b47741f
+0x6d4478b9
+winners(uint256)
+0xdb595b3b
+geneScience()
+0xd1f90e30
+totalSupply()
+extCreateBot(uint256,uint256,uint256,uint256,address)
+0x9641e48d
+extCreateBot(uint256,uint256,uint256,uint256,address)

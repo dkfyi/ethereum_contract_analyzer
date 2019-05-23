@@ -1,0 +1,13 @@
+0x0d72c639
+setOwner(address)
+cfo()
+0x2d46ed56
+kill()
+0x646d0f70
+getBetInfo(uint256)
+ideal_warn_timed(uint256,uint128)
+0x9761409b
+withdrawFunds(address,uint256)
+lockedInBets()
+refundBet(uint256)
+0xf6a45ab4

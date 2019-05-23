@@ -1,0 +1,12 @@
+0xd46bdcad
+0xd46bdcad
+leave()
+0xd93d7d29
+0xf560c734
+VERSION()
+isGuardian(address)
+registrationDeposit()
+register(string,string)
+0x4b139a47
+0x7f72185a
+0x6f6e6420

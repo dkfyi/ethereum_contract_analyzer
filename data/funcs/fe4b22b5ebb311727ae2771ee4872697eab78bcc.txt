@@ -1,0 +1,6 @@
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0xb2c536d1
+bouncyCoinToken()
+transferOwnership(address)
+many_msg_babbage(bytes1)

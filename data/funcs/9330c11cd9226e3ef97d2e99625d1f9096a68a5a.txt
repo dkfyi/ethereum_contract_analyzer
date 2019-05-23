@@ -1,0 +1,3 @@
+buyRedirect()
+kill()
+buyRedirectFor(address)

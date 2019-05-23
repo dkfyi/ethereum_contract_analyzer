@@ -1,0 +1,11 @@
+name()
+isApprovedOnceFor(address,address)
+issuer()
+isApprovedFor(address,address)
+gasprice_bit_ether(int128)
+0x5580f72a
+balanceOf(address)
+approveOnce(address,uint256)
+many_msg_babbage(bytes1)
+approve(address)
+unapprove(address)

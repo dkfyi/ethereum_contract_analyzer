@@ -1,0 +1,8 @@
+removeAdmin(address)
+add_user(address)
+addAdmin(address)
+isCurrentOrPastUser(address)
+remove_user(address)
+isCurrentAdmin(address)
+isCurrentOrPastAdmin(address)
+isCurrentUser(address)

@@ -1,0 +1,9 @@
+getItemsLength()
+cancelRequest(uint256)
+acceptRequest(uint256)
+acceptReturning(uint256)
+addItem(string,string)
+requests(uint256)
+addRequest(uint256,string,string)
+0xbfb231d2
+getRequestsLength()

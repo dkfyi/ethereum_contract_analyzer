@@ -1,0 +1,16 @@
+getType()
+setLocked(bool)
+depositAmount()
+payment()
+claimContractOwnership()
+changeContractOwnership(address)
+pendingContractOwner()
+checkPayment()
+deposit(uint256)
+0xc2f1e6bd
+contractOwner()
+locked()
+forceChangeContractOwnership(address)
+0xe102e5e3
+currency()
+price()

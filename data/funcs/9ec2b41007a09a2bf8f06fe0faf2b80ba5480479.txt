@@ -1,0 +1,3 @@
+keys(address)
+register(string)
+balanceOf(address)

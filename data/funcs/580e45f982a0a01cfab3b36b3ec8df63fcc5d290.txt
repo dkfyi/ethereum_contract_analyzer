@@ -1,0 +1,11 @@
+0x0fe2a60e
+casinoBalance()
+withdraw(uint256)
+0x3d5b60d6
+kill()
+0xa1eb05c0
+updateBalance()
+welcome()
+0xc4a16415
+deposit()
+0xd73ba845

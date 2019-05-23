@@ -1,0 +1,2 @@
+cancelOfferForCity(uint256)
+makeOfferForCity(uint16,uint256)

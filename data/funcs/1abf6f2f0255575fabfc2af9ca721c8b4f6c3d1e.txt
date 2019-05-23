@@ -1,0 +1,9 @@
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+0x15dcc012
+test(uint256)
+availableVolume(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32)
+e()
+amountFilled(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+amountFilled(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32)
+availableVolume(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32)

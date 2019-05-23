@@ -1,0 +1,4 @@
+kill()
+0x474b2d52
+getCount()
+Transfer(address,address,uint256)

@@ -1,0 +1,5 @@
+0x65bd6b7a
+ownerOf(uint256)
+purchase(uint256)
+many_msg_babbage(bytes1)
+ownerOf(uint256)

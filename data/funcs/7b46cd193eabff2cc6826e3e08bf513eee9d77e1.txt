@@ -1,0 +1,13 @@
+0x36398cc1
+kill()
+0x5ad77157
+update()
+__callback(bytes32,string,string)
+ETHXBT()
+getAddress()
+setProofType(bytes1)
+getAddress()
+query(uint256,string,string)
+getPrice(string)
+getAddress()
+cbAddress()

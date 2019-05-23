@@ -1,0 +1,8 @@
+setOwner(address)
+votedPerCent(address)
+startVoting(uint256,uint256)
+VOTING_END_TIME()
+state()
+VOTING_START_BLOCKNR()
+VERSION()
+balances(address)

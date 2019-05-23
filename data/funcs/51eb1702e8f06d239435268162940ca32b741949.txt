@@ -1,0 +1,7 @@
+getBalance()
+getAddress()
+channels(bytes32)
+0x7d2c5413
+getChannel(bytes32)
+0xe35da7fc
+0xff69909e

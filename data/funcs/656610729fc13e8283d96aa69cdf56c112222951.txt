@@ -1,0 +1,6 @@
+Answer()
+End(string)
+Start(string,bytes32)
+Riddle()
+Play(string)
+0x675b7fc8

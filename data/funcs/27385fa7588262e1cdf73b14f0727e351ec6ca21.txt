@@ -1,0 +1,10 @@
+setOwner(address)
+0x290b084b
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+authority()
+0xd94d27d4
+0xebe82bcd
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)
+canCall(address,address,bytes4)

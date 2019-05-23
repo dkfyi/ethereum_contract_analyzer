@@ -1,0 +1,6 @@
+kill(address)
+collect()
+0xef89aff3
+get()
+put()
+get()

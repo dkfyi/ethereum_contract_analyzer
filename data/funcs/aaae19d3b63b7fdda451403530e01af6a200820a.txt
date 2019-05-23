@@ -1,0 +1,8 @@
+0x5253baae
+0x8df8e17c
+0x3f63d9fe
+quickConvert(address[],uint256,uint256)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)
+approve(address,uint256)
+quickConvert(address[],uint256,uint256)

@@ -1,0 +1,10 @@
+setToken(address)
+getToken()
+isAdmin(address)
+withdrawEther(uint256)
+withdrawToken(uint256)
+addAdmin(address)
+0x8bad0c0a
+0xcf9891fb
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

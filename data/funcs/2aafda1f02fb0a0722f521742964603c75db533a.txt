@@ -1,0 +1,10 @@
+0x18e4e2c4
+setGeneScienceAddress(address)
+0x55b75789
+0x8b30c81d
+ideal_warn_timed(uint256,uint128)
+0xd6e0b89d
+0xdceede97
+geneScience()
+transferOwnership(address)
+0x470e23f1

@@ -1,0 +1,3 @@
+getBalance()
+kill()
+test()

@@ -1,0 +1,6 @@
+distribute(address,address[],uint256[])
+destroy()
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+destroyAndSend(address)
+gasprice_bit_ether(int128)

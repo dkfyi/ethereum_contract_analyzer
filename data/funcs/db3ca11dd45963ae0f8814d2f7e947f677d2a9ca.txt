@@ -1,0 +1,11 @@
+0x2f4e81c6
+0x4a14e036
+0x57660608
+carsCount()
+0xcda2dd16
+0xf980c0bc
+0xffb0f3b9
+stringToBytes32(string)
+stringToBytes32(string)
+stringToBytes32(string)
+equal(string,string)

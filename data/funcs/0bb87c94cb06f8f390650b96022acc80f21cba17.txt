@@ -1,0 +1,3 @@
+buyXid(uint256,uint256)
+buyXaddr(address,uint256)
+airDropPot_()

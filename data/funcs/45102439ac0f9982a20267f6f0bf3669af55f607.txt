@@ -1,0 +1,3 @@
+0x603ff881
+sendCoin(address,uint256)
+coinBalanceOf(address)

@@ -1,0 +1,11 @@
+0x5ca90ab2
+0x5ca90ab2
+balanceOf(address)
+link_classic_internal(uint64,int64)
+0xa5423d69
+many_msg_babbage(bytes1)
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+0x4214f62a
+version()

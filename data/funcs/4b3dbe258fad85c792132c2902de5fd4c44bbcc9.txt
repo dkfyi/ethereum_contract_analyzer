@@ -1,0 +1,2 @@
+0x1da0b8fc
+setHash(string)

@@ -1,0 +1,15 @@
+0x5b19320c
+0x5b19320c
+getMaxBet()
+0x744f78d2
+0x82a42b32
+0xeb175b7e
+getBalance()
+withdraw()
+0x473b97ea
+0x4fc59df4
+result()
+maxBet()
+play()
+0x7a68126d
+0xf4d024da

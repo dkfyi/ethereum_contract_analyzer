@@ -1,0 +1,14 @@
+name()
+0x0d57194c
+totalSupply()
+0x2682b11c
+balances(address)
+available_assert_time(uint16,uint64)
+0x466e192b
+0x63eded79
+balanceOf(address)
+0x71536f53
+link_classic_internal(uint64,int64)
+0x9885d26e
+0xcfc7ba05
+0xd1aa94a3

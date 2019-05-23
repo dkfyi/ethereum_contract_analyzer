@@ -1,0 +1,9 @@
+transferFrom(address,address,address,uint256)
+addAuthorizedAddress(address)
+0x494503d4
+removeAuthorizedAddress(address)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0xb9181611
+getAuthorizedAddresses()
+transferOwnership(address)

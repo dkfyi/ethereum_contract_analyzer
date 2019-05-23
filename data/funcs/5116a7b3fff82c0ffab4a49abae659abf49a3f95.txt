@@ -1,0 +1,11 @@
+placeBet(uint256)
+withdrawFunds(uint256)
+getInfo(uint256)
+0x249fcc70
+0x388e7117
+odds(uint256)
+balanceOf(address)
+0x75d838c3
+ideal_warn_timed(uint256,uint128)
+0x91e835d6
+times()

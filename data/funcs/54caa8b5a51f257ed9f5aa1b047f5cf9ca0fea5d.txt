@@ -1,0 +1,11 @@
+registered()
+0x440bbff7
+0x4fe5ea69
+tokenContract()
+balancesOf(address)
+migrateFrom(address,uint256)
+0x7be77ddd
+ideal_warn_timed(uint256,uint128)
+totalMigrated()
+transferOwnership(address)
+0xf0f9109d

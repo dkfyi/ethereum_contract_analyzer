@@ -1,0 +1,3 @@
+masterCalculator(uint256)
+calculatedTo()
+sqrt(uint256)

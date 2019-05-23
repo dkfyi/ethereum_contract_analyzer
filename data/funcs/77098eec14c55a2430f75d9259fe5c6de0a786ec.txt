@@ -1,0 +1,17 @@
+0x03ad38d5
+name()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+0x3ff3f7b3
+0x41e34022
+burn(uint256)
+balanceOf(address)
+burnFrom(address,uint256)
+ideal_warn_timed(uint256,uint128)
+0x90c20455
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+frozenAccount(address)
+allowance(address,address)

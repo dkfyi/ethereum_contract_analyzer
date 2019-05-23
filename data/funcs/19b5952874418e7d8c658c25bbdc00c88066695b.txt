@@ -1,0 +1,8 @@
+etherPricesAreClose(uint256,uint256)
+payMeFor(uint16)
+rejectHours()
+newChow(address)
+selfDestruct()
+newBen(address)
+newWage(uint16)
+acceptMins(uint256)

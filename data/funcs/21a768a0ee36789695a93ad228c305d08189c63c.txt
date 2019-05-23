@@ -1,0 +1,11 @@
+0x0a46e3e9
+fundPuppets()
+withdraw()
+getPuppetCount()
+setExtra(uint256,address)
+0x6f2641e1
+ideal_warn_timed(uint256,uint128)
+newPuppet()
+0x35898c89
+withdraw()
+target(uint256)

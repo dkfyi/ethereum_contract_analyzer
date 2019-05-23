@@ -1,0 +1,12 @@
+0x0c8ad6f6
+0x2bc135ec
+beneficiary()
+changeOwner()
+tokenReward()
+balanceOf(address)
+amountRaised()
+0x8958c3c2
+buyTokens()
+0xd1e387f2
+safeWithdrawal()
+many_msg_babbage(bytes1)

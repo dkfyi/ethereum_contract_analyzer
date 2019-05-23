@@ -1,0 +1,8 @@
+deposits_refunded()
+total_claim_codes()
+register_claim(string)
+refund_deposits(string)
+num_claimed()
+refund_claims(string)
+check_redeemed(string)
+end_redeem_period()

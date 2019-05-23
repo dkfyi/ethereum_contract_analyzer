@@ -1,0 +1,2 @@
+getIPFS(address,string)
+setIPFS(address,string,string)

@@ -1,0 +1,4 @@
+current()
+destination()
+shutdown()
+0x730f9da4

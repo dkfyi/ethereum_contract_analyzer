@@ -1,0 +1,2 @@
+giveBirth(uint256)
+freeFrom(address,uint256)

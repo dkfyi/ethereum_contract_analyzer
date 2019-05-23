@@ -1,0 +1,14 @@
+owners(uint256)
+transferOwnership(address[])
+allOperationsCount()
+howManyOwnersDecide()
+isOwner(address)
+allOperations(uint256)
+version()
+votesMaskByOperation(bytes32)
+0x75e1f1d9
+cancelPending(bytes32)
+votesCountByOperation(bytes32)
+0x92801230
+ownersCount()
+transferOwnershipWithHowMany(address[],uint256)

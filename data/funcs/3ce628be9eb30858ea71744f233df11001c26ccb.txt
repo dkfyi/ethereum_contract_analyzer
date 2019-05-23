@@ -1,0 +1,11 @@
+withdraw(uint256)
+bet(uint256)
+0x7e0c4a03
+ideal_warn_timed(uint256,uint128)
+collectedFees()
+returnPercentage()
+extractEth(uint256)
+collectFees()
+deposit()
+balance(address)
+transferOwnership(address)

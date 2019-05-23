@@ -1,0 +1,10 @@
+withdrawBalance(address,uint256)
+getBalance()
+withDraw(uint256)
+transfer(address)
+disown()
+close()
+setFee(uint256)
+getOwner()
+0x9842fc72
+authors(address)

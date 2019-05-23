@@ -1,0 +1,16 @@
+0x183bdeaa
+addOracles(address[])
+0x2dd7c658
+setRecipient(address)
+0x5250fec7
+0x5b69a7d8
+clearPending()
+isConfirmed(bytes32)
+recipient()
+ideal_warn_timed(uint256,uint128)
+0x95b45ee7
+0xaf6e6238
+0xc28f676b
+0xd421c49b
+0xfdc85fc4
+0x1cc41b3b

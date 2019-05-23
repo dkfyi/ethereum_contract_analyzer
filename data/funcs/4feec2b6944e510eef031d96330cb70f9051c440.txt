@@ -1,0 +1,7 @@
+finalizeAndDistributeToken()
+initCrowdsaleToken(bytes32,bytes32,uint256)
+setTransferAgentStatus(address,bool)
+finalizeCrowdsaleAndToken()
+removeReservedTokens(address)
+distributeReservedTokens(uint256)
+updateMultipleReservedTokens(address[],uint256[],uint256[],uint256[])

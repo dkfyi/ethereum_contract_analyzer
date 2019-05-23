@@ -1,0 +1,3 @@
+bet()
+shutdown()
+bet(uint256)

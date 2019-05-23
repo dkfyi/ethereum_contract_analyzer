@@ -1,0 +1,4 @@
+addUser(string)
+withdrawBalance()
+getUser(uint256)
+leaderboard(uint256)

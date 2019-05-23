@@ -1,0 +1,17 @@
+setMultisigAddress(address)
+maxCap()
+END_TIME()
+revenue()
+multisig()
+0x4a130ddc
+ideal_warn_timed(uint256,uint128)
+BEGIN_TIME()
+0xdfcc3a00
+0xe4c5676c
+crowdsaleState()
+ethRaised()
+0x59f74c80
+0x59cfbf80
+0x59f74c80
+0x59f74c80
+0x59cfbf80

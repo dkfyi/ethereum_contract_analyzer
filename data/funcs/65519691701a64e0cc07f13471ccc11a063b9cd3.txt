@@ -1,0 +1,16 @@
+setToken(address)
+users(uint256)
+withdraw()
+0x5a15f494
+0x858ced35
+ideal_warn_timed(uint256,uint128)
+0x9fe1cb1e
+amount()
+multiSend(address[],uint256[])
+0xc4172bcb
+withdraw_eth()
+token()
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

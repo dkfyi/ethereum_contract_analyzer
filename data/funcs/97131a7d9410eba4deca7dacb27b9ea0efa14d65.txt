@@ -1,0 +1,16 @@
+setEmail(string)
+0x2dd0fc9d
+0x448c1dd1
+0x5376c7fb
+setFullName(string)
+renounceOwnership()
+getEmail()
+setLocation(string)
+0x8c160186
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0x9d344c5d
+0xc9a13ebb
+0xce2ce3fc
+setTelegram(string)
+transferOwnership(address)

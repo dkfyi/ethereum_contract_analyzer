@@ -1,0 +1,6 @@
+sendEther(address,uint256)
+0xc3fc2807
+0x80000000
+0x80000000
+getKitty(uint256)
+giveBirth(uint256)

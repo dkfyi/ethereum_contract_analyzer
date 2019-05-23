@@ -1,0 +1,6 @@
+getStatistics()
+concat(string,string,string)
+getMessages()
+0xa2b4b7fd
+0xe6569275
+0xf976ae5c

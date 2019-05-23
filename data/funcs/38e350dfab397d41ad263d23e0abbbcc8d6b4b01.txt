@@ -1,0 +1,15 @@
+0x2620fb2b
+marketing()
+withdraw()
+0x4469ed14
+getDividends(address)
+ONE_DAY()
+0x8c273a98
+0x963920a3
+0x9c484b5c
+0xa87430ba
+0xaf3e2122
+0xbfaa8cca
+invest()
+admin()
+0xff60dfb6

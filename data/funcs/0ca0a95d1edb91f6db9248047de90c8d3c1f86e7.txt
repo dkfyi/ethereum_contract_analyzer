@@ -1,0 +1,12 @@
+setToken(address)
+0x1822eb70
+destroy()
+ideal_warn_timed(uint256,uint128)
+0xcbf4261b
+transferOwnership(address)
+returnTokens()
+token()
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)
+balanceOf(address)

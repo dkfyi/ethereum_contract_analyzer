@@ -1,0 +1,14 @@
+0x0a619180
+0x417a579d
+0x49b37bb5
+0x59d0ab8b
+0x8154288c
+isObsolete()
+0x915eb973
+0x9bb4e83b
+setWhitelistAddress(address)
+getControllerAddress()
+0xf18a1568
+setControllerAddress(address)
+setAddr(bytes32,address)
+setAddr(bytes32,address)

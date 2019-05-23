@@ -1,0 +1,3 @@
+unregister(bytes32)
+resolve(bytes32)
+register(bytes32,string)

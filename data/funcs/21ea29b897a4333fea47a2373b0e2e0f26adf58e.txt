@@ -1,0 +1,6 @@
+payBack()
+birthKitty()
+0x4b6e90bb
+0x8b0ad038
+transferOwnership(address)
+giveBirth(uint256)

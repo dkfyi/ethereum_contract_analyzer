@@ -1,0 +1,8 @@
+getPartnerBalance(address)
+withdraw()
+0x6585b57d
+0x8c0f9aac
+0x91840a6b
+weights(address)
+0xc3b49d04
+0xc884ef83

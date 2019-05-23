@@ -1,0 +1,3 @@
+0x3498a18e
+getCounter()
+0xccf65503

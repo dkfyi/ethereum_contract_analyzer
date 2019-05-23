@@ -1,0 +1,11 @@
+owners(uint256)
+removeOwner(address)
+isOwner(address)
+setRecipient(address)
+addOwner(address)
+0x80b7c129
+revoke(bytes32)
+changeRequirement(uint256)
+hasConfirmed(bytes32,address)
+required()
+changeOwner(address,address)

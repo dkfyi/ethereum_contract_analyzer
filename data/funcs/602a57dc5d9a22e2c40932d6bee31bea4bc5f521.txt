@@ -1,0 +1,12 @@
+0x047abed7
+lastPrice()
+admins(address)
+setAdmin(address,bool)
+setPrice(uint256)
+getPrice()
+price()
+lastUpdated()
+0xd8cf24fd
+root()
+getAvgPrice()
+token()

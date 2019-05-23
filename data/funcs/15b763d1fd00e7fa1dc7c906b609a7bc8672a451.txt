@@ -1,0 +1,3 @@
+local()
+kill()
+0xbf45554e

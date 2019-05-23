@@ -1,0 +1,8 @@
+0x147011a7
+beneficiary()
+safeWithdrawal(uint256)
+tokenReward()
+0x7b05e437
+price()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

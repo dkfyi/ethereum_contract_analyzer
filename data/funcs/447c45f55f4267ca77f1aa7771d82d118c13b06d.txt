@@ -1,0 +1,4 @@
+generateId(string)
+0x4f57331d
+logTransfer(address,address,bytes32)
+logApproval(address,address,bytes32)

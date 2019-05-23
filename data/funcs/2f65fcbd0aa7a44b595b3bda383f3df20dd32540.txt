@@ -1,0 +1,10 @@
+version()
+0x58e4e2d7
+setPrice(uint256)
+price()
+version()
+recipient()
+payoutThreshold()
+0x6e37967c
+withdrawAll()
+0xdf008921

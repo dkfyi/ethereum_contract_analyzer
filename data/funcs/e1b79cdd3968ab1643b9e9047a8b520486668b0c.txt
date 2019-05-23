@@ -1,0 +1,7 @@
+beneficiary()
+tokenReward()
+balanceOf(address)
+amountRaised()
+price()
+safeWithdrawal()
+mintToken(address,uint256)

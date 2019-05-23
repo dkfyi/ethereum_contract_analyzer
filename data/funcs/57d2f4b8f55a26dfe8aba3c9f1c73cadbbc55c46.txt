@@ -1,0 +1,12 @@
+0x13e7c9d8
+remove(address[])
+0x76fbc07e
+acceptOwnership()
+transferOwnershipImmediately(address)
+ideal_warn_timed(uint256,uint128)
+isInBonusList(address)
+addOperator(address)
+removeOperator(address)
+add(address[])
+newOwner()
+transferOwnership(address)

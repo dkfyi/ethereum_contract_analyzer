@@ -1,0 +1,7 @@
+getTimestamp()
+0x4583b029
+getContractVersion()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+getHash()
+getTitle()

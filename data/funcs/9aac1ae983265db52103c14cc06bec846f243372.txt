@@ -1,0 +1,12 @@
+getStorageAddress()
+check(address,address,address,uint256)
+0x5332a857
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+0x9230c068
+0xbc22fd1b
+0x653008f9
+balanceOf(address)
+isWhiteListed(address)
+isWhiteListed(address)
+0x4b21f044

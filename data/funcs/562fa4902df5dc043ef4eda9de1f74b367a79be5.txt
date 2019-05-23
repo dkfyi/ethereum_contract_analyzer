@@ -1,0 +1,7 @@
+0x0780f277
+getAll(uint256)
+getHash(uint256)
+getEscrow(uint256)
+0x811dd0e2
+getTitle(uint256)
+0xfcd5056b

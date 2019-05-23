@@ -1,0 +1,6 @@
+register()
+getMyBalance()
+getContractBalance()
+play(string)
+AmIPlayer1()
+AmIPlayer2()

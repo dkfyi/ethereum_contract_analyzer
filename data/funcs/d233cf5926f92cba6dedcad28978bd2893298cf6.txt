@@ -1,0 +1,6 @@
+creator()
+withdraw(uint256)
+kill()
+0x6eda12f8
+0xdb2d28d8
+payout(uint256)

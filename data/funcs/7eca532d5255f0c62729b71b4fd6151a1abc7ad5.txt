@@ -1,0 +1,4 @@
+selfAddress()
+0x1ed4f3e5
+0x45d364c0
+buy(uint256,uint256)

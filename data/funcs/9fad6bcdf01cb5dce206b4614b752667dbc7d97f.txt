@@ -1,0 +1,7 @@
+jan()
+investor()
+_payRoyalty()
+hasProof(bytes32)
+notarise(bytes32)
+hasProof(bytes32)
+storeProof(bytes32)

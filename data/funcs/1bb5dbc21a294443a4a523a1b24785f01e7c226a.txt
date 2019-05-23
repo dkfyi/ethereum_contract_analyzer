@@ -1,0 +1,5 @@
+serviceApprovedBy(address,address)
+curatorIDOf(address)
+curatorAddressOf(uint256)
+approve(address)
+serviceAddressOf(address,uint256)

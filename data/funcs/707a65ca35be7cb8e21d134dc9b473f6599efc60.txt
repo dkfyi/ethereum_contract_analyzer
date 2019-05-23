@@ -1,0 +1,6 @@
+getProperty(address,bytes32)
+setProperty(address,bytes32,bytes32)
+setupAmbi2(address)
+hasRole(address,bytes32,address)
+claimFor(address,address)
+isOwner(address,address)

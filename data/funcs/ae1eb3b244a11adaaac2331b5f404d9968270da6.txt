@@ -1,0 +1,14 @@
+0x18ab4475
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+0x38d5f2d7
+0x3c48a653
+0x45f06817
+change_dev(address)
+0xd2a52b62
+0x01312d00
+getAddress()
+cbAddress()
+getAddress()
+getPrice(string)
+query(uint256,string,string)

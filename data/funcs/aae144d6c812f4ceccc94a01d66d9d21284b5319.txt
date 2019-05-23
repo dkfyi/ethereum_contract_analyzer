@@ -1,0 +1,17 @@
+ticketPrice()
+setTicketPrice(uint256)
+contactInformation()
+buyTickets(address)
+0x3cfa7e01
+unpause()
+getTicketsCount(address)
+paused()
+withdrawFunds(address)
+ticket()
+pause()
+ideal_warn_timed(uint256,uint128)
+setContactInformation(string)
+0xea2d484e
+transferOwnership(address)
+mint(address,uint256)
+balanceOf(address)

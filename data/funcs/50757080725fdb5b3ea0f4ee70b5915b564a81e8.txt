@@ -1,0 +1,15 @@
+0x032c1a8a
+getKey(bytes32)
+addKey(bytes32,uint256,uint256)
+0x262b54f5
+removeClaim(bytes32)
+0x5d2cfd61
+0x747442d3
+0x862642f5
+getKeysByPurpose(uint256)
+addClaim(uint256,uint256,address,bytes,bytes,string)
+execute(address,uint256,bytes)
+getClaim(bytes32)
+keyHasPurpose(bytes32,uint256)
+0xdf9319be
+0x728e814a

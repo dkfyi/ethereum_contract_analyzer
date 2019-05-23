@@ -1,0 +1,3 @@
+number_of_claims()
+0xa888c2cd
+claim(string)

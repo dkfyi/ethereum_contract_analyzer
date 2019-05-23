@@ -1,0 +1,6 @@
+0x07294140
+buried(address)
+setOracle(address)
+oracle()
+0x9c457afa
+0xbb29998e

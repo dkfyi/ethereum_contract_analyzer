@@ -1,0 +1,4 @@
+0x07fb556a
+0x20fba162
+0x3e6c3ab7
+kill()

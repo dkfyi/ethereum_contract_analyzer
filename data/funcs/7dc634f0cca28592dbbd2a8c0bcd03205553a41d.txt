@@ -1,0 +1,8 @@
+name()
+withdraw()
+balanceOf(address)
+currentSupply()
+link_classic_internal(uint64,int64)
+currentPrice()
+changeOwner(address)
+many_msg_babbage(bytes1)

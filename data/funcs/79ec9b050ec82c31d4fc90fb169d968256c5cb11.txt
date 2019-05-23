@@ -1,0 +1,6 @@
+hash_db(bytes32)
+get_publisher(bytes32)
+publish(bytes32)
+get_timestamp(bytes32)
+get_burned(bytes32)
+get_stake(bytes32)

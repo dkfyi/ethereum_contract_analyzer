@@ -1,0 +1,8 @@
+withdraw(uint256)
+withdraw()
+kill()
+0x90be10cc
+sendTo(address,uint256)
+addFunds()
+0xa457e05b
+0xf5deb699

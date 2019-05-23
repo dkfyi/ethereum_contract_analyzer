@@ -1,0 +1,9 @@
+0x5b225526
+revokePermission(address,bytes32)
+0x726254d2
+revokeMultiplePermissions(address,bytes32[])
+grantMultiplePermissions(address,bytes32[])
+0xa2e201d4
+grantPermission(address,bytes32)
+many_msg_babbage(bytes1)
+transferWithNarrative(address,uint256,string)

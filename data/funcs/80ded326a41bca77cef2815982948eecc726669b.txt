@@ -1,0 +1,10 @@
+0x38aa6b7d
+0x4afdd0e7
+0x4e4f8289
+0xaa3f8cb7
+numDeposits()
+getProfit(address)
+deposit()
+lastProfit()
+withdraw(address,uint256)
+getBalance(address)

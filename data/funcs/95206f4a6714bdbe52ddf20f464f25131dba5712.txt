@@ -1,0 +1,2 @@
+0x1d21fb12
+solveBet(address,uint8,bool,uint8,bytes32,bytes32)

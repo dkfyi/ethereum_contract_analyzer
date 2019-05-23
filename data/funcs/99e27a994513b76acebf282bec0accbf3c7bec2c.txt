@@ -1,0 +1,15 @@
+name()
+pIDxAddr_(address)
+0x35400d66
+0x392efb52
+pID_()
+0x63e0b297
+totalEthereumBalance()
+0x7e161dd9
+setAdministrator(bytes32,bool)
+0x899a8e18
+link_classic_internal(uint64,int64)
+0xb0ef9555
+setSymbol(string)
+setName(string)
+0xd607d150

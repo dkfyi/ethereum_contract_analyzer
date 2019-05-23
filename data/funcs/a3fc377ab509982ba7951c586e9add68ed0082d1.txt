@@ -1,0 +1,15 @@
+stop()
+0x0b19ee64
+0x1fb7da2b
+isStopped()
+version()
+0x5e12df07
+0x6f791d29
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0x9347a33b
+start()
+getAddress(string)
+0xd4c8e97c
+master()
+transferOwnership(address)

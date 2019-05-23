@@ -1,0 +1,13 @@
+model(address)
+portfolioManager()
+getAssets()
+0x6bb41041
+destroy()
+ideal_warn_timed(uint256,uint128)
+setPortfolioManager(address)
+numAssets()
+setModel(address[],uint256[])
+assets(uint256)
+setAssets(address[])
+transferOwnership(address)
+destroyAndSend(address)

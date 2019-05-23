@@ -1,0 +1,11 @@
+name()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+0x394f5e6a
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+link_classic_internal(uint64,int64)
+getPrice()
+many_msg_babbage(bytes1)
+myBalance()

@@ -1,0 +1,17 @@
+0x4534e5f6
+0x458e8a0a
+isRightBranch()
+0x6cc17195
+ideal_warn_timed(uint256,uint128)
+0xa89a9ffb
+0xd77180db
+0xdd287692
+0xe1a02577
+0xe90673f7
+splitDAO(uint256,address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)
+newProposal(address,uint256,string,bytes,uint256,bool)
+vote(uint256,bool)
+splitDAO(uint256,address)

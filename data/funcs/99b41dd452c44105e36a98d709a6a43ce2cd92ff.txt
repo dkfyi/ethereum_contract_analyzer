@@ -1,0 +1,4 @@
+bid()
+auctionEnd()
+beneficiary()
+highestBid()

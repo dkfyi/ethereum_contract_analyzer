@@ -1,0 +1,7 @@
+rate()
+buyTokens(address,string,string)
+getReferrals(address)
+tokenSold()
+wallet()
+token()
+many_msg_babbage(bytes1)

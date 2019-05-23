@@ -1,0 +1,3 @@
+getRandomSeed(string)
+drawLottery(string)
+ideal_warn_timed(uint256,uint128)

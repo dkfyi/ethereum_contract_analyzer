@@ -1,0 +1,5 @@
+add(address)
+remove(address)
+addOperator(address)
+whitelist(address)
+removeOperator(address)

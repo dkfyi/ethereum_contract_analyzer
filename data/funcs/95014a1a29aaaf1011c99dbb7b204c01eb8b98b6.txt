@@ -1,0 +1,12 @@
+centsPerEther()
+isPricingStrategy()
+0x2c5e9721
+0x6e71b5d4
+ideal_warn_timed(uint256,uint128)
+0x8f574586
+0x9aa0dd82
+0xabc5aff4
+0xd3150de0
+setCentsPerEther(uint256)
+transferOwnership(address)
+0xfce04955

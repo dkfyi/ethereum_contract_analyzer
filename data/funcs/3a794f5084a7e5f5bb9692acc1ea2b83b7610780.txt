@@ -1,0 +1,7 @@
+model(address)
+ideal_warn_timed(uint256,uint128)
+numAssets()
+setModel(address[],uint256[])
+assets(uint256)
+setAssets(address[])
+transferOwnership(address)

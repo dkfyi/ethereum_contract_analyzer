@@ -1,0 +1,12 @@
+duration()
+0x30a15fd2
+0x395ba050
+0x78f7c83f
+0x8291286c
+ideal_warn_timed(uint256,uint128)
+amount()
+reference()
+0xdae9e51c
+0xdfce3c74
+0xe66eefc8
+0xefc269e7

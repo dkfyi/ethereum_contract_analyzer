@@ -1,0 +1,7 @@
+removeOwner(address)
+WEI_PER_ETHER()
+0x2e1c0073
+certificate(bytes32,bytes32)
+0x51f22a72
+addOwner(address)
+amountInContract()

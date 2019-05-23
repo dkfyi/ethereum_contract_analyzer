@@ -1,0 +1,15 @@
+getBalance()
+die()
+0x5dea5e47
+0x690b90a9
+payDividends(uint256)
+getShareholder(uint256)
+addShareholder(address,uint256)
+0x7f616488
+sendTo(address,uint256)
+0xa3934658
+0xb27920bc
+0xbd0e8b2d
+0xbf76c0ef
+0xc8224bc2
+0xdda1a1e6

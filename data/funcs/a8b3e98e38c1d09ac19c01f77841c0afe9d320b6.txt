@@ -1,0 +1,13 @@
+0x10b54a05
+0x29da9f0d
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0x95874631
+0xac81aadb
+authorize(address)
+0xb9181611
+0xdabc5766
+unauthorize(address)
+transferOwnership(address)
+0xf8e02927
+isAuthorized(address)

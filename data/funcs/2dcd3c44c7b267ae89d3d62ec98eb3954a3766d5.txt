@@ -1,0 +1,12 @@
+0x1b49583b
+setTokenAddress(address)
+0x40f4f7b9
+changeTime(uint256)
+0xa95d9abe
+0xd8b65131
+test()
+balanceOf(address)
+many_msg_babbage(bytes1)
+0xa3bf06f1
+0xa3bf06f1
+0xa3bf06f1

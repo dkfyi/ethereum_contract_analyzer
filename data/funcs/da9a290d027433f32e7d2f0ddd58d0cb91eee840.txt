@@ -1,0 +1,5 @@
+creator()
+pay()
+kill()
+0xcb3bd613
+payout(bytes32)

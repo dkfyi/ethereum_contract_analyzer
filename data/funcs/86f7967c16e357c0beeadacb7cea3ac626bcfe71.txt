@@ -1,0 +1,8 @@
+name()
+version()
+read(bytes32)
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+0xa2fa871b
+newOwner()
+transferOwnership(address)

@@ -1,0 +1,9 @@
+deleteCaller(address)
+kill()
+0x5da47721
+addCaller(address)
+0x772c658b
+ideal_warn_timed(uint256,uint128)
+0x9232fdb5
+0xb4ddb371
+0xb98f5932

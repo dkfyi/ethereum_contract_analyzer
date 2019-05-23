@@ -1,0 +1,3 @@
+storeProof(string)
+checkDocument(string)
+notarize(string)

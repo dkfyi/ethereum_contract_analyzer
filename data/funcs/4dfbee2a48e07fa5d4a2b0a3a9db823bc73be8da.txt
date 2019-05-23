@@ -1,0 +1,7 @@
+setEnd(uint256)
+getBonus()
+ideal_warn_timed(uint256,uint128)
+start()
+end()
+transferOwnership(address)
+setStart(uint256)

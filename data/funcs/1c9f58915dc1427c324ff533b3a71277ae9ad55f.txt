@@ -1,0 +1,5 @@
+setInterfaceImplementer(address,bytes32,address)
+getManager(address)
+setManager(address,address)
+interfaceHash(string)
+getInterfaceImplementer(address,bytes32)

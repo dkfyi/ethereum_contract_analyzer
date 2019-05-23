@@ -1,0 +1,8 @@
+getAddress(bytes32)
+0x2ed5ef14
+getNamelistLength()
+0x55c46bf7
+registry(bytes32)
+ideal_warn_timed(uint256,uint128)
+0xe83eb6b4
+transferOwnership(address)

@@ -1,0 +1,14 @@
+setOwner(address)
+exchangeRate()
+withdrawEther(uint256)
+withdrawToken(uint256)
+0x5454481a
+getTokenBalance()
+ideal_warn_timed(uint256,uint128)
+tokenAddress()
+exchangeLimit()
+0xe0864db5
+getEtherBalance()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

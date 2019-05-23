@@ -1,0 +1,5 @@
+setAmount(uint256)
+0xa408b1f5
+0xb11bead4
+getAmount()
+balanceOf(address)

@@ -1,0 +1,7 @@
+newSale(bytes16,uint256,uint256)
+numberOfSales()
+sales(bytes16)
+totalTokens()
+getSaleDate(bytes16)
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)

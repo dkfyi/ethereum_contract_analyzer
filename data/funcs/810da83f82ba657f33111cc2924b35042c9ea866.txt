@@ -1,0 +1,8 @@
+pregnantKitties()
+kittiesContract()
+0x4bf3e2cd
+isReady(uint256)
+totalSupply()
+isPregnant(uint256)
+totalSupply()
+getKitty(uint256)

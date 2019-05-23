@@ -1,0 +1,12 @@
+propose(address,bytes,uint256)
+getInfo()
+0x7e1db2a1
+isMember(address)
+confirm(uint256)
+_authority()
+easyPropose(address,uint256)
+addMember(address)
+_auth_mode()
+trigger(uint256)
+getActionStatus(uint256)
+canCall(address,address,bytes4)

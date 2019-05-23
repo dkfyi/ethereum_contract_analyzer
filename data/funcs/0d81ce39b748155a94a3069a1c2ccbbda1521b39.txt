@@ -1,0 +1,11 @@
+creator()
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+0x588a1848
+balanceOf(address)
+buyPrice()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+allowance(address,address)
+0xff6d3d32

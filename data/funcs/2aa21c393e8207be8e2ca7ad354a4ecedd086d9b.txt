@@ -1,0 +1,7 @@
+0x104870b8
+kill()
+denyAccess(address)
+0x75960fcb
+0xad48c913
+0xb89e3b9e
+allowAccess(address)

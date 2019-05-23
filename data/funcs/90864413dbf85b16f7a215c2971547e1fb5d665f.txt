@@ -1,0 +1,4 @@
+0x217b8e54
+die()
+0x51aa788c
+addShareholder(address,uint256)

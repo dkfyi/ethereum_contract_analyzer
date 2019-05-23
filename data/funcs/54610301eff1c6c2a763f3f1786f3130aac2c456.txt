@@ -1,0 +1,12 @@
+name()
+totalSupply()
+0x276e5b00
+limitSupply()
+setAdmin(address,bool)
+0x76be1585
+ideal_warn_timed(uint256,uint128)
+0x8eb17dfe
+incrementSupply()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+balance()

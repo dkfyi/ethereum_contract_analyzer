@@ -1,0 +1,15 @@
+0x258898b3
+0x26649778
+0x4f83158a
+addStaff(address)
+0x86b5ad3a
+0x887e7be5
+0x89b08f11
+setWallet()
+0xa158657c
+getTokenBalance(address,address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+unfreeze(address,uint256)
+confirmTransaction(uint256)
+balanceOf(address)

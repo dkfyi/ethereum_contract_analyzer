@@ -1,0 +1,8 @@
+getTokenAddress()
+lockTokenController()
+0xa73de7b5
+0xd3054871
+setTokenController(address)
+lockController()
+setController(address)
+mint(address,uint256)

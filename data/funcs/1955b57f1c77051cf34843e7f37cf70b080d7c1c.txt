@@ -1,0 +1,12 @@
+0x0a2642bf
+intervalDuration()
+currentInterval()
+numAllocations()
+unlock(uint256)
+unlockDate()
+pushAllocation(address,uint256)
+ideal_warn_timed(uint256,uint128)
+allocationAmount(uint256)
+numIntervals()
+transferOwnership(address)
+processInterval()

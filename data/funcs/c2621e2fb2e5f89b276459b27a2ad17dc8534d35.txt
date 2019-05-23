@@ -1,0 +1,17 @@
+0x323c06a0
+0x4b237586
+0xc182da00
+ideal_warn_timed(uint256,uint128)
+quickConvert(address[],uint256,uint256)
+ideal_warn_timed(uint256,uint128)
+approve(address,uint256)
+approve(address,uint256)
+quickConvert(address[],uint256,uint256)
+ideal_warn_timed(uint256,uint128)
+quickConvert(address[],uint256,uint256)
+ideal_warn_timed(uint256,uint128)
+quickConvertPrioritized(address[],uint256,uint256,uint256,uint8,bytes32,bytes32)
+getPayAmount(address,address,uint256)
+buyAllAmount(address,uint256,address,uint256)
+deposit()
+approve(address,uint256)

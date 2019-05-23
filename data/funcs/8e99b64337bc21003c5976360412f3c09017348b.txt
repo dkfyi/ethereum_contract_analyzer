@@ -1,0 +1,4 @@
+whitehat()
+signedByWhiteHat()
+massTeamMsgHash()
+dontPanic()

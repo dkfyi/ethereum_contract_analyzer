@@ -1,0 +1,9 @@
+getAddress(address,string)
+0x8d838622
+0x8da0d232
+getUint(address,string)
+certified(address)
+get(address,string)
+entrants(uint256)
+totalEntrants()
+entrants(uint256)

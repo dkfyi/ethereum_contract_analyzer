@@ -1,0 +1,3 @@
+kill()
+increment()
+getIteration()

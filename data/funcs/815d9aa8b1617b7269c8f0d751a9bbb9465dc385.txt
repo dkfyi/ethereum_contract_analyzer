@@ -1,0 +1,3 @@
+getBalance()
+0x31cf716d
+buy(uint256)

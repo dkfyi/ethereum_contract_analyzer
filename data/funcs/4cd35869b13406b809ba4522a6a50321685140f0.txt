@@ -1,0 +1,4 @@
+kill()
+wallet()
+0x58975919
+receive()

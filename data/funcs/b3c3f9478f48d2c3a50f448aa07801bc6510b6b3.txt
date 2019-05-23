@@ -1,0 +1,2 @@
+suicide()
+donate(address,address,bytes4)

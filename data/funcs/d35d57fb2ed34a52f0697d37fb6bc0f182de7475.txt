@@ -1,0 +1,5 @@
+0x038defd7
+0x0da9a424
+0x50bff6bf
+0xe4d6a92d
+register(uint256)

@@ -1,0 +1,5 @@
+setSelfClaim(bytes32,bytes32)
+setClaim(address,bytes32,bytes32)
+removeClaim(address,address,bytes32)
+getClaim(address,address,bytes32)
+registry(address,address,bytes32)

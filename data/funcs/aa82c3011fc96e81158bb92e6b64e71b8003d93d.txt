@@ -1,0 +1,10 @@
+ETH_TOKEN_ADDRESS()
+0x2a4c0a1a
+eth()
+0xcb3a2e5b
+dai()
+0x7a2a0456
+allowance(address,address)
+approve(address,uint256)
+allowance(address,address)
+0x6f6e7375

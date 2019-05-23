@@ -1,0 +1,4 @@
+totalSupply()
+tokenOfOwnerByIndex(address,uint256)
+exists(uint256)
+tokenByIndex(uint256)

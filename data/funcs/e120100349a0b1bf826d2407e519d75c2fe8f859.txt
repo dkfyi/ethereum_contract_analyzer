@@ -1,0 +1,2 @@
+tickets(uint256)
+buyTicket()

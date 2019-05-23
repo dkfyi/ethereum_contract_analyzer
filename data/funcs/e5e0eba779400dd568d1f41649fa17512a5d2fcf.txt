@@ -1,0 +1,17 @@
+0x0a3cb72e
+getBalance()
+0x1d0ab337
+withdraw(uint256)
+0x33f63b33
+setContractAddress(address)
+withdrawBalance()
+0x6ec1da08
+withdrawAll()
+0x95035d82
+_owner()
+deposit()
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+balanceOf(address,address)
+withdraw(uint256)
+deposit()

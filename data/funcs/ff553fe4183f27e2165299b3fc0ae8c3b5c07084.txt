@@ -1,0 +1,6 @@
+0x0d5f0854
+0x1cb53e3a
+getDetails(uint256,address)
+getDBallotID(bytes32,uint256)
+getBBFarm(uint8)
+getBBFarmID(bytes4)

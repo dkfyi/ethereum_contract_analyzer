@@ -1,0 +1,12 @@
+0x1089f215
+0x15d85cee
+getBalance(uint256)
+0x27b6bcaa
+0x35e8b2df
+getState(uint256)
+setFee(uint256)
+0x6be1320b
+0x9d21288f
+0xa3b2ea71
+0xb09b2f85
+0xeafb64d5

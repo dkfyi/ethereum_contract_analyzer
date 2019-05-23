@@ -1,0 +1,12 @@
+isAdmin(address)
+0x3465d6d5
+dispatch(address,uint256,string)
+remain()
+totalReceive()
+collectBalance()
+ideal_warn_timed(uint256,uint128)
+addAdmin(address,bool)
+changeOwner(address)
+turnOff()
+isClosed()
+refund(address)

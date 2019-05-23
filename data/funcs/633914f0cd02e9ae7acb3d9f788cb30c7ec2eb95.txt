@@ -1,0 +1,6 @@
+register()
+kill()
+0x438da31f
+0xd7b2fddf
+0xed66aa1b
+0xfd33482d

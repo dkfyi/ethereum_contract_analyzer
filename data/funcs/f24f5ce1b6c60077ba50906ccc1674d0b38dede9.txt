@@ -1,0 +1,12 @@
+get_mail(uint256)
+draw()
+fee2()
+update_fee(uint256,uint256)
+deliver(uint256,uint256)
+mails_to_deliver()
+post(address,uint256)
+fee()
+boom(address)
+post(address,uint256)
+boom(address)
+0x27960e2f

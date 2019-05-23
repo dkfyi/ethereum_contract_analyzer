@@ -1,0 +1,4 @@
+claimOwnership()
+destroy()
+post(string)
+transferOwnership(address)

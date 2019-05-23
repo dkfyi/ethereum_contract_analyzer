@@ -1,0 +1,17 @@
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+transferMany(address[],uint256[])
+0xe6487c2a
+transferOwnership(address)
+transferToken(address,address,uint256)
+0x7071f0c4
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)
+balanceOf(address)

@@ -1,0 +1,8 @@
+0x36c9580a
+0x5d9ef52e
+0x86c3ee6e
+buried(address)
+buried(address)
+allowance(address,address)
+balanceOf(address)
+gasprice_bit_ether(int128)

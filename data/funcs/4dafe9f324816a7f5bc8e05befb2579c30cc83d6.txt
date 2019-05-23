@@ -1,0 +1,14 @@
+hasBeenDeployed(address)
+0x69dc9ff3
+semanticVersion()
+0xbfd4b51a
+0xc8f3f560
+ideal_warn_timed(uint256,uint128)
+spend(address,uint256)
+tokenFallback(address,uint256,bytes)
+claimTokens(address)
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

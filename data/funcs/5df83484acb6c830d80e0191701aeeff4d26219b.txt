@@ -1,0 +1,15 @@
+0x31a3d848
+0x3f5c1534
+setCrowdsale(address)
+addDiscountStruct(bytes32,uint256,uint256[2],uint256[],uint256[],uint256[])
+calculateBonus(uint256,uint256)
+getBonus(address,uint256,uint256)
+crowdsale()
+removeDiscountStruct(uint256)
+staffContract()
+ideal_warn_timed(uint256,uint128)
+staffContract()
+ideal_warn_timed(uint256,uint128)
+isStaff(address)
+ideal_warn_timed(uint256,uint128)
+isStaff(address)

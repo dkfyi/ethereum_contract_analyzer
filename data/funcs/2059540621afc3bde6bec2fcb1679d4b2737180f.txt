@@ -1,0 +1,9 @@
+setInterfaceImplementer(address,bytes32,address)
+getManager(address)
+setManager(address,address)
+interfaceHash(string)
+updateERC165Cache(address,bytes4)
+getInterfaceImplementer(address,bytes32)
+implementsERC165InterfaceNoCache(address,bytes4)
+implementsERC165Interface(address,bytes4)
+0x249cb3fa

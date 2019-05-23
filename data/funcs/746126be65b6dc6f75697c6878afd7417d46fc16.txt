@@ -1,0 +1,12 @@
+deploy(address,address)
+0x571e4d24
+multiAccessAddOwner(address)
+multiAccessRecipient()
+multiAccessAddOwner(address)
+multiAccessChangeRequirement(uint256)
+multiAccessRemoveOwner(address)
+multiAccessOwners(uint256)
+multiAccessRequired()
+multiAccessSetRecipient(address)
+multiAccessIsOwner(address)
+multiAccessHasConfirmed(bytes32,address)

@@ -1,0 +1,9 @@
+0x1021da95
+0x30c77a41
+0x5dea1da2
+0x6c57d8a9
+0x75067afd
+0xad1e802a
+0xc1592080
+amountFilled(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)

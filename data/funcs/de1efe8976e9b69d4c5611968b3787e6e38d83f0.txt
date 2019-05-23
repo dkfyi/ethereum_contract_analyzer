@@ -1,0 +1,6 @@
+0x1ebdfd6d
+getCurrentBonusPercentage()
+0x2f625490
+getCurrentTokenPriceInCents()
+getPhaseNumber()
+0xfea2dbe4

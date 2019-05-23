@@ -1,0 +1,10 @@
+cut(uint256)
+0x273d5963
+withdraw()
+createTree(string,string)
+changeTreeAttributes(uint256,string,string)
+ideal_warn_timed(uint256,uint128)
+dagheAcqua(uint256)
+getForestCount()
+0xdf9b5027
+transferOwnership(address)

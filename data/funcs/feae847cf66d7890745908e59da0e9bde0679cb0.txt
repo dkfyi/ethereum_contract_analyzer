@@ -1,0 +1,13 @@
+0x0d8a4cef
+0x4f528100
+0x5ce50313
+0x5f56ae7d
+0x60cf0b01
+0x7508b04e
+0x85ca7990
+ideal_warn_timed(uint256,uint128)
+getResult(bytes32)
+transferOwnership(address)
+0xffff0000
+0xffff0000
+many_msg_babbage(bytes1)

@@ -1,0 +1,12 @@
+getRecord(string)
+0x2d8ae549
+update(string,string,string)
+kill()
+getOwner(string)
+register(string,string,string)
+0x6598a1ae
+0x695a7d49
+getRecordAtIndex(uint256)
+getTime(string)
+numRecords()
+isRegistered(string)

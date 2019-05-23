@@ -1,0 +1,5 @@
+minter()
+balances(address)
+mint(address,uint256)
+MyCoin()
+send(address,uint256)

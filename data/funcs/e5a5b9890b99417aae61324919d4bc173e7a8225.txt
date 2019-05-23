@@ -1,0 +1,14 @@
+proposals(uint256)
+executeProposal(uint256)
+sharesTokenAddress()
+numProposals()
+debatingPeriodInMinutes()
+minimumQuorum()
+vote(uint256,bool)
+0xde68e593
+balanceOf(address)
+balanceOf(address)
+balanceOf(address)
+balanceOf(address)
+balanceOf(address)
+0x1cc41b3b

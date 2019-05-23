@@ -1,0 +1,6 @@
+TOKEN_ADDRESS()
+0x94fec79f
+0xdcc967de
+0xf4b0b756
+balanceOf(address)
+many_msg_babbage(bytes1)

@@ -1,0 +1,4 @@
+EthToUsd()
+getPrice()
+price()
+USD(uint256)

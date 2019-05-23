@@ -1,0 +1,11 @@
+0x1ac4db17
+setBonuses(uint256,uint256,uint256)
+0x5075c2df
+bonus()
+buyPrice()
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+tokenAddress()
+buy()
+transferOwnership(address)
+gasprice_bit_ether(int128)

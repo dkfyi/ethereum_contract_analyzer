@@ -1,0 +1,9 @@
+0x6073b654
+0x7a9648ac
+0x8c39ed92
+0xe92c34c3
+0x03987512
+quickConvert(address[],uint256,uint256)
+approve(address,uint256)
+buy(bytes32,uint256)
+getProduct(bytes32)

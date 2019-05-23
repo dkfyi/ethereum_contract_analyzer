@@ -1,0 +1,14 @@
+changeOwnership(address)
+0x4c9be4fd
+ideal_warn_timed(uint256,uint128)
+reclaimEther()
+0xc1c734db
+whichAuction(uint256)
+lastPurchaseTick()
+currentAuction()
+closeAuction()
+balanceOf(address)
+approve(address,uint256)
+balanceOf(address)
+many_msg_babbage(bytes1)
+0xc171747b

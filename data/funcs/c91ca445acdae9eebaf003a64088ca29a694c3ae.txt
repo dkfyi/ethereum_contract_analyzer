@@ -1,0 +1,7 @@
+depositOf(address)
+withdraw(address)
+setShares(address,uint256)
+ideal_warn_timed(uint256,uint128)
+deposit()
+getShares(address)
+transferOwnership(address)

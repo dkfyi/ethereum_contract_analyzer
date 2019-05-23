@@ -1,0 +1,6 @@
+newGame(uint256,bytes8,uint256,uint256,string)
+getGameNum()
+ideal_warn_timed(uint256,uint128)
+getGameInfoById(uint256)
+transferOwnership(address)
+getGameInfoByIndex(uint256)

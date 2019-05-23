@@ -1,0 +1,14 @@
+name()
+beneficiary()
+UNLOCKINTERVAL()
+UNLOCKSTART()
+unlocked()
+0x82b7a50c
+tosToken()
+totalLockAmount()
+unlock()
+0x5bdf1780
+0x5bdf1780
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

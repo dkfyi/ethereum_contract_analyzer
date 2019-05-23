@@ -1,0 +1,13 @@
+totalVotes()
+isActive()
+finalizeContract(uint256)
+getSummary()
+manager()
+voteRequest(uint256)
+getUserVotes()
+pause()
+0x9f2524ee
+winners(uint256)
+winnerPrice()
+totalUsers()
+0xcd600ba9

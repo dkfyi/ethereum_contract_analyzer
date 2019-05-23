@@ -1,0 +1,4 @@
+withdraw()
+win()
+burn(uint256)
+redeem(uint256)

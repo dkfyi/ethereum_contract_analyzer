@@ -1,0 +1,12 @@
+getContractName(uint256)
+0x2944363f
+0x29e63cd7
+getContract(string)
+db()
+updateContract(string,address)
+ideal_warn_timed(uint256,uint128)
+0xca8e2bdd
+transferOwnership(address)
+0x6e5ecdff
+0xa42b6bf1
+0xa42b6bf1

@@ -1,0 +1,2 @@
+setMessage(uint256,string)
+getMessage()

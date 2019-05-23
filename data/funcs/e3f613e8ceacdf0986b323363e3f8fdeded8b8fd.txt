@@ -1,0 +1,5 @@
+0x05a92aba
+0x98678535
+_owner()
+0xe0d1bdae
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)

@@ -1,0 +1,10 @@
+getDeployedEvents()
+createSportEvent(string,uint8,uint256)
+0xaf504906
+name()
+enterEvent(uint256[12])
+0x18def8ef
+manager()
+0xc3a43824
+splitWinnings(uint256)
+getDetails()

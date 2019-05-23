@@ -1,0 +1,2 @@
+random(uint256)
+maxRandom()

@@ -1,0 +1,5 @@
+funder()
+getBalance()
+kill()
+0x8abb9845
+0xa41cca29

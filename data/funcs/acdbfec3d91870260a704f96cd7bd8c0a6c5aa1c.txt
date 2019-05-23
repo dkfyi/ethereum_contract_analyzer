@@ -1,0 +1,6 @@
+bid()
+getTimeOfLastBid()
+getTotalBidded()
+getMinBid()
+getLastBidAmount()
+isBidFinal()

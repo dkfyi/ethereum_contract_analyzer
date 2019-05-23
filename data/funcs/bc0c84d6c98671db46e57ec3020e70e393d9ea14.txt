@@ -1,0 +1,6 @@
+getState()
+getRequiredSigs()
+sign()
+0x66a3c5df
+getResoType()
+getResoMethod()

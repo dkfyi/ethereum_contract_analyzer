@@ -1,0 +1,9 @@
+0x104a7cd8
+getState(uint256)
+getText(uint256)
+0x95ffebf5
+getCreated(uint256)
+0xbc8bc2b4
+getOwner(uint256)
+0xdd68afb6
+0xfcc82cfe

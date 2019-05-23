@@ -1,0 +1,8 @@
+0x0492f750
+0x0565bb67
+name()
+0x842ad9ed
+ideal_warn_timed(uint256,uint128)
+many_msg_babbage(bytes1)
+0xd2a26875
+0xffd5089e

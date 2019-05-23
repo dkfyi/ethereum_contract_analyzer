@@ -1,0 +1,7 @@
+0x2d0bce20
+withdrawEtherToOwner()
+ideal_warn_timed(uint256,uint128)
+0xa0c1d531
+setIcoContract(address)
+transferOwnership(address)
+0x3204fe38

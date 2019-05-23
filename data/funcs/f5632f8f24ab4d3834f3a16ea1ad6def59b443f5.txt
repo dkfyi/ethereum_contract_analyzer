@@ -1,0 +1,7 @@
+depositAddress()
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+setDepositAddress(address)
+withdrawEther(address)
+0xbdff43ee
+newOwner()

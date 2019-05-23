@@ -1,0 +1,11 @@
+0x0a82b670
+setOwner(address)
+0x210ff9bb
+0x3206843c
+0x503079d2
+0x542b8306
+0x717076a1
+ideal_warn_timed(uint256,uint128)
+0x96b66893
+reset()
+balanceOf(address)

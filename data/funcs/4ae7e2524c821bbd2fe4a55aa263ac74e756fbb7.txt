@@ -1,0 +1,8 @@
+giveKudos(bytes32,uint256)
+getProjectKudosByUsers(bytes32,address[])
+getProjectKudos(bytes32)
+getKudosPerProject(address)
+getKudosLeft(address)
+grantKudos(address,uint256)
+0xab01b469
+getKudosGiven(address)

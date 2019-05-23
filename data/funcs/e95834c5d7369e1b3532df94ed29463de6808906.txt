@@ -1,0 +1,5 @@
+slice16(bytes,uint256)
+slice2(bytes,uint256)
+slice32(bytes,uint256)
+sliceAddress(bytes,uint256)
+slice4(bytes,uint256)

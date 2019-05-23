@@ -1,0 +1,14 @@
+Hotlist()
+SetOwner(string,address)
+KillContract()
+0x5f25a7d0
+SetDescript(string,string)
+0x8d15a6b6
+0x91a22807
+SetHotLists(string)
+GetOwner(string)
+GetDescript(string)
+SetPlatformInformation(string)
+DeleteProject(string)
+GetDappinfo(string)
+PlatformInformation()

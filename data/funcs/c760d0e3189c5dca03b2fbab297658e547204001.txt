@@ -1,0 +1,7 @@
+0x06f3be94
+0x3ef174fd
+0xc6739baa
+0xe8bc523f
+StopGame()
+StartGame(string,string)
+NewQuestion(string,bytes32)

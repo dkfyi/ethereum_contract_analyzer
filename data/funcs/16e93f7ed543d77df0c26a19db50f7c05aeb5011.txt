@@ -1,0 +1,7 @@
+owners(address)
+getUSDEth()
+setUSDBtc(uint256)
+getUSDBtc()
+addOwner(address)
+delOwner(address)
+setUSDEth(uint256)

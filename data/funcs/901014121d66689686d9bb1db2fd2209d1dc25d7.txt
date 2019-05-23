@@ -1,0 +1,8 @@
+setOwner(address)
+ponziAddress()
+ideal_warn_timed(uint256,uint128)
+arrayLimit()
+multiSend(address[],uint256[])
+setPonziAddress(address)
+setArrayLimit(uint256)
+gasprice_bit_ether(int128)

@@ -1,0 +1,5 @@
+getTimestamp()
+0x6457e389
+btcRelay()
+getFeeAmount(int256)
+getBlockHeader(int256)

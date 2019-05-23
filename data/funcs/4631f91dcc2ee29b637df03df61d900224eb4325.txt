@@ -1,0 +1,11 @@
+0x10266d10
+0x1aa02d59
+0x306329f3
+0x495c1902
+0x6a09f6be
+0x734b1946
+ideal_warn_timed(uint256,uint128)
+0x9f13339c
+0xb1183c53
+bet(uint256,uint256,uint256)
+fee()

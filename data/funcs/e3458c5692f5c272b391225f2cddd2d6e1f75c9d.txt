@@ -1,0 +1,12 @@
+0x3cb5d100
+goal()
+0x42e94c90
+changeHost(address)
+destroy()
+numWinners()
+numContributors()
+addToContribution()
+increment()
+removeFromContribution(uint256)
+recentWins(uint256)
+host()

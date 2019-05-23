@@ -1,0 +1,5 @@
+totalSupply()
+ownerOf(uint256)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+buyToken()

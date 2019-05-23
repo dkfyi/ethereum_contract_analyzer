@@ -1,0 +1,7 @@
+withdraw()
+kill()
+win(uint256)
+randomize()
+ideal_warn_timed(uint256,uint128)
+balance()
+joinGame(uint256)

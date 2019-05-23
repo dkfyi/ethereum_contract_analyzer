@@ -1,0 +1,3 @@
+ShowDepositInfo(address)
+ShowPercent(address)
+ShowWhaleAddress()

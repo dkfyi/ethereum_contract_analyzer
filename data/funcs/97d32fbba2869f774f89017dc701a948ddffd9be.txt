@@ -1,0 +1,12 @@
+0x0474a68e
+removeAdmin(address)
+isAdmin(address)
+0x27304dfd
+withdraw(uint256)
+addAdmin(address)
+renounceOwnership()
+stopBet()
+ideal_warn_timed(uint256,uint128)
+isPaused()
+transferOwnership(address)
+0xfa6776db

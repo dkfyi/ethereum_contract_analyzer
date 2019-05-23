@@ -1,0 +1,5 @@
+0x06ce96ff
+tub()
+tag()
+ink(bytes32)
+tab(bytes32)

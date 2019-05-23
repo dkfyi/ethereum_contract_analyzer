@@ -1,0 +1,16 @@
+resolver()
+0x17a12950
+0x1eee0154
+0x29101470
+key()
+get_contract(bytes32)
+0x7478fbe3
+0x7b22ebce
+0x93383c51
+getReputation(address)
+0xa5a9f5bb
+CONTRACT_ADDRESS()
+0xded86d68
+0xf2f80af4
+get_contract(bytes32)
+get_contract(bytes32)

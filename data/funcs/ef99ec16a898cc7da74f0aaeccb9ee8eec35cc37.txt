@@ -1,0 +1,14 @@
+0x15237d91
+0x5584a2a4
+0x5e6fef01
+ideal_warn_timed(uint256,uint128)
+VOTING_DURATION()
+finishVoting(uint256)
+0xba57627d
+0xc5a213ea
+0xdea112a6
+0xecb82763
+transferOwnership(address)
+0xf6ead0b9
+countOfDeeds()
+ownerOf(uint256)

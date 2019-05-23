@@ -1,0 +1,4 @@
+balances(address)
+withdrawBalance()
+deposit()
+getBalance(address)

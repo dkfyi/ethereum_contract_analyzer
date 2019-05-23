@@ -1,0 +1,14 @@
+0x0480b5c0
+getBalance()
+0x23f46e32
+withdraw()
+kill()
+0x4db2732c
+0x6a6c0967
+0x83134f31
+ideal_warn_timed(uint256,uint128)
+0x9b070883
+0xa1d1080b
+0xcc51d4f1
+0xf873cb91
+isPregnant(uint256)

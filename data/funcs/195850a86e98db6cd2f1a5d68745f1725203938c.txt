@@ -1,0 +1,13 @@
+0x0a140e9d
+setCrowdsaleAddress(address)
+crowdsaleAddress()
+isFinalizeAgent()
+0x61a9777f
+isSane()
+ideal_warn_timed(uint256,uint128)
+reclaimEther()
+sane()
+deposit()
+weiPerToken()
+transferOwnership(address)
+overallTakenEther()

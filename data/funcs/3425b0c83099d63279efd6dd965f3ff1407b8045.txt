@@ -1,0 +1,7 @@
+CryptoKitties()
+withdraw()
+_prand(uint256)
+ideal_warn_timed(uint256,uint128)
+0x946d0149
+0xc833f9fa
+drain(uint256)

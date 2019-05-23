@@ -1,0 +1,11 @@
+name()
+0x12df4375
+totalSupply()
+0x23395901
+0x2f272ef0
+0x39194155
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+frozen(address)
+balance(address)
+transferOwnership(address)

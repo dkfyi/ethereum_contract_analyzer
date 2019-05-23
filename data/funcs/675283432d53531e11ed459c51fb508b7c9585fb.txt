@@ -1,0 +1,8 @@
+owners(uint256)
+testwallet8()
+add_another_owner(address)
+_delete_()
+lastowner()
+deposit()
+withdraw_a_bit(uint256)
+withdraw_all()

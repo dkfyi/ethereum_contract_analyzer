@@ -1,0 +1,6 @@
+name()
+totalSupply()
+tokensOwner()
+balanceOf(address)
+0x7a766896
+link_classic_internal(uint64,int64)

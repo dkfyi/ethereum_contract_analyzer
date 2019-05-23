@@ -1,0 +1,12 @@
+isInitialized()
+0x54ab3170
+acceptOwnership()
+allocateBountyTokens()
+bountySupply()
+ideal_warn_timed(uint256,uint128)
+0xa08ed830
+allocator()
+0xbfd772fc
+newOwner()
+transferOwnership(address)
+allocate(address,uint256)

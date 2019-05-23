@@ -1,0 +1,4 @@
+0x016ef8a7
+alive()
+0xa01ffdff
+registerNameXnameFromDapp(address,bytes32,bytes32,bool)

@@ -1,0 +1,15 @@
+0x057a601b
+deposit(address,uint256)
+renounceOwnership()
+0x78401ec8
+granted(address)
+removeAccess(address)
+ideal_warn_timed(uint256,uint128)
+allowAccess(address)
+0xd6074aba
+transferOwnership(address)
+0xf9168231
+token()
+0xfcff789b
+escrowFrom(address,uint256)
+escrowReturn(address,uint256,uint256)

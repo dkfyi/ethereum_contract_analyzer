@@ -1,0 +1,11 @@
+finalizeCrowdsale()
+0x29d52b9e
+isFinalizeAgent()
+0x68e03384
+isSane()
+0xc20a2678
+token()
+tokensSold()
+maximumSellableTokens()
+mint(address,uint256)
+mintAgents(address)

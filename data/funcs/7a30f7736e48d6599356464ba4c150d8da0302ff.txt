@@ -1,0 +1,15 @@
+confirmMany(bytes32[],address[],uint256[],uint8[],bytes32[],bytes32[])
+confirm(bytes32,address,uint256,uint8,bytes32,bytes32)
+0x4d414a3f
+0x51a64cff
+0x71533a45
+oraclesCount()
+consumeOperation(bytes32,uint256)
+0x92fc9251
+0x9c6caa70
+0xa7ff39bd
+isOracle(address)
+getOperation(address)
+0xdc9fbea2
+getConfirmations(bytes32,address)
+isConfirmed(bytes32,address,address)

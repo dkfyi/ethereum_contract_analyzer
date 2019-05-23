@@ -1,0 +1,11 @@
+name()
+totalShareholders()
+0x12579d85
+available_assert_time(uint16,uint64)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+shareholdersBalance()
+many_msg_babbage(bytes1)
+payDividends()
+0xf720ee4c

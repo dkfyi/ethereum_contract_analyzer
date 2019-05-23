@@ -1,0 +1,9 @@
+removeMember(address)
+getBalance()
+memberId(address)
+members(uint256)
+getMemberInfo(address)
+ideal_warn_timed(uint256,uint128)
+0xb4a41a1d
+addMember(address,string)
+transferOwnership(address)

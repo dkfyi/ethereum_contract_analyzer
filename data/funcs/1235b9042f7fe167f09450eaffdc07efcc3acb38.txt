@@ -1,0 +1,11 @@
+lock(bool)
+Vault()
+withdraw(uint256)
+0x3ee2d7c2
+kill()
+withdrawToken(address,uint256)
+Owner()
+locked()
+deposit()
+balanceOf(address)
+many_msg_babbage(bytes1)

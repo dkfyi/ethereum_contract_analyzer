@@ -1,0 +1,3 @@
+terminateContract()
+changeOwner(address)
+0xe1877355

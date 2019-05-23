@@ -1,0 +1,10 @@
+renounceOwnership()
+0x789d9e8a
+0x8c6d2f5d
+ideal_warn_timed(uint256,uint128)
+id()
+vote(uint256,uint256)
+transferOwnership(address)
+finishVoting()
+isUpcoin()
+transferOrigin(address,uint256)

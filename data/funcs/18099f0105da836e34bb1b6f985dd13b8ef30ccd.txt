@@ -1,0 +1,6 @@
+cleanup()
+0x58f69e07
+balanceOf(address)
+play(bytes32)
+many_msg_babbage(bytes1)
+balanceOf(address)

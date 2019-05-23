@@ -1,0 +1,10 @@
+totalGames()
+0x70d39666
+cashOut()
+0xa5a9d6c4
+notRandom(uint256)
+0xe02b13bf
+totalBet()
+game(uint256)
+game(uint256)
+game(uint256)

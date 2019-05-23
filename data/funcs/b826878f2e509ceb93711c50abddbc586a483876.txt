@@ -1,0 +1,16 @@
+name()
+totalSupply()
+balances(address)
+available_assert_time(uint16,uint64)
+freezeMyFunds(uint256,uint256)
+0x58caa569
+setLock(bool)
+balanceOf(address)
+0x749383c2
+takeEther(uint256)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xe62ab95c
+transferOwnership(address)
+lock()

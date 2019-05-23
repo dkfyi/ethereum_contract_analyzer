@@ -1,0 +1,17 @@
+0x16803c2f
+endTime()
+finalize()
+wallet()
+0x54f090bd
+totalToken()
+bonus()
+isFinalized()
+ideal_warn_timed(uint256,uint128)
+buyTokens(address)
+hasEnded()
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)
+transferLockedPart(address,uint256)
+many_msg_babbage(bytes1)
+balanceOf(address)

@@ -1,0 +1,6 @@
+removeMember(address)
+killContract()
+changeMemberAddress(address)
+addMember(address,string)
+0xfc9fc96e
+0x1cc41b3b

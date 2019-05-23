@@ -1,0 +1,6 @@
+0x119241cb
+campaigns(uint256)
+getCampaign(uint256)
+0x7e6253da
+0x980f2e66
+signalToken()

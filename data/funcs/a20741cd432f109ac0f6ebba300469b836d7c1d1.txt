@@ -1,0 +1,6 @@
+totalSupply()
+available_assert_time(uint16,uint64)
+balanceOf(address)
+isEnded()
+massEthFund()
+endPreSale()

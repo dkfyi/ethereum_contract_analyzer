@@ -1,0 +1,11 @@
+registrationFee()
+totalGames()
+currentCost()
+0x3ed2b77a
+kill()
+0x4998bfaf
+0x5150e56c
+0x685f0ff5
+teamCap()
+0xa785d742
+0xf93613d4

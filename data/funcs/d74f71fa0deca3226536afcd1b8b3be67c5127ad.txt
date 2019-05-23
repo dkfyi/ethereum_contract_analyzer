@@ -1,0 +1,10 @@
+vote(uint256)
+0x0d6d2b01
+0x0dbd9bdc
+kill()
+getVote(uint256,uint256)
+0x555d5f99
+alive()
+0xb2c2f2e8
+0xc6ab6c4a
+videos(uint256)

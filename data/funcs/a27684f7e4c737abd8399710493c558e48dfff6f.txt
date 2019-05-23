@@ -1,0 +1,15 @@
+getAppByIndex(uint256)
+getAppsCount(address)
+m_totalAppCount()
+isAppRegistered(address)
+getApp(address,uint256)
+setImmutableOwnership(address)
+m_owner()
+m_changeable()
+createApp(string,uint256,string)
+0x26137e6b
+0x358982a3
+0x88fc56c0
+setImmutableOwnership(address)
+m_owner()
+m_changeable()

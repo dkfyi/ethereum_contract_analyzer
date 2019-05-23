@@ -1,0 +1,5 @@
+many_msg_babbage(bytes1)
+admin()
+getBalance(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

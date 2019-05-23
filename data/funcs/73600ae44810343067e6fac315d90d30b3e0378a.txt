@@ -1,0 +1,14 @@
+requiresHardCap()
+initialized()
+SCADA_requires_hard_cap()
+0x3a3ac4f9
+0x69f3c780
+0xd6093d83
+deployerAddress()
+0xf8c621b7
+currentFundingStage()
+0x6f9568c4
+0x6f9568c4
+0x5102f656
+0x5102f656
+0x1d4eae77

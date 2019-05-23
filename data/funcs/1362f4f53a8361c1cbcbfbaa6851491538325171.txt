@@ -1,0 +1,8 @@
+0x45d07e48
+0x6530edea
+0x9ea4dc32
+getUInt(bytes32)
+getUInt(bytes32)
+0x90f7ed5c
+getUInt(bytes32)
+getUInt(bytes32)

@@ -1,0 +1,3 @@
+0x9cb71ef8
+voteCount(uint8,uint8,uint8)
+voteFor(uint8,uint8,uint8)

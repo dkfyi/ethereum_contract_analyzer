@@ -1,0 +1,14 @@
+getBalance()
+die()
+0x4001a81f
+SmartexFundsManager()
+0x5dea5e47
+0x690b90a9
+payDividends(uint256)
+getShareholder(uint256)
+addShareholder(address,uint256)
+0x7f616488
+sendTo(address,uint256)
+getTotalShares()
+0xdda1a1e6
+0xf50ad617

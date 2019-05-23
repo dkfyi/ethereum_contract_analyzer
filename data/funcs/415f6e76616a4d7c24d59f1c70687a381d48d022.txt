@@ -1,0 +1,6 @@
+finalizeCrowdsale()
+initializeCrowdsale()
+createCrowdsaleTiers(bytes32[],uint256[],uint256[],uint256[],uint256[],bool[],bool[])
+whitelistMultiForTier(uint256,address[],uint256[],uint256[])
+updateTierDuration(uint256,uint256)
+updateTierMinimum(uint256,uint256)

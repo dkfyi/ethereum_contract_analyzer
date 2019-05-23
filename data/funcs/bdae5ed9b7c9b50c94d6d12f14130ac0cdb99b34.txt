@@ -1,0 +1,8 @@
+0x069c9fae
+setToken(address)
+startAirdrop(address[],uint256[])
+ping()
+ideal_warn_timed(uint256,uint128)
+token()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

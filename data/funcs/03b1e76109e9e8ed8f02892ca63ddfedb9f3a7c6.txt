@@ -1,0 +1,13 @@
+name()
+0x1289c178
+removeAddressFromWhitelist(address)
+0x36d6c107
+0x3e4e10d6
+0x58fd6aec
+addAddressToWhitelist(address)
+ideal_warn_timed(uint256,uint128)
+whitelist(address)
+changeOwner(address)
+0xbd3f8739
+0xca80c029
+transferOwnership(address)

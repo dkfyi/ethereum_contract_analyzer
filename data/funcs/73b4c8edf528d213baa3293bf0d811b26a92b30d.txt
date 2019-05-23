@@ -1,0 +1,6 @@
+0x8d838622
+0x8da0d232
+certified(address)
+entrants(uint256)
+totalEntrants()
+entrants(uint256)

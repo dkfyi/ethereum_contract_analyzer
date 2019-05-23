@@ -1,0 +1,6 @@
+finalizeCrowdsale()
+isFinalizeAgent()
+isSane()
+crowdsale()
+distributeReservedTokens(uint256)
+reservedTokensAreDistributed()

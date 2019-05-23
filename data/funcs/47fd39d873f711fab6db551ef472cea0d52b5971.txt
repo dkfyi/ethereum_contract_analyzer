@@ -1,0 +1,5 @@
+die()
+get(string)
+ideal_warn_timed(uint256,uint128)
+0xa544cfe2
+set(string,string)

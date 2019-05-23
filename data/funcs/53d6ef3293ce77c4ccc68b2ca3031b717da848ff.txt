@@ -1,0 +1,14 @@
+exchange(address,uint256)
+0x151f3734
+transferPrimary(address)
+version()
+0xa0736912
+primary()
+0xcf050395
+0xcf0a7b4d
+approve(address,address,uint256)
+0xe2601a57
+0xff740c1d
+approve(address,uint256)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

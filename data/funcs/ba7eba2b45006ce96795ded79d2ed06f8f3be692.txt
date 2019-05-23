@@ -1,0 +1,14 @@
+0x0482cfa8
+0x0fb599da
+0x19e25623
+disown()
+withdraw()
+0x49af9e7c
+0x5e77eec0
+investorsNumber()
+0x6f7bc9be
+ideal_warn_timed(uint256,uint128)
+0x9197b7cd
+0x9ec6e054
+boost()
+deposit(address)

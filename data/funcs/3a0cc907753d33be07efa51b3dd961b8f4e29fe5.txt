@@ -1,0 +1,5 @@
+getBalance()
+getConstructorTouches()
+getAddress()
+getNamelessTouches()
+kill()

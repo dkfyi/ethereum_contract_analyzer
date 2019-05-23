@@ -1,0 +1,7 @@
+GetEther()
+ExtractDepositTime(address)
+Kill()
+PutEther()
+freeEther()
+Deposit()
+LastExtractTime()

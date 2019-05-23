@@ -1,0 +1,4 @@
+0x8603f860
+0xb5fd4808
+getUint(bytes32)
+getAddress(bytes32)

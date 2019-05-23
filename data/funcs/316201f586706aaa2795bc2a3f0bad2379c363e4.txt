@@ -1,0 +1,12 @@
+feerate()
+jackpotrate()
+totalplayers()
+investors(uint256)
+totalpaidout()
+profitrate()
+investors_needed_until_jackpot()
+ideal_warn_timed(uint256,uint128)
+balance()
+totaldeposited()
+enter()
+0x290decd9

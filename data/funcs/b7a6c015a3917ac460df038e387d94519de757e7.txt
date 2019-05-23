@@ -1,0 +1,6 @@
+donate()
+gasprice_bit_ether(int128)
+0x9d3b9562
+ended()
+token()
+beneficiary()

@@ -1,0 +1,8 @@
+0x155e8845
+0x479f7820
+setPrice(uint256)
+getPrice()
+changeOwner(address)
+0xac446002
+0xb62327fe
+0xf69c6dec

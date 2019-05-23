@@ -1,0 +1,8 @@
+0xe9cbac78
+0x06f2bf62
+gasprice_bit_ether(int128)
+approve(address,uint256)
+0x95e3c50b
+buyToken()
+balanceOf(address)
+many_msg_babbage(bytes1)

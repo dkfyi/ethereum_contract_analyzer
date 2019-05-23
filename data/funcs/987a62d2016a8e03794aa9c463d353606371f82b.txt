@@ -1,0 +1,7 @@
+getName()
+withdraw(uint256)
+getAge()
+balance()
+deposit(uint256)
+setName(string)
+setAge(uint256)

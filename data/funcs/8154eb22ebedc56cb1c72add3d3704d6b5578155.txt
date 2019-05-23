@@ -1,0 +1,4 @@
+close(bool)
+get()
+0xbc4a414f
+end()

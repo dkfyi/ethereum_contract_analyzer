@@ -1,0 +1,13 @@
+name()
+setBeneficiary(address)
+setRate(uint256)
+ethUsdRate()
+tokenDecimals()
+unpause()
+paused()
+0x638b5e53
+fiatValueMultiplier()
+pause()
+ideal_warn_timed(uint256,uint128)
+0xdd14b09f
+transferOwnership(address)

@@ -1,0 +1,11 @@
+hit()
+maxBet()
+deal()
+0x79131a19
+getHouseCard(uint8)
+getHouseCardsNumber()
+minBet()
+getGameState()
+stand()
+getPlayerCard(uint8)
+getPlayerCardsNumber()

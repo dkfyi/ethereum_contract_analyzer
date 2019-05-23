@@ -1,0 +1,8 @@
+0x12a08e9f
+0x15f0f735
+0x31b1b978
+0x49a1837b
+numberOfQuestions()
+claimed()
+0xf1dfd6a9
+refund(address)

@@ -1,0 +1,5 @@
+getFeeBurnerAddress()
+kyberNetworkContract()
+feeBurnerContract()
+resolver(bytes32)
+addr(bytes32)

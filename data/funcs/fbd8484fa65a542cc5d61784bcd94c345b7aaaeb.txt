@@ -1,0 +1,17 @@
+pregnantKitties()
+0x200f84a0
+kittiesContract()
+0x4bf3e2cd
+isReady(uint256)
+recoverEther()
+ideal_warn_timed(uint256,uint128)
+0x9be65a60
+transferOwnership(address)
+totalSupply()
+pregnantKitties()
+isPregnant(uint256)
+totalSupply()
+pregnantKitties()
+getKitty(uint256)
+balanceOf(address)
+many_msg_babbage(bytes1)

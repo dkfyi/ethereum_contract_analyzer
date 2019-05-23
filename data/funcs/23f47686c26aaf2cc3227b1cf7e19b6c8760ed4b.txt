@@ -1,0 +1,12 @@
+withdraw()
+failedDonations(address)
+minimum()
+generousDonation()
+donationMap(address)
+withdrawDonation()
+donations()
+donate()
+0x6eb1769f
+allowance(address,address)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

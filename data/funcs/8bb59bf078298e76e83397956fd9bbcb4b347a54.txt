@@ -1,0 +1,14 @@
+name()
+removeToken(bytes32)
+created()
+ideal_warn_timed(uint256,uint128)
+0x904194a3
+addToken(bytes32,address)
+0xa04084df
+changeOwner(address)
+0xabf63ea9
+0xb77eddab
+0xc2e8033d
+setName(string)
+0xd1ffc305
+0xfb8ad6ff

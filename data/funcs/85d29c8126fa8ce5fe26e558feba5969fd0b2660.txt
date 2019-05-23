@@ -1,0 +1,15 @@
+0x2dca1fcc
+set_Shops(address[],address[])
+initialBuy(address[])
+total_buy()
+withdrawTokens(address[])
+0x5ee77f17
+farmItems(address[],uint256[])
+set_Total(uint256)
+ideal_warn_timed(uint256,uint128)
+set_Gas(uint256)
+backupfarmItems(address[],uint256[])
+transferOwnership(address)
+gas_amount()
+buyObject(address)
+many_msg_babbage(bytes1)

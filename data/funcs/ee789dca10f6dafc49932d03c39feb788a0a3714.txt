@@ -1,0 +1,7 @@
+hash()
+kill()
+lol()
+0xb11558ee
+__callback(bytes32,string,string)
+output()
+0x4c773795

@@ -1,0 +1,6 @@
+newAccount(string,bytes)
+checkAccount(string)
+sha3_512()
+deposit(string)
+authenticate(string,bytes)
+hash(uint64[8])

@@ -1,0 +1,10 @@
+0x0d80fefd
+0x1ed03820
+getMessageCount()
+0x55e4811d
+getMessage(uint256)
+ideal_warn_timed(uint256,uint128)
+0x8ecc8b68
+0xbe655cee
+transferOwnership(address)
+0xf41aabf3

@@ -1,0 +1,12 @@
+approve(address,uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+gasprice_bit_ether(int128)
+withdraw(uint256)
+depositToken(address,uint256)
+0x37d457f5
+withdraw()
+kill()
+withdrawToken(address,uint256)
+deposit()
+balanceOf(address,address)
+instantTrade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256,address)

@@ -1,0 +1,10 @@
+ended()
+totalAmount()
+0x1c3c7b79
+getPeriod()
+deadline()
+investors(uint256)
+kill()
+getId()
+play(string)
+ideal_warn_timed(uint256,uint128)

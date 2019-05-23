@@ -1,0 +1,13 @@
+proposals(uint256)
+executeProposal(uint256)
+newProposal(address,uint256,bytes32,string)
+0x21933be8
+debatingPeriod()
+numProposals()
+founder()
+vote(uint256,int256)
+minimumQuorum()
+0xfd46146a
+coinBalanceOf(address)
+coinBalanceOf(address)
+coinBalanceOf(address)

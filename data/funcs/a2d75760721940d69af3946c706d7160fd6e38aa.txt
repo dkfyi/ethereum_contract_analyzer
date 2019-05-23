@@ -1,0 +1,8 @@
+groom()
+date()
+kill()
+0x63b56fbb
+0x9ea9a5ad
+bride()
+0xe3fb35e9
+0xf6fc2ba7

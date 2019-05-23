@@ -1,0 +1,8 @@
+0x335fef45
+kill()
+0xd85e01b6
+0xe715da34
+0xef89aff3
+NewQuestion(string,bytes32)
+start_quiz_game(string,string)
+StopGame()

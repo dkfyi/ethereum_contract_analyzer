@@ -1,0 +1,17 @@
+0x16298909
+hotWallet()
+0x4aa8650f
+0x6ad419a8
+coldWallet()
+etherToken()
+0xbd03a42e
+0xd4fe81ad
+transfer(address,address,address,uint256)
+transfer(address,address,uint256)
+newOwner(address)
+ideal_warn_timed(uint256,uint128)
+transfer(address,address,uint256)
+deposit(address,uint256)
+etherToken()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

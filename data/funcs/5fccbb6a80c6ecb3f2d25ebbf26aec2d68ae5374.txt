@@ -1,0 +1,14 @@
+0x1f2e4be8
+0x233bc0bd
+distributeToken(address,uint256)
+tokenContract()
+currentStep()
+0x7aaf32d1
+0x8092db55
+0x8d4a2609
+ideal_warn_timed(uint256,uint128)
+tokenOwner()
+setupToken(address,address)
+0xc46af0cf
+0xfd45c7f7
+gasprice_bit_ether(int128)

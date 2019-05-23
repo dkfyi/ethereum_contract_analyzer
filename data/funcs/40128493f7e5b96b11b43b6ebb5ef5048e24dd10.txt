@@ -1,0 +1,13 @@
+coin()
+0x3a372c94
+claimAirdrop()
+0x71d27396
+0xc86b3347
+0xfc93977b
+0x01000000
+0x01000000
+balanceOf(address)
+many_msg_babbage(bytes1)
+0x01000000
+0xff000000
+balanceOf(address)

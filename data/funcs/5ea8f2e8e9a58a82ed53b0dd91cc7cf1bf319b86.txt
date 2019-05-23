@@ -1,0 +1,6 @@
+tokenContract()
+ideal_warn_timed(uint256,uint128)
+transfertokenContract(address)
+transferOwnership(address)
+getGoodPreset(bytes32)
+setGood(bytes32,uint256,uint256)

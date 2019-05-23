@@ -1,0 +1,15 @@
+stepOneStartTime()
+0x1ab1a977
+endTime()
+changeToken(address)
+etherProceeds()
+ideal_warn_timed(uint256,uint128)
+totalFundingSupply()
+airdrop(address[],uint256)
+stepTwoStartTime()
+0xf03a4172
+airdropSupply()
+token()
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

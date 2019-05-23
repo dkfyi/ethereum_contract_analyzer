@@ -1,0 +1,12 @@
+goalAchieved()
+wallet()
+ideal_warn_timed(uint256,uint128)
+setGoalAchieved(bool)
+saleStart()
+saleEnd()
+TXOtoken()
+transferOwnership(address)
+0x5b020c00
+0x5b4e82ff
+0x5b020c00
+0x5b4e82ff

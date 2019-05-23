@@ -1,0 +1,16 @@
+name()
+getBalance()
+removeAddressFromWhitelist(address)
+0x330963e6
+0x36d6c107
+0x3e4e10d6
+0x57535bd9
+addAddressToWhitelist(address)
+ideal_warn_timed(uint256,uint128)
+whitelist(address)
+changeOwner(address)
+0xba0bd54e
+0xbd3f8739
+0xc5a378df
+0xd5b0f41b
+transferOwnership(address)

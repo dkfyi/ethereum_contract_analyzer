@@ -1,0 +1,5 @@
+0x10f811a8
+0x4e4f8289
+numDeposits()
+deposit()
+getBalance(address)

@@ -1,0 +1,2 @@
+getWinningOutcome(uint256)
+0xbf95d44f

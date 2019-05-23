@@ -1,0 +1,14 @@
+setBeneficiary(address)
+rate()
+beneficiary()
+0x3c9177cd
+withdraw()
+claimOwnership()
+0x775f75df
+ideal_warn_timed(uint256,uint128)
+raisedAmount()
+emergencyWithdraw()
+pendingOwner()
+transferOwnership(address)
+min()
+0xfec241d6

@@ -1,0 +1,4 @@
+0x01000000
+autoBirthFee()
+giveBirth(uint256)
+0x01000000

@@ -1,0 +1,7 @@
+minter()
+balances(address)
+mint(address,uint256)
+kill()
+price()
+amount()
+send(address,uint256)

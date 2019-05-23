@@ -1,0 +1,13 @@
+GetStats()
+Play()
+GetLastBetUser(address)
+GetWinningAddress()
+TestRandomNumber()
+modifyRandomNumber2(uint256)
+ownerBetsCount(address)
+GetUserBets(address)
+manuallyResetGame()
+modifyCfo(address)
+0xd02f75d6
+modifyCeo(address)
+GetCurrentNumbers()

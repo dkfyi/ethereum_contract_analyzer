@@ -1,0 +1,4 @@
+name()
+0x3ccc4969
+kill()
+link_classic_internal(uint64,int64)

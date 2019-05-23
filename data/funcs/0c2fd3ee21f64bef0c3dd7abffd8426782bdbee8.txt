@@ -1,0 +1,3 @@
+say()
+getAge()
+0xf9ea5e79

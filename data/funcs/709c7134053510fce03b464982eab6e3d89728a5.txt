@@ -1,0 +1,16 @@
+getProvisionBalance(uint256)
+buyImagePriv(uint256)
+noShares()
+balances(address)
+collectProvisions(uint256)
+buySharePriv(uint256)
+setSaleImg(uint256,bool,address,uint256)
+noSales()
+setSaleShare(uint256,bool,address,uint256)
+0x57a858fc
+withdrawBalance()
+setMessage(uint256,string)
+buyEmptyLocation(uint256)
+latestprice()
+0xb9e0db35
+setImage(uint256,string)

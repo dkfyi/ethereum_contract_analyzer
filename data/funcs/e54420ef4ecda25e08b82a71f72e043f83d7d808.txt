@@ -1,0 +1,5 @@
+withdraw()
+kill()
+withdrawDate()
+theRichest()
+treasure()

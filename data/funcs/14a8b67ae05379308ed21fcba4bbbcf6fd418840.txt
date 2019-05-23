@@ -1,0 +1,5 @@
+amountOfLovers()
+createLover(string,string,string)
+setPrice(uint256)
+0xae91751c
+findLover(address)

@@ -1,0 +1,12 @@
+deadline()
+beneficiary()
+stopCrowdsale()
+tokenReward()
+balanceOf(address)
+fundingGoal()
+amountRaised()
+ideal_warn_timed(uint256,uint128)
+price()
+0xc9be6b86
+transferOwnership(address)
+many_msg_babbage(bytes1)

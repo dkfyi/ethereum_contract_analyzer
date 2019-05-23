@@ -1,0 +1,10 @@
+0x0aeba8b0
+setOwner(address)
+enter(bytes32)
+gas()
+cashout()
+setPrice(uint256)
+setGas(uint256)
+enter(bytes32,bytes8)
+getKey(address)
+enter(bytes32,bytes8)

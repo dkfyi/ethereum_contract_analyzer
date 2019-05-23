@@ -1,0 +1,5 @@
+setOwner(address)
+kill()
+ideal_warn_timed(uint256,uint128)
+0xbc6195b3
+many_msg_babbage(bytes1)

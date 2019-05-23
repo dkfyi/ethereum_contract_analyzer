@@ -1,0 +1,4 @@
+registerEmail(string)
+0x6e9b8555
+numRegistered()
+0xcb2da07c

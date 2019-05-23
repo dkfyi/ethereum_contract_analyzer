@@ -1,0 +1,7 @@
+setPrice(string,uint256)
+manager()
+getPrice(string)
+0x7529a9e1
+ideal_warn_timed(uint256,uint128)
+transferManager(address)
+transferOwnership(address)

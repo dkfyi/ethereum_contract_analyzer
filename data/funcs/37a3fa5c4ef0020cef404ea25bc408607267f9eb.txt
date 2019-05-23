@@ -1,0 +1,6 @@
+getTXSValue(uint256)
+initDeposit(uint256)
+0x7252ff25
+getTXSAddress(uint256)
+amount()
+registerTXS(uint256,address)

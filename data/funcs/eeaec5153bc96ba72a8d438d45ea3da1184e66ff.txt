@@ -1,0 +1,6 @@
+getDiaryLength()
+getDiary(uint256)
+getRecentDiary()
+getDiaryLength()
+getDiary(uint256)
+getRecentDiary()

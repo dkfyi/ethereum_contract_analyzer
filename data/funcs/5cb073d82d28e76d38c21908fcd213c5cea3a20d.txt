@@ -1,0 +1,8 @@
+kill()
+attack()
+0xf66ad59a
+0x666b72db
+0xccd6e5b6
+deposit()
+0x666b72db
+0xccd6e5b6

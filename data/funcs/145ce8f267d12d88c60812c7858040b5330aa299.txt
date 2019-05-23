@@ -1,0 +1,13 @@
+getTotalRecords()
+register(string,string,string,string)
+getRecord(string)
+kill()
+getOwner(string)
+0x6598a1ae
+getRecordAtIndex(uint256)
+getTime(string)
+numRecords()
+0xb99c4079
+isRegistered(string)
+withdraw(address,uint256)
+transfer(string,address)

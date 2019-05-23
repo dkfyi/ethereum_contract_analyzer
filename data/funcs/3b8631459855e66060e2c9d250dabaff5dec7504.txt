@@ -1,0 +1,13 @@
+0x05dba440
+removeAdmin(address)
+0x3eac35f2
+kill()
+0x6ec6333d
+0x778fa446
+0xf9f42fba
+withdraw(uint256)
+availableVolume(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32)
+availableVolume(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+deposit()

@@ -1,0 +1,12 @@
+0x0de33210
+0x17865133
+0x702f5321
+renounceOwnership()
+0x81ae8d86
+0x8d114dd3
+ideal_warn_timed(uint256,uint128)
+0xa069c1ac
+0xaad5b4ae
+setTokenContract(address)
+0xbe550be4
+transferOwnership(address)

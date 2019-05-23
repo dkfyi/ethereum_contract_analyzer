@@ -1,0 +1,15 @@
+setOwner(address)
+supervisor()
+0x73d0ad08
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+networkId()
+authority()
+0xd87a794f
+claimTokens(address)
+changeSupervisor(address)
+ownerOf(uint256)
+gasprice_bit_ether(int128)
+balanceOf(address)
+many_msg_babbage(bytes1)
+canCall(address,address,bytes4)

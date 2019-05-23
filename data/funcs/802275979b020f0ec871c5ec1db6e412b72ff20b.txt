@@ -1,0 +1,9 @@
+setOwner(address)
+0x5e61e1c8
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+transfer(address,address,uint256)
+authority()
+0x93ef43df
+many_msg_babbage(bytes1)
+canCall(address,address,bytes4)

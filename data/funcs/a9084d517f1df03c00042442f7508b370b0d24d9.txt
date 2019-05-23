@@ -1,0 +1,16 @@
+0x22f987ec
+0x23dc24ef
+0x60c7dc47
+0x8bf0beee
+ideal_warn_timed(uint256,uint128)
+0x90506f20
+0x99b6f607
+0xb82aa6c3
+0xb8da1b0c
+state()
+0xc94f598b
+0xd9c146de
+winner()
+transferOwnership(address)
+0xfc0c03a5
+0xfc168747

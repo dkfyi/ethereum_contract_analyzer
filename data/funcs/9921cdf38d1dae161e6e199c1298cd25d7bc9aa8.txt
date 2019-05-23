@@ -1,0 +1,13 @@
+isInstantiation(address)
+create(uint256,uint256,address,address,uint256,uint256,address,uint256,bool)
+setLibraryAddress(address)
+instantiations(address,uint256)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+getInstantiationCount(address)
+_owner()
+starToken()
+0xb816f513
+transferOwnership(address)
+init(uint256,uint256,address,address,address,uint256,uint256,address,uint256,bool)

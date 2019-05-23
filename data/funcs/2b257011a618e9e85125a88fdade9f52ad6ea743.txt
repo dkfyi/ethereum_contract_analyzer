@@ -1,0 +1,2 @@
+isValidNym(address)
+getNymCenterAPIURL()

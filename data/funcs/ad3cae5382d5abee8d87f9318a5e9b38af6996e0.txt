@@ -1,0 +1,13 @@
+beneficiary()
+bonus()
+amountRaised()
+TransferTokens(address,uint256)
+price()
+ChangeBonus(uint256)
+alfatokenteam()
+0xfb92488b
+token()
+minSaleAmount()
+0xfd69c215
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

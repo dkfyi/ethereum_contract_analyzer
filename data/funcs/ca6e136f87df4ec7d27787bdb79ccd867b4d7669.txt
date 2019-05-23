@@ -1,0 +1,11 @@
+0x0d80fefd
+changeSettings(uint256,uint256)
+maxTextLength()
+withdraw()
+getMessagesCount()
+supportMessage(uint256)
+getMessage(uint256)
+thisContract()
+ideal_warn_timed(uint256,uint128)
+minValue()
+addMessage(string,uint8,uint8,uint8)

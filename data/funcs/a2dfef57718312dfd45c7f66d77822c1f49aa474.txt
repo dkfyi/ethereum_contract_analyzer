@@ -1,0 +1,14 @@
+checkRole(address,string)
+hasRole(address,string)
+removeMinter(address)
+getContributorsLength()
+tokenBalances(address)
+renounceOwnership()
+addMinters(address[])
+ideal_warn_timed(uint256,uint128)
+ROLE_MINTER()
+addMinter(address)
+0xcfad7410
+0xe730395a
+0xedf26d9b
+transferOwnership(address)

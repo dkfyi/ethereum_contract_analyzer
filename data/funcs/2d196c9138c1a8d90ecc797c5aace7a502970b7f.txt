@@ -1,0 +1,8 @@
+0x501d815c
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+setGasPrice(uint256)
+initialize(address)
+transferOwnership(address)
+initialize(uint256)

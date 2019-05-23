@@ -1,0 +1,15 @@
+getBalance()
+totalSupply()
+0x1fa599ef
+withdraw(uint256)
+0x77386a07
+0x87ac565e
+ideal_warn_timed(uint256,uint128)
+mint(uint256)
+0xab5898e8
+isAuthorized(address)
+0xdeadbeef
+0xc171747b
+balanceOf(address)
+0xdeadbeef
+0xdeadbeef

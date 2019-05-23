@@ -1,0 +1,5 @@
+extensions()
+bancorToken()
+etherToken()
+quickConverter()
+convertFor(address[],uint256,uint256,address)

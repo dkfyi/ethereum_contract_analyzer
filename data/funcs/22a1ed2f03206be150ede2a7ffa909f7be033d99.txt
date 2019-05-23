@@ -1,0 +1,8 @@
+isCurrentOrPastAccountReader(address)
+removeAdmin(address)
+removeAccountReader(address)
+addAdmin(address)
+addAccountReader(address)
+isCurrentAdmin(address)
+isCurrentOrPastAdmin(address)
+isCurrentAccountReader(address)

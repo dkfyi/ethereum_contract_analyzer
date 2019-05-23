@@ -1,0 +1,8 @@
+vote(uint256)
+terminate()
+0x409e2205
+winningProposal()
+0x8768bdef
+p()
+remove()
+0xda58c7d9

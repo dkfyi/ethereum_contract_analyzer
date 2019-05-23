@@ -1,0 +1,4 @@
+0x0f67c01c
+ideal_warn_timed(uint256,uint128)
+0xda7b0bcf
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)

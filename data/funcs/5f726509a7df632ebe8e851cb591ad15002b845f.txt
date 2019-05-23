@@ -1,0 +1,4 @@
+difficulty()
+0x2a722839
+number()
+coinbase()

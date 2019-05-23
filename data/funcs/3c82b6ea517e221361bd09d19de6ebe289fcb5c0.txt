@@ -1,0 +1,3 @@
+0x29b4b0fa
+kill()
+0x91d65b0a

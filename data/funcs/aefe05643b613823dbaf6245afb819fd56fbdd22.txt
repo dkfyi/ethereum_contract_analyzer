@@ -1,0 +1,7 @@
+amountOfTokens()
+beneficiary()
+tokenReward()
+releaseDate()
+safeWithdrawal()
+balanceOf(address)
+many_msg_babbage(bytes1)

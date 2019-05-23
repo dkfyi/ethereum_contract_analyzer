@@ -1,0 +1,5 @@
+Try(string)
+NewQuestion(string,bytes32)
+question()
+StartGuess_wis(string,string)
+StopGame()

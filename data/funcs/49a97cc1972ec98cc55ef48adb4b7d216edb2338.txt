@@ -1,0 +1,9 @@
+transferMulti(address[],uint256[])
+transferAndLockMulti(address[],uint256[],uint256[])
+tokenAddr()
+0xc9cd4257
+transferFromMulti(address[],address[],uint256[])
+many_msg_babbage(bytes1)
+transferAndLock(address,uint256,uint256)
+0x3e05c943
+gasprice_bit_ether(int128)

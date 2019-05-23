@@ -1,0 +1,5 @@
+count()
+kill()
+attack()
+withdrawFor(address,uint256)
+withdrawFor(address,uint256)

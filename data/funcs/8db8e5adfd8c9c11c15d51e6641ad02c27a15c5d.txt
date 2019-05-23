@@ -1,0 +1,6 @@
+__callback(bytes32,string)
+oraclizeGas()
+0x42619f66
+0x9a76efeb
+0xd2020698
+getAddress()

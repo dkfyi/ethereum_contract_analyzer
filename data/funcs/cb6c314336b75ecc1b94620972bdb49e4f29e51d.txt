@@ -1,0 +1,13 @@
+0x12904b2b
+0x264ad715
+0x54ad4179
+etherdelta()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+withdrawTo(uint256,address)
+deposit()
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+withdrawToken(address,uint256)
+many_msg_babbage(bytes1)
+balanceOf(address,address)
+withdraw(uint256)

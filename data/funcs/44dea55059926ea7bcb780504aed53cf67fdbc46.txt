@@ -1,0 +1,9 @@
+userId(address)
+withdraw()
+getTicket(address)
+userAmount()
+maxAttendees()
+TEMWallet()
+startTime()
+FEE()
+0xf90268cf

@@ -1,0 +1,2 @@
+bakeCookie(string)
+breakCookie(string)

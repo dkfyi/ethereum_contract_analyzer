@@ -1,0 +1,8 @@
+withdraw(uint256)
+attack()
+withdraw(uint256)
+balanceOf(address)
+withdraw(uint256)
+deposit()
+withdraw(uint256)
+balanceOf(address)

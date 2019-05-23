@@ -1,0 +1,7 @@
+addAuthorizedAddress(address)
+0x49024cee
+0x494503d4
+removeAuthorizedAddress(address)
+0xb9181611
+0xc84e5a3b
+gasprice_bit_ether(int128)

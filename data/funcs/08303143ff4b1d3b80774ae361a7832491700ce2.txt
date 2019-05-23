@@ -1,0 +1,6 @@
+pay()
+0x325c2144
+bal()
+send(address)
+kill()
+0x63898e2b

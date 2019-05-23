@@ -1,0 +1,6 @@
+getOwnerAddress()
+0x3be32f7d
+getLatestTweet()
+getTweet(uint256)
+getNumberOfTweets()
+tweet(string)

@@ -1,0 +1,11 @@
+coordinatesToAddresses(uint32)
+balances(address)
+0x3021832a
+setFeePercent(uint256)
+reserveForJackpot()
+getAllCoins()
+getNumCoins()
+isThereACoinAtCoordinates(uint16,uint16)
+withdrawBalance(uint256)
+placeCoin(uint16,uint16)
+transferOwnership(address)

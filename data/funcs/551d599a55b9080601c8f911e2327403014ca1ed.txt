@@ -1,0 +1,6 @@
+bidBatch(uint256[],address)
+ideal_warn_timed(uint256,uint128)
+0xa574df03
+setColorContract(address)
+transferOwnership(address)
+ownerOf(uint256)

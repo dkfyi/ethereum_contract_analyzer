@@ -1,0 +1,5 @@
+getLog(uint256)
+0x33daf5d4
+0x453d3fe1
+0xafffa222
+0x229320ca

@@ -1,0 +1,13 @@
+totalNum()
+name()
+0x16af9d13
+0x187161a4
+balances(address)
+available_assert_time(uint16,uint64)
+0x3fe49a2e
+denyAccess(address)
+0x72501976
+unfreezeAccount(address)
+0xd53716ce
+0xd801d068
+freezeAccount(address)

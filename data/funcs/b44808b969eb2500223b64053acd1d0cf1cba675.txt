@@ -1,0 +1,8 @@
+tips()
+reward()
+Win()
+deadline()
+withdrawTips()
+ClickButton()
+buttonClicks()
+winner()

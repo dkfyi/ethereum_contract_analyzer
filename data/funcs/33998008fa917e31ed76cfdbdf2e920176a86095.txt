@@ -1,0 +1,6 @@
+sendDeposit()
+changeWallet(address)
+claimTokens(address)
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

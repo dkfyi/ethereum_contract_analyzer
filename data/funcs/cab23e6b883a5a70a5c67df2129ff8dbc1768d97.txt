@@ -1,0 +1,4 @@
+rand(uint256)
+kill()
+Random()
+0xd8f64b22

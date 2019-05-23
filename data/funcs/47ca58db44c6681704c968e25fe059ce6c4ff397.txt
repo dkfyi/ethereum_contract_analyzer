@@ -1,0 +1,16 @@
+0x2866e77a
+0x2a8b133a
+0x2dd60c5e
+0x2ee35e88
+0x448c1635
+0x6d4478b9
+0x8c2275b0
+ideal_warn_timed(uint256,uint128)
+winners(uint256)
+0xdb595b3b
+0xdd6df21a
+transferOwnership(address)
+allowance(address,address)
+allowance(address,address)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

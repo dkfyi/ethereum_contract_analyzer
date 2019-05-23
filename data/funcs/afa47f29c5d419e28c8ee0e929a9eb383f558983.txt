@@ -1,0 +1,7 @@
+entryCount()
+0x3596aa58
+0x383b156b
+0x453a2abc
+manager()
+addEntry(string,string)
+0xb30906d4

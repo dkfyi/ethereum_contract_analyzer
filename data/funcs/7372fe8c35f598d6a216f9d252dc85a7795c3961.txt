@@ -1,0 +1,13 @@
+0x15c4a7b1
+getToken()
+0x38b39d29
+getAddress()
+burn()
+burnAddress()
+0x79071aa6
+0xc331ff6a
+totalSupply()
+balanceOf(address)
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

@@ -1,0 +1,4 @@
+register(string,string,string,string)
+isExists(bytes32)
+get(bytes32)
+getOwner(bytes32)

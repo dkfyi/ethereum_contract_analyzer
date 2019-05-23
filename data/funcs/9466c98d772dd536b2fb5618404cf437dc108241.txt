@@ -1,0 +1,4 @@
+getAdopters()
+returnEth(address,uint256)
+adopt(uint256)
+fee(address,uint256)

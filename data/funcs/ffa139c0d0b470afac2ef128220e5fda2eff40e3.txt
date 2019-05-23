@@ -1,0 +1,9 @@
+0x3b462d5b
+tokenReward()
+ideal_warn_timed(uint256,uint128)
+airdrop(address[],uint256)
+changeTokenAddress(address)
+transferOwnership(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

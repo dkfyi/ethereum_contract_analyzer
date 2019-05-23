@@ -1,0 +1,13 @@
+isInWhitelist(address)
+0x0d31767e
+transferRole(string,address)
+setWhitelist(address,bool)
+removeFromWhitelist(address[])
+0x55ea6c47
+getRole(string)
+addToWhitelist(address[])
+ideal_warn_timed(uint256,uint128)
+0x9f2b9add
+0xd5f768bf
+checkOwner(address)
+transferOwnership(address)

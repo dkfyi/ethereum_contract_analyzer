@@ -1,0 +1,14 @@
+setBeneficiary(address)
+ideal_warn_timed(uint256,uint128)
+0xa61935c1
+create()
+transferOwnership(address)
+transferOwnership(address)
+0x4889da63
+0x6ecf6c17
+0x73fea503
+ideal_warn_timed(uint256,uint128)
+widthraw()
+getDocument(bytes32)
+0xccb893f7
+transferOwnership(address)

@@ -1,0 +1,11 @@
+terminate()
+burner()
+0x38571708
+0xbde344a8
+0xc2533bcd
+unlockTokens()
+balanceOf(address)
+burn(address,uint256)
+many_msg_babbage(bytes1)
+burn(address,uint256)
+many_msg_babbage(bytes1)

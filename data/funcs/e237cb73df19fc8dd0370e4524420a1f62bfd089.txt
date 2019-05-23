@@ -1,0 +1,10 @@
+getFundDetails(address)
+getLastFundId()
+0x7b8e8895
+0x9624e83e
+calcSharePrice()
+0x9624e83e
+0x0194497f
+creationTime()
+name()
+0xef33ae16

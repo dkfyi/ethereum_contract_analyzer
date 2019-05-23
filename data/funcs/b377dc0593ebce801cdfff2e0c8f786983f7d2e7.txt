@@ -1,0 +1,7 @@
+vote(uint256)
+proposals(uint256)
+chairperson()
+delegate(address)
+winningProtocal()
+giveRightToVote(address)
+0x1cc41b3b

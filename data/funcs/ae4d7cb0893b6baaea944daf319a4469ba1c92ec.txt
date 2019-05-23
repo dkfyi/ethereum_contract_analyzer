@@ -1,0 +1,6 @@
+deliver(uint64,bytes32,uint64,bytes32)
+cancel(uint64)
+request(uint8,address,bytes4,uint256,bytes32[])
+MIN_FEE()
+CANCELLATION_FEE()
+GAS_PRICE()

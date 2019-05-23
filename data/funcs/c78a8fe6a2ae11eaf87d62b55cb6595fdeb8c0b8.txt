@@ -1,0 +1,14 @@
+0x04876ffc
+0x1c315a85
+0x25a13c68
+0x31e3a100
+deleteAccount(address)
+ideal_warn_timed(uint256,uint128)
+0xbdf3e088
+0xe3d6f50b
+addAccount(address)
+transferOwnership(address)
+contractAddress()
+token()
+allowance(address,address)
+gasprice_bit_ether(int128)

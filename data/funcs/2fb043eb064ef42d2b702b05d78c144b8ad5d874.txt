@@ -1,0 +1,16 @@
+removeAdmin(address)
+0x40e6c16f
+kill()
+0x6ec6333d
+0x786548dd
+0xa70ef5b0
+0xbfaa4391
+0xdf207dff
+0xe10c63ae
+0xdeadbeef
+deposit()
+withdraw(uint256)
+orderFills(address,bytes32)
+0xdeadbeef
+0xdeadbeef
+0xdeadbef0

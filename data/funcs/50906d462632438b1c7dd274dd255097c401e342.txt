@@ -1,0 +1,15 @@
+0x04072e8a
+selfAddress()
+tokenChanger()
+version()
+0x5be1abe9
+withdrawTokens(address,address,uint256)
+0x6cfb6bf9
+0x73331fcb
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+etherToken()
+0xbdf19cc9
+newOwner()
+transferOwnership(address)
+many_msg_babbage(bytes1)

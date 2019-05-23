@@ -1,0 +1,15 @@
+GetPreSale()
+0x31e658a5
+GetTocPrice()
+EtherPriceUpdate(uint256)
+GetSuspend()
+admin(address)
+AuthAdmin(address,bool,uint256)
+GetEtherPrice()
+0x9f382f6a
+GeneralUpdate(uint256,uint256)
+GetMainSale()
+GetContractAddr()
+GetPrivateSale()
+GetEnd()
+UpdateState(uint256)

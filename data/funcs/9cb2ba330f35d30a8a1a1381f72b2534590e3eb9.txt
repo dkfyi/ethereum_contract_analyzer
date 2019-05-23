@@ -1,0 +1,4 @@
+0x28b6f861
+kill()
+getDigit()
+getFinalBytes()

@@ -1,0 +1,13 @@
+withdraw(uint256)
+0x42289c40
+0xb1058cfd
+deposit(uint256)
+withdraw(uint256)
+getOffer(uint256)
+balanceOf(address)
+getOffer(uint256)
+approve(address,uint256)
+buy(uint256,uint256)
+withdraw(uint256)
+balanceOf(address)
+deposit()

@@ -1,0 +1,4 @@
+getBalance()
+balances(address)
+kill()
+getBlockNumber()

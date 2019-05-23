@@ -1,0 +1,13 @@
+reward()
+distributed(address)
+0x5b343191
+distribute(address[])
+ideal_warn_timed(uint256,uint128)
+changeReward(uint256)
+holder()
+transferOwnership(address)
+token()
+allowance(address,address)
+gasprice_bit_ether(int128)
+allowance(address,address)
+gasprice_bit_ether(int128)

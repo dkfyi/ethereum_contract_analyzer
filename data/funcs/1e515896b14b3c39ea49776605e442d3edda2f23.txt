@@ -1,0 +1,17 @@
+owners(uint256)
+0x07f7011f
+0x23ab418e
+txCount()
+uintToAscii(uint256)
+addressToString(address)
+transactions(bytes32)
+0x6b2a5712
+0x8faacc62
+bytes32ToString(bytes32)
+getOwners()
+0xbba05159
+required()
+uint2str(uint256)
+0xfc98aa86
+balanceOf(address)
+many_msg_babbage(bytes1)

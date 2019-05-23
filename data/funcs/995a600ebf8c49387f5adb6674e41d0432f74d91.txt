@@ -1,0 +1,10 @@
+checkRole(address,string)
+hasRole(address,string)
+ROLE_PAUSE_ADMIN()
+getNewGens(address,uint256)
+adminRemoveRole(address,string)
+adminAddRole(address,string)
+ROLE_ADMIN()
+0xd7690770
+0x466698e6
+0x466698e6

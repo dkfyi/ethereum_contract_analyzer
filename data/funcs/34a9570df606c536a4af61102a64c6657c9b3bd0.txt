@@ -1,0 +1,3 @@
+0x1f445355
+kill()
+donate(string)

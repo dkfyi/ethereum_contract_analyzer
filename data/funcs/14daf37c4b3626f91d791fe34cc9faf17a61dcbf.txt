@@ -1,0 +1,8 @@
+wallet()
+ideal_warn_timed(uint256,uint128)
+crowdsale()
+finish(uint256)
+addPresaleTokens(address[],uint256[],uint256)
+setWeiPerUSDinTGE(uint256)
+transferOwnership(address)
+addPrivatePresaleTokens(address,uint256,uint256)

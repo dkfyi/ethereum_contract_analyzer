@@ -1,0 +1,8 @@
+creator()
+getTotalMinted()
+candleCost()
+0x419905e5
+Candle()
+changeCreator(address)
+0x881c0165
+mintToken(address,uint256)

@@ -1,0 +1,7 @@
+batchTrasferByValue(address[],uint256[])
+setIsBatch(bool)
+isBatched()
+batchTrasfer(address[],uint256,uint256)
+sendOwner()
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

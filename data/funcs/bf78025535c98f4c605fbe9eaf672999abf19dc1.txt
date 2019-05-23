@@ -1,0 +1,4 @@
+getTotalBalance()
+balances(address)
+getMyAddress()
+0xdb88031a

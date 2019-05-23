@@ -1,0 +1,13 @@
+isAgreementFullySigned(bytes32)
+hasDisclosureAgreement(uint256)
+hasAgreement(bytes32)
+isDisclosureFullySigned(uint256)
+ideal_warn_timed(uint256,uint128)
+0x8f5cdced
+addAgreement(bytes32,uint256,address[])
+0xb0b9d87f
+0xb9970171
+0xbb7bb278
+signAgreement(bytes32)
+0xdc1b9933
+getAgreement(bytes32)

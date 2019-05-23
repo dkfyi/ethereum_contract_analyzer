@@ -1,0 +1,8 @@
+balances(address)
+0x3a17c060
+0x4fd506e5
+ideal_warn_timed(uint256,uint128)
+0xd36dfac8
+setBalance(address,uint256)
+claimProfit()
+transferOwnership(address)

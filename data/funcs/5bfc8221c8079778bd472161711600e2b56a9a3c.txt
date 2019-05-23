@@ -1,0 +1,9 @@
+withdrawFunds()
+0x30ce4895
+0x35f4581b
+kill()
+loop()
+clearStorage(uint256[])
+placeBet(uint256,uint256,uint256,uint256,bytes32,bytes32)
+settleBet(uint256,uint256)
+0x616c6c65

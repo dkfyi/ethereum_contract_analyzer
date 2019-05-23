@@ -1,0 +1,2 @@
+isInvestmentPermitted(address,uint256,uint256)
+isRedemptionPermitted(address,uint256,uint256)

@@ -1,0 +1,11 @@
+isPricingStrategy()
+calculatePrice(uint256,uint256,uint256,address,uint256)
+oneTokenInWei()
+ideal_warn_timed(uint256,uint128)
+isSane(address)
+whitelist()
+0xe419c5a4
+isPresalePurchase(address)
+transferOwnership(address)
+subtractAmount(address,uint256,uint256)
+times(uint256,uint256)

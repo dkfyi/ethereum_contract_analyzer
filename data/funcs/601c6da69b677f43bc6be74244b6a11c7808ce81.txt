@@ -1,0 +1,6 @@
+registerToProvider(address)
+kill()
+0x6d966d01
+0x70019b35
+setDebt(uint256)
+ideal_warn_timed(uint256,uint128)

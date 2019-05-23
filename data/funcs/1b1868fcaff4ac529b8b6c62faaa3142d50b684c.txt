@@ -1,0 +1,8 @@
+0x120dce48
+0x1901910b
+0x4adcade4
+0x6244817a
+stringToBytes32(string)
+stringToBytes32(string)
+DXC()
+balanceOf(address)

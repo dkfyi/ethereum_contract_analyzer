@@ -1,0 +1,11 @@
+0x3bd6df14
+kill()
+0x490920b6
+clear()
+0x559c6732
+setKittyCoreAddress(address)
+0x8cca6966
+0xc11e1ff3
+0xc7e6aedb
+0xe8293e8a
+giveBirth(uint256)

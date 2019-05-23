@@ -1,0 +1,8 @@
+0x582a2863
+isValid(bytes32)
+sign(bytes32)
+0xa51ec3bf
+0xb89199dd
+0xc3501848
+0xc771909c
+0xf537cf91

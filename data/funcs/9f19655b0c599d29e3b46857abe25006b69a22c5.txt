@@ -1,0 +1,11 @@
+balances(address)
+0x332d2b87
+deposit(address,uint256)
+0x49e65d32
+standard()
+0x5bb12a1a
+addPlayer(address)
+0xea1c7297
+0xeee00470
+withdraw(address,uint256)
+0xf71d96cb

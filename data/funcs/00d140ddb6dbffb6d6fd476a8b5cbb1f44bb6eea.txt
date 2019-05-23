@@ -1,0 +1,7 @@
+kill()
+get()
+getLength()
+getHistory(uint256)
+setNav(uint32)
+0xfe2079c7
+0x1cc41b3b

@@ -1,0 +1,9 @@
+addPicture(string,uint32,uint32,uint32,uint32,string,string,string)
+0x17072f46
+setHash(string)
+addManager(address)
+ideal_warn_timed(uint256,uint128)
+removeManager(address)
+hashes(bytes32)
+transferOwnership(address)
+managers(address)

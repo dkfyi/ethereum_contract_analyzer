@@ -1,0 +1,15 @@
+0x0e7efc65
+setInt(bytes32,int256)
+setBytes32(bytes32,bytes32)
+0x555c8ec8
+getUint(address,bytes32)
+0x767e5509
+getAddress(address,bytes32)
+0x8c2a78c8
+getInt(address,bytes32)
+0x987a1fbe
+0x9c80d9e8
+getBool(address,bytes32)
+setBool(bytes32,bool)
+setAddress(bytes32,address)
+setUint(bytes32,uint256)

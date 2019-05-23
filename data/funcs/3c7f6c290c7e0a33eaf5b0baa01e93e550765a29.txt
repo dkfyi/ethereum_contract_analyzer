@@ -1,0 +1,3 @@
+0x0bad0762
+kill()
+0x850a4ace

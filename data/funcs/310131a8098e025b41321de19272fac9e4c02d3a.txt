@@ -1,0 +1,8 @@
+setToken(address)
+0x560a5635
+ideal_warn_timed(uint256,uint128)
+buy()
+0xdf4e3460
+token()
+0xfe565c91
+many_msg_babbage(bytes1)

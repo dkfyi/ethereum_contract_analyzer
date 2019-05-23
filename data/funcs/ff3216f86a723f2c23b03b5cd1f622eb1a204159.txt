@@ -1,0 +1,10 @@
+getRequestByRequesterAddress(address)
+createTargetedValentineRequest(string,string,string,address)
+0x4846ff7e
+requesters(uint256)
+numRequesters()
+getRequestByIndex(uint256)
+updateOwner(address)
+ideal_warn_timed(uint256,uint128)
+createOpenValentineRequest(string,string,string)
+acceptValentineRequest(address)

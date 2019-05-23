@@ -1,0 +1,6 @@
+initialized()
+0x4307998a
+FundingAssetAddress()
+typeId()
+buy()
+deployer()

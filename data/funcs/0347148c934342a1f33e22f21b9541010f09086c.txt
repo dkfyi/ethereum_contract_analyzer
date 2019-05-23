@@ -1,0 +1,11 @@
+bet()
+withdraw()
+0xa0c3d45f
+0xb4f81dcc
+0xc8d57d84
+roll()
+0xe44ccb0e
+PrepareRoll(uint256)
+CancelMyInvestment()
+DoRoll()
+Invest()

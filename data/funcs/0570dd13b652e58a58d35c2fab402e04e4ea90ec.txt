@@ -1,0 +1,5 @@
+transfer(address[],uint256)
+tokenAddr()
+changeToken(address)
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)

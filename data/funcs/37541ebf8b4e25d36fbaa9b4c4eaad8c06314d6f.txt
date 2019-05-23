@@ -1,0 +1,6 @@
+minBet()
+startGame(uint256)
+changeMinBet(uint256)
+withdaw(uint256)
+prizeFund()
+log(uint256)

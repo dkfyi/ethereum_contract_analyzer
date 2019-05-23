@@ -1,0 +1,14 @@
+0x04ad1e53
+0x2cd0fc73
+0x4b95de13
+0x690d3114
+0xb6988463
+0xc6b7f4ee
+0xf241ffb0
+0xc75e0a81
+getAssetProxy(bytes4)
+balanceOf(address)
+allowance(address,address)
+isApprovedForAll(address,address)
+getApproved(uint256)
+0x7e9d74dc

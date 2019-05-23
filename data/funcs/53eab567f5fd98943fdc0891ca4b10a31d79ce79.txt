@@ -1,0 +1,12 @@
+0x045fb888
+0x08a6d790
+position()
+setOwner(address)
+batchAddToWhitelist(address[])
+identifier()
+setAuthority(address)
+removeFromWhitelist(address)
+ideal_warn_timed(uint256,uint128)
+authority()
+addToWhitelist(address)
+canCall(address,address,bytes4)

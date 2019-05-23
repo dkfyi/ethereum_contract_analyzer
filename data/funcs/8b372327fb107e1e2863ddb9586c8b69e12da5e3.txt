@@ -1,0 +1,15 @@
+_depositTransferCredits(uint256,uint256)
+twitterBotAddress()
+transferCreditBotAddress()
+_sendEthereum(uint256)
+0x2e95b462
+0x33e43fb9
+setTransferCreditBot(address)
+ownerAddress()
+_withdrawEthereum(uint256)
+_addEthereumAddress(uint256,address)
+0xb4f0d7ce
+_depositEthereum(uint256)
+_transferEthereum(uint256,uint256,uint256)
+setTwitterBot(address)
+transferOwnership(address)

@@ -1,0 +1,11 @@
+ValidateExec(string)
+ListNotValSince(uint256)
+0x25573a92
+kill()
+CheckExecution(string)
+IsValidated(string)
+AddExec(string)
+ListAllSince(uint256)
+LastValidated()
+CountExecs()
+LastExecuted()

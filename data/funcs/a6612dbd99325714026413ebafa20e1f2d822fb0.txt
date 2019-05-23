@@ -1,0 +1,14 @@
+setHash(bytes32)
+0x382262fc
+getAddress()
+getSenderAddress()
+getTimeElapsed()
+0x63851c31
+refund(bytes32)
+contractBalance()
+0x9cf97110
+0xd0ee4de0
+getHash()
+0xda235b22
+0xdb9d48e8
+setAddress(address)

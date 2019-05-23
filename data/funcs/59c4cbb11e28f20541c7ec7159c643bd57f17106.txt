@@ -1,0 +1,12 @@
+0x08bea870
+getBalance()
+0x2098bc0f
+0x216355ec
+0x6669a2d0
+0x84f5a87a
+ideal_warn_timed(uint256,uint128)
+0x933a9ce8
+Owned()
+getNow()
+0xea5ae4d4
+transferOwnership(address)

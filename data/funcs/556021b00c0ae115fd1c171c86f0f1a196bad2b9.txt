@@ -1,0 +1,5 @@
+kill()
+0x49749d15
+setGreeting(string)
+0xb3b36bb3
+greet()

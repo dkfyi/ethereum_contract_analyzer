@@ -1,0 +1,9 @@
+0x17a5410b
+0x2f64d386
+kill()
+transferOwnershipTo(address)
+ideal_warn_timed(uint256,uint128)
+timestamp()
+0xf6345414
+0x52810427
+upgrade(address)

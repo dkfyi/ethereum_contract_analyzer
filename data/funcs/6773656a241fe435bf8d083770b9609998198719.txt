@@ -1,0 +1,13 @@
+0x2a30bad5
+available_assert_time(uint16,uint64)
+0x4e56d88f
+denyAccess(address)
+tokenTransfer(address,uint256)
+0x72501976
+batchTransfer(address[],uint256[])
+ideal_warn_timed(uint256,uint128)
+addAccess(address)
+changeOwner(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

@@ -1,0 +1,9 @@
+GenerateChips(address,uint256,uint256,uint32[])
+IsBoilerValid(address,uint256)
+GetBoilerInfo(address,uint256)
+IsBoilerExpire(address,uint256)
+SetAuth(address)
+ClearAuth(address)
+CollectChips(address,uint256)
+0xdb14ee03
+GetBoilerInfo(address,uint256)

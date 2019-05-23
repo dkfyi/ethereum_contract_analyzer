@@ -1,0 +1,4 @@
+add(uint256)
+subtract(uint256)
+getTotal()
+double()

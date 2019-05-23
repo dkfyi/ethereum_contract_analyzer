@@ -1,0 +1,13 @@
+send(address,address,uint256)
+Bitcoin_address()
+withdraw()
+0x44731da4
+ideal_warn_timed(uint256,uint128)
+getPrice()
+buy()
+multisend(address,address[],uint256[])
+transferOwnership(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

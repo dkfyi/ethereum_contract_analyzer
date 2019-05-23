@@ -1,0 +1,11 @@
+0x2157c46a
+0x373420d9
+0x5ce093de
+ideal_warn_timed(uint256,uint128)
+0x984a2df1
+newOwner()
+0xd69ff352
+transferOwnership(address)
+offerAsSacrifice(address)
+withdraw()
+myEarnings()

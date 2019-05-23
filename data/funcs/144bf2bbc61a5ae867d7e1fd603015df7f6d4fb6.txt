@@ -1,0 +1,6 @@
+terminate()
+getBlockNumber()
+terminateAlt()
+Greeter(string)
+setGreeting(string)
+greet()

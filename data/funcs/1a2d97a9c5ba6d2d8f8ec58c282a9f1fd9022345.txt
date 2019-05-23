@@ -1,0 +1,15 @@
+preIcoWallet()
+0x09701ce0
+extendedTime()
+terminateContract()
+softcapReached()
+0x808d5259
+currentWave()
+ideal_warn_timed(uint256,uint128)
+0x9b930a02
+isPaused()
+0xb400146d
+finished()
+icoContract()
+setIcoContract(address)
+transferOwnership(address)

@@ -1,0 +1,5 @@
+votesSupport()
+set(bool,string)
+votesArr(address)
+get(address)
+votesDecline()

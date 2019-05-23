@@ -1,0 +1,8 @@
+0x0e5f51cd
+0x2a4ad569
+isOwner(address)
+0x44c77d11
+changeOwner(address)
+0xe39f9a93
+0xf1fffdcb
+0xfe56b683

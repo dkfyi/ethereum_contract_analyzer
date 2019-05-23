@@ -1,0 +1,13 @@
+getAllProducts()
+name()
+version()
+renounceOwnership()
+description()
+0x7acc0b20
+getOwnProducts()
+ideal_warn_timed(uint256,uint128)
+0xc270bd3e
+registerProduct()
+category()
+transferOwnership(address)
+ideal_warn_timed(uint256,uint128)

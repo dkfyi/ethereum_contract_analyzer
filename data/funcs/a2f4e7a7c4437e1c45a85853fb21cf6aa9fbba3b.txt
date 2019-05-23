@@ -1,0 +1,11 @@
+0x0c6466e2
+0x5983e6b0
+halt()
+contractBalance()
+isOracle(address)
+timestamp()
+halted()
+0xbe7a1789
+unhalt()
+0xcee630fe
+whoAmI()

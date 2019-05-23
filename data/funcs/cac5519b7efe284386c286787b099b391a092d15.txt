@@ -1,0 +1,2 @@
+canCall(address,address,bytes4)
+token()

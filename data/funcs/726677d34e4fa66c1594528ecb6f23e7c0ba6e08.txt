@@ -1,0 +1,17 @@
+0x05374a91
+name()
+0x0997fa31
+0x38a1ff63
+0x3bce34a4
+version()
+0x62f0ce85
+0x6357e530
+renounceOwnership()
+description()
+0x7b18c46c
+ideal_warn_timed(uint256,uint128)
+0x8ee7ad22
+0xdab08e26
+0xe89617c4
+category()
+transferOwnership(address)

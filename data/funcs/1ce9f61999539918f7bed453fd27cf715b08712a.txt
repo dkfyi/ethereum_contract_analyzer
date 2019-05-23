@@ -1,0 +1,13 @@
+0x24a0d454
+withdraw()
+0x42c417d8
+0x4b47741f
+ideal_warn_timed(uint256,uint128)
+0xb20e06e0
+0xb7c68259
+transferOwnership(address)
+destroyedBots()
+totalSupply()
+botIndexToOwner(uint256)
+giveBirth(uint256)
+getBot(uint256)

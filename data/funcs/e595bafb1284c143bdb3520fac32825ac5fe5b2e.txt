@@ -1,0 +1,17 @@
+isPregnant(uint256)
+0x1be19560
+0x2e269ed9
+kittiesContract()
+sweep()
+isReady(uint256)
+ideal_warn_timed(uint256,uint128)
+0xd486c2fb
+trigger(uint256)
+transferOwnership(address)
+getKitty(uint256)
+balanceOf(address)
+many_msg_babbage(bytes1)
+newContractAddress()
+paused()
+getKitty(uint256)
+giveBirth(uint256)

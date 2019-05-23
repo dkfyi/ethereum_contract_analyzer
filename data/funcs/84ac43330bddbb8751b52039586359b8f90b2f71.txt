@@ -1,0 +1,9 @@
+0x08b80f61
+__callback(bytes32,string)
+kill()
+update()
+getAddress()
+cbAddress()
+getAddress()
+getPrice(string)
+query(uint256,string,string)

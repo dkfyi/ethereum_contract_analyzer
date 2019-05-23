@@ -1,0 +1,12 @@
+name()
+0x13cde9a2
+totalSupply()
+available_assert_time(uint16,uint64)
+initialSupply()
+version()
+balanceOf(address)
+ETH()
+link_classic_internal(uint64,int64)
+buy()
+fee()
+sell(uint256)

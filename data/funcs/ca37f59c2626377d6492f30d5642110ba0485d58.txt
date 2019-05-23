@@ -1,0 +1,2 @@
+set(bytes)
+get(bytes32)

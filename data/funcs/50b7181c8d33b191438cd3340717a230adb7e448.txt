@@ -1,0 +1,14 @@
+calculateTokenAmount(uint256,uint256)
+isPricingStrategy()
+0x1af84df3
+0x272671b4
+allowAddress(address,bool)
+0x54bbc08e
+0x6db9e198
+0x7455d741
+ideal_warn_timed(uint256,uint128)
+0x8dee220e
+0x91cf6d3e
+0x9d9df23e
+reclaimEther()
+transferOwnership(address)

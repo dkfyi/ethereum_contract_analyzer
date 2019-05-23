@@ -1,0 +1,16 @@
+0x1e2284ed
+0x4adae0da
+0x98e0b39a
+0x997805d4
+deposit(string)
+0xa6fb97d1
+0xad2de9b0
+0xcc2c5164
+0xdc131545
+0xf56e81fa
+admin()
+0xfb7311b1
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+gasprice_bit_ether(int128)

@@ -1,0 +1,16 @@
+0x1a5da6c8
+0x3ca6bb92
+registerContract(bytes32,address)
+0x809c0f20
+removeContract(bytes32)
+contracts(bytes32)
+0x01e88208
+0x20fec3b6
+registerContract(bytes32,address)
+0x809c0f20
+0x01e88208
+0x20fec3b6
+0x01e88208
+0x01e88208
+remove()
+0x01e88208

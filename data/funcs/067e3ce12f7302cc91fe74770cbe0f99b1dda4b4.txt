@@ -1,0 +1,14 @@
+0x29b8ef16
+0x329ca358
+withdraw()
+0x511b95e9
+0x55cd3592
+0x6de1fa86
+destroy()
+0x8c0bd916
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+destroyAndSend(address)
+0xfbdb5c22
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

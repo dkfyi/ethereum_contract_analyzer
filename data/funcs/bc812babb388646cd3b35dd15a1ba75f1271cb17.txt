@@ -1,0 +1,9 @@
+chargeAdvertiser(address,uint256,uint256,address)
+setBitwordsWithdrawlAddress(address)
+refundAdveriser(uint256)
+ideal_warn_timed(uint256,uint128)
+bitwordsWithdrawlAddress()
+bitwordsCutOutof100()
+setBitwordsCut(uint256)
+0xd7450aa2
+transferOwnership(address)

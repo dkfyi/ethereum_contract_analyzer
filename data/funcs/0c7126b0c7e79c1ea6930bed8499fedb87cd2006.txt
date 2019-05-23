@@ -1,0 +1,13 @@
+0x077ca11d
+getBalance()
+purchaseTimestamp()
+withdraw()
+0x4c4ef642
+0x6418f985
+0x8237b6d0
+getPurchaseTimestampEnds()
+0xc1496913
+0xc7de6e69
+adPriceWeek()
+contractOwner()
+purchaseSeconds()

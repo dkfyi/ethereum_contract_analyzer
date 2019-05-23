@@ -1,0 +1,17 @@
+showInterval()
+setShowInterval(uint256)
+withdrawBenefit(address,uint256)
+setPriceCoeff(uint256)
+submitMessage(string)
+totalMessages()
+queueCount()
+Owner()
+k()
+basePrice()
+rejectMessage(uint256,string)
+0xd5b242f4
+0xd9203db6
+messageInfo(uint256)
+setBasePrice(uint256)
+owned()
+transferOwnership(address)

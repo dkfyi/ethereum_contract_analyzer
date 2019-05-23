@@ -1,0 +1,5 @@
+withdraw()
+sell(address,uint256)
+buy(address)
+sell(uint256)
+buy()

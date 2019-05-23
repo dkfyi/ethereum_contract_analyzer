@@ -1,0 +1,17 @@
+withdrawEth(address,uint256)
+0x317f17dc
+withdrawToken(address,uint256,address)
+depositEth()
+ideal_warn_timed(uint256,uint128)
+setUpdater(address)
+0xb5e8f2fd
+0xc4e1ccf2
+allowed(address)
+updater()
+transferOwnership(address)
+allow(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+0x317f17dc
+balanceOf(address)
+many_msg_babbage(bytes1)

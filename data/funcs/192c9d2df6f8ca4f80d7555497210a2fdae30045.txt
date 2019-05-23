@@ -1,0 +1,15 @@
+withdrawTokens(address,uint256)
+erase(uint256)
+0x115f494f
+withdraw(uint256)
+0x325f4658
+kill()
+0x71affef6
+0x782935b5
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+authorize(address)
+unauthorize(address)
+isAuthorized(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

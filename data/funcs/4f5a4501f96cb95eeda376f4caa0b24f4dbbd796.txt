@@ -1,0 +1,6 @@
+0x3c4308a8
+0x99e12615
+add(int256,int256)
+subtract(int256,int256)
+0xde12cffa
+0xffac1706

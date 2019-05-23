@@ -1,0 +1,5 @@
+GetChipsInfo(address)
+SetAuth(address)
+ClearAuth(address)
+AddChip(address,uint32)
+CollectChips(address)

@@ -1,0 +1,10 @@
+0x034601ec
+0x28cfbd46
+0x65d5a9d0
+batchTransferFrom(address,address,uint256[])
+onERC721Received(address,address,uint256,bytes)
+onERC721Received(address,address,uint256,bytes)
+0xcd740db5
+0xcd740db5
+0xcd740db5
+0xcd740db5

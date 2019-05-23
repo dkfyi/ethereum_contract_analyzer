@@ -1,0 +1,3 @@
+transfer(address)
+changeName(bytes32)
+0xc3cee9c1

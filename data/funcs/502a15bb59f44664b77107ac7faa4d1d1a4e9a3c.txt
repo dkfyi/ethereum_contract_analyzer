@@ -1,0 +1,17 @@
+removeAdmin(address)
+kill()
+0x6ec6333d
+0x786548dd
+0x91930314
+0xa70ef5b0
+0xbfaa4391
+0xdd0244b2
+0xdf207dff
+deposit()
+withdraw(uint256)
+orderFills(address,bytes32)
+tokens(address,address)
+orderFills(address,bytes32)
+tokens(address,address)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)

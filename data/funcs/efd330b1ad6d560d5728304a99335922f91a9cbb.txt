@@ -1,0 +1,15 @@
+balances(address)
+0x2de02f8c
+title()
+standard()
+0x9b6cb9a2
+0x9d5e6c9d
+price()
+0xc7802177
+0xe6ad7c03
+0xfc09e227
+getBalance()
+standard()
+0x5c619fed
+price()
+0xfc09e227

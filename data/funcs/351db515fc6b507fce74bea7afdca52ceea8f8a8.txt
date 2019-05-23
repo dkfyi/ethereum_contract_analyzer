@@ -1,0 +1,7 @@
+x()
+kill()
+num()
+0xb3c11d7c
+0xd7f5415e
+num()
+kill()

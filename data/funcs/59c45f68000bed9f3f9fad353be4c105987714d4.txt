@@ -1,0 +1,14 @@
+setOwner(address)
+0x529727ca
+0x539b072c
+0x53d85919
+0x5ddd1f24
+0x80f052d8
+ideal_warn_timed(uint256,uint128)
+setController(address)
+0x9640fe35
+0xc6565ca5
+0xca958491
+0xd4868baa
+0xe79ecc60
+controller()

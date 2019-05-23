@@ -1,0 +1,4 @@
+giveBack()
+selfDestruct()
+checkBalance()
+deposit()

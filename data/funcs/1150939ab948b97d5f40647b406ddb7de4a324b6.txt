@@ -1,0 +1,3 @@
+balances(address)
+0x56fbd78f
+sendCoin(address,uint256)

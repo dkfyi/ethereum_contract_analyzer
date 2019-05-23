@@ -1,0 +1,4 @@
+logUnsigned(bytes32)
+buySignature(bytes16)
+getAddress(bytes16)
+logSigned(string,bytes16)

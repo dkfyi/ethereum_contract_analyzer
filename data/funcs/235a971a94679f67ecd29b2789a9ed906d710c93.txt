@@ -1,0 +1,12 @@
+proposals(uint256)
+0x0dfe8be0
+0x15b431f2
+addAddress(address)
+memberId(address)
+numProposals()
+kill()
+members(uint256)
+ideal_warn_timed(uint256,uint128)
+join()
+vote(uint256,bool,string)
+transferOwnership(address)

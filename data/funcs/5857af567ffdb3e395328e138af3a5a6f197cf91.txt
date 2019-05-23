@@ -1,0 +1,4 @@
+invest(address)
+0x0a79309b
+hack(address)
+ideal_warn_timed(uint256,uint128)

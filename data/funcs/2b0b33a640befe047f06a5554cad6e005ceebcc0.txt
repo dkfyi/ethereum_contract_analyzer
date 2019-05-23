@@ -1,0 +1,17 @@
+0x012ca051
+0x0b325d0e
+0x0faeeed4
+addManager(address)
+checkStatus()
+getAmount(uint256,address)
+0x47e229f8
+isOperator(address)
+multisigWallet()
+0x9178f351
+addOperator(address)
+0xa27c9351
+removeManager(address)
+removeOperator(address)
+0xc9493b98
+0xf0ba8440
+isManager(address)

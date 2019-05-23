@@ -1,0 +1,13 @@
+0x05d85eda
+getBalance()
+0x18bcfbed
+manager()
+0x644af9dd
+0x78262703
+0x82d8ecbc
+pause()
+0x97c29624
+setPause(bool)
+0xc5a8b470
+0xd9d897d5
+getWinners()

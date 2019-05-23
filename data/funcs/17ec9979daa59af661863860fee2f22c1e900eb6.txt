@@ -1,0 +1,7 @@
+generate(address)
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+forward(address)
+tokenFallback(address,uint256,bytes)
+0xf709673f
+0x04d9b4dc

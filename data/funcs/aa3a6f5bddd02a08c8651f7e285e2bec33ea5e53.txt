@@ -1,0 +1,4 @@
+PutDiv(address)
+CloseDiv()
+GetDiv()
+SetDivTime(uint256)

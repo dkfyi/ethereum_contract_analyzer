@@ -1,0 +1,15 @@
+0xacabe310
+0xacabe310
+deposit()
+0xee168f68
+master()
+changeMaster(address)
+0xfaaebd21
+0x3644e515
+0x3bba9cff
+0x8539873b
+0x956bf888
+etherBalances(address)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

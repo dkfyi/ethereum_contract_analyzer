@@ -1,0 +1,8 @@
+getOwnerAddress()
+adminDeleteAccount()
+adminRetrieveDonations(address)
+getLatestTweet()
+isAdmin()
+getTweet(uint256)
+getNumberOfTweets()
+tweet(string)

@@ -1,0 +1,13 @@
+0x38d94193
+0x5c3afb23
+renounceOwnership()
+0x879957b1
+ideal_warn_timed(uint256,uint128)
+isOwner()
+price()
+changePrice(uint256)
+winners()
+ownerBalance()
+queue()
+buy(address)
+transferOwnership(address)

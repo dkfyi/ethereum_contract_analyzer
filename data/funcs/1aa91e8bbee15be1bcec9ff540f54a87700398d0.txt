@@ -1,0 +1,5 @@
+send(string)
+setAlias(string)
+resetAlias()
+0x99900d11
+getAddress(string)

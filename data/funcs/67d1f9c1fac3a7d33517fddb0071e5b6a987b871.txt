@@ -1,0 +1,7 @@
+Mortal()
+signatures(bytes32)
+kill()
+ideal_warn_timed(uint256,uint128)
+get(bytes32)
+unset(bytes32)
+set(bytes32,bytes32)

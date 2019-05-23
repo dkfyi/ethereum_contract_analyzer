@@ -1,0 +1,7 @@
+userBuys(address)
+sale()
+dailyTotals()
+userClaims(address)
+userBuys(uint256,address)
+dailyTotals(uint256)
+0x120aa877

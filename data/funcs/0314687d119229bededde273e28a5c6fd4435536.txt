@@ -1,0 +1,9 @@
+getAll()
+0x63c28b14
+getNum()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0xb95c5d8f
+getAddr(uint256)
+transferOwnership(address)

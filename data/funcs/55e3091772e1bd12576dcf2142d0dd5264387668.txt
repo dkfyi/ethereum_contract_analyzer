@@ -1,0 +1,7 @@
+0x37dc9206
+kill()
+blockHexCoordsValid(int8,int8)
+getUint8FromByte32(bytes32,uint8)
+0xb1f74f06
+getUint8FromByte32(bytes32,uint8)
+blockHexCoordsValid(int8,int8)

@@ -1,0 +1,12 @@
+name()
+0x17f7dad8
+0x1bceeaa7
+changeContractOwner(address)
+description()
+0x94f976c3
+0x9b9d326d
+0xa8287f79
+0xaeacd658
+0xdb4416e2
+updateDescription(string)
+owner_()

@@ -1,0 +1,13 @@
+0x25083528
+0x41d8e755
+standardToken()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+batchdrop(address[],uint256[])
+totalUserTransfered()
+setContractAdmin(address,bool)
+0xf80f12f8
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

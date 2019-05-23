@@ -1,0 +1,16 @@
+SetProfitAddr(address)
+totalContributions()
+totalSUM()
+0x4b676890
+0x52c03d24
+changeName(string)
+0x712c7901
+totalProfit()
+0x9c3a282d
+0x9fea46fc
+0xab377daa
+profitAddr()
+unprocessedProfits()
+0xe0e51f6a
+test()
+0x290decd9

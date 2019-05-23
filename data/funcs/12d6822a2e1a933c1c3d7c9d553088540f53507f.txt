@@ -1,0 +1,8 @@
+withdrawOwnersMoney()
+setDailyPrice(uint256)
+isOwner()
+getUnusedBalance(address)
+getDailyPrice()
+depositFunds()
+transferOwnership(address)
+getBalance(address)

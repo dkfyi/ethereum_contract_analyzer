@@ -1,0 +1,8 @@
+0x1c603964
+0x2d95663b
+totalInvested()
+getQueueLength()
+0xc533a5a3
+0xc67f7df5
+0xda267bc8
+0xddf0b009

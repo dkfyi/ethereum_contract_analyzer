@@ -1,0 +1,7 @@
+offer(address,uint256,uint256)
+0x967b82cf
+buy(address,uint256)
+token()
+allowance(address,address)
+allowance(address,address)
+gasprice_bit_ether(int128)

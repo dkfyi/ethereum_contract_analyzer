@@ -1,0 +1,16 @@
+0x0402f69e
+0x1567be3e
+0x30c7094d
+0x31a76535
+0x334f2f05
+0x51d5f756
+0x621f7309
+0x64b4850f
+0x670cec37
+0x73014477
+getTeam(address)
+0xd4ae9138
+ownerOf(uint256)
+getState(uint256)
+ownerOf(uint256)
+getState(uint256)

@@ -1,0 +1,11 @@
+model()
+removeAddressesFromWhitelist(address[])
+removeAddressFromWhitelist(address)
+0x46d75c8c
+addAddressToWhitelist(address)
+destroy()
+ideal_warn_timed(uint256,uint128)
+whitelist(address)
+addAddressesToWhitelist(address[])
+transferOwnership(address)
+destroyAndSend(address)

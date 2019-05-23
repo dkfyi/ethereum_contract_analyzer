@@ -1,0 +1,4 @@
+ideal_warn_timed(uint256,uint128)
+0x9d97b705
+0xda7b0bcf
+trade()

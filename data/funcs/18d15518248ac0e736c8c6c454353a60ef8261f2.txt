@@ -1,0 +1,4 @@
+Mortal()
+kill()
+set(string)
+get()

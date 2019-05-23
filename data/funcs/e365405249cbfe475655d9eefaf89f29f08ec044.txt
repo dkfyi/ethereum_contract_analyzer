@@ -1,0 +1,6 @@
+0x5ee77f17
+0x71e6b65a
+0x927d6566
+0xb16f9b8c
+0xe5927787
+many_msg_babbage(bytes1)

@@ -1,0 +1,13 @@
+0x0409eb85
+name()
+numberOfTokensLeft()
+available_assert_time(uint16,uint64)
+unpause()
+finalize()
+paused()
+balanceOf(address)
+pause()
+ideal_warn_timed(uint256,uint128)
+0x91146125
+link_classic_internal(uint64,int64)
+0xde5c4721

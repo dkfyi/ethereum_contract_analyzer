@@ -1,0 +1,6 @@
+0x2c854a1a
+kill()
+0x824d0227
+0xe3ac064a
+sendEtherToOwner()
+0xf6a0576d

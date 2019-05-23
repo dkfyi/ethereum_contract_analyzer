@@ -1,0 +1,10 @@
+bid()
+0x1ba2f531
+0x241e9754
+auctionEnd()
+0x3fe7039d
+getHighestBid()
+getOwner()
+0xc4109648
+0xe21bcb7a
+hasEnded()

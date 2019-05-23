@@ -1,0 +1,12 @@
+0x0a483421
+SetPass(bytes32)
+GetGift(bytes)
+PassHasBeenSet(bytes32)
+SetReciver(address)
+closed()
+sender()
+hashPass()
+0xa4bbfb74
+GetHash(bytes)
+GetGift()
+SetGiftTime(uint256)

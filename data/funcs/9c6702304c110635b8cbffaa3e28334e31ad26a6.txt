@@ -1,0 +1,17 @@
+0x18a5bbdc
+0x1d2e1cec
+available_assert_time(uint16,uint64)
+0x484c3238
+clc()
+0x7039e330
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+removeHolder(address)
+0x979005ad
+0xbc6051db
+issue()
+newOwner()
+0xde16f324
+transferOwnership(address)
+mint(address,uint256)
+mint(address,uint256)

@@ -1,0 +1,5 @@
+0x0eb03009
+sendCoin(address,uint256)
+coinBalanceOf(address)
+heldBalanceOf(address)
+0xd2e76946

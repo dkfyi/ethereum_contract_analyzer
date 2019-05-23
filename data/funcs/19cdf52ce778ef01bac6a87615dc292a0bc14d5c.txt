@@ -1,0 +1,16 @@
+submitBlock()
+lastBlockSet()
+SUBMISSIONREWARD()
+TOKENADDRESS()
+RTI()
+0x91323e50
+tokenAddress()
+0xe2bfcb42
+goodNightSweetPrince()
+BLOCKREWARD()
+blocks(uint256)
+admin()
+VERSION()
+mint(address,uint256)
+mergedMinerValidatorAddress()
+mint(address,uint256)

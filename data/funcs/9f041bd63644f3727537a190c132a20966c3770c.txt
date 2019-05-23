@@ -1,0 +1,4 @@
+batchSend(address,uint160,uint256[])
+encodeTransfer(uint96,address)
+donationAddress()
+gasprice_bit_ether(int128)

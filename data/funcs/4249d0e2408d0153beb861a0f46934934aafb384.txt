@@ -1,0 +1,4 @@
+kill()
+getAddresses()
+payOut()
+donate()

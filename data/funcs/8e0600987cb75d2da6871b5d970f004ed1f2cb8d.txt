@@ -1,0 +1,4 @@
+pay()
+withdraw(uint256)
+beneficiaryBalance(address)
+beneficiaryList(uint256)

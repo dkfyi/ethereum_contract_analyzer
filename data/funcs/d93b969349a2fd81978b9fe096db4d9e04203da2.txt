@@ -1,0 +1,17 @@
+0x1216c275
+0x2999239d
+0x2bc06a92
+0x2f2c0dc6
+0x31166aff
+authorityAddress()
+isTransferValid(address,address,uint256)
+0x53a6bf37
+0x7146b975
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+canReceive(address)
+isLocked()
+0xac5a67da
+isAddressValid(address)
+transferOwnership(address)
+0xfc21e167

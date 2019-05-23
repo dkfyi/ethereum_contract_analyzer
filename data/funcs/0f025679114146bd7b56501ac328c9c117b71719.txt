@@ -1,0 +1,10 @@
+name()
+totalSupply()
+0x1e10f2fe
+available_assert_time(uint16,uint64)
+denyAccess(address)
+balanceOf(address)
+link_classic_internal(uint64,int64)
+TokenERC20(uint256,string,string)
+allowAccess(address)
+allowance(address,address)

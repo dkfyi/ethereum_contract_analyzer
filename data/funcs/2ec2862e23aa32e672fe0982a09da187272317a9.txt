@@ -1,0 +1,8 @@
+setOwner(address)
+0x3cc5c97c
+0x50c8a051
+revoke(address)
+ideal_warn_timed(uint256,uint128)
+delegate()
+setDelegate(address)
+0xcd116f0d

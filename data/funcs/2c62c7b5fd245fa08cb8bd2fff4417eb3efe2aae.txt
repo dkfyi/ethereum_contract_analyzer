@@ -1,0 +1,17 @@
+tail()
+transfer(address)
+length()
+isOwner(address)
+kill()
+register(address)
+isOwner()
+head()
+deregister()
+0xd321411c
+create()
+transfer(address)
+transfer(address)
+isOwner(address)
+isOwner()
+set(bytes32,string)
+0xdde5b7a1

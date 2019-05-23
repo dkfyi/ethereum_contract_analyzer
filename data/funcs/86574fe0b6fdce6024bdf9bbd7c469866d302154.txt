@@ -1,0 +1,12 @@
+0x1d97d8cc
+isLocked(address)
+0x5040fb76
+0x6b9db4e6
+0x919884bf
+0xb0fc29e6
+0xc6845210
+0xd4ee9734
+0xf18858ab
+authorised(address)
+authorised(address)
+authorised(address)

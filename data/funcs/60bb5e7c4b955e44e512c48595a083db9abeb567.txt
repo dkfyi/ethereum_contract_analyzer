@@ -1,0 +1,6 @@
+getSecret(address)
+0x7ed6c926
+changeAdmin(address)
+0xe5828013
+0xe5b761b6
+admin()

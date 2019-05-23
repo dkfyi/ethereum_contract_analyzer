@@ -1,0 +1,4 @@
+test(bytes)
+oraclize_setProof(bytes1)
+getAddress()
+setProofType(bytes1)

@@ -1,0 +1,10 @@
+0x4146ed0a
+removeFromWhitelist(address[])
+signerAddress()
+verify(address)
+addToWhitelist(address[])
+ideal_warn_timed(uint256,uint128)
+0x8e4e2488
+requiredSignedAddress()
+setRequireSignedAddress(bool,address)
+transferOwnership(address)

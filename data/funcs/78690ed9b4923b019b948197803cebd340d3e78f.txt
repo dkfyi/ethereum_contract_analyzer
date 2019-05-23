@@ -1,0 +1,11 @@
+enabled()
+disable()
+enable()
+isAllowed(address)
+0xd7803fda
+has(address,string)
+0x8974d3ff
+has(address,string)
+0x8974d3ff
+has(address,string)
+0x8974d3ff

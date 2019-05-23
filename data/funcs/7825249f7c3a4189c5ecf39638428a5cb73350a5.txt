@@ -1,0 +1,10 @@
+acceptOwnership()
+0x88d021e9
+ideal_warn_timed(uint256,uint128)
+newOwner()
+transferOwnership(address)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+ideal_warn_timed(uint256,uint128)
+getReturn(address,address,uint256)
+balanceOf(address)

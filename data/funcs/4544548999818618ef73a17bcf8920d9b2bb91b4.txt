@@ -1,0 +1,7 @@
+execute(address)
+addLoanProduct(uint32,uint32,uint32,uint256,uint32,bool)
+addLoanProduct(uint32,uint32,uint32,uint256,uint32,bool)
+addLoanProduct(uint32,uint32,uint32,uint256,uint32,bool)
+setLoanProductActiveState(uint32,bool)
+setLoanProductActiveState(uint32,bool)
+setLoanProductActiveState(uint32,bool)

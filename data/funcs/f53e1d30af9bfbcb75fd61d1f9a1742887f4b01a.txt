@@ -1,0 +1,13 @@
+0x1e59f7eb
+createProxy(address)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0xc47ab440
+transferOwnership(address)
+0xfe3f9b0e
+0x246fadb8
+user()
+getRegistry()
+implementation()
+coral_cable_news(uint256)
+0x1e59f7eb

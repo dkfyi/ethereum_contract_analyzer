@@ -1,0 +1,4 @@
+StoreFile(uint256,bytes32,string,string,string,string,string,uint256,bytes)
+files(bytes32,uint256)
+GetFileLocation(bytes32)
+Kill()

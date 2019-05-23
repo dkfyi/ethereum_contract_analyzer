@@ -1,0 +1,5 @@
+name()
+getBalanceInEth(address)
+sendCoin(address,uint256)
+getBalance(address)
+convert(uint256,uint256)

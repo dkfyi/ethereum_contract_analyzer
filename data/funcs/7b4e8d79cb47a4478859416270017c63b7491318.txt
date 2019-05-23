@@ -1,0 +1,11 @@
+0x2dcb2dba
+0x4c288282
+0x890eb81b
+0xd85f9db9
+oraclize_query(string,string,uint256)
+getAddress()
+getPrice(string,uint256)
+getAddress()
+queryN_withGasLimit(uint256,string,bytes,uint256)
+0x6c697a65
+0x65727426

@@ -1,0 +1,4 @@
+getCurrentWinner()
+claimReward()
+getDisclaimer()
+getRaceEndBlock()

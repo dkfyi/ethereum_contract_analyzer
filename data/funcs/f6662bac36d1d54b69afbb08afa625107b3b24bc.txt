@@ -1,0 +1,12 @@
+0x1097d54a
+rate()
+weiRaised()
+wallet()
+0x9502bb8a
+submitTransaction(address,uint256,bytes)
+setWallet(address)
+buyTokens(address)
+0xf720f80b
+token()
+0xff025569
+many_msg_babbage(bytes1)

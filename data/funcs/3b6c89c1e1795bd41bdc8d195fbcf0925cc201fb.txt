@@ -1,0 +1,10 @@
+setFundManagementContract(address)
+killContract()
+fundManagementAddress()
+0x6f440ee1
+dev()
+tokenAddress()
+setTokenContract(address)
+curator()
+0xea649a64
+0xea649a64

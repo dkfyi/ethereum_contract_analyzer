@@ -1,0 +1,13 @@
+userCount()
+manager()
+transferOwner(address)
+setContractLock(bool)
+ideal_warn_timed(uint256,uint128)
+price()
+getUser(uint256)
+getUserCount()
+contractLock()
+init()
+addUser(uint256)
+addUserAuto()
+0xfed0a20e

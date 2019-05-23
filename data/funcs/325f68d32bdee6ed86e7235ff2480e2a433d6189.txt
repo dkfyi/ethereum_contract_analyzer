@@ -1,0 +1,17 @@
+getCensuredBy(uint16)
+0x20c2637e
+getCensuringCount(uint16)
+0x8618da88
+censure(uint16,uint32)
+getCensuring(uint16)
+0xd40ffacb
+forgive(uint16,uint32)
+0xe83113a8
+0xe8a7dc05
+getCensuredByCount(uint16)
+0x9137fe0a
+isActive(uint32)
+0x93976405
+0x93976405
+0x9137fe0a
+isActive(uint32)

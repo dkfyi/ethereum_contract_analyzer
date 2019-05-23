@@ -1,0 +1,8 @@
+buyOmegaEgg()
+withdraw()
+hasBoughtEgg(address)
+eggsInTimeSlot(uint8)
+0x5a8181c0
+0x5a881940
+0x5a881940
+0x5a8181bf

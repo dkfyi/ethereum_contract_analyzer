@@ -1,0 +1,7 @@
+balanc()
+currentManager()
+testingContract()
+found()
+investors(uint256)
+setOfficialWebsite(string)
+invest()

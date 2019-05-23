@@ -1,0 +1,5 @@
+ideal_warn_timed(uint256,uint128)
+setPartner(address)
+partner()
+0xdfd1b512
+0xee1596e5

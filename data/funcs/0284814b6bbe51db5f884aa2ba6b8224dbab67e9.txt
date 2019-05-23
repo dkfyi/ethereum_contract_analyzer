@@ -1,0 +1,15 @@
+0x16ec07f6
+bid()
+deadline()
+renounceOwnership()
+0x8a200ace
+ideal_warn_timed(uint256,uint128)
+tokenAddress()
+bidCount()
+close(address)
+bidders(uint256)
+startingPrice()
+0xdcd06129
+tokenAmount()
+transferOwnership(address)
+many_msg_babbage(bytes1)

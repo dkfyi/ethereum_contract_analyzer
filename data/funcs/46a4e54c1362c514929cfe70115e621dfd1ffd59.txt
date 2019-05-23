@@ -1,0 +1,12 @@
+0x1155e193
+0x4137bcd5
+0x5f01b597
+0x81842c2c
+tokenBalance()
+etherBalance()
+0xb1ae4d8a
+0xb4901ca6
+balanceOf(address)
+balanceOf(address)
+approve(address,uint256)
+withdraw()

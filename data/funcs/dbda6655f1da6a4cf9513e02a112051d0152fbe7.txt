@@ -1,0 +1,8 @@
+0x474dacce
+0x4b906714
+AddMessage(address,uint256,string)
+0x89977cdf
+0x9003e39a
+0x930339be
+History(uint256)
+0xc144811f

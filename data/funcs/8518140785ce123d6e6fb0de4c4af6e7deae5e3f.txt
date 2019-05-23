@@ -1,0 +1,11 @@
+totalSupply()
+available_assert_time(uint16,uint64)
+tokenExchangeRate()
+presaleStartBlock()
+balanceOf(address)
+presaleEndBlock()
+isEnded()
+0xccbb1e40
+contractOwner()
+tokenCap()
+endPreSale()

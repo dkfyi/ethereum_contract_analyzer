@@ -1,0 +1,8 @@
+x()
+0x16390b69
+0x80f5f907
+fomo3d()
+0xbbe26b4b
+checkBalance()
+i()
+deposit(address)

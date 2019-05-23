@@ -1,0 +1,13 @@
+checkRole(address,string)
+0x09cae2c8
+removeBouncer(address)
+hasRole(address,string)
+renounceOwnership()
+addBouncer(address)
+ideal_warn_timed(uint256,uint128)
+0xae57de0c
+nonce()
+ROLE_BOUNCER()
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

@@ -1,0 +1,5 @@
+readMessage()
+currentState()
+kill()
+placeWager()
+mortal()

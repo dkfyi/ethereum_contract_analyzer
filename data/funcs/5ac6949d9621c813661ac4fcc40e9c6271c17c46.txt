@@ -1,0 +1,4 @@
+WithDraw()
+SendETH(address)
+IsEthereum()
+SendETC(address)

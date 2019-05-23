@@ -1,0 +1,7 @@
+withdraw()
+balanceOf(address)
+contractBalance()
+oneRoll()
+cashout(uint256)
+cashin()
+0xed574546

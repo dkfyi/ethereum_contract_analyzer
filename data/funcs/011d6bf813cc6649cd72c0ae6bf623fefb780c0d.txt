@@ -1,0 +1,7 @@
+0x50a11a53
+0x616d8030
+nonce()
+0xce7929b5
+getNonce()
+buyXid(uint256,uint256)
+withdraw()

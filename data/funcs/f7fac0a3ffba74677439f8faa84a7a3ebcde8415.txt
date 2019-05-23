@@ -1,0 +1,7 @@
+0x4e797d94
+0x61cc4b44
+0x9c0eff72
+0xc5563720
+0xe29940b9
+claimTile(uint256,uint256,uint256)
+claimWinnings()

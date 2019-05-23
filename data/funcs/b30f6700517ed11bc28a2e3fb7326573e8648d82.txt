@@ -1,0 +1,7 @@
+set_price(uint256)
+last()
+RandomNumberFromSeed(uint256)
+set_owner(address)
+0x853692c5
+RandomNumber()
+price()

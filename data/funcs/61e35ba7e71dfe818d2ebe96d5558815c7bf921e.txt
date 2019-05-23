@@ -1,0 +1,15 @@
+0x026b7a62
+0x1e3523db
+withdrawTokens(address)
+setCrowdsaleContract(address)
+ideal_warn_timed(uint256,uint128)
+crowdsaleContractAddress()
+0xb9ba0e77
+setTokenContract(address)
+tokenFallback(address,uint256,bytes)
+withdrawEth(uint256)
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

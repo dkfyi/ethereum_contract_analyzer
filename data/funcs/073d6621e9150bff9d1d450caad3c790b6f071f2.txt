@@ -1,0 +1,5 @@
+getCoeff(uint16)
+generateWinMatrix(uint16)
+deleteContract()
+getBetsProcessed()
+isReady()

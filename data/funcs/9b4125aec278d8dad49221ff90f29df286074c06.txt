@@ -1,0 +1,12 @@
+0x33176785
+kill()
+0x6e68fc0a
+0x777b8cb5
+0x8a1d4a86
+0x9f814e3e
+0xd6a510d9
+0xd97ff440
+transferAnyERC20Token(address,uint256)
+transferOwnership(address)
+0xf487f26c
+many_msg_babbage(bytes1)

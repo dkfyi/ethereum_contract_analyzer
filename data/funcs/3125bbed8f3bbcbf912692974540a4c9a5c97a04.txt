@@ -1,0 +1,15 @@
+0x1112c927
+0x1fc4908d
+0x6379be1f
+payout()
+0x7362e3d6
+0x76fb4f9b
+0xa4ab866a
+0xc365b531
+0xd1e93151
+0xe978b932
+buy(uint256,uint256)
+many_msg_babbage(bytes1)
+balanceOf(address)
+offer(uint256,address,uint256,address)
+0x489ffdbc

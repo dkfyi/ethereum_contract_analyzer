@@ -1,0 +1,13 @@
+pendingAdmin()
+getOperators()
+transferAdmin(address)
+claimAdmin()
+transferAdminQuickly(address)
+0x87411480
+0x95d4ca9a
+0xa5996224
+removeOperator(address)
+isOperator(address,address)
+0xbce1cc66
+checkOperator(address)
+admin()

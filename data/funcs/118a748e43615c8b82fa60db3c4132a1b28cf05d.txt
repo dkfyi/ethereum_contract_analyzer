@@ -1,0 +1,7 @@
+hasBeenDeployed(address)
+0x32aca42b
+0x69dc9ff3
+newPaymentAddress(address,bytes4)
+semanticVersion()
+identifier()
+collector()

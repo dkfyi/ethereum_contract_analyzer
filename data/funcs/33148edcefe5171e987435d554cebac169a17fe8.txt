@@ -1,0 +1,8 @@
+tokenizeProperty(string,address)
+claimOwnership()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+getProperty(string)
+pendingOwner()
+transferOwnership(address)
+untokenizeProperty(string)

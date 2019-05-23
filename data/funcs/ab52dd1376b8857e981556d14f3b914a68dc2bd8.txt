@@ -1,0 +1,5 @@
+take(address,uint256)
+0x5776af28
+0x6d32028d
+withdraw(address,uint256,uint256)
+buyTicket()

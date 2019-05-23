@@ -1,0 +1,10 @@
+drop(address,address[],uint256)
+0x3ddd05a6
+ideal_warn_timed(uint256,uint128)
+drain()
+withdrawForeignTokens(address)
+transferOwnership(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

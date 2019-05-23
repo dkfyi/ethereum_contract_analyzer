@@ -1,0 +1,3 @@
+0x1f687b05
+close()
+0x87cea3ae

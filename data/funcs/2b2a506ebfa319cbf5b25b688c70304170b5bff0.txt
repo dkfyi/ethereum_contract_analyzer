@@ -1,0 +1,13 @@
+destroyContract()
+addCutie(uint40,uint256)
+withdraw()
+unpause()
+paused()
+ownerOf(uint256)
+getPrice(uint40)
+pause()
+ideal_warn_timed(uint256,uint128)
+isAvailable(uint40)
+0xbc31c1c1
+bid(uint40)
+transferOwnership(address)

@@ -1,0 +1,13 @@
+0x2e58ca46
+0x3cf29cc6
+0x41657ee6
+kill()
+0x455c683d
+result()
+0x6a68f114
+data()
+ideal_warn_timed(uint256,uint128)
+0x97b5b1cf
+0xce3e39c0
+0xe56f8ebf
+0xea39c001

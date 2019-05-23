@@ -1,0 +1,5 @@
+0x0b4fd156
+issuer()
+kill()
+0x6b1c319e
+0xd0f74108

@@ -1,0 +1,5 @@
+getColour()
+red()
+setColour(uint8,uint8,uint8)
+blue()
+0xf2f1e132

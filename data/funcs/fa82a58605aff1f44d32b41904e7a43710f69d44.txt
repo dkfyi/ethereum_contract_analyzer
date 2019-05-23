@@ -1,0 +1,5 @@
+setCooldowns(uint32[100])
+ideal_warn_timed(uint256,uint128)
+getFishParams(uint256,uint256,uint256,address)
+transferOwnership(address)
+getCooldown(uint16)

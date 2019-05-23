@@ -1,0 +1,6 @@
+kill()
+founder()
+0x9c65707c
+numAssets()
+assets(uint256)
+0xed7aa47d

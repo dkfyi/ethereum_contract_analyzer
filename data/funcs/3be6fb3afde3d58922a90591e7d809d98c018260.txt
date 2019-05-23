@@ -1,0 +1,6 @@
+0x083468c6
+0x9371c137
+getTimeLeft()
+iWantXKeys(uint256)
+getPlayerInfoByAddress(address)
+buyXid(uint256,uint256)

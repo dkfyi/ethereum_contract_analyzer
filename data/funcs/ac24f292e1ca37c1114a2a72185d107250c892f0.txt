@@ -1,0 +1,2 @@
+tokenBalance(address,address)
+balanceOf(address)

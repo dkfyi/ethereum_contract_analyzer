@@ -1,0 +1,13 @@
+0x09cb3a4e
+0x0b6355ed
+0x18f452b8
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+query(uint256)
+0xe96e114b
+getAddress()
+getAddress()
+getPrice(string)
+getAddress()
+getAddress()
+setProofType(bytes1)

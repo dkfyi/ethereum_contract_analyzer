@@ -1,0 +1,13 @@
+name()
+0x21ba23cf
+isOwner(address)
+beneficiary()
+tokenReward()
+balanceOf(address)
+amountRaised()
+ideal_warn_timed(uint256,uint128)
+price()
+transferOwnership(address)
+isOwner(address)
+mintToken(address,uint256)
+transferOwnership(address)

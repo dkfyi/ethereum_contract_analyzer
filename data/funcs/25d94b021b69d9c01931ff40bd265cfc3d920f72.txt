@@ -1,0 +1,16 @@
+registerBase(bytes32)
+isRegistered(bytes32)
+findAddress(bytes32,bytes32)
+doesOwnBase(bytes32,address)
+withdraw()
+registerHandle(bytes32,bytes32,address)
+0x48986e4c
+0x7792e7f1
+getBaseQuick(bytes32)
+ideal_warn_timed(uint256,uint128)
+getPrice()
+price()
+changePrice(uint256)
+0xac08e444
+transferBase(bytes32,address)
+transferOwnership(address)

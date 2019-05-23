@@ -1,0 +1,8 @@
+0x16dc15fe
+0x3bcc2088
+version()
+ideal_warn_timed(uint256,uint128)
+0xfe7009f2
+getAddress(bytes32)
+0xbaed9d9a
+getAddress(bytes32)

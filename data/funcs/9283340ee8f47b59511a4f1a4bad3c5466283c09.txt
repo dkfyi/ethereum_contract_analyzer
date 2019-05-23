@@ -1,0 +1,9 @@
+duration()
+round()
+TICKET_PRICE()
+balances(address)
+deleteRound(uint256)
+withdraw()
+drawWinner(uint256)
+0x8c65c81f
+buy()

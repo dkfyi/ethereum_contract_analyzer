@@ -1,0 +1,4 @@
+PutGift(address)
+CloseGift()
+GetGift()
+SetGiftTime(uint256)

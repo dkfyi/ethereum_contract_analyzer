@@ -1,0 +1,12 @@
+killContract()
+0x259d295b
+calculatePrize(uint256,uint256,uint256)
+withdraw()
+setCoinPrice(uint256)
+balanceOf(address)
+0x731bedd0
+addEther()
+contractBalance()
+oneRoll()
+cashout(uint256)
+coinPrice()

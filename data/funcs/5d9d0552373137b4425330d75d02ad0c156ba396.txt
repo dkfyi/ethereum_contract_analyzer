@@ -1,0 +1,17 @@
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+0x3fbade90
+burn(uint256)
+transferAdminship(address)
+soldToken()
+balanceOf(address)
+mintToken(address,uint256)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+transfer(address,uint256,bytes)
+mintTokens()
+0xf0baa673
+admin()
+tokenFallback(address,uint256,bytes)
+tokenFallback(address,uint256,bytes)

@@ -1,0 +1,3 @@
+kill()
+test(int256)
+mortal()

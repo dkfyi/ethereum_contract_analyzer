@@ -1,0 +1,9 @@
+getAddress(bytes32)
+0x2ed5ef14
+ideal_warn_timed(uint256,uint128)
+0xed6d9096
+0xed9aab51
+0xf21de1e8
+transferOwnership(address)
+getAddress(bytes32)
+0x2ed5ef14

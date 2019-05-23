@@ -1,0 +1,11 @@
+0x1a495edd
+endtime()
+tokenReward()
+addr()
+0x7ac1cb30
+0x8de38f98
+amount()
+transferOwnership(address)
+admin()
+0x5bcb50ff
+0xaac756b8

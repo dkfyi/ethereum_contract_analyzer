@@ -1,0 +1,6 @@
+weiDonated(address)
+getMultiplierAtTime(uint256)
+foundationWallet()
+weiPerCHF()
+donateAsWithChecksum(address,bytes4)
+totalWeiDonated()

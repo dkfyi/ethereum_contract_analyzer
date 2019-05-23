@@ -1,0 +1,16 @@
+name()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+MaxMiningReward()
+balanceOf(address)
+MiningReward()
+link_classic_internal(uint64,int64)
+mine()
+many_msg_babbage(bytes1)
+CurrentMined()
+MaxTotalSupply()
+allowance(address,address)
+0x01e187e0
+0x01e187e0

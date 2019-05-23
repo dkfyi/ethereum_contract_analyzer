@@ -1,0 +1,11 @@
+withdrawBalance()
+payDividends(uint256)
+0x81bc6fcc
+ideal_warn_timed(uint256,uint128)
+0x8e551abf
+0xab8c298b
+addHolder(address)
+getHolder(uint256)
+token()
+totalSupply()
+balanceOf(address)

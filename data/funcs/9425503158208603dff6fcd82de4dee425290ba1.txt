@@ -1,0 +1,8 @@
+name()
+bet()
+gambler2()
+bet1()
+bet2()
+gambler1()
+fee()
+gamblers()

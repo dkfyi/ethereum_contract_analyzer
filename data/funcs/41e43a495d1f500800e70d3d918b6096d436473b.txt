@@ -1,0 +1,17 @@
+setDataLink(uint256,string)
+isTradeable()
+cancelContract()
+getDataByIndex(uint256)
+remark1()
+getAssetBaseInfo()
+remark2()
+setTradeable(bool)
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+setRemark2(string)
+price()
+0xab771620
+isValid()
+0xe03176f9
+setRemark1(string)
+transferOwnership(address)

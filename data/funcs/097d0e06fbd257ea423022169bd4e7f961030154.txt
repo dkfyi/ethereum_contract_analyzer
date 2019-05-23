@@ -1,0 +1,5 @@
+buy(address,uint256)
+getRate(address,uint256,uint256)
+soldTokens()
+getRateScale()
+gasprice_bit_ether(int128)

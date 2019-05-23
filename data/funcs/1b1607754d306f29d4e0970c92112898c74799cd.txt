@@ -1,0 +1,7 @@
+getRegisteredTokens()
+removeToken(address)
+0x9a0ba2ea
+0xa2e1ce62
+addToken(address)
+whitelisted(address)
+whitelisted(address)

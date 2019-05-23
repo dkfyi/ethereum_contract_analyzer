@@ -1,0 +1,16 @@
+0x1aef3376
+0x23fb2168
+0x352a3a1a
+0x370149ff
+0x3ef5c2e0
+kill()
+changeReceiver(address)
+setBuyPrice(uint256)
+returnToken(address,uint256)
+ideal_warn_timed(uint256,uint128)
+withdrawToken(address,uint256)
+0xad30c18d
+buy(address)
+transferOwnership(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

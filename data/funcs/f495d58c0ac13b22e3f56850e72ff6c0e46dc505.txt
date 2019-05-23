@@ -1,0 +1,7 @@
+multisig()
+founder()
+humaniqToken()
+0x9669f64e
+0xa3df88ce
+totalSupply()
+totalSupply()

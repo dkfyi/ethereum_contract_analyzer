@@ -1,0 +1,8 @@
+0x0d80fefd
+withdraw()
+buy(string)
+0x55872813
+currentHodlerId()
+currentHodler()
+price()
+balance(address)

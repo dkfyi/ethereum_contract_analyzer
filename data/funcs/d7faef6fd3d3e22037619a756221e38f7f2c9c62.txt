@@ -1,0 +1,13 @@
+0x324b0085
+0xcf528067
+0xf97110a3
+donationCount()
+withdraw()
+getSummary()
+0x8261051f
+author()
+0xa7e3e2b8
+requestRefund()
+0xd670aa53
+0xdc82697c
+donate()

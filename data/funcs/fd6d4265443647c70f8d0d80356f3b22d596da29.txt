@@ -1,0 +1,9 @@
+status()
+0xc392ca56
+floorId()
+0xd5f0d455
+emergencyWithdraw()
+winner()
+acceptDividends(uint256,uint32)
+burn(uint256)
+balanceOf(address)

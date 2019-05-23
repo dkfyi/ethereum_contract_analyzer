@@ -1,0 +1,17 @@
+verifier()
+getPrice(bytes32)
+0x4622ab03
+0x4bac8c8d
+withdraw(address)
+0x73cc493a
+commissionPercent()
+ideal_warn_timed(uint256,uint128)
+get(bytes32)
+0x91a9d257
+buy(bytes32)
+changeOwner(address)
+getCount()
+basePrice()
+changeVerifier(address)
+creationTime()
+getPrice(bytes32)

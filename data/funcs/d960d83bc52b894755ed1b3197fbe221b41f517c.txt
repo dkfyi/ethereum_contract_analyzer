@@ -1,0 +1,11 @@
+0x2ba16026
+0x3157506a
+inc()
+payout()
+0x73e0bf1b
+0x8988dc68
+0xb70cb433
+0xc20906ac
+upgradeCount()
+coral_cable_news(uint256)
+usernames(address)

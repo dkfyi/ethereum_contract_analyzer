@@ -1,0 +1,17 @@
+industry()
+0x1d5f2493
+0x1e8b9d11
+0x4e89f8b5
+0x5dab2420
+0x674ddb53
+description()
+email()
+0x82c56ab6
+ideal_warn_timed(uint256,uint128)
+0x9284f497
+0xc5e57985
+site()
+message()
+transferOwnership(address)
+0xf83280f8
+0xfc9ec2eb

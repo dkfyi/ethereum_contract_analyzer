@@ -1,0 +1,4 @@
+registerUser(string)
+0x7c9b7fdd
+getUserNum()
+0xec05c535

@@ -1,0 +1,15 @@
+setBonus(uint256)
+0x136e5b74
+0x4694b1b3
+wallet()
+0x67c3540b
+bonus()
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+price()
+fiat()
+setWallet(address)
+transferOwnership(address)
+USD(uint256)
+many_msg_babbage(bytes1)
+USD(uint256)

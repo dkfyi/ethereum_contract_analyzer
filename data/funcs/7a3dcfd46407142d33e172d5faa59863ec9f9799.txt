@@ -1,0 +1,6 @@
+balances(address)
+withdraw(uint256)
+kill()
+0x70f605d5
+many_msg_babbage(bytes1)
+deposit()

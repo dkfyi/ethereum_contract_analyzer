@@ -1,0 +1,11 @@
+0x0d49f50d
+owner2()
+0x6d9501d4
+description()
+owner1()
+0x7a5be237
+publisher()
+price()
+share1()
+share2()
+0xf0054a13

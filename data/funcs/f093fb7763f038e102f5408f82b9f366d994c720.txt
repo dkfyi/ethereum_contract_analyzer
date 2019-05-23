@@ -1,0 +1,8 @@
+getTotalRecords()
+0x2066b3ec
+remove(address)
+searchByOwner(address)
+0x453d1b90
+getRegInfo(address)
+searchByTag(bytes32)
+searchByName(string)

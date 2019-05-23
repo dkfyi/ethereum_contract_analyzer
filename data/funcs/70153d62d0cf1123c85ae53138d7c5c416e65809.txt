@@ -1,0 +1,7 @@
+kill()
+lookup(address[],address,address,bool,bool)
+ideal_warn_timed(uint256,uint128)
+0xe14401fb
+balanceOf(address)
+allowance(address,address)
+allowance(address,address)

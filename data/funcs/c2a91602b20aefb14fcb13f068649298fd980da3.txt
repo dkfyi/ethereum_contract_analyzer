@@ -1,0 +1,14 @@
+0x05a8749d
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+balanceOf(address)
+0x7ccc9ccf
+team()
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+master()
+0xfec1439c
+0x5d615f00
+0x5d615f00

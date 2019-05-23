@@ -1,0 +1,3 @@
+info()
+kill()
+0xf71d96cb

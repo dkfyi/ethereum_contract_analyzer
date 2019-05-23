@@ -1,0 +1,15 @@
+getBalance()
+multiTransferFromValues(address[],address[],uint256[])
+0x73e19a8e
+destroy()
+ideal_warn_timed(uint256,uint128)
+0x990cc680
+erc20Contract()
+transferOwnership(address)
+0xf416cc62
+destroyAndSend(address)
+balanceOf(address)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+totalSupply()

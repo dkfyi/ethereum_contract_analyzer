@@ -1,0 +1,6 @@
+die()
+0x6209ec2d
+ideal_warn_timed(uint256,uint128)
+0x99baa10c
+changeOwner(address)
+0xab377daa

@@ -1,0 +1,6 @@
+hashEIP712Message(bytes32)
+0x5ec6fbe6
+getUnavailableTakerTokenAmount(bytes32)
+EIP712_DOMAIN_HASH()
+filled(bytes32)
+cancelled(bytes32)

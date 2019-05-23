@@ -1,0 +1,5 @@
+BAD_ERC20()
+GOOD_ERC20()
+testBadWithGoodInterface(address,uint256,address,uint256)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

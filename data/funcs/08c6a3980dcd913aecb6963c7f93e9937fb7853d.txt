@@ -1,0 +1,5 @@
+withdraw(uint256)
+kill()
+ideal_warn_timed(uint256,uint128)
+claimPayment(uint256,uint256,bytes)
+transferOwnership(address)

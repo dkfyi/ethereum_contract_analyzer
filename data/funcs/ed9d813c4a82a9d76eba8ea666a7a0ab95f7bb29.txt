@@ -1,0 +1,10 @@
+0x3cb5d100
+numberOfContributors()
+deliverRewardedTokens(address,uint256,string)
+setup(address)
+getContributorInfo(address,string)
+ideal_warn_timed(uint256,uint128)
+starbaseToken()
+0xceb35605
+transferOwnership(address)
+allocateToMarketingSupporter(address,uint256)

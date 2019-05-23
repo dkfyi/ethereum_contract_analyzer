@@ -1,0 +1,15 @@
+setEtherPrice(uint256)
+rate()
+weiRaised()
+wallet()
+startMainSale()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0xbab6d3d0
+0xd341519e
+buyTokens(address)
+transferOwnership(address)
+token()
+totalSupply()
+_mint(address,uint256)

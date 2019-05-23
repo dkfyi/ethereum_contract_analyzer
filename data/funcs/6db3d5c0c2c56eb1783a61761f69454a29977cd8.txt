@@ -1,0 +1,11 @@
+deauthorize(address)
+withdraw(uint256)
+close()
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+authorize(address)
+0xb9181611
+move(uint8,uint256,bytes,uint8,bytes32,bytes32)
+withdrawEverything()
+casinoGames(uint256)
+setGameAddress(uint8,address)

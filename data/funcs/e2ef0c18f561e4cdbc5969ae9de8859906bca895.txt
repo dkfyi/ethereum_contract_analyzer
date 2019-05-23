@@ -1,0 +1,3 @@
+fitCollectedValueIntoRange(uint256)
+0x80fa81b1
+0xa823cfaf

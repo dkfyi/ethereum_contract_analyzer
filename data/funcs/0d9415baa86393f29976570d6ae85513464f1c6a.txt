@@ -1,0 +1,9 @@
+balances(address)
+index()
+total()
+ideal_warn_timed(uint256,uint128)
+addReceivers(address[],uint256[])
+retreive()
+0xbfd772fc
+0xdf0cb934
+process(uint256)

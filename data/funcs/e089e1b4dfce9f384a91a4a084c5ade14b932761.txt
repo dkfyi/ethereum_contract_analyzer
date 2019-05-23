@@ -1,0 +1,9 @@
+client()
+0x2c6dbb1c
+0x6178a8b1
+0xb74eb18e
+0xda3a77ed
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

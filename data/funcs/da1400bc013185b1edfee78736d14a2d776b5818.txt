@@ -1,0 +1,17 @@
+delAllowContractList(address)
+delBlackList(address)
+0x2945aa3c
+blackList(address)
+addAllowContractList(address)
+setTransContractLocked(bool)
+AssignGGEPoolOwner(address)
+ideal_warn_timed(uint256,uint128)
+reclaimEther(address)
+addBlacklist(address)
+getGGCTokenBalance(address)
+0xc0c6b4f1
+tokenFallback(address,uint256,bytes)
+transferAnyERC20Token(address,address,uint256)
+getTransContractLocked()
+balanceOf(address)
+many_msg_babbage(bytes1)

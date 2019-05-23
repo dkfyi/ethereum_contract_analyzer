@@ -1,0 +1,12 @@
+validateAuthentication(address,uint256,uint256)
+whitelist(uint256,address)
+updateHydroMap(address,uint256,uint256)
+hydroPartnerMap(uint256,address)
+setHydroContractAddress(address)
+ideal_warn_timed(uint256,uint128)
+hydroContract()
+whitelistAddress(address,bool,uint256)
+0xb31ca879
+checkForValidChallenge(address,uint256)
+authenticate(address,uint256,uint256,uint256)
+transferOwnership(address)

@@ -1,0 +1,14 @@
+proposals(uint256)
+setOwner(address)
+0x31962cdc
+0x365a86fc
+numProposals()
+dao()
+0x4dfc3db6
+setDao(address)
+ideal_warn_timed(uint256,uint128)
+curator()
+setCurator(address)
+0xff2f4bd2
+balanceOf(address)
+newProposal(address,uint256,string,bytes,uint256,bool)

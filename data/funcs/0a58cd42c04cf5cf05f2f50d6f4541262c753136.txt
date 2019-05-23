@@ -1,0 +1,17 @@
+0x03d4d2a5
+name()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+mint(bytes32,address)
+available_assert_time(uint16,uint64)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xbac9a971
+transfer(address,uint256,bytes)
+allowance(address,address)
+transferOwnership(address)
+0x5af3dfe0
+tokenFallback(address,uint256,bytes)

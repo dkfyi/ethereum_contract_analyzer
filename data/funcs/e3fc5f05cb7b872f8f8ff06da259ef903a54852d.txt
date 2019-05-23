@@ -1,0 +1,4 @@
+0x208a099c
+ownerOf(uint256)
+kittyIndexToOwner(uint256)
+getKitty(uint256)

@@ -1,0 +1,5 @@
+addAddress(address)
+removeAddress(address)
+0x94e38c5d
+getAddresses()
+getBalance(address)

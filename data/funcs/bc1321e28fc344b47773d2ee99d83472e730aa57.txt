@@ -1,0 +1,3 @@
+kill()
+getBalance(address,address)
+balanceOf(address)

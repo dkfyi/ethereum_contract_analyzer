@@ -1,0 +1,17 @@
+checkGoalReached()
+0x07684bc9
+0x1b12d14a
+deadline()
+beneficiary()
+0x665a27cf
+tokenReward()
+balanceOf(address)
+fundingGoal()
+amountRaised()
+0xb7ff70b2
+0xc0405f39
+crowdsaleClosed()
+fundingGoalReached()
+0xed259fed
+safeWithdrawal()
+many_msg_babbage(bytes1)

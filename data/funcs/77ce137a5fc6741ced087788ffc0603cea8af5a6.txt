@@ -1,0 +1,4 @@
+kill()
+blockHexCoordsValid(int8,int8)
+0xb1f74f06
+blockHexCoordsValid(int8,int8)

@@ -1,0 +1,10 @@
+getElevations()
+0x17513d49
+0x1a0cda6f
+0x2f6d498f
+kill()
+setOwner(uint8,uint8,address)
+getOwners()
+0xa364c21f
+getPrices()
+0xcb7b1469

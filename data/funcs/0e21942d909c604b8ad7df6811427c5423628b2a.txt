@@ -1,0 +1,4 @@
+getValue(uint256)
+getValues()
+values(uint256)
+storeValue(uint256)

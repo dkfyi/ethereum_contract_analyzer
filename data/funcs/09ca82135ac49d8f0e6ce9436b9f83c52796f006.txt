@@ -1,0 +1,5 @@
+bet()
+register(address[])
+0x7357f5d2
+0xb90d3d0c
+0xefd5a170

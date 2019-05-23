@@ -1,0 +1,15 @@
+setInterval(uint256)
+withdraw(uint256)
+0x34da7761
+0x479ddb95
+0x6b9b66a8
+setToken(address,uint256)
+0x8c7d1302
+0x8e57eaf7
+interval()
+0xab7d6cbc
+0xd8b31c77
+faucet()
+tokens(address)
+admin()
+balanceOf(address)

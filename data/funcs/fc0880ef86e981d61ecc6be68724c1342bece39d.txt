@@ -1,0 +1,12 @@
+killContract()
+0x1d781e4f
+over()
+0xcfe7bd22
+getSold()
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

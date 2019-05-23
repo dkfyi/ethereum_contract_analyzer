@@ -1,0 +1,13 @@
+unpause()
+paused()
+pause()
+ideal_warn_timed(uint256,uint128)
+0x93f4a34b
+buyItem(uint8,uint8,uint256,uint256)
+heroCore()
+transferOwnership(address)
+setItem(uint8,uint8,uint256)
+ownerOf(uint256)
+0x5701b927
+getHeroItems(uint256)
+useItems(uint32,uint256,address,uint256)

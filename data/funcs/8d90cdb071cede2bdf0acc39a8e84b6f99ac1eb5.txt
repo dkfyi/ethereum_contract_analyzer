@@ -1,0 +1,12 @@
+purchaseRect(uint256,uint256,uint256,uint256,uint256[])
+setPixelRate(uint256)
+withdraw()
+pixelPrice(uint256,uint256)
+0xae081787
+deposit()
+purchasePixel(uint256,uint256,uint256)
+priceForRect(uint256,uint256,uint256,uint256)
+adminWithdraw()
+0x3b9aca00
+0x01000000
+0x01000000

@@ -1,0 +1,17 @@
+name()
+0x0ba62235
+totalSupply()
+available_assert_time(uint16,uint64)
+0x3b51ffb7
+burn(uint256)
+0x4d5cedd2
+0x5b183405
+balanceOf(address)
+0x75f51ba9
+0x8835bf0b
+0x8be49e88
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xe865e40e
+transferOwnership(address)

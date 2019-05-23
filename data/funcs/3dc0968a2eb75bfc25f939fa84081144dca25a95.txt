@@ -1,0 +1,12 @@
+0x0e2d2aa8
+isFrozen()
+isTransferValid(address,address,uint256)
+renounceOwnership()
+0x814cb4cc
+ideal_warn_timed(uint256,uint128)
+isAddressFrozen(address)
+0xb3d5fddb
+freezeAddress(address,uint256)
+isAddressValid(address)
+transferOwnership(address)
+0xfc21e167

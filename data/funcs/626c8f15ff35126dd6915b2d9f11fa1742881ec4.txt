@@ -1,0 +1,16 @@
+0x41e36ab5
+0x5b6795c5
+kyber()
+0xdb11256b
+getExpectedRate(address,address,uint256)
+getExpectedRate(address,address,uint256)
+balanceOf(address)
+trade(address,uint256,address,address,uint256,uint256,address)
+available_assert_time(uint16,uint64)
+balanceOf(address)
+approve(address,uint256)
+getExpectedRate(address,address,uint256)
+balanceOf(address)
+trade(address,uint256,address,address,uint256,uint256,address)
+available_assert_time(uint16,uint64)
+balanceOf(address)

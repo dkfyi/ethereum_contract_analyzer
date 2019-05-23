@@ -1,0 +1,4 @@
+getContractAddress()
+kill()
+getCreatorBalance()
+getCreatorDotBalance()

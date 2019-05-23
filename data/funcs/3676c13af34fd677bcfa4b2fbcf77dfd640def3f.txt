@@ -1,0 +1,7 @@
+0x3ef174fd
+0x5f21febd
+0x8a32ac82
+0xe9fb7ec7
+StopQuiz()
+StartQuiz(string,string)
+NewQuiz(string,bytes32)

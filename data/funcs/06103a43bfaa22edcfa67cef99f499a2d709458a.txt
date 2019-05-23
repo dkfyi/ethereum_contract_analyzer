@@ -1,0 +1,16 @@
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+0x3ee3dc96
+burn(uint256)
+balanceOf(address)
+MyToken(uint256)
+burnFrom(address,uint256)
+0x8713a7db
+TokenERC20(uint256,string,string)
+many_msg_babbage(bytes1)
+approveAndCall(address,uint256,bytes)
+allowance(address,address)
+0x05f5e100
+receiveApproval(address,uint256,address,bytes)

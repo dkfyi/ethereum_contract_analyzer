@@ -1,0 +1,11 @@
+0x03bbc8ab
+0x054afa16
+name()
+totalSupply()
+0x25925d37
+balanceOf(address)
+0x777e9a8d
+0x937604ac
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xc8267d7f

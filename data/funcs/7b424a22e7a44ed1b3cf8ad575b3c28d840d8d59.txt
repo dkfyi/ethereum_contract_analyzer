@@ -1,0 +1,7 @@
+0x09921939
+0x1142c075
+totalSupply()
+gasprice_bit_ether(int128)
+0x6c2e2552
+balanceOf(address)
+many_msg_babbage(bytes1)

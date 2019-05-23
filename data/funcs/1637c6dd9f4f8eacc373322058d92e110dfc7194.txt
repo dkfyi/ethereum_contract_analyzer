@@ -1,0 +1,3 @@
+transfer(address,address,uint256)
+balance(address)
+distribute(address,uint256)

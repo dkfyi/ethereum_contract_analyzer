@@ -1,0 +1,11 @@
+0x0180c3ce
+setRate(uint256)
+unpause()
+0x4e6c17d5
+paused()
+getContribution(address,uint256)
+getRate()
+pause()
+ideal_warn_timed(uint256,uint128)
+0xd475c2c3
+transferOwnership(address)

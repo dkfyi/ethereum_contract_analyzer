@@ -1,0 +1,11 @@
+0x0eb3e402
+0x267b5062
+withdraw()
+0x888ef714
+getAllowance()
+balanceOf(address)
+many_msg_babbage(bytes1)
+0x5d6b478a
+0x9a5a4823
+balanceOf(address)
+many_msg_babbage(bytes1)

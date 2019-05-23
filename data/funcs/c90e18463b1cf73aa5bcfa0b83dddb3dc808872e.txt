@@ -1,0 +1,17 @@
+setBonus(uint256)
+getADR()
+wallet()
+getMIRABALANCE()
+bonus()
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+price()
+fiat()
+setWallet(address)
+0xebabbaa1
+transferOwnership(address)
+USD(uint256)
+0x05f5e100
+many_msg_babbage(bytes1)
+0x05f5e100
+balanceOf(address)

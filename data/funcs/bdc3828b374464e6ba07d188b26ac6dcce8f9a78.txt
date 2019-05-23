@@ -1,0 +1,9 @@
+addBalance(address,uint256)
+subtrBalance(address,uint256)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+setParent(address,address)
+0xe51f461a
+parentOf(address)
+0xf22e2dca
+transferOwnership(address)

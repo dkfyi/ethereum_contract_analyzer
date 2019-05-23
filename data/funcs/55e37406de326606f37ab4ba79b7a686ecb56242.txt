@@ -1,0 +1,6 @@
+0x9db33244
+getRandom()
+0xd4ddc588
+addGame(address)
+0xeda30c9e
+clearGame()

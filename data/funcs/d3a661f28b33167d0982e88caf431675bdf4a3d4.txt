@@ -1,0 +1,12 @@
+min_bid()
+BASE_DURATION()
+bid()
+gameIsOver()
+deadline()
+MINIMUM_DURATION()
+leader()
+pot()
+DURATION_DECREASE_PER_ETHER()
+0x02255100
+0x02255100
+0x02255100

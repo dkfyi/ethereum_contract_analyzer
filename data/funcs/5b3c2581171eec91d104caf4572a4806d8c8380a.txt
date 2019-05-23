@@ -1,0 +1,2 @@
+setContract(string,string)
+getContractData()

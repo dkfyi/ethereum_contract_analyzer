@@ -1,0 +1,6 @@
+0x47fb064d
+0x64fb59aa
+mulRate(uint256,uint256)
+genRandomArray(uint256,uint256,uint256)
+pwrFloat(uint256,uint256,uint256,uint256)
+pwrFloat(uint256,uint256,uint256,uint256)

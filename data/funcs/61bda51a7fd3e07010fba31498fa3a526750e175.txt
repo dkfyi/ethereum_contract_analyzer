@@ -1,0 +1,7 @@
+__callback(bytes32,string)
+kill()
+0x6a67498e
+deposit()
+0x4c773795
+getPrice(string)
+query(uint256,string,string)

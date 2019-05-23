@@ -1,0 +1,9 @@
+TOKENADDRESS()
+RTI()
+0x5c712bc0
+0x98625080
+0xa55a9c41
+admin()
+VERSION()
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

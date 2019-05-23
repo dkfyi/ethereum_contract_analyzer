@@ -1,0 +1,12 @@
+__callback(bytes32,string)
+query()
+__callback(bytes32,string,bytes)
+randomNumber()
+0xdc39a456
+getAddress()
+getAddress()
+getPrice(string)
+query(uint256,string,string)
+getAddress()
+getAddress()
+cbAddress()

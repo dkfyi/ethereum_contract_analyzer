@@ -1,0 +1,6 @@
+kill()
+random()
+0x6dd1f0ed
+hash(uint256)
+0xc2ca0ac5
+commit(bytes32)

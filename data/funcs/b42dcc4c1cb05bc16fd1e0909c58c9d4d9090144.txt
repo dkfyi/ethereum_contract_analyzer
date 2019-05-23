@@ -1,0 +1,4 @@
+tInstance()
+balanceOf(address)
+xdest()
+many_msg_babbage(bytes1)

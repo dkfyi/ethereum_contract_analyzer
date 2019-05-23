@@ -1,0 +1,10 @@
+latestWinner()
+ticketPrice()
+maxBet()
+ticketCounter()
+0x92b5ba0b
+play()
+0xc23078b4
+0xd629c3df
+0x01000000
+0x01000000

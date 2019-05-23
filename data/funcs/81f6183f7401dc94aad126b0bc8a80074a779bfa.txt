@@ -1,0 +1,6 @@
+lastBlockNumber()
+lastYearTotalSupply()
+tokenContractAddress()
+issue()
+totalSupply()
+issue(uint256)

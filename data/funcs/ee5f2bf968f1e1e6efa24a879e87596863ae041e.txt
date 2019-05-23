@@ -1,0 +1,7 @@
+priceInWei()
+currentStage()
+tokenReward()
+availableTokensOnCurrentStage()
+launchSale()
+withdraw(address,uint256)
+many_msg_babbage(bytes1)

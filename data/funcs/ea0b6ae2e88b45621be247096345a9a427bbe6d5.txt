@@ -1,0 +1,17 @@
+deploy()
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+token()
+presale()
+setToken(address)
+setHardcap(uint256)
+setWallets(address,address)
+0x56f3d665
+setPeriod(uint256,uint256)
+0x5a403f7f
+0x5a7ce47f
+0x6d427fa3
+setRate(uint256)
+setSaleAgent(address)
+transferOwnership(address)
+transferOwnership(address)

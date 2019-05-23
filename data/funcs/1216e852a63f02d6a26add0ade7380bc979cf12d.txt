@@ -1,0 +1,7 @@
+0x07f35901
+tokenFallback(address,uint256,bytes)
+0x7bd163f3
+totalSupply()
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

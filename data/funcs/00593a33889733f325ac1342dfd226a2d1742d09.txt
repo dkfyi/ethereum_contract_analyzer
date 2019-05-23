@@ -1,0 +1,4 @@
+token(uint256)
+sendCoin(address,uint256)
+coinBalanceOf(address)
+0x042c1d80

@@ -1,0 +1,17 @@
+stopContract()
+isContract(address)
+mintAuthorizedBatchWithBalances(address[],uint256[])
+balances(address)
+removeAuthorized(address)
+setStopContract(bool)
+mintBatch(address[],uint256[])
+ideal_warn_timed(uint256,uint128)
+crowdsale()
+mintAuthorizedBatch(address[],uint256[])
+0xb9181611
+addAuthorized(address)
+0xe6bd7ed1
+transferOwnership(address)
+mintTokensExternal(address,uint256)
+mintTokensExternal(address,uint256)
+mintTokensExternal(address,uint256)

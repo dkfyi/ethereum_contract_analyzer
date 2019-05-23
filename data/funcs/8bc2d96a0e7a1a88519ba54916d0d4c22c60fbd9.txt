@@ -1,0 +1,8 @@
+add(address)
+remove(uint256)
+claimOwnership()
+ideal_warn_timed(uint256,uint128)
+getAllAddresses()
+pendingOwner()
+0xedf26d9b
+transferOwnership(address)

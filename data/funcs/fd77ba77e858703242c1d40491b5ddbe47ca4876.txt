@@ -1,0 +1,3 @@
+getNickname(address)
+0xb13f5f19
+getAddress(string)

@@ -1,0 +1,10 @@
+rate()
+transferTo(address,uint256)
+weiRaised()
+wallet()
+changeRate(uint256)
+buyTokens(address)
+0xf9f494ed
+token()
+0xfe621505
+many_msg_babbage(bytes1)

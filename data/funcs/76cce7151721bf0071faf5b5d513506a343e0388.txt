@@ -1,0 +1,4 @@
+0x7c16ebcb
+deposit(address)
+withdraw(address,uint256)
+getBalance(address)

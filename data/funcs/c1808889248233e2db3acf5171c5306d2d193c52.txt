@@ -1,0 +1,13 @@
+setOwner(address)
+unregister(bytes32)
+changeAddress(bytes32,address)
+setDelegate(address,bool)
+setFee(uint256)
+cashout()
+ideal_warn_timed(uint256,uint128)
+setMeta(bytes32,bytes32,bytes32)
+0x9a5e4eb4
+0xa1ea842f
+0xb9956248
+register(bytes32,address)
+fee()

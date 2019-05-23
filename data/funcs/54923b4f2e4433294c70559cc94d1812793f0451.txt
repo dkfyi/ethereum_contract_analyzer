@@ -1,0 +1,15 @@
+0x4782f779
+0x4d694a34
+tokenTransfer(address,uint256)
+0x97d870c8
+safeSub(uint256,uint256)
+0xa6940a9c
+0xcde34c0a
+safeAdd(uint256,uint256)
+depositETH()
+balanceOf(address,address)
+gasprice_bit_ether(int128)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+balanceOf(address)

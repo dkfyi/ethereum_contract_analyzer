@@ -1,0 +1,2 @@
+0x0dcfb018
+xorReduce(bytes32[],uint256)

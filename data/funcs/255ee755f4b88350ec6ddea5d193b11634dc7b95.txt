@@ -1,0 +1,6 @@
+posts(uint256)
+canVote(uint256)
+getVote(uint256)
+vote(uint256,uint8)
+create(bytes)
+0xec7331e9

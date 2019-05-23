@@ -1,0 +1,8 @@
+kittensRemainingForSale()
+totalContributions()
+_kittenContract()
+_kittenOwner()
+updateKittensRemainingForSale()
+kittensSold()
+gasprice_bit_ether(int128)
+allowance(address,address)

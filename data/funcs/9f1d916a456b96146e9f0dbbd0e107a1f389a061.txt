@@ -1,0 +1,8 @@
+setOwner(address)
+outstandingBalance()
+participants(uint256)
+awaitingParticipants()
+payoutOrder()
+totalParticipants()
+balance()
+enter()

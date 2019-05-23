@@ -1,0 +1,13 @@
+setPaused(bool)
+0x3d18c7af
+0x535bbb97
+tokenContract()
+0x56db560b
+paused()
+0x5d18dad7
+0x73a4200b
+0x83ff85f9
+0x942cfe42
+acceptTokens(address,uint256,uint256,uint256,uint256)
+0xba48c928
+burn(uint256)

@@ -1,0 +1,8 @@
+getChannelID(uint256)
+getAttributes(uint256)
+toContentID(address,uint256,string,bytes)
+publish(string,string,bytes,address[])
+getPublisher(uint256)
+getTimestamp(uint256)
+toChannelID(string)
+add(uint256)

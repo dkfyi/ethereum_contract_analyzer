@@ -1,0 +1,7 @@
+vote(uint256)
+proposals(uint256)
+chairperson()
+0x2fdae3c5
+giveRightToVote(address)
+voters(address)
+winnerName()

@@ -1,0 +1,3 @@
+addTrustedIssuer(address,string)
+removeTrustedIssuer(address,string)
+assertFact(uint256,string)

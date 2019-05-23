@@ -1,0 +1,3 @@
+withdraw()
+attack(address,uint8)
+placeBet(uint8,uint8)

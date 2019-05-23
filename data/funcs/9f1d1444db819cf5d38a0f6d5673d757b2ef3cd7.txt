@@ -1,0 +1,6 @@
+setOwner(address)
+balances(address)
+destruct()
+ideal_warn_timed(uint256,uint128)
+0xc68d81e0
+0xcd580ff3

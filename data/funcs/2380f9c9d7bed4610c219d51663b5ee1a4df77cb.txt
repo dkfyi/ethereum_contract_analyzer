@@ -1,0 +1,6 @@
+kill()
+0x99f43aba
+changeOwner(address)
+0xab86de6c
+_owner()
+0x0965b0dd

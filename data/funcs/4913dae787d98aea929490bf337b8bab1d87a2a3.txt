@@ -1,0 +1,3 @@
+setNickname(bytes32)
+getNickname(address)
+0xd68a589e

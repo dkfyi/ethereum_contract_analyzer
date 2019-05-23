@@ -1,0 +1,4 @@
+0x5cf3d346
+getAddresses()
+register(bytes32)
+0xedf26d9b

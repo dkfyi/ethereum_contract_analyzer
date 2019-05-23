@@ -1,0 +1,3 @@
+getAdopters()
+adopt(uint256)
+fee(address,uint256)

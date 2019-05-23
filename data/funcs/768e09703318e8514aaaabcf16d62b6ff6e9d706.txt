@@ -1,0 +1,15 @@
+0x1ecd349d
+0x4e2203a1
+addTokenAddress(address)
+0x52c3d69b
+numTokens()
+0x9bf865d0
+getBalance(address,address)
+0xd67a1140
+0xea5fd47e
+balanceOf(address)
+balanceOf(address)
+balanceOf(address)
+balanceOf(address)
+balanceOf(address)
+balanceOf(address)

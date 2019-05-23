@@ -1,0 +1,6 @@
+collectPercentOfFees(uint256)
+DynamicPyramid()
+collectAllFees()
+changeFee(uint256)
+changeOwner(address)
+collectFeesInEther(uint256)

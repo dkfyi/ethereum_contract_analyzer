@@ -1,0 +1,7 @@
+issueToMany(address[],uint256[])
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+token()
+balanceOf(address)
+issue(address,uint256)

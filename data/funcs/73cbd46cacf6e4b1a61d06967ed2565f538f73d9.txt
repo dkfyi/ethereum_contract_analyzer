@@ -1,0 +1,5 @@
+getCreator()
+0x37ded7fc
+kill()
+0x6ffd773c
+getNumber()

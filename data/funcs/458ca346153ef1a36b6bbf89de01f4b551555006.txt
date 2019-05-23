@@ -1,0 +1,6 @@
+pendingReturns(address)
+withdraw()
+0x5eb70977
+0xb60d51c6
+0xc7c2d979
+setBasePrice(uint256)

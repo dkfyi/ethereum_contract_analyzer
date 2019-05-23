@@ -1,0 +1,3 @@
+GetMoney()
+ActiveDigger()
+ChangeActiveDigger(address)

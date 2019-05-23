@@ -1,0 +1,2 @@
+setPrice(uint256,uint8)
+getPrice()

@@ -1,0 +1,13 @@
+withdrawFunds(uint256)
+wallet()
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+0xbb980f12
+newOwner()
+setWallet(address)
+transferOwnership(address)
+flushTokens(address)
+MIN_CONTRIBUTION()
+flush()
+balanceOf(address)
+many_msg_babbage(bytes1)

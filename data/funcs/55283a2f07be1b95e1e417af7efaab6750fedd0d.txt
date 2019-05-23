@@ -1,0 +1,10 @@
+roll(uint256)
+bets(uint256)
+MAXIMUM_CAP()
+kill()
+FEE_NUMERATOR()
+counter()
+fund()
+0xb76b0b99
+FEE_DENOMINATOR()
+MAXIMUM_BET_SIZE()

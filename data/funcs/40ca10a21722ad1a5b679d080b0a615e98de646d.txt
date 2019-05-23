@@ -1,0 +1,16 @@
+checkRole(address,string)
+hasRole(address,string)
+0x21b2d55d
+shuffle()
+0x640a74be
+grantToken(address)
+0x7c9b032a
+initialize()
+0x933f4eef
+0x9850ce08
+0xa2e34586
+0xa93d79e7
+0xad153c77
+isMigrated(string,string)
+ROLE_ADMIN()
+updateAdmin(address)

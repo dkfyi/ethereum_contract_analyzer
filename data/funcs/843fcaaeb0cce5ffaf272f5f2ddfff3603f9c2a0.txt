@@ -1,0 +1,10 @@
+testnetWithdrawn(uint256)
+withdraw(bytes32,address)
+getSecret(address)
+0x4d025fdf
+ideal_warn_timed(uint256,uint128)
+0x99caf975
+createSwap(bytes20,address)
+ratingContractAddress()
+getBalance(address)
+refund(address)

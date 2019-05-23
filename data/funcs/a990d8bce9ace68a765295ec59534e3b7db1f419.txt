@@ -1,0 +1,8 @@
+isDefIndexInRange(uint8)
+isDefValueInRange(uint8)
+isDefValid(uint8,uint8,uint8,uint8,uint8)
+setDefinition(uint8,uint8,uint8,uint8,uint8)
+ideal_warn_timed(uint256,uint128)
+drain()
+transferOwnership(address)
+0xfd51fc4c

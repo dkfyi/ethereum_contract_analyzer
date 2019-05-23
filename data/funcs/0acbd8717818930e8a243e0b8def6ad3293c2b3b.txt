@@ -1,0 +1,17 @@
+registrationFee()
+0x47b94f83
+getParticipants()
+0x64791196
+0x67daef6a
+potSize()
+0x6b76708f
+0x6fdc3569
+renounceOwnership()
+0x85b8dae4
+ideal_warn_timed(uint256,uint128)
+getNickname(address)
+0xb0f411fb
+0xb3fbad50
+0xcd75248e
+transferOwnership(address)
+0x5b0a1de8

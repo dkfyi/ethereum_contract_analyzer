@@ -1,0 +1,4 @@
+name()
+gasprice_bit_ether(int128)
+balanceOf(address)
+initial()

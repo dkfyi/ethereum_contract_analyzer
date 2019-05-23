@@ -1,0 +1,5 @@
+Try(string)
+NewQuestion(string,bytes32)
+question()
+0xd6a30fb4
+StopGame()

@@ -1,0 +1,17 @@
+transferEther(address,uint256)
+0x3397e077
+0x643f0e2a
+0x9df042cc
+transferToken(address,address,uint256)
+isAuthorized(address,address,bytes)
+consume(address,uint256)
+consume(address,uint256)
+0x06a48070
+0xb91eed5d
+0xff441fd8
+0xeebbb5c3
+isAuthorized(address,address,bytes)
+validate()
+isAuthorized(address,address,bytes)
+isAuthorized(address,address,bytes)
+many_msg_babbage(bytes1)

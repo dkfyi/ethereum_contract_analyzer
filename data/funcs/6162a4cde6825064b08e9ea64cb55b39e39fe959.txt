@@ -1,0 +1,5 @@
+isInitialized()
+lookup(int256)
+initialize()
+data(int256)
+stage()

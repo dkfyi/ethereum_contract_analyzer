@@ -1,0 +1,4 @@
+getNumber(bytes32)
+withdraw()
+0xbb8d0321
+placeBet(uint8,uint8)

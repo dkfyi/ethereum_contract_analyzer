@@ -1,0 +1,7 @@
+0x148c931c
+geneScience()
+0xf9935fe8
+0xfbc6288d
+mixGenes(uint256,uint256,uint256)
+giveBirth(uint256)
+mixGenes(uint256,uint256,uint256)

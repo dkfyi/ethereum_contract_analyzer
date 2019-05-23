@@ -1,0 +1,15 @@
+0x2d330ca3
+parameterizerFactory()
+0x6af031db
+proxyFactory()
+canonizedRegistry()
+0xf4d5686c
+voting()
+createProxy(address,bytes)
+init(address,address,address,string)
+0xc0479073
+token()
+many_msg_babbage(bytes1)
+voting()
+createProxy(address,bytes)
+init(address,address,address,string)

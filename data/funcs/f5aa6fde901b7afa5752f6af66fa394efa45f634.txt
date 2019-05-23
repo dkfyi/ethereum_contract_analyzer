@@ -1,0 +1,6 @@
+authType()
+signDate(bytes32)
+signer()
+signed(bytes32)
+sign(bytes32)
+isSigner(address)

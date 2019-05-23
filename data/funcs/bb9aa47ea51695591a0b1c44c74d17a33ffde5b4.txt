@@ -1,0 +1,5 @@
+rand(uint256)
+playToWin(uint256)
+result()
+playToWinTest(uint256)
+cashOut()

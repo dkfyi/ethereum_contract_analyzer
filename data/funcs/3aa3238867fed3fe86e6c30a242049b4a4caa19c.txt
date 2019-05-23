@@ -1,0 +1,7 @@
+getDonation(address)
+CloseDonation()
+TokenBalance()
+startDonation()
+DonateEther()
+allowance(address,address)
+gasprice_bit_ether(int128)

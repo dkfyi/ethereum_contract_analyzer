@@ -1,0 +1,9 @@
+endBlock()
+unVote()
+vote(int256)
+changeEndBlock(uint256)
+getVoters(uint256,uint256)
+votersCount()
+0xd8bff5a5
+0xda58c7d9
+admin()

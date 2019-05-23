@@ -1,0 +1,14 @@
+airdropLimit()
+totalClaims()
+setPropheth(address)
+stopAirdrop(bool)
+claim(string,string,string,bytes32,bytes)
+0x591cc145
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0x9ca293ec
+isClaimed(uint256)
+0xc6788bdd
+transferOwnership(address)
+0x3b007512
+mintPCD(address,uint256)

@@ -1,0 +1,7 @@
+name()
+whatSatoshiSays()
+currentPrice()
+0xaa0ea6ee
+currentOwner()
+satoshiMood()
+fetchCurrentSatoshiState()

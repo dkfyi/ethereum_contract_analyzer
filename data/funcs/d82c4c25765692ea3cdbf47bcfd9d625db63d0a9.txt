@@ -1,0 +1,8 @@
+0x2912c0ab
+kill()
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+0xaf19d1fe
+reset()
+transferOwnership(address)
+gasprice_bit_ether(int128)

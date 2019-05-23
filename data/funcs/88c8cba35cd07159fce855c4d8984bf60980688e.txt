@@ -1,0 +1,10 @@
+0x011b0d3c
+activate()
+removeRequester(address)
+0x22ad7997
+isActivated()
+getTimeRemaining(uint256)
+getResult(uint256)
+0xdfaca421
+addRequester(address)
+owner_()

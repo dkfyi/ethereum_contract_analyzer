@@ -1,0 +1,10 @@
+0x057090d8
+renounceOwnership()
+0x78186b49
+destroy()
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+destroyAndSend(address)
+getAddress(bytes32)
+setUint(bytes32,uint256)
+getUint(bytes32)

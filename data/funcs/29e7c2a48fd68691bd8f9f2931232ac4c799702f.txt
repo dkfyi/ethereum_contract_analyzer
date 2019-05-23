@@ -1,0 +1,2 @@
+getIsCompany(address)
+getKycLevel(address)

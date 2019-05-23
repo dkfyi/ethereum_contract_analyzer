@@ -1,0 +1,4 @@
+changeOwner(address)
+deposit(uint256)
+updateRentInfo(uint256,uint256,uint256)
+getRentInfo()

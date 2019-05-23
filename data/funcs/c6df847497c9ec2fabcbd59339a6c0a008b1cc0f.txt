@@ -1,0 +1,17 @@
+dataContract()
+0x38cfeffc
+renounceOwnership()
+0x85cc4818
+ideal_warn_timed(uint256,uint128)
+0x8e3ed7c7
+0x9065055e
+0xb7fa2bd8
+0xe21780cd
+transferOwnership(address)
+0xe0b0cc49
+0x26df804f
+0x4d4f4ed6
+getBet(uint256)
+0x73eb9422
+0x435e5302
+0x215708a6

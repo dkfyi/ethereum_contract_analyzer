@@ -1,0 +1,11 @@
+setToken(address)
+ideal_warn_timed(uint256,uint128)
+0x982fb9d8
+tokenBalance()
+0xb2f87643
+0xb697f531
+doAirdrop(address[],uint256[])
+transferOwnership(address)
+token()
+balanceOf(address)
+many_msg_babbage(bytes1)

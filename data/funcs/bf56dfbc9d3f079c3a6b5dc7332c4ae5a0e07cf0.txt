@@ -1,0 +1,15 @@
+0x041eebf5
+0x07e788b3
+0x0b6ba410
+0x1d0f73a4
+withdraw()
+0x59c6b654
+0x5f63f81d
+0x61c0ad74
+changePrice(uint256,uint256)
+0xe45dae49
+withdrawForeignTokens(address)
+0xe611dc51
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

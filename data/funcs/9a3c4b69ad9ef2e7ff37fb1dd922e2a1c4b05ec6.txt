@@ -1,0 +1,2 @@
+kill()
+indexOf(string,string)

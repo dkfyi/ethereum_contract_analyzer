@@ -1,0 +1,5 @@
+add(uint256)
+remove(uint256)
+size()
+values()
+contains(uint256)

@@ -1,0 +1,10 @@
+name()
+rate()
+setRate(uint256)
+setAdmin(address,bool)
+setOpen(bool)
+sendEth(address)
+link_classic_internal(uint64,int64)
+getETH(uint256,address)
+0xb76e42ce
+changeBeneficiary(address)

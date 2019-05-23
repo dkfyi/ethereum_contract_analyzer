@@ -1,0 +1,14 @@
+name()
+0x086d42a0
+created()
+0x7b86c2b8
+0x7bf5fa14
+0x819d8440
+ideal_warn_timed(uint256,uint128)
+addExchange(bytes32,address)
+changeOwner(address)
+setName(string)
+0xd482dda6
+0xd65e1c50
+0xf614d915
+0xfb8ad6ff

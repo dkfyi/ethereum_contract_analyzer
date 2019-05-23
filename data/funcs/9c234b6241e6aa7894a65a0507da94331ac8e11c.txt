@@ -1,0 +1,13 @@
+balances(address)
+withdraw(uint256)
+0x332d2b87
+0x49e65d32
+standard()
+0x5bb12a1a
+disburse()
+addPlayer(address)
+deposit()
+0xd59637e0
+0xea1c7297
+0xeee00470
+0xf71d96cb

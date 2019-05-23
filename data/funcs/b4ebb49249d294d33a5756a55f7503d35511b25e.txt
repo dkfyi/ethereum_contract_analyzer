@@ -1,0 +1,9 @@
+0x084f9bce
+0x495c23bd
+0x4dab6d18
+0x7f0fc8a8
+0xa57de4cf
+0x1f98ade3
+naturalUnit()
+getUnits()
+getComponents()

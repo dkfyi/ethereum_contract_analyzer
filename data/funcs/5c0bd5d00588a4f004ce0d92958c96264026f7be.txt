@@ -1,0 +1,13 @@
+getPlotInfo(uint256)
+ownershipLength()
+updatePlotPrice(uint256,uint256)
+updatePlotData(uint256,string,string)
+withdraw(address)
+togglePlotBlockedTag(uint256,bool)
+ideal_warn_timed(uint256,uint128)
+purchaseAreaWithData(uint24[],uint24[],uint256[],string,string,uint256)
+getPlotData(uint256)
+transferOwnership(address)
+0x01000000
+0x01000000
+0x01000000

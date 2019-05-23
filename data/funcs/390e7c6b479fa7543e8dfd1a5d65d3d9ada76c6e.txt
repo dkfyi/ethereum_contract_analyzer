@@ -1,0 +1,15 @@
+0x04305f42
+setGasAmount(uint256)
+0x28811b14
+0x35080825
+admins(address)
+gasAmount()
+0x6b55e991
+0x8aea61dc
+setPrice(uint256)
+0xb4aedb54
+processRequest(uint256,uint256)
+0xd4fe6bd0
+transferOwnership(address)
+admin()
+0x04eafa60

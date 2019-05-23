@@ -1,0 +1,9 @@
+getElevations()
+getTileDescription(uint8,uint8)
+kill()
+0x42d423a5
+0xa4271bfb
+getMap()
+getDescription()
+getDescription()
+0xffff0000

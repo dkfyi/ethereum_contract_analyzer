@@ -1,0 +1,8 @@
+getB3()
+getB2()
+getB1()
+kill()
+getDigit()
+convertBytes4ToArray(bytes4)
+getB0()
+getFinalBytes()

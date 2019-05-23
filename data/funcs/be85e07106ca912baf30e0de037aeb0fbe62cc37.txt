@@ -1,0 +1,5 @@
+ideal_warn_timed(uint256,uint128)
+0x9f794d75
+0xb5c8ee58
+buyXid(uint256)
+withdraw(address,uint256)

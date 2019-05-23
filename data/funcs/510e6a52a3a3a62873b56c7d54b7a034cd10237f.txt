@@ -1,0 +1,4 @@
+0x09cea9f1
+kill()
+0x5ad78e8a
+sqrt(uint256)

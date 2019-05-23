@@ -1,0 +1,2 @@
+0xcbef362f
+isNotarized(bytes32)

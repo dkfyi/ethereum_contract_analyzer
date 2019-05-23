@@ -1,0 +1,8 @@
+getPaymentByAddress(address)
+0x21a3e507
+kill()
+0x69609b97
+getPaymentDataByAddress(address)
+0xcf6083ab
+0xe30a323d
+sendEtherToOwner()

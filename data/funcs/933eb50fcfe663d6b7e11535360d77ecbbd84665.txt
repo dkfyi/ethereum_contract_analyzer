@@ -1,0 +1,8 @@
+setOwner(address)
+0x141a468c
+0x736c0d5b
+getOwner()
+ideal_warn_timed(uint256,uint128)
+0xaffecb9b
+0xc3a77871
+0x3e6eaa03

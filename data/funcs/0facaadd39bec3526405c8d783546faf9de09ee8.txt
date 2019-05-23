@@ -1,0 +1,4 @@
+0x55fd5e57
+createCertificate(string,string,string)
+getCertificateKeys()
+getCertificate(address)

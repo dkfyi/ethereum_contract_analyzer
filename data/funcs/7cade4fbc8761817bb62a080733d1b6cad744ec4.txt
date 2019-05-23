@@ -1,0 +1,7 @@
+deregisterToken(uint32)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+registerToken(uint32,address,uint8)
+transferOwnership(address)
+tokens(uint32)
+VERSION()

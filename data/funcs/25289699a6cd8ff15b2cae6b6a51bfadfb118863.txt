@@ -1,0 +1,13 @@
+purchasePlayer(uint256)
+0x1c99484d
+pauseGame()
+getPlayerOwner(uint256)
+GetIsPauded()
+getPlayerPrice(uint256)
+0xa0a75ab4
+getPlayer(uint256)
+unPauseGame()
+0xfd6aee97
+0xfe007dbf
+getTeamOwner(uint256)
+getTeamOwner(uint256)

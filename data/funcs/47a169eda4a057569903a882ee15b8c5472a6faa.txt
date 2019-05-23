@@ -1,0 +1,4 @@
+tryAirdrop()
+empty()
+getPlayerInfoByAddress(address)
+withdraw()

@@ -1,0 +1,8 @@
+0x5342d39d
+hasAccess()
+removeAccess(address)
+get(bytes32)
+0xa42929e0
+giveAccess(address)
+getAndDel(bytes32)
+set(bytes32,bytes32)

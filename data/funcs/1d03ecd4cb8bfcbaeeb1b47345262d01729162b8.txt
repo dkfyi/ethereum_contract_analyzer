@@ -1,0 +1,16 @@
+checkRole(address,string)
+hasRole(address,string)
+close()
+adminRemoveRole(address,string)
+ideal_warn_timed(uint256,uint128)
+adminAddRole(address,string)
+0xb79d36b4
+setCommons(address)
+ROLE_ADMIN()
+transferOwnership(address)
+0xfb72f6d3
+get(string)
+setBalance(address,uint256)
+balanceOf(address)
+setBalance(address,uint256)
+balanceOf(address)

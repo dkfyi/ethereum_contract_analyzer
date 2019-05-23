@@ -1,0 +1,13 @@
+getOwner()
+getOwner()
+ideal_warn_timed(uint256,uint128)
+acceptNextOwner()
+approveNextOwner(address)
+0xe4a7e11f
+0xf7f74aae
+0x17b5f497
+exchangeContract()
+0x4a852142
+0x6e7c1c46
+0x810136bf
+0x742e4669

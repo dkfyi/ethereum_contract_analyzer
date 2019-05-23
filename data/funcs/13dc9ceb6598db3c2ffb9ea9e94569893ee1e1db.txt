@@ -1,0 +1,15 @@
+0x4fcf4136
+0x6cc866e0
+ideal_warn_timed(uint256,uint128)
+0x97a086df
+0xc1f44c09
+0xcdc9ed30
+0xda7b0bcf
+payout(uint256)
+0xeede42d5
+deposit()
+withdraw(uint256)
+withdrawToken(address,uint256)
+orderFills(address,bytes32)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+tokens(address,address)

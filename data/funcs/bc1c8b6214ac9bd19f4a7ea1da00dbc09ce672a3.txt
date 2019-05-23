@@ -1,0 +1,6 @@
+getListCount()
+0x4e4cc8f1
+newEntry(bytes32,bytes32,bytes32,bytes16,bytes1,bytes16,bytes32,bytes32)
+pullRow(uint256)
+pullEntry(uint256)
+amendEntry(uint256,bytes32,bytes32,bytes32,bytes16,bytes1,bytes16,bytes32,bytes32)

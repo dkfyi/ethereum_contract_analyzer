@@ -1,0 +1,16 @@
+calculateSha3(string)
+kill()
+claimOwnership()
+currentStage()
+ideal_warn_timed(uint256,uint128)
+currentWinner()
+0xb96ea12d
+0xdbdfe4ac
+withdrawWinner()
+0xdf9d4fdf
+pendingOwner()
+0xebb84fd3
+0xf0eafa08
+transferOwnership(address)
+vote(string)
+VERSION()

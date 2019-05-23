@@ -1,0 +1,8 @@
+hashData(string)
+0x32d2e7e3
+0x639d80a0
+0x7c4627d5
+0x882ec35a
+revokeAccess(bytes32,address)
+0xce2fe28e
+0xcfda2ba3

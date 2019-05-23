@@ -1,0 +1,6 @@
+setPrice(string,uint256)
+0x4c773795
+getPrice(string)
+0x88f3543a
+0xa4c8a1c1
+query(uint256,string,string)

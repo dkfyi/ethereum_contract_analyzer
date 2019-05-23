@@ -1,0 +1,5 @@
+exFees(uint256)
+updateFeeSchedule(uint256,uint256,uint256)
+calcTradeFee(uint256,uint256)
+ideal_warn_timed(uint256,uint128)
+calcTradeFeeMulti(uint256[],uint256[])

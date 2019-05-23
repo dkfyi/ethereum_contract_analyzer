@@ -1,0 +1,8 @@
+curConfig()
+0x0f96cf34
+getGameInfo()
+addPlayer()
+changeConfig(uint32,uint256,uint8)
+setConfig()
+updateLock(bool)
+transferOwnership(address)

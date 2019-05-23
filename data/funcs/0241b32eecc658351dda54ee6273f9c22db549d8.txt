@@ -1,0 +1,16 @@
+0x48725fd8
+0x4ceb48fd
+getUserInfo(address)
+0x6d42eee2
+mintNewDNC(address,uint256)
+0x78c188c5
+changeAdmin(address)
+0x91110d70
+0x966bd54e
+0x9a6a10a3
+burn(address,uint256)
+0xa87430ba
+many_msg_babbage(bytes1)
+0xe844a457
+getBalance(address)
+0xf93edb9e

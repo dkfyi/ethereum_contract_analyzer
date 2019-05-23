@@ -1,0 +1,16 @@
+removeAdmin(address)
+0x3b68f8aa
+getDna(uint256)
+pauseContract()
+0x6436434e
+addAdmin(address)
+renounceOwnership()
+0x77fb6269
+airdrop(address,uint256)
+ideal_warn_timed(uint256,uint128)
+activateContract()
+0x925382c0
+0xa052f024
+0xd499a1d6
+0xe52c9da1
+transferOwnership(address)

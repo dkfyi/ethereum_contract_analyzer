@@ -1,0 +1,4 @@
+oscarGuindzbergAddress()
+withdraw()
+coinfabrikAddress()
+truebitAddress()

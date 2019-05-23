@@ -1,0 +1,4 @@
+mine(uint256)
+0xa52c101e
+Mine()
+many_msg_babbage(bytes1)

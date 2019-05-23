@@ -1,0 +1,9 @@
+0x2d113c7c
+withdraw(uint256)
+withdraw()
+0x4e7b63d3
+balanceOf(address)
+getReturn(address,address,uint256)
+quickConvert(address[],uint256,uint256)
+getReturn(address,address,uint256)
+quickConvert(address[],uint256,uint256)

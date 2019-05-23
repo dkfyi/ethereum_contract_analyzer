@@ -1,0 +1,8 @@
+acceptOwnership()
+acceptOwnership()
+changeOwner(address)
+done()
+0xfed1252a
+name()
+cap()
+stakeOf(address)

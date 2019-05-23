@@ -1,0 +1,8 @@
+newManager()
+manager()
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+acceptManagement()
+newOwner()
+transferManagement(address)
+transferOwnership(address)

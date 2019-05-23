@@ -1,0 +1,2 @@
+setAmount(uint256)
+getAmount()

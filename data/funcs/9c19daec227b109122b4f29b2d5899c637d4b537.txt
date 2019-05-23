@@ -1,0 +1,11 @@
+proposals(uint256)
+vote(uint256,string)
+destruct()
+withdraw()
+createProposal(string)
+0x5df81330
+ideal_warn_timed(uint256,uint128)
+0x920fae8a
+0xa78d80fc
+transferOwnership(address)
+0xf4cd78b0

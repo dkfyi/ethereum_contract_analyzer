@@ -1,0 +1,6 @@
+getLongGap()
+getFastGap()
+getFastExtra()
+getLongExtra()
+0x5a63fbc9
+set(uint256,uint256,uint256,uint256)

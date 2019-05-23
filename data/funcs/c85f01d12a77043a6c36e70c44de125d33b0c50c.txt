@@ -1,0 +1,15 @@
+beyond()
+kill()
+isOpen()
+tokenContract()
+0x7ba8be85
+ideal_warn_timed(uint256,uint128)
+giveFor(address)
+0x9c3dfaf6
+0xd24f8cdd
+0xd269857d
+0xd3abfc06
+endPreSale()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

@@ -1,0 +1,17 @@
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+0x5bcb5fd4
+balanceOf(address)
+burnFrom(address,uint256)
+burnToken(uint256)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+frozenAccount(address)
+0xc0d5536f
+0xc154d6ca
+allowance(address,address)
+freezeAccount(address,bool)
+transferOwnership(address)
+getBalance(address)

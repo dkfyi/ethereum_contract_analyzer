@@ -1,0 +1,9 @@
+elapsed()
+remaining()
+lastBlock()
+0x8a6a952a
+blocks()
+price()
+winners(uint256)
+totalWinners()
+lastPlayer()

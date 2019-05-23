@@ -1,0 +1,17 @@
+0x04e9a6ae
+0x0aa84516
+0x25d415bb
+0x4ae5bf20
+tokenContract()
+renounceOwnership()
+0x802342ba
+0x874dbcae
+ideal_warn_timed(uint256,uint128)
+0x8ee8f9cb
+0xa22cf915
+0xd7b5ab46
+0xe2922c9e
+0xe2ecaad6
+transferOwnership(address)
+0xfa5083f0
+escrowAllowed(address)

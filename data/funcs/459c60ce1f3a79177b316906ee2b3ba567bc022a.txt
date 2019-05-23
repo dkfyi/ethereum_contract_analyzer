@@ -1,0 +1,13 @@
+time()
+deadline()
+0x54c6de48
+0x67772eb1
+token_reward()
+ideal_warn_timed(uint256,uint128)
+price()
+0xaa24808c
+0xf330d980
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+balanceOf(address)

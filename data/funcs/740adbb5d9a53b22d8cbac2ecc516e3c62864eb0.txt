@@ -1,0 +1,17 @@
+0x0b8eebde
+bet()
+0x1cd93b73
+0x36f40c61
+maxNumber()
+multiBlockRandomGen(uint256,uint256)
+0x6426b1e4
+winnerIndex()
+amount()
+0xb3388822
+totalBets()
+0xc0daddfd
+randomGen(uint256,uint256)
+0xe73faa2d
+0xf8184f73
+open()
+0x05f5e0ff

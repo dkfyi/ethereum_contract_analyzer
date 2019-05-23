@@ -1,0 +1,3 @@
+count()
+add(uint256)
+getCount()

@@ -1,0 +1,15 @@
+checkAddress(address)
+0x5c400119
+ideal_warn_timed(uint256,uint128)
+0x9570c6cd
+oldToken()
+newToken()
+withdrawForeignTokens(address)
+transferOwnership(address)
+balanceOf(address)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)
+burn(uint256)
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

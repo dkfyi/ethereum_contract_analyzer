@@ -1,0 +1,6 @@
+root_domain()
+getDomain(uint256)
+n_domains()
+getId(uint256,uint256)
+changeDomain(uint256,uint256,uint256,address)
+changeId(uint256,uint256,uint256)

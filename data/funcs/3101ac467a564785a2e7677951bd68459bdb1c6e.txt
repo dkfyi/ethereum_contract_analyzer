@@ -1,0 +1,16 @@
+0x02946804
+totalSupply()
+decreaseSupply(uint256)
+increaseSupply(uint256)
+0xddf05f59
+contracts(bytes32)
+0x32c660fb
+0x658cc1f6
+0xbb40a4a9
+0xbb40a4a9
+0x32c660fb
+0x658cc1f6
+0x32c660fb
+0x658cc1f6
+0xbb40a4a9
+0xbb40a4a9

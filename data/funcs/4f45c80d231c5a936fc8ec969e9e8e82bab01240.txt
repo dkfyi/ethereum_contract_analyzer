@@ -1,0 +1,10 @@
+0x03679666
+0x422f963c
+newPhoneToAddr(address,uint256)
+0x82d38954
+ideal_warn_timed(uint256,uint128)
+getPhoneByAddress(address)
+payments(address)
+0xf3730653
+0xfa6af355
+0xfc0d92bd

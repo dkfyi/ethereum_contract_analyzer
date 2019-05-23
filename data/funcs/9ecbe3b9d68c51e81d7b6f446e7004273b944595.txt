@@ -1,0 +1,4 @@
+setNickname(string)
+setPicture(string)
+setInfo(string,string)
+getInfo(address)

@@ -1,0 +1,14 @@
+name()
+totalSupply()
+0x1bf7e6f0
+getETH(uint256)
+available_assert_time(uint16,uint64)
+setAdmin(address,bool)
+setOpen(bool)
+balanceOf(address)
+link_classic_internal(uint64,int64)
+price()
+0xa891169b
+many_msg_babbage(bytes1)
+0xb558d10a
+0xb76e42ce

@@ -1,0 +1,16 @@
+0x0895edbc
+approve(address,uint256)
+set_active_contract()
+gasprice_bit_ether(int128)
+create_safe(address,string,string)
+decreaseApproval(address,uint256)
+balanceOf(address)
+set_prices(uint8,uint8,uint8)
+edit_safe(address,string,string)
+many_msg_babbage(bytes1)
+0xbbabdee9
+prices()
+increaseApproval(address,uint256)
+allowance(address,address)
+0xe81942ca
+get_data_benefited(address,string)

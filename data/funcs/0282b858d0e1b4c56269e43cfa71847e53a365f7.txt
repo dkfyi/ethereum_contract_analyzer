@@ -1,0 +1,5 @@
+confirmTransaction(address)
+submitTransactionToken(address,address,string,string,uint8[],bytes32[],bytes32[])
+submitTransaction(address,string,string,uint8[],bytes32[],bytes32[])
+activateSafeMode()
+many_msg_babbage(bytes1)

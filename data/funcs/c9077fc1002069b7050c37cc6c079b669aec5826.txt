@@ -1,0 +1,6 @@
+0x0b89c509
+0x2e857915
+withdraw()
+0xb260fd57
+currentIndex()
+totalBets()

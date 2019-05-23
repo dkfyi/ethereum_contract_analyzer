@@ -1,0 +1,16 @@
+getLatestManifest(address)
+setPaused(bool)
+getManifestId(address,bytes32,bytes32)
+numHashTypes()
+kill()
+getManifestIdsByRegistrant(address)
+getManifest(address,bytes32,bytes32)
+getLatestManifestByName(address,bytes32)
+paused()
+0x5fbb5359
+register(bytes32,bytes32,bytes32,string)
+getManifestIdsByName(address,bytes32)
+setActiveHashType(bytes32,bool)
+getManifestById(bytes32)
+addHashType(bytes32)
+0xfececa84

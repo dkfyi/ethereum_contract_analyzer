@@ -1,0 +1,11 @@
+ideal_warn_timed(uint256,uint128)
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0xd1c25c68
+beneficiaries(uint256)
+transferOwnership(address)
+0x386d31de
+0x515ea00b
+addBeneficiary(address)
+0x63871d25
+renounceOwnership()

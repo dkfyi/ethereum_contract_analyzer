@@ -1,0 +1,4 @@
+getBalanceInEth(address)
+sendCoin(address,uint256)
+MetaCoin()
+getBalance(address)

@@ -1,0 +1,12 @@
+drop(address,address[],uint256)
+0x26c081fc
+0x27db591e
+holderContract()
+ideal_warn_timed(uint256,uint128)
+getFee()
+withdrawal()
+setHolder(address)
+fee()
+0xfd0b7500
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

@@ -1,0 +1,11 @@
+0x2e79bab1
+crowdsaleAddress()
+0x4251252e
+setCrowdsale(address)
+0x57f8f2f3
+0x75b74e4a
+ideal_warn_timed(uint256,uint128)
+recordPurchase(address,uint256)
+getBonusPercent(address)
+transferOwnership(address)
+0xfc7d3e5c

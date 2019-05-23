@@ -1,0 +1,13 @@
+0x117079a2
+0x6c1cce93
+vestings(uint256)
+ideal_warn_timed(uint256,uint128)
+tokenSale()
+0xc0c00a05
+transferOwnership(address)
+0xf3e960ca
+token()
+0xfdcae2d6
+hasEnded()
+hasEnded()
+many_msg_babbage(bytes1)

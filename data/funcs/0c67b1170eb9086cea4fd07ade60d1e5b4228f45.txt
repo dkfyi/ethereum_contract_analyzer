@@ -1,0 +1,16 @@
+setGasAmount(uint256)
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+0xb7032b6a
+setGasPrice(uint256)
+0xcf17130c
+getAddress()
+getAddress()
+cbAddress()
+getAddress()
+getAddress()
+getPrice(string,uint256)
+query_withGasLimit(uint256,string,string,uint256)
+getAddress()
+getAddress()
+setCustomGasPrice(uint256)

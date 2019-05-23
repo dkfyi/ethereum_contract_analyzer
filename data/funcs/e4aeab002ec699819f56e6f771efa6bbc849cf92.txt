@@ -1,0 +1,7 @@
+destroyContract()
+0x77bcb9a1
+convert(address[],uint256,uint256)
+allowance(address,address)
+allowance(address,address)
+approve(address,uint256)
+approve(address,uint256)

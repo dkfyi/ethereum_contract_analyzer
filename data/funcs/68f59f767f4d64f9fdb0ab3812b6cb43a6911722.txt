@@ -1,0 +1,6 @@
+destroyMe()
+0x231e7723
+withdraw()
+0x850c9dfb
+buy(address)
+withdraw()

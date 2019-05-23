@@ -1,0 +1,14 @@
+0x2f281ee4
+withdrawEther()
+withdrawToken(address)
+0xd4ca7a94
+viewUnclaimedDepositDividends()
+claimGooDepositDividends(address,uint256,uint256)
+withdrawEther(uint256)
+etherBalanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+gasprice_bit_ether(int128)
+balanceOf(address)
+fundGooResearch(uint256)
+balanceOf(address)

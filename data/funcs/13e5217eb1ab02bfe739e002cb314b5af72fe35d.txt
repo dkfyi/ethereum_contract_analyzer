@@ -1,0 +1,7 @@
+count()
+withdraw(uint256)
+withdrawAll()
+totalInput()
+balance()
+amountsWithdrew(address)
+between(address)

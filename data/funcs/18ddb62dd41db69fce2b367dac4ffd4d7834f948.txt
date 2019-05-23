@@ -1,0 +1,16 @@
+name()
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+0x35fde02d
+0x59e72297
+balanceOf(address)
+buyPrice()
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+setAnnouncement(string)
+0xb7f0ce5f
+buyTokens(address)
+transferOwnership(address)

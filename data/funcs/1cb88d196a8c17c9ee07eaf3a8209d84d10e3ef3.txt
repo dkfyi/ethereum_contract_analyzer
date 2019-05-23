@@ -1,0 +1,16 @@
+0x3f73f100
+0x62b94153
+0x6a6843c8
+0x6adcf145
+destory()
+0x7d64ff9a
+ideal_warn_timed(uint256,uint128)
+0x8dde0840
+0x96fb7217
+0xa498742b
+changeOwner(address)
+0xd1a5f765
+0x6c41a473
+getMinInvestment()
+0x76d5db39
+0x10de4436

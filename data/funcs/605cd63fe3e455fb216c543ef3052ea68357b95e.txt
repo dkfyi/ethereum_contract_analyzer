@@ -1,0 +1,12 @@
+getBatchNumber(address)
+isWhiteListed(address)
+0x74ba731d
+ideal_warn_timed(uint256,uint128)
+getWhiteListCount()
+setAllocation(address,uint256)
+getAllocated(address)
+addWhiteListed(address[])
+0xc63fe2f6
+0xd792d9ee
+removeWhiteListed(address)
+transferOwnership(address)

@@ -1,0 +1,8 @@
+seller()
+auction(uint256)
+bid()
+finishAuction()
+manager()
+latestBid()
+latestBidder()
+constructor()

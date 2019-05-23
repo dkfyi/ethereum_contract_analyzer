@@ -1,0 +1,5 @@
+percent2()
+percent1()
+sendFunds(uint256,address)
+killWallet()
+withdraw2()

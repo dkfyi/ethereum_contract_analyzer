@@ -1,0 +1,3 @@
+chairperson()
+0x312d9823
+0xd0e60ef9

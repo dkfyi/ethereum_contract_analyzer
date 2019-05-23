@@ -1,0 +1,16 @@
+0x0a0a05e6
+setOwner(address)
+sweeperOf(address)
+newWallet()
+halt()
+defaultSweeper()
+addSweeper(address,address)
+ideal_warn_timed(uint256,uint128)
+authorizedCaller()
+destination()
+halted()
+start()
+0xcf8fbec9
+tokenFallback(address,uint256,bytes)
+0xc18cfe86
+sweeperOf(address)

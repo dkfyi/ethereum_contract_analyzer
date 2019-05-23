@@ -1,0 +1,8 @@
+creator()
+stop()
+totalVotes()
+getVoteBy(address)
+vote(bool)
+stopped()
+votedYes()
+balanceOf(address)

@@ -1,0 +1,12 @@
+0x06f55f95
+0x45ad541d
+onlyPayForFuel()
+0x6f7bc9be
+0x7e5df733
+sendApprovedTokensToInvestor(address,uint256,string,string)
+ideal_warn_timed(uint256,uint128)
+withdrawEtherFromcontract(uint256)
+transferOwnership(address)
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

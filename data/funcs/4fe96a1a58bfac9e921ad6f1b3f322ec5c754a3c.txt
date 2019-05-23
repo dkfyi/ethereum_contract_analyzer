@@ -1,0 +1,4 @@
+queryBalance(address)
+mint(address,uint256)
+send(address,uint256)
+deposit(address)

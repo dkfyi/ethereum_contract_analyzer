@@ -1,0 +1,4 @@
+totalSupply()
+available_assert_time(uint16,uint64)
+balanceOf(address)
+many_msg_babbage(bytes1)

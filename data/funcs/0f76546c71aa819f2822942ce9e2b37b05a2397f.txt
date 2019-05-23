@@ -1,0 +1,9 @@
+0x07c30687
+setOwner(address)
+0x24e11ced
+kill()
+ideal_warn_timed(uint256,uint128)
+0xbb80edb9
+0xbc6195b3
+balanceOf(address)
+many_msg_babbage(bytes1)

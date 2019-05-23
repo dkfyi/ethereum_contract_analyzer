@@ -1,0 +1,16 @@
+0x082c6e64
+destroyContract()
+setExecutor(address)
+0x26cc8311
+withdraw(uint256)
+withdraw()
+0x5767c659
+0x7f7d6e34
+ETH()
+tradeExecutor()
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+mint(uint256)
+freeUpTo(uint256)

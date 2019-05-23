@@ -1,0 +1,15 @@
+0x168de833
+0x1987feb4
+minDeposit()
+0x4883c329
+payoutAmount()
+0x7c67a3e2
+0x7d6d42f8
+percentRate()
+maxWithdrawal()
+ownerAddress()
+0xa6754a9e
+0xe2c61aeb
+balance(address)
+0xf3f7d633
+0xf488fdd0

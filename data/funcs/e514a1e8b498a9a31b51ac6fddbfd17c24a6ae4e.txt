@@ -1,0 +1,17 @@
+0x05b1c21e
+getVersion()
+contract_owner()
+_version()
+0x41f41956
+0x4edcb65b
+acceptOwnership()
+0x82319d74
+0x8bc04e1c
+exhaustAfterBattle(uint256,uint256)
+contract_newOwner()
+0xaebaf396
+0xc6296765
+exhaustAfterFusion(uint256,uint256,uint256)
+0xf2aa1c30
+transferOwnership(address)
+0xfb6e8afb

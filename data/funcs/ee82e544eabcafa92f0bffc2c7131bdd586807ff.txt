@@ -1,0 +1,10 @@
+0x0a380762
+0x22216884
+kill()
+0x48fe061f
+0x5c0f4845
+r()
+v()
+s()
+isValid()
+0xf3acae3a

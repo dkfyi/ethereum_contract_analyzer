@@ -1,0 +1,17 @@
+upgradeTo(address)
+unpause()
+castVote(uint256,uint256,bytes32,string,bytes32)
+createClaim(address[],uint256,address)
+paused()
+claimsCreated()
+getVoter(uint256,uint256)
+register(uint256,uint256,bytes32,string,bytes32)
+initialize()
+pause()
+ideal_warn_timed(uint256,uint128)
+0xa888c2cd
+getVote(uint256,address)
+0xcbca47db
+target()
+getVoterCount(uint256)
+transferOwnership(address)

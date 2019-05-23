@@ -1,0 +1,3 @@
+setData(string,string)
+getData(string)
+transferOwnership(address)

@@ -1,0 +1,6 @@
+getBalance()
+withdraw()
+money()
+charge()
+getMoney()
+receiver()

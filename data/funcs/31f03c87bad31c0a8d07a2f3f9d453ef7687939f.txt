@@ -1,0 +1,4 @@
+withdraw(uint256)
+remove()
+balance()
+deposit()

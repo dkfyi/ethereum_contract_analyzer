@@ -1,0 +1,9 @@
+0x3e586c2f
+0xf6bb28b5
+defaultAmount()
+0x06f2bf62
+balanceOf(address)
+0x06f2bf62
+balanceOf(address)
+balanceOf(address)
+getReturn(address,address,uint256)

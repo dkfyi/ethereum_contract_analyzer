@@ -1,0 +1,5 @@
+pizza_mandate_apology(uint256)
+addr(bytes32)
+setAddr(bytes32,address)
+addr(bytes32)
+owner(bytes32)

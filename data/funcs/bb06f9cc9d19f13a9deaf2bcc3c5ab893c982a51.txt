@@ -1,0 +1,3 @@
+getText(string)
+archiveText(string)
+getTextCount()

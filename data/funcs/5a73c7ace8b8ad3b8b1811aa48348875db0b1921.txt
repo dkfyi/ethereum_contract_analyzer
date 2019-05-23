@@ -1,0 +1,3 @@
+join(string,string)
+close()
+0xa87430ba

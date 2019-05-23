@@ -1,0 +1,3 @@
+0x38dc6400
+getContracts()
+getContract(bytes32)

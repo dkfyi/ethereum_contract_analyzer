@@ -1,0 +1,5 @@
+delegate(address)
+winningProposal()
+Ballot(uint8)
+giveRightToVote(address)
+vote(uint8)

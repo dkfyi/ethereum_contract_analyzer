@@ -1,0 +1,5 @@
+name()
+local()
+getinfo()
+hour()
+date()

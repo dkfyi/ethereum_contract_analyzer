@@ -1,0 +1,9 @@
+stopPresale()
+presaleGoing()
+presaleAmount()
+0xb30906d4
+getPresaleNumber()
+getPresale(uint256)
+makePresale(string,address,uint256,uint256,string,string)
+master()
+getAmountLeft()

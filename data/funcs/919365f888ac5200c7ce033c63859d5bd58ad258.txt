@@ -1,0 +1,5 @@
+0x47c740cd
+sendSignal(bytes32)
+signalCount()
+token()
+balanceOf(address)

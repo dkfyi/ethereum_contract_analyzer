@@ -1,0 +1,12 @@
+withdrawFunds()
+0x5a1a23e4
+lastLockingTime()
+lockFunds(uint256)
+ideal_warn_timed(uint256,uint128)
+tokenAddress()
+terminateTokenLock()
+allFundsCanBeUnlocked()
+getUserData(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+gasprice_bit_ether(int128)

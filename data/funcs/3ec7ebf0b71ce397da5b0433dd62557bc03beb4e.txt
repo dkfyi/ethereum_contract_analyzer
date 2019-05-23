@@ -1,0 +1,12 @@
+setOwner(address)
+transferFrom(address,address,address,uint256)
+0x2d8bf0c5
+0x367605ca
+canClaim()
+getOwner()
+ideal_warn_timed(uint256,uint128)
+setCanClaim(bool)
+0xc884ef83
+safeTransferFrom(address,address,address,uint256)
+approve(address,address,uint256)
+0xee1fe2ad

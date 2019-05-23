@@ -1,0 +1,2 @@
+verifySeed(bytes32,bytes32)
+determineOutcome(uint256,uint256,uint256,bool)

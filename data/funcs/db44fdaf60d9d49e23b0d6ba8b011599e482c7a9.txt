@@ -1,0 +1,16 @@
+0x10700d90
+0x29dc7205
+deadline()
+TOKENS_PER_ETHER()
+0x6dbc4582
+tokensAllocated()
+0x76d5235c
+ideal_warn_timed(uint256,uint128)
+whitelist(address)
+changeOwner(address)
+finish()
+raised()
+token()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

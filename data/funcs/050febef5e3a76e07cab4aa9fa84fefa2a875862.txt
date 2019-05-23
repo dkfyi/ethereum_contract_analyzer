@@ -1,0 +1,8 @@
+withdrawFunds()
+wallet()
+0x6b749c47
+ideal_warn_timed(uint256,uint128)
+changeWallet(address)
+getDeposit(uint256)
+deposits(uint256)
+transferOwnership(address)

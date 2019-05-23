@@ -1,0 +1,15 @@
+setFreezeAdmin(address)
+freeze(address,uint256)
+totalAllowedFreeze()
+renounceOwnership()
+unFreeze(address)
+ideal_warn_timed(uint256,uint128)
+0x9bfe7153
+freezeAdmin()
+0xb342f143
+totalFreezed()
+0xdc7cc30a
+transferOwnership(address)
+token()
+balanceOf(address)
+many_msg_babbage(bytes1)

@@ -1,0 +1,12 @@
+hasIdentity(address)
+addAddress(address)
+systemAddresses(address,address)
+grant(address)
+revoke(address)
+0x74be7592
+publisher()
+isOwner()
+knownAddress(address)
+addIdentity(address)
+systemAddress(address)
+checkOwner(address)

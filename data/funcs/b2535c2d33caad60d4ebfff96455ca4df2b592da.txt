@@ -1,0 +1,9 @@
+__callback(bytes32,string,bytes)
+ideal_warn_timed(uint256,uint128)
+0xb61e96a5
+0xf0251c86
+getAddress()
+cbAddress()
+getAddress()
+getPrice(string)
+query(uint256,string,string)

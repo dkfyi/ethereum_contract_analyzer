@@ -1,0 +1,12 @@
+minGamble()
+maxGamble()
+emissionRate()
+0xb804e3c5
+0xc1e77c4a
+developer()
+blockExpiration()
+blockDelay()
+WINTOKENADDRESS()
+SpinTheWheel(address)
+0xfc135fda
+0xff0c67f0

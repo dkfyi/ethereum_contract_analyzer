@@ -1,0 +1,5 @@
+remaining()
+tokensIssued()
+calculatePrice(uint256)
+crowdsaleEnds()
+tokenCap()

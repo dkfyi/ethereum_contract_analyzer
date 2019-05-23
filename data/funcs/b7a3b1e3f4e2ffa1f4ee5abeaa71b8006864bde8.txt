@@ -1,0 +1,11 @@
+bid()
+isWinner()
+getHighestBid()
+claim()
+0x56417530
+getReserve()
+getCurrentBid()
+isOwner()
+getJackpot()
+0xc5b63600
+0xee28a685

@@ -1,0 +1,15 @@
+withdrawEther(uint256)
+0x4c93c1e2
+withdrawToken(uint256)
+tokenAddr()
+ratio()
+0x854d9ed9
+ideal_warn_timed(uint256,uint128)
+setRatio(uint256)
+0xbbe44917
+minEth()
+transferOwnership(address)
+0xf377e2f4
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

@@ -1,0 +1,9 @@
+resolver()
+0x1fe0aa9d
+ens()
+hash(string,address)
+node()
+setSubnodeOwner(bytes32,bytes32,address)
+setResolver(bytes32,address)
+setAddr(bytes32,address)
+setOwner(bytes32,address)

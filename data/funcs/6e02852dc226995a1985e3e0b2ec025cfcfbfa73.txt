@@ -1,0 +1,4 @@
+withdraw(uint256)
+0x01000000
+giveBirth(uint256)
+0x01000000

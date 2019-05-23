@@ -1,0 +1,14 @@
+transfer(address)
+0x27578055
+setLimit(uint256)
+0x69db5457
+update(uint256)
+contractBalance()
+ideal_warn_timed(uint256,uint128)
+0x9977c78a
+limit()
+0xa7efbc8e
+getCount()
+totalEther()
+boss()
+add(address,uint256)

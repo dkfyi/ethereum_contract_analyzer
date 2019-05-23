@@ -1,0 +1,8 @@
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+many_msg_babbage(bytes1)
+allowance(address,address)
+transferOwnership(address)

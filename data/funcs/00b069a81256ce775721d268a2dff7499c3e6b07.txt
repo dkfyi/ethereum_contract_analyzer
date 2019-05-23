@@ -1,0 +1,8 @@
+getContractUpdatedTimeById(bytes32)
+getAvailableIds()
+ideal_warn_timed(uint256,uint128)
+getContractNameById(bytes32)
+addAddress(string,address)
+0xd528d118
+getContractCreatedTimeById(bytes32)
+getContractAddressById(bytes32)

@@ -1,0 +1,7 @@
+finalizeTrade(address,uint256,address,uint256,uint256)
+trades(address,address)
+completeTrade(address)
+startTrade(address,address,uint256,uint256,uint256)
+cancelTrade(address)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

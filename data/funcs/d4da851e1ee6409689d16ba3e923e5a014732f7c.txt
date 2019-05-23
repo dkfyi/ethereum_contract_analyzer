@@ -1,0 +1,8 @@
+returnFunds()
+0x25b12808
+0x32bc3f58
+kill()
+0x42ab30ed
+0x5c1e108c
+0xbb12540a
+checkHashExists(bytes32)

@@ -1,0 +1,17 @@
+approve(address,uint256)
+totalSupply()
+killContract()
+gasprice_bit_ether(int128)
+0x24938096
+DECIMALS()
+standard()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+NAME()
+buyToken()
+changeOwner(address)
+many_msg_babbage(bytes1)
+allowance(address,address)
+SYMBOL()
+0xfeefbbb5

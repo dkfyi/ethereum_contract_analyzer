@@ -1,0 +1,6 @@
+isOwner(address)
+threshold()
+ownersArr(uint256)
+nonce()
+0xb72a33f2
+execute(uint8[],bytes32[],bytes32[],address,uint256,bytes)

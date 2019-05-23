@@ -1,0 +1,15 @@
+0x1b1e35ca
+setAccessPolicy(address,address)
+0x6609286c
+0x8291286c
+0xd0d46a0b
+0xe70ba543
+accessPolicy()
+allowed(address,bytes32,address,bytes4)
+allowed(address,bytes32,address,bytes4)
+allowed(address,bytes32,address,bytes4)
+allowed(address,bytes32,address,bytes4)
+allowed(address,bytes32,address,bytes4)
+allowed(address,bytes32,address,bytes4)
+allowed(address,bytes32,address,bytes4)
+allowed(address,bytes32,address,bytes4)

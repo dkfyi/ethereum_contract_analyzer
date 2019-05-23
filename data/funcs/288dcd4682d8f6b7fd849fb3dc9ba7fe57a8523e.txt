@@ -1,0 +1,17 @@
+0x6a030ca9
+0xa73c50fa
+admin()
+replace(address)
+transfer_ownership(address)
+0xe7156dbe
+count()
+delete_entry(uint256,uint256,uint256)
+get_length(uint256,uint256)
+clear(uint256,uint256)
+add(uint256,uint256,uint256)
+get_entry(uint256,uint256,uint256)
+get_all(uint256,uint256)
+new_entry()
+has(uint256)
+transfer_ownership(address)
+admin()

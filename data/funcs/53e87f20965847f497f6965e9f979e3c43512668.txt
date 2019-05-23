@@ -1,0 +1,8 @@
+0x276c519a
+0x38f2b930
+withdraw123()
+0xe568a66b
+0xf5df91e3
+playerWithdrawPendingTransactions()
+nonce()
+playerRollDice(uint256)

@@ -1,0 +1,2 @@
+randomGen(uint256)
+rollDice(uint256)

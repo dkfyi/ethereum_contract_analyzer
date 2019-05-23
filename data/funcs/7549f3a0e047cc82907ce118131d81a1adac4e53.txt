@@ -1,0 +1,11 @@
+wallet()
+0x63a45612
+renounceOwnership()
+setFeePercent(uint256)
+feePercent()
+ideal_warn_timed(uint256,uint128)
+setWallet(address)
+transferOwnership(address)
+token()
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

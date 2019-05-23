@@ -1,0 +1,15 @@
+owners(address)
+tokensCap()
+weiRaised()
+delWallet(uint256)
+addOwner(address)
+delOwner(address)
+0x7ad71f72
+tokensIssued()
+switchToNextRound()
+minInvestment()
+0x8c65c81f
+currentRoundId()
+addWallet(address)
+token()
+mint(address,uint256)

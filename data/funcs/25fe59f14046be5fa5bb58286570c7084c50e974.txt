@@ -1,0 +1,3 @@
+showCertificate()
+ideal_warn_timed(uint256,uint128)
+publishGraduatingClass(string)

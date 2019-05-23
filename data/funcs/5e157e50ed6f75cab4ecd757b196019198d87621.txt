@@ -1,0 +1,7 @@
+spawn()
+0xb8368615
+setFundManager(address)
+getFundManager()
+forwardFunds()
+changeOwner(address)
+refund(address)

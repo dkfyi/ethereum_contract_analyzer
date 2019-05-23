@@ -1,0 +1,8 @@
+tokenDestroy()
+initialize()
+ideal_warn_timed(uint256,uint128)
+isMigrated(string,string)
+initialize(address)
+transferOwnership(address)
+token()
+balanceOf(address)

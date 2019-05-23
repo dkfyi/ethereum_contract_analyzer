@@ -1,0 +1,16 @@
+currentPyramidBalanceApproximately()
+feesSeperateFromBalanceApproximately()
+collectPercentOfFees(uint256)
+nextPayoutWhenPyramidBalanceTotalsApproximately()
+collectAllFees()
+currentMultiplier()
+currentFeePercentage()
+participantDetails(uint256)
+totalParticipants()
+changeOwner(address)
+collectFeesInEther(uint256)
+changeMultiplier(uint256)
+numberOfParticipantsWaitingForPayout()
+changeFeePercentage(uint256)
+0x68616e67
+0x6f6e7472

@@ -1,0 +1,8 @@
+0x26b797b0
+setKYCLevelsBulk(address[],uint8[])
+usdPerEth()
+setAMLWhitelistedBulk(address[],bool[])
+setAMLWhitelisted(address,bool)
+setKYCLevel(address,uint8)
+transferOwnership(address)
+0xfb678f29

@@ -1,0 +1,5 @@
+circulation()
+tokenAddress()
+balanceOf(address)
+incentivisationFundAddress()
+totalAllocated()

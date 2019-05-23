@@ -1,0 +1,6 @@
+setAddress(string)
+getAddress()
+getAge()
+0xbdd85ffa
+setAge(uint256)
+getYear()

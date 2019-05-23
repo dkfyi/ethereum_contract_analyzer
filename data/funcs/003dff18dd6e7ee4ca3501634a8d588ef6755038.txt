@@ -1,0 +1,12 @@
+implementation()
+implementation()
+0x739a3e02
+eventName()
+ideal_warn_timed(uint256,uint128)
+tokenAddress()
+0xf38a803f
+0x073f03fb
+0x148b597c
+0x4227357c
+0x42380eaf
+version()

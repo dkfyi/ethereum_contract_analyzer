@@ -1,0 +1,3 @@
+0x46269ee5
+GetURL(address,uint256)
+UploadURL(uint256,string)

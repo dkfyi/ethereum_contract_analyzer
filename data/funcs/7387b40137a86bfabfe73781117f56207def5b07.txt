@@ -1,0 +1,2 @@
+claimToken(address,uint256)
+kill()

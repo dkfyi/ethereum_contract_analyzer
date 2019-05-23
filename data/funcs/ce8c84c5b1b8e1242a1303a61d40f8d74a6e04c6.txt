@@ -1,0 +1,7 @@
+0x07de9735
+ceoAddress()
+getBalance()
+claim()
+add()
+getPerson(address)
+payout()

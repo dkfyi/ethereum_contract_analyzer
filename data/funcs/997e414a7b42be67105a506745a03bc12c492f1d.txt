@@ -1,0 +1,6 @@
+__callback(bytes32,string)
+update()
+ETHXBT()
+0x4c773795
+update()
+query(uint256,string,string)

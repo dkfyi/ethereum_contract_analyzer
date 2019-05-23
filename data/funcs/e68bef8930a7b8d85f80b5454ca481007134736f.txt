@@ -1,0 +1,4 @@
+airdrop(address[],uint256[])
+ideal_warn_timed(uint256,uint128)
+setDistributor(address,bool)
+transferOwnership(address)

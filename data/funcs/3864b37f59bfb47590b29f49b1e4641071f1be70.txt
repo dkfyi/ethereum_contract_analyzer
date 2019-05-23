@@ -1,0 +1,2 @@
+kill()
+SendEmail(string,string)

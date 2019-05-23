@@ -1,0 +1,6 @@
+upgradeTo(address)
+upgradeToAndCall(address,bytes)
+implementation()
+changeAdmin(address)
+admin()
+0x68616e67

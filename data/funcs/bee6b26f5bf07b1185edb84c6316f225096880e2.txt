@@ -1,0 +1,7 @@
+get_price()
+owner_withdraw()
+claim()
+get_time()
+force_stop()
+buy()
+get_balance()

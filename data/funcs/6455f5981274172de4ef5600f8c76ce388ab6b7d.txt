@@ -1,0 +1,3 @@
+kill()
+winNum()
+pay(address,uint256)

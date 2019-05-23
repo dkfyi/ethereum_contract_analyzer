@@ -1,0 +1,8 @@
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+standard()
+balanceOf(address)
+sendCoin(address,uint256)
+link_classic_internal(uint64,int64)
+coinBalanceOf(address)

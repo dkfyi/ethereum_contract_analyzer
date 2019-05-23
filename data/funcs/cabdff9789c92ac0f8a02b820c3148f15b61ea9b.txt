@@ -1,0 +1,11 @@
+0x03988f84
+setHalted(uint256)
+MercatusDeals()
+setVerified(uint256)
+getState(uint256)
+setFinished(uint256,uint256)
+be()
+getDealsCount()
+getStart(uint256)
+makeDeal(uint256,uint256,uint256,uint256,uint256,string,address,string,address,uint256,uint256)
+getSplit(uint256,uint256,uint256,uint256)

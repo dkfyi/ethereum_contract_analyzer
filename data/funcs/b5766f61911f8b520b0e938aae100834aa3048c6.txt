@@ -1,0 +1,5 @@
+transferBounty(address,uint256)
+grantBounty(address,uint256)
+0xd1d2ac61
+totalBountyAmount()
+claimBounty()

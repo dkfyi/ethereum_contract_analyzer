@@ -1,0 +1,5 @@
+getKtcAddress()
+setKtcAddress(address)
+release()
+getOwner()
+pullShares(address)

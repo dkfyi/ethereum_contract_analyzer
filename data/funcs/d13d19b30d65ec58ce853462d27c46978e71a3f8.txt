@@ -1,0 +1,14 @@
+0x0ec8c387
+0x17b591e5
+0x1c53c280
+0x31950032
+setAdmin(address)
+0x7e16eca0
+totalClosedContracts()
+addNode(address)
+totalContracts()
+removeNode(address)
+getClosedContract(bytes32)
+getContract(bytes32)
+0xe29581aa
+admin()

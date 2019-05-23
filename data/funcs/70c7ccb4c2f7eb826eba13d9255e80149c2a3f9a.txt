@@ -1,0 +1,17 @@
+name()
+mint()
+unspent_supply()
+reward()
+withdraw(uint256)
+available_assert_time(uint16,uint64)
+balanceOf(address)
+max_supply()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+timeOfLastHalving()
+spendable_supply()
+timeOfLastIncrease()
+circulating_supply()
+0x05f5e100
+0x05f5e100
+0x09660180

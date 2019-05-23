@@ -1,0 +1,2 @@
+TakeMoney()
+ChangeOwner(address)

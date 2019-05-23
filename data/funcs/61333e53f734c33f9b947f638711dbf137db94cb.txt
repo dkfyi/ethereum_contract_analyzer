@@ -1,0 +1,6 @@
+name()
+0x372c12b1
+0x39b417b7
+ideal_warn_timed(uint256,uint128)
+hasAccess(address)
+transferOwnership(address)

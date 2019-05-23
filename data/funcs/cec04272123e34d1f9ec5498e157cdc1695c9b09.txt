@@ -1,0 +1,7 @@
+name()
+available_assert_time(uint16,uint64)
+balanceOf(address)
+0x73e6d69e
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0x3b9aca00

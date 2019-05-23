@@ -1,0 +1,10 @@
+0x0fe91147
+0x17b8f5e1
+0x1a12cd47
+MIN()
+percent(uint256,uint256)
+0x50716c0e
+0x520b0066
+0xbc9c0891
+MAX()
+0xbda4e619

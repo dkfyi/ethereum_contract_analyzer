@@ -1,0 +1,16 @@
+tokenChanger()
+version()
+withdrawTokens(address,address,uint256)
+acceptOwnership()
+0x890eba68
+ideal_warn_timed(uint256,uint128)
+etherToken()
+0xd40c79f0
+newOwner()
+buy(uint256)
+transferOwnership(address)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)
+withdraw(uint256)
+gasprice_bit_ether(int128)
+withdraw(uint256)

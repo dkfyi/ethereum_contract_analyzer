@@ -1,0 +1,12 @@
+setToken(address)
+0x1fe2e229
+0x350580ea
+trust(address)
+0x6fe11695
+0xa801f427
+0xaf0dbe54
+mint(address,uint256,string)
+0xe2759a33
+0xeea327e0
+token()
+mint(address,uint256)

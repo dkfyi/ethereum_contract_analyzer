@@ -1,0 +1,11 @@
+userCount()
+0x0ac8fc1c
+issuingRecordAdd(uint256,bytes32,uint256,uint256,uint256,string,uint256)
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+0x974a97d5
+modifyPlatformAddr(address)
+0xc9a781ba
+newOwner()
+transferOwnership(address)
+many_msg_babbage(bytes1)

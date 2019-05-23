@@ -1,0 +1,2 @@
+balance(address)
+balances(address)

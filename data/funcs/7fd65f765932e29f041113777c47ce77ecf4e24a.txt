@@ -1,0 +1,16 @@
+0x3816a292
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0xcb9d99dc
+0xd977b282
+transferOwnership(address)
+0xfb43d9f4
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)
+getExpectedRate(address,address,uint256)
+available_assert_time(uint16,uint64)
+trade(address,uint256,address,address,uint256,uint256,address)
+trade(address,uint256,address,address,uint256,uint256,address)
+gasprice_bit_ether(int128)
+approve(address,uint256)

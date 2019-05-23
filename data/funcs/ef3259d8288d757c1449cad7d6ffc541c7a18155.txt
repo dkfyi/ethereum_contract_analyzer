@@ -1,0 +1,10 @@
+memberData(uint256)
+memberId(address)
+kill()
+members(uint256)
+getMemberCount()
+changeOwner(address)
+getMember(uint256)
+0xc21d506d
+pks(uint256)
+getPK(uint256)

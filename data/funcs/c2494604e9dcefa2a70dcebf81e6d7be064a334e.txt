@@ -1,0 +1,17 @@
+name()
+approve(address,uint256)
+0x0b579c44
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+0x428d0143
+balanceOf(address)
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+newOwner()
+allowance(address,address)
+0xe84d484e
+transferOwnership(address)
+0x3fe67a58

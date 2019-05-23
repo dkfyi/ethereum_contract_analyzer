@@ -1,0 +1,15 @@
+0x05402f3e
+name()
+initialSupplyPerAddress()
+available_assert_time(uint16,uint64)
+balanceOf(address)
+availableAmount()
+link_classic_internal(uint64,int64)
+blocks()
+many_msg_babbage(bytes1)
+0xc60332cf
+addresses()
+rewardPerBlockPerAddress()
+0xe1f05f94
+initialBlockCount()
+0xf2d2b04a

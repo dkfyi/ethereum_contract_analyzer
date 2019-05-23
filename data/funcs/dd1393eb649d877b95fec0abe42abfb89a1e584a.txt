@@ -1,0 +1,6 @@
+Restitution_Historique_Transactions(address)
+getLastAction(address)
+giveConsent(string,string)
+getActionHistorySize()
+getActionHistoryItem(uint256)
+revokeConsent(string)

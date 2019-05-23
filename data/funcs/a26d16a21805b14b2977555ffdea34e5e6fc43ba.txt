@@ -1,0 +1,12 @@
+getExchangeCost(address,address,uint256,bytes)
+getMaxMakerAmount(address,address,bytes)
+0x5da270fc
+exchange(address,address,address,address,uint256,bytes)
+0xd1f37d59
+0xd40fa8bf
+0xf37a8623
+0xc75e0a81
+0x64a3bc15
+gasprice_bit_ether(int128)
+allowance(address,address)
+approve(address,uint256)

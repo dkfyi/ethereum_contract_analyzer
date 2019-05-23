@@ -1,0 +1,11 @@
+0x2f2f3be1
+isWhitelisted(address)
+manager()
+0x7de7edef
+removeFromWhitelist(address)
+NAME()
+0xbd5b853b
+addToWhitelist(address)
+VERSION()
+isOwner(address)
+0x468721a7

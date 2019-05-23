@@ -1,0 +1,6 @@
+status()
+addBeneficiary(address)
+resetBeneficiaryList()
+changeAdmin(address)
+Invest()
+performPayouts()

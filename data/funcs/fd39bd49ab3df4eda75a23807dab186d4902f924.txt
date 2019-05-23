@@ -1,0 +1,4 @@
+kill()
+flush()
+add(string)
+contentCount()

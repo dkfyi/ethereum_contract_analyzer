@@ -1,0 +1,15 @@
+0x08283c0d
+0x08ae4b0c
+approveMember(address)
+payout()
+0x66854ee1
+0x80cee8a5
+0x8335630f
+0x9aa5729e
+0xd1166653
+kickMember(address)
+addFriend(address)
+0xdabd761d
+0xf342ac9f
+0xf4a1ffd0
+0xf88a5b8b

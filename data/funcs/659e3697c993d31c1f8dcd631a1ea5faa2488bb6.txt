@@ -1,0 +1,5 @@
+0x0747b25a
+0x33b8c3d8
+0x59040595
+getLongGap()
+getLongExtra()

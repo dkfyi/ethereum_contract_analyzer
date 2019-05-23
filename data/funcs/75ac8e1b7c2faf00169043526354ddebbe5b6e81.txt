@@ -1,0 +1,16 @@
+0x212ff20a
+0x31d5711f
+producer()
+kill()
+0x4911e182
+0x789bc823
+0x8f549aba
+0xb52cd963
+0xc0d75320
+0xdd92abe9
+0xe0bd3c89
+payout(uint256)
+approve(address,uint256)
+gasprice_bit_ether(int128)
+balanceOf(address)
+many_msg_babbage(bytes1)

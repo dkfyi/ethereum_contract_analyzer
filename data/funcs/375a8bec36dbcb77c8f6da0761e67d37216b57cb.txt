@@ -1,0 +1,6 @@
+0x137602da
+0x52b50a2a
+Ownable()
+ideal_warn_timed(uint256,uint128)
+getKitty(uint256)
+giveBirth(uint256)

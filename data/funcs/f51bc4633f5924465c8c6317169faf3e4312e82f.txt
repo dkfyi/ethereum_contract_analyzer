@@ -1,0 +1,10 @@
+last_offer_id()
+cancel(uint256)
+getOffer(uint256)
+offers(uint256)
+buyPartial(uint256,uint256)
+buy(uint256)
+0xdb444f61
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)
+0x155bf4e2

@@ -1,0 +1,7 @@
+participants(uint256)
+ideal_warn_timed(uint256,uint128)
+fees()
+payoutIdx()
+balance()
+collect()
+enter()

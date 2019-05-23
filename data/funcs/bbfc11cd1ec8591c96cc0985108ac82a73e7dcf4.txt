@@ -1,0 +1,6 @@
+0x1097d54a
+setOwner(address)
+get(string)
+set(string,address)
+getOrThrow(string)
+0xe2a2f0a3

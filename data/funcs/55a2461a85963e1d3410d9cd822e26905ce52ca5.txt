@@ -1,0 +1,14 @@
+checkRole(address,string)
+ROLE_WHITELISTED()
+hasRole(address,string)
+removeAddressesFromWhitelist(address[])
+removeAddressFromWhitelist(address)
+getReport(uint256)
+renounceOwnership()
+addAddressToWhitelist(address)
+0x896d505a
+ideal_warn_timed(uint256,uint128)
+whitelist(address)
+0xc942adf7
+addAddressesToWhitelist(address[])
+transferOwnership(address)

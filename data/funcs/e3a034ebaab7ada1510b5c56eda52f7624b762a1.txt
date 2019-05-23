@@ -1,0 +1,8 @@
+0x27601006
+0x7ad71f72
+ideal_warn_timed(uint256,uint128)
+getContractCount()
+changeOwner(address)
+0xdf961d28
+0xe46e7070
+0x27601006

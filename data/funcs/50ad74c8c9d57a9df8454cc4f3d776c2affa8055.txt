@@ -1,0 +1,5 @@
+sendCoins(address,uint256)
+flush()
+newAddress()
+flush()
+destinationAddress()

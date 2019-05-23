@@ -1,0 +1,12 @@
+seller()
+0x13f654df
+bid()
+highBidder()
+acceptTransfer()
+0x56bff0f8
+expiresAt()
+0xa5cf651f
+0xb6cc986f
+lastAuction()
+transferOwnership(address)
+endAuction()

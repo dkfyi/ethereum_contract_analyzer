@@ -1,0 +1,17 @@
+0x0a9c29c5
+0x0aa4c889
+editEntity(address,bool,bytes32)
+0x1d8ee48a
+createUser()
+transferEntityOwnerPush(address,address)
+isUser(address)
+0x66ae70e9
+createVirtualEntity()
+transferEntityOwnerPull(address)
+getEntity(address)
+getConnection(address,address,bytes32)
+virtualEntitiesCreated()
+removeConnection(address,address,bytes32)
+0xcf66785e
+0xd2d13473
+0xe87b3266

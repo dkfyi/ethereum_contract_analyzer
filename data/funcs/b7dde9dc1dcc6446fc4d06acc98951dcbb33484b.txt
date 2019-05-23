@@ -1,0 +1,11 @@
+hasEnoughFund()
+calculateRunway()
+updateEmployee(address,uint256)
+changePaymentAddress(address)
+ideal_warn_timed(uint256,uint128)
+addFund()
+getPaid()
+0xd0678947
+removeEmployee(address)
+addEmployee(address,uint256)
+transferOwnership(address)

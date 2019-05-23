@@ -1,0 +1,15 @@
+0x5c25c76c
+link_classic_internal(uint64,int64)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+buy(address)
+0xf4b7095b
+0x5c25c76c
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+name()
+totalSupply()
+balances(address)
+available_assert_time(uint16,uint64)
+0x358b8166
+withdraw()

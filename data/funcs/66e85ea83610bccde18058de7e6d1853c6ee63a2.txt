@@ -1,0 +1,15 @@
+numAdmins()
+0x2a836aa2
+0x4099cfe7
+admins(address)
+numContracts()
+numFabrics()
+0x69dc9ff3
+0x7bd60469
+0x8a3a5c3b
+ideal_warn_timed(uint256,uint128)
+0x8f6430e3
+getAdminContract(address,uint256)
+0xedb9020b
+transferOwnership(address)
+0xfc458ca8

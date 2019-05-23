@@ -1,0 +1,8 @@
+0x3825d828
+0x3e4a89d1
+founder()
+halt()
+admin(address)
+0x6c62fd77
+changeable()
+update(address,uint256)

@@ -1,0 +1,13 @@
+cancel(string,uint256)
+buy(uint256,string,uint256,uint16)
+getMoney(uint256)
+no(uint256,string,uint256)
+0x3cc08a46
+kill()
+arbYes(uint256,address,uint256,string,uint256)
+yes(uint256,string,uint256)
+0xba491b78
+unbuy()
+getFees()
+0xffff0000
+0xffff0000

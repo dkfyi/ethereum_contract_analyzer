@@ -1,0 +1,4 @@
+createContract(bytes32)
+getName(uint256)
+Name()
+Name()

@@ -1,0 +1,6 @@
+vote(bool,uint256)
+0x18d9adab
+0x2afb2b9b
+kill()
+0x8ebb4c15
+0xc1e6adfd

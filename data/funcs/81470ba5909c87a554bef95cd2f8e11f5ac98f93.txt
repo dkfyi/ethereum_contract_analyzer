@@ -1,0 +1,14 @@
+upgrade(address)
+isContractMiniGame()
+0x488a24c6
+0x4d307e3f
+totalContractMiniGame()
+setContractsMiniGame(address)
+0x91ab1e0e
+removeContractMiniGame(address)
+0xb239dac6
+setupMiniGame(uint256,uint256)
+withdrawReward()
+administrator()
+0x4d307e3f
+withdrawReward(address)

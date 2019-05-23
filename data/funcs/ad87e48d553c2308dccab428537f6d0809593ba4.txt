@@ -1,0 +1,5 @@
+addGame(address,string,string)
+update(address,string,string)
+theGames(uint256)
+maintain(uint256,uint256)
+settings()

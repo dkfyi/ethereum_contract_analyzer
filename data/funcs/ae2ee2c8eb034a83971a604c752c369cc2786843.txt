@@ -1,0 +1,3 @@
+kill()
+set(uint256)
+0x6b3d4968

@@ -1,0 +1,6 @@
+getBalance()
+won()
+manager()
+player()
+cashOut()
+play()

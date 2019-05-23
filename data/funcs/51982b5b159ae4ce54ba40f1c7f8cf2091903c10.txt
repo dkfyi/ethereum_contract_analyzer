@@ -1,0 +1,13 @@
+setOwner(address)
+0x51f5b506
+0x7564912b
+setTrader(address,bool)
+ideal_warn_timed(uint256,uint128)
+0x92a88fa2
+0xb8f12891
+0xdaeb697c
+EXTERNAL_QUERY_GAS_LIMIT()
+0xf83354c4
+checkPrice(address,address,bool,uint256,uint256)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

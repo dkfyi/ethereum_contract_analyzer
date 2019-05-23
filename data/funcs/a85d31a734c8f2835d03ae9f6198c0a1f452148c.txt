@@ -1,0 +1,6 @@
+shop()
+object()
+0x886605c8
+pepFarm()
+buyObject(address)
+many_msg_babbage(bytes1)

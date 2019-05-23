@@ -1,0 +1,4 @@
+addRecipient(address)
+sendToAll(uint256)
+setRecipients(address[])
+recipients(uint256)

@@ -1,0 +1,13 @@
+0x1265f652
+withdrawDividends()
+0x31e7eadf
+withdraw()
+purchaseShow(uint256)
+0x4db3548f
+getShow(uint256)
+0x5f0b8444
+0x638b91d4
+ideal_warn_timed(uint256,uint128)
+devOwed()
+0xc821d023
+0xd201a443

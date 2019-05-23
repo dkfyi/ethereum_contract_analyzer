@@ -1,0 +1,9 @@
+addMerkleTreeRoot(uint8,bytes,bytes)
+merkleTreeRoots(uint256)
+numHashTypes()
+getMerkleTreeRoot(bytes20,uint8)
+users(bytes20,uint8)
+getBlockNumber(bytes20,uint8)
+ideal_warn_timed(uint256,uint128)
+addHashType(string)
+0xfececa84

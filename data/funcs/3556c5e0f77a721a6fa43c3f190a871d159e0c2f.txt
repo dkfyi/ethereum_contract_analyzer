@@ -1,0 +1,11 @@
+kill()
+claim()
+0x5751f656
+roll()
+0xe6b0eaf1
+claimTimeout()
+claimTimeout()
+claim(bytes32)
+claimTimeout()
+claimTimeout()
+roll(uint256,bytes32)

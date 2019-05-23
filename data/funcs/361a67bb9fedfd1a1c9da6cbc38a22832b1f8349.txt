@@ -1,0 +1,6 @@
+richest()
+pastValues(uint256)
+participants(uint256)
+becomeRichest(string)
+highestBalance()
+displayString()

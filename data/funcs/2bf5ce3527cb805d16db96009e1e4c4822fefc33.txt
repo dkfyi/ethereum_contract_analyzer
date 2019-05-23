@@ -1,0 +1,9 @@
+0x059d37ae
+0x2f2467bd
+0x4d009288
+0x5e7ce9f8
+0x7c49be4e
+getNumberOfPhotos()
+0x891c4117
+getPhoto(uint256)
+0xf3ca772c

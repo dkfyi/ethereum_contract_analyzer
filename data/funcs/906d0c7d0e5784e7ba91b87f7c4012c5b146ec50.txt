@@ -1,0 +1,2 @@
+getEntry(bytes)
+submitEntry(bytes,string)

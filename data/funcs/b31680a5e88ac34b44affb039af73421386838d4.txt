@@ -1,0 +1,4 @@
+0x69a37a84
+0x734c6b4c
+bytesToBytes32(bytes)
+slice(bytes,uint256,uint256)

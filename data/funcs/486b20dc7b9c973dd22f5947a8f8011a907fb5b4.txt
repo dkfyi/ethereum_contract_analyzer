@@ -1,0 +1,4 @@
+compare(string,string)
+equal(string,string)
+indexOf(string,string)
+convert(uint256,uint256)

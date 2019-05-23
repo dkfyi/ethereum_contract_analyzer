@@ -1,0 +1,7 @@
+renounceOwnership()
+0x72e8bd10
+erc20()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+transferOwnership(address)
+many_msg_babbage(bytes1)

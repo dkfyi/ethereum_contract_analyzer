@@ -1,0 +1,8 @@
+get_parameters()
+get_reward(uint256)
+is_passcode_correct(uint256,bytes32)
+claim_reward(uint256,bytes32)
+set_parameter(string,uint256)
+hash_passcode(bytes32)
+refund_and_die()
+register(bytes32)

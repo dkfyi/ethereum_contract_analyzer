@@ -1,0 +1,8 @@
+admin(address,uint8)
+admins(address)
+tokenReward()
+0x7186ed35
+0xa87430ba
+out()
+0xc184849d
+balanceOf(address)

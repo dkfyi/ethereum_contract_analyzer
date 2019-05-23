@@ -1,0 +1,11 @@
+setGood(bytes32,uint256)
+tokenContract()
+decisionOf(bytes32)
+getGoodPreset(bytes32)
+ideal_warn_timed(uint256,uint128)
+goods(bytes32)
+0xa9d62840
+getGoodPrice(bytes32)
+getDecision(bytes32)
+transfertokenContract(address)
+transferOwnership(address)

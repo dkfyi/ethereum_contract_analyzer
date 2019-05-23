@@ -1,0 +1,6 @@
+name()
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+deposit()
+newOwner()
+transferOwnership(address)

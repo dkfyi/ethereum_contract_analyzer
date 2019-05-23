@@ -1,0 +1,13 @@
+managerAddr()
+approveTx(uint8)
+isWhitelisted(address)
+0x3cb5d100
+proposeTx(address,uint256)
+getContribution(address,uint256)
+whitelistManagerAddr()
+whitelist(address)
+reject(uint256)
+getContributionsCount(address)
+0xde6746a5
+cancelTx(uint8)
+0xf5715d56

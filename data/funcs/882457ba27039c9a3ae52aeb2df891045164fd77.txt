@@ -1,0 +1,12 @@
+init(address)
+__transferWithReference(address,uint256,string,address)
+__approve(address,uint256,address)
+proxy()
+__transferFromWithReference(address,address,uint256,string,address)
+__process(bytes,address)
+__transferWithReference(address,uint256,string,address)
+__transferWithReference(address,uint256,string,address)
+0x0f6e0a99
+__approve(address,uint256,address)
+0x1d8d3145
+__transferFromWithReference(address,address,uint256,string,address)

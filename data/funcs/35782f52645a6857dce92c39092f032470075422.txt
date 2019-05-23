@@ -1,0 +1,17 @@
+0x1112cf9a
+0x227049ec
+0x38e89a92
+withdraw()
+0x3de72c7e
+0x4af61ead
+wallet()
+0x55113fd3
+0x629d31a4
+0x767f64c3
+0x799ff406
+changeWallet(address)
+killSwitch()
+changeRollUnder(uint256)
+0xd2e5cccf
+0xd7b4f1f8
+0xfe1972aa

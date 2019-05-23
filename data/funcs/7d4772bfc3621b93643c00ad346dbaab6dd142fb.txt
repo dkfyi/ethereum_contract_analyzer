@@ -1,0 +1,5 @@
+getWhatHappened()
+kill()
+increment(int256,int256)
+getCustomValue()
+getIteration()

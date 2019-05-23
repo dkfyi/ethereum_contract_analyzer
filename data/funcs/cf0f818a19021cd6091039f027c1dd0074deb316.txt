@@ -1,0 +1,6 @@
+initialized()
+0x67e5e6ec
+registry()
+0x8aff0cd3
+publicKeys(address)
+lookup(bytes32)

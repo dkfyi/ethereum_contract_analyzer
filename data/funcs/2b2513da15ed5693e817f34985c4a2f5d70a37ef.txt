@@ -1,0 +1,6 @@
+checkRole(address,string)
+removeRole(address,string)
+hasRole(address,string)
+0x77d43e03
+addRole(address,string)
+0x01750152

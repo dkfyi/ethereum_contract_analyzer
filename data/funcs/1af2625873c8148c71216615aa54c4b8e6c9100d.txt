@@ -1,0 +1,4 @@
+register(string,string)
+kill()
+0x785b7e7f
+empty()

@@ -1,0 +1,15 @@
+withdraw()
+0x42c8feae
+0x72d36f63
+0x7ab1bd04
+0x97e43917
+0xa2c97eb6
+StopQuiz()
+StartQuiz(string,string)
+NewQuiz(string,bytes32)
+PutGift(address)
+CloseGift()
+SetGiftTime(uint256)
+StopGame()
+StartGame(string,string)
+NewQuestion(string,bytes32)

@@ -1,0 +1,12 @@
+getBalance()
+info()
+_transfer(address,uint256)
+mintToken(address,uint256)
+0x8384a4f5
+setPrice(uint256)
+changeManager(address)
+buy()
+freeze(address,bool)
+0xc76e8387
+_balance(address)
+sell(uint256)

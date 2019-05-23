@@ -1,0 +1,8 @@
+depositTokens(uint256,address,uint256)
+getDepositCount(address)
+claimAllTokens()
+getDeposit(address,uint256)
+tokenContract()
+allowance(address,address)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

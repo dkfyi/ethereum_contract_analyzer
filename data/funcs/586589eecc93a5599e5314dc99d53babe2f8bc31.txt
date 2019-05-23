@@ -1,0 +1,4 @@
+0x0b40bd88
+0xa3cb6c80
+coinBalanceOf(address)
+0xbd9578ea

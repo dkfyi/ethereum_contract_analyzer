@@ -1,0 +1,8 @@
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+getStake(address)
+0x7ac66574
+getPlayers()
+ideal_warn_timed(uint256,uint128)
+0xa3a0bdac
+0xf71d96cb

@@ -1,0 +1,6 @@
+0x13cde9a2
+0x4a78da14
+buyPrice()
+amount()
+TokenAddress()
+gasprice_bit_ether(int128)

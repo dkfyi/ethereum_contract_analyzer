@@ -1,0 +1,12 @@
+0x29d29cb3
+0x2a1bde1d
+add(address,bytes32)
+0x2f353ac9
+exists(bytes32)
+isActive(bytes32)
+setAdmin(address)
+0x770a5642
+remove(bytes32)
+0xedf40d50
+0xf40a42b4
+admin()

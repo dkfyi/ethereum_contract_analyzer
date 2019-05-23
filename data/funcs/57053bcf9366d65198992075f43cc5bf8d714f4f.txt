@@ -1,0 +1,15 @@
+name()
+version()
+description()
+0x89a07309
+0x8f99506a
+DENOMINATOR()
+0x998da6af
+0xb355c55e
+0xce7b5574
+category()
+withdraw(address,address)
+0x85450abf
+totalSupply()
+balanceOf(address)
+balanceOf(address)

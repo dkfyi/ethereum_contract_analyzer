@@ -1,0 +1,6 @@
+Collect(uint256)
+MinSum()
+0xe203b506
+Put(address)
+AddMessage(address,uint256,string)
+AddMessage(address,uint256,string)

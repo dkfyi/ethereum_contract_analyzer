@@ -1,0 +1,16 @@
+0x0101f752
+unpause()
+0x5b32619c
+paused()
+0x7a9e4eff
+pause()
+ideal_warn_timed(uint256,uint128)
+setWallet(address,address,address,address,address)
+0xb94ef374
+getProduct(uint256)
+transferOwnership(address)
+getAssembly(uint256)
+ownerOfRobot(uint256)
+transferFromRobot(address,address,uint256)
+approveRobot(address,uint256)
+transferRobot(address,uint256)

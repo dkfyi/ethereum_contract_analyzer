@@ -1,0 +1,13 @@
+0x10a3a6b1
+register()
+disown()
+0x4c551cf5
+destroy()
+0x832cded2
+changePrice(uint256)
+0xa4b95d5c
+grantOwnership(address)
+creationTime()
+unregister()
+takeOver()
+0xf98bbd16

@@ -1,0 +1,5 @@
+__callback(bytes32,string)
+kill()
+update()
+ETHXBT()
+query(uint256,string,string)

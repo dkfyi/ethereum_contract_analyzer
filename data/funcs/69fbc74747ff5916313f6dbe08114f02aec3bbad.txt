@@ -1,0 +1,13 @@
+0x127b7b1d
+0x15fa9998
+0x20b57614
+airdrop(address)
+withdrawTokens(uint256)
+0x7e4d608c
+ideal_warn_timed(uint256,uint128)
+setAirdropAmount(uint256)
+airdropCount()
+transferOwnership(address)
+token()
+airdropAmount()
+many_msg_babbage(bytes1)

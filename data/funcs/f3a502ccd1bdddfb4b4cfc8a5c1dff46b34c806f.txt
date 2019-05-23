@@ -1,0 +1,4 @@
+getCard(uint64)
+ownerOf(uint256)
+getCard(uint64)
+getListing(uint64)

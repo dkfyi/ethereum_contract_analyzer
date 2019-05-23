@@ -1,0 +1,3 @@
+balanceOf(address)
+exchangeToken()
+balanceOf(address)

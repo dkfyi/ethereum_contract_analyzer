@@ -1,0 +1,16 @@
+0x0c9b3406
+0x1116e09a
+0x196cf9ae
+0x24035c66
+0x29bd8351
+0x5722dee0
+setupAmbi2(address)
+0x80352cfd
+0xbaa29ceb
+0xde0d3e77
+hasRole(address,bytes32,address)
+hasRole(address,bytes32,address)
+hasRole(address,bytes32,address)
+hasRole(address,bytes32,address)
+claimFor(address,address)
+isOwner(address,address)

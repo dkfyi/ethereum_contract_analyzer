@@ -1,0 +1,13 @@
+coin()
+0x19958a86
+0x1fd89e4e
+0x40ef1346
+ideal_warn_timed(uint256,uint128)
+0x953381f1
+0xa0e7590d
+0xae309848
+transferOwnership(address)
+setTTCAddress(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

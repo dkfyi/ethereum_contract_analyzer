@@ -1,0 +1,4 @@
+getScoringMask(bytes8)
+getBracketScore(bytes8,bytes8,uint64)
+0x22222222
+0x0c0c0c0c

@@ -1,0 +1,16 @@
+0x037329c9
+TestContract()
+SetProfitAddr(address)
+totalContributions()
+totalSUM()
+changeName(string)
+0x712c7901
+0x7fe49bc0
+totalProfit()
+0xab377daa
+profitAddr()
+unprocessedProfits()
+0xd5a227c6
+deployer()
+totalContributors()
+0x290decd9

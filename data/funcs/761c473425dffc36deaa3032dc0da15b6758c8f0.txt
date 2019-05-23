@@ -1,0 +1,5 @@
+nextYear()
+0x159cb33e
+hello()
+0x2ef8ba74
+0xd97d6630

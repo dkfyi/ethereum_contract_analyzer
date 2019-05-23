@@ -1,0 +1,9 @@
+0x1182ec25
+0x16b4f75a
+0x2496f315
+addTokenAddress(address)
+bytesToBytes32(bytes,uint256)
+coldWallet()
+0x91413637
+bytesToBytes4(bytes,uint256)
+whitelisted(address)

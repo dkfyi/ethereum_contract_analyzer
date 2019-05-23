@@ -1,0 +1,13 @@
+OWNER()
+claim(address)
+hasRole(address,bytes32,address)
+assignRoleWithExpiration(address,bytes32,address,uint256)
+isOwner(address,address)
+0x883246b1
+0x8cc08025
+assignOwner(address,address)
+claimFor(address,address)
+unassignRole(address,bytes32,address)
+0xd3c576d8
+assignRole(address,bytes32,address)
+unassignOwner(address,address)

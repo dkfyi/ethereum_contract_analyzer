@@ -1,0 +1,15 @@
+isEntity(address)
+newIdentityL1(address,bytes32,bytes32,bytes32,bytes32,uint256)
+addMomRelation(address)
+0x1a53bb3e
+getMom(address)
+addDadRelation(address)
+0x3fb856ce
+getDad(address)
+getEntityCount()
+updateIdentitySocialURL(address,bytes32)
+0x84811c2f
+0x9be601d2
+updateIdentityImageURL(address,bytes32)
+addTestimony(address)
+0xec5aa986

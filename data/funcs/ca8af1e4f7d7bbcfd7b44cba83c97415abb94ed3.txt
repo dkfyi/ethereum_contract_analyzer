@@ -1,0 +1,16 @@
+AquaToken()
+awardsEnd()
+0x60784c4d
+withdrawn(address)
+lockUpEnd()
+currentAwards()
+ideal_warn_timed(uint256,uint128)
+0xb358c3ca
+transferOwnership(address)
+totalAwards()
+0xfa1a4cea
+0xfbdd25e4
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

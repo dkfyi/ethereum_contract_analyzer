@@ -1,0 +1,11 @@
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+safeSub(uint256,uint256)
+safeDiv(uint256,uint256)
+safeMul(uint256,uint256)
+0xd42dd1b0
+newOwner()
+safeAdd(uint256,uint256)
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)

@@ -1,0 +1,13 @@
+setReceiver1(address)
+getBalance()
+withdraw(uint256)
+setNumeratorDenominator(uint256,uint256)
+0x422b1077
+ideal_warn_timed(uint256,uint128)
+denominator()
+receiver2()
+numerator()
+deposit()
+receiver1()
+setReceiver2(address)
+transferOwnership(address)

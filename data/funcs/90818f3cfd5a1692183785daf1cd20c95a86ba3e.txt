@@ -1,0 +1,12 @@
+setToken(address)
+unpause()
+paused()
+pause()
+ideal_warn_timed(uint256,uint128)
+receiveApproval(address,uint256,address,bytes)
+0xcda8c715
+transferOwnership(address)
+gasprice_bit_ether(int128)
+burn(uint256)
+balanceOf(address)
+many_msg_babbage(bytes1)

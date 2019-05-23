@@ -1,0 +1,3 @@
+maxResult()
+getResultblockHash(bytes32)
+0xc4bcc9dc

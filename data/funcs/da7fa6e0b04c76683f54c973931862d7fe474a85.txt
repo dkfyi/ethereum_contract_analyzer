@@ -1,0 +1,5 @@
+claim(address)
+ens()
+node(address)
+rootNode()
+setSubnodeOwner(bytes32,bytes32,address)

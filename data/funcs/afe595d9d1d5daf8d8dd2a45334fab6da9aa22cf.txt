@@ -1,0 +1,7 @@
+destroyMe()
+withdraw()
+0x6ab108f9
+getAuction(uint256)
+bid(uint256)
+getCurrentPrice(uint256)
+many_msg_babbage(bytes1)

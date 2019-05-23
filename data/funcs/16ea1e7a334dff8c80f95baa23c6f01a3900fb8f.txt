@@ -1,0 +1,6 @@
+safeToAdd(uint256,uint256)
+add(uint256,uint256)
+sub(uint256,uint256)
+mul(uint256,uint256)
+safeToMul(uint256,uint256)
+safeToSub(uint256,uint256)

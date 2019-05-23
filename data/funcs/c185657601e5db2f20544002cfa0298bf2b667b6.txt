@@ -1,0 +1,10 @@
+0x0357835f
+0x3af2c408
+0x48a67f06
+0x4d6f7390
+0x58a54997
+0x7f8b0716
+approve(address,uint256)
+allowance(address,address)
+balanceOf(address)
+many_msg_babbage(bytes1)

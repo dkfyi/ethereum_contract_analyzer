@@ -1,0 +1,12 @@
+0x3d103b6d
+version()
+depositReward()
+setup(address)
+totalReward()
+singularDTVToken()
+ideal_warn_timed(uint256,uint128)
+softWithdrawRewardFor(address)
+withdrawReward()
+0xdf18e047
+totalSupply()
+balanceOf(address)

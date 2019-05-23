@@ -1,0 +1,10 @@
+payout(address,uint256)
+setOwner(address)
+0x2d6ce61d
+0x3012b05c
+kill()
+0x5d717a8c
+withdrawPayments()
+setOracle(address)
+0xba2255f4
+0xeeded6b4

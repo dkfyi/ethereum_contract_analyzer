@@ -1,0 +1,15 @@
+0x16ff5798
+0x40a73f89
+getExpectedRate(address,address,uint256)
+0x9c79c122
+0xb002249d
+0xc4efc91a
+0xc6255626
+trade(address,uint256,address,address,uint256,uint256,address)
+available_assert_time(uint16,uint64)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+many_msg_babbage(bytes1)

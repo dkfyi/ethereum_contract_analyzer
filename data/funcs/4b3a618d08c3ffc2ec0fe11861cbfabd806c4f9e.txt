@@ -1,0 +1,10 @@
+userCount()
+0x0961781e
+getBalance(uint256)
+0x413ef3b4
+kill()
+addUser(uint256,address)
+receive()
+totalBalance()
+0xc57e52ca
+0xf4bdfff4

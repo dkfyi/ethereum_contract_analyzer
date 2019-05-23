@@ -1,0 +1,14 @@
+count()
+cancel(string,uint256)
+status()
+kill()
+flush()
+reject(string,uint256,uint16,address,uint256)
+ideal_warn_timed(uint256,uint128)
+buy(string,uint256,uint16)
+availableCount()
+price()
+accept(string,uint256,uint16)
+pendingCount()
+0xffff0000
+0xffff0000

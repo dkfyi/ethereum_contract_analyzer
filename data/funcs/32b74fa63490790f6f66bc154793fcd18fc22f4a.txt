@@ -1,0 +1,14 @@
+0x0a34e546
+0x30977ab8
+renounceOwnership()
+maxRecords()
+conversionRate()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0x9d6142a9
+0xa72f13f2
+0xcd810a87
+setConversionRate(uint256)
+transferOwnership(address)
+0xf5aa2efb
+lock()

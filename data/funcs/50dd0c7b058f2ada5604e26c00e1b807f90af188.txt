@@ -1,0 +1,11 @@
+0x88e0c7b5
+0xb279f479
+killWallet()
+0xd545dd01
+0xf4e2b328
+0xfbf7d92e
+transferToWallet(uint256)
+getBalance()
+getBalance()
+transferToWallet(uint256)
+killWallet()

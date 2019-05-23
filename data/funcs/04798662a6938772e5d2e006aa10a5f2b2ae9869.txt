@@ -1,0 +1,13 @@
+0x026d4e5c
+name()
+0x267b14f1
+0x34461067
+getRecordsCount()
+description()
+ideal_warn_timed(uint256,uint128)
+0xa68b028a
+recordName()
+transferOwnership(address)
+0xf7fe0143
+0x68206175
+0x6f646520

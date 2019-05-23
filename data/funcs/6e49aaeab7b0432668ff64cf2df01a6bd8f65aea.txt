@@ -1,0 +1,16 @@
+0x0ceb6780
+0x13f2caf7
+0x19c4d4e9
+0x397777b4
+currentChallenge()
+0x6ad4e87a
+ideal_warn_timed(uint256,uint128)
+0x9eee9b2e
+drawWinner()
+locked()
+0xdfd7599a
+onERC721Received(address,uint256,bytes)
+transferOwnership(address)
+lock()
+gasprice_bit_ether(int128)
+onERC721Received(address,uint256,bytes)

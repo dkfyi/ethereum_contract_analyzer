@@ -1,0 +1,8 @@
+0x4e2c7ca2
+0x8068c757
+ideal_warn_timed(uint256,uint128)
+buy1(uint256)
+redeem()
+core()
+priceOf(uint256)
+purchase(uint256)

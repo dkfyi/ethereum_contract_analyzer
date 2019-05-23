@@ -1,0 +1,15 @@
+validate(address)
+0x229320ca
+0x54a38006
+addContract(address)
+0x62441aee
+0xba061afa
+0xba0e4c30
+0xcd143d45
+validate(address)
+0x229320ca
+0x54a38006
+0x6b718db9
+0xc174dce3
+0x62441aee
+getAddress()

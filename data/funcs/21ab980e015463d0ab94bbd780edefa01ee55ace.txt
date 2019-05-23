@@ -1,0 +1,6 @@
+vote(uint256)
+endBlock()
+getVoters(uint256,uint256)
+votersCount()
+0xd8bff5a5
+0xda58c7d9

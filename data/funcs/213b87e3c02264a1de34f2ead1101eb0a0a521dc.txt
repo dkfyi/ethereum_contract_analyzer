@@ -1,0 +1,2 @@
+setHash(uint256,string)
+getHash(uint256)

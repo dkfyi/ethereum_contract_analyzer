@@ -1,0 +1,3 @@
+getArrayLength()
+allOldUsers(uint256)
+oldUsers(bytes32)

@@ -1,0 +1,13 @@
+0x13a286ca
+0x1e59e02a
+0x2af9338e
+0x4fec390c
+0x507ffba5
+ideal_warn_timed(uint256,uint128)
+0x9a82e2cb
+0xa87430ba
+0xb3580c1e
+0xb609256b
+0xbbf04322
+transferOwnership(address)
+setAnswerFee(uint256)

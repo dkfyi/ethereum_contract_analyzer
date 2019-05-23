@@ -1,0 +1,11 @@
+0x19ec3ded
+registerRewards(address[],uint256[],uint256)
+operator()
+0x8c9845b0
+winners(uint256)
+claimReward()
+retractRewards()
+rewardToken()
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

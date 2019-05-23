@@ -1,0 +1,12 @@
+next_round_players()
+0x2aaf9c66
+kill()
+refund()
+0x5f539577
+required_number_players()
+winner_percentage()
+changeParameters(uint256,uint8,uint256)
+player_count()
+0xd8b544a6
+ante()
+0xfec1439c

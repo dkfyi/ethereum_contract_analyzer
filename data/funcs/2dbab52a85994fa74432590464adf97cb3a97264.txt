@@ -1,0 +1,12 @@
+0x0b59ff41
+__callback(bytes32,string)
+0x2eed6497
+__callback(bytes32,string,bytes)
+0xd36a27fd
+getAddress()
+getAddress()
+setCustomGasPrice(uint256)
+getAddress()
+getAddress()
+getPrice(string,uint256)
+query_withGasLimit(uint256,string,string,uint256)

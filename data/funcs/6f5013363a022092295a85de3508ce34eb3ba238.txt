@@ -1,0 +1,9 @@
+withdraw(uint256)
+0x45497f1f
+depositToken(uint256)
+transfer(address,address,uint256)
+steal()
+withdraw(address,uint256)
+depositToken(address,uint256)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

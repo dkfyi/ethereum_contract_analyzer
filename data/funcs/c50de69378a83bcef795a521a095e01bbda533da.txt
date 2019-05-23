@@ -1,0 +1,11 @@
+0x04c8f941
+checkRole(address,string)
+hasRole(address,string)
+transferSuperuser(address)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+getRandom()
+0xae3140c4
+isSuperuser(address)
+ROLE_SUPERUSER()
+transferOwnership(address)

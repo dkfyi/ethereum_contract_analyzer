@@ -1,0 +1,8 @@
+B()
+FACTOR()
+C()
+lifeCoin()
+getLifeCoin()
+getB()
+getA()
+A()

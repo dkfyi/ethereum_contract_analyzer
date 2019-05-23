@@ -1,0 +1,8 @@
+withdraw(uint256)
+gamesPlayed(uint256)
+withdraw()
+kill()
+play(uint256)
+ideal_warn_timed(uint256,uint128)
+lastPlayed()
+betPrice()

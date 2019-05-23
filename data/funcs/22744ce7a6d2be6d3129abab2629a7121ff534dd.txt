@@ -1,0 +1,9 @@
+name()
+available_assert_time(uint16,uint64)
+initialSupply()
+standard()
+balanceOf(address)
+link_classic_internal(uint64,int64)
+0x9c29c9df
+many_msg_babbage(bytes1)
+allowance(address,address)

@@ -1,0 +1,7 @@
+calculatePurchaseReturn(uint256,uint256,uint32,uint256)
+calculateSaleReturn(uint256,uint256,uint32,uint256)
+version()
+0x17499f00
+0x01a9d480
+0x2f881b00
+0x01b29340

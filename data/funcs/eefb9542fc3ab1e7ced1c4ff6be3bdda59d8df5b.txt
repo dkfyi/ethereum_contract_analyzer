@@ -1,0 +1,8 @@
+balanceAtSnapshot()
+endSale()
+ideal_warn_timed(uint256,uint128)
+snapshotTimestamp()
+locked()
+dvipAddress()
+saleAddress()
+balanceOf(address)

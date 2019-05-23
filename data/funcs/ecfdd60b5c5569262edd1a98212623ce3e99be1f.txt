@@ -1,0 +1,4 @@
+close()
+jak()
+is_open()
+open()

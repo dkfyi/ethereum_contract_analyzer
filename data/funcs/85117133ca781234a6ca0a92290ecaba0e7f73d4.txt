@@ -1,0 +1,5 @@
+0x22c1973b
+0x54f6aa20
+0x8fba96e4
+0x9c742f93
+setQuery(string)

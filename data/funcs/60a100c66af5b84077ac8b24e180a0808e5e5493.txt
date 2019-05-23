@@ -1,0 +1,3 @@
+0x13961bd7
+kill()
+play(uint256,uint16,uint8)

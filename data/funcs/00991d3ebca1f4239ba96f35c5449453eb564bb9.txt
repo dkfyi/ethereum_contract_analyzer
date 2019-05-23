@@ -1,0 +1,12 @@
+setFailed()
+investor()
+withdraw()
+stateIs(uint8)
+maxBalance()
+setInvestor(address)
+ideal_warn_timed(uint256,uint128)
+state()
+buyTokens(address)
+transferOwnership(address)
+0x1d91589b
+buyTokens(address)

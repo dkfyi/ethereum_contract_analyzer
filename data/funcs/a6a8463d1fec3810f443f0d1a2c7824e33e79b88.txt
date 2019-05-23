@@ -1,0 +1,10 @@
+status()
+0x69ba1a75
+setReferral(address,address)
+0x778412e3
+ideal_warn_timed(uint256,uint128)
+0x9aa36edf
+0xa078f9d0
+0xd3dc7539
+0xd45e0f53
+0xfdf7269b

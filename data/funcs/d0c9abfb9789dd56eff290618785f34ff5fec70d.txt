@@ -1,0 +1,10 @@
+stop()
+setOwner(address)
+onTokenTransfer(address,address,uint256)
+stopped()
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+start()
+authority()
+0x5ae2a040
+canCall(address,address,bytes4)

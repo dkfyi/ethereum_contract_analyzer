@@ -1,0 +1,6 @@
+isOwner(address)
+addOwner(address)
+tokenAddress()
+getOwners()
+drop(address[],uint256[])
+many_msg_babbage(bytes1)

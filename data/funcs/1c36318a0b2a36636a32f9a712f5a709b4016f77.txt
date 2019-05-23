@@ -1,0 +1,8 @@
+killContract()
+create(address,uint256,string)
+dev()
+tokenAddress()
+setTokenContract(address)
+setCreationCurator(address)
+curator()
+issueNewCoins(address,uint256,string)

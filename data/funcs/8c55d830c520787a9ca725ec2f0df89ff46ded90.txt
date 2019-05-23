@@ -1,0 +1,12 @@
+insert(address,string)
+setFees(uint256)
+collectFees(uint256,address)
+0x5250fec7
+0x550a3dba
+0x66cf2168
+remove(string)
+ideal_warn_timed(uint256,uint128)
+fees()
+setUserDisplayName(string)
+transferOwnership(address)
+0x1cc41b3b

@@ -1,0 +1,4 @@
+0x05898249
+getLatestVersion()
+0x5da7baaf
+0xa937f185

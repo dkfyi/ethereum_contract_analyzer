@@ -1,0 +1,15 @@
+getBalance()
+week_max()
+last_jack()
+jack_max()
+last_roll()
+0x5dc0bd2d
+ideal_warn_timed(uint256,uint128)
+week_winner()
+start()
+kill(address)
+jack_nonce()
+jack_winner()
+jack_pot()
+min_payment()
+0x01e13380

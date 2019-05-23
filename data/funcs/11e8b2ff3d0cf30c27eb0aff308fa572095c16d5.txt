@@ -1,0 +1,3 @@
+value()
+set(uint256)
+get()

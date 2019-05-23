@@ -1,0 +1,15 @@
+GetPurchaseInfo(address)
+BuyGoods(address,uint32)
+GetGoodsInfo(uint32)
+CheckPurchaseCount(address,uint32)
+HasGoods(uint32)
+IsOnSale(uint32)
+GetRealCost(address,uint32)
+DelGoods(uint32)
+SetAuth(address)
+ClearAuth(address)
+AddGoods(uint32,uint32,uint256,uint32,uint32,uint32,uint32,uint8,uint8,uint8)
+0x51e3cd46
+0xec0b3e42
+0x4a5fc72a
+0x4a5fc72a

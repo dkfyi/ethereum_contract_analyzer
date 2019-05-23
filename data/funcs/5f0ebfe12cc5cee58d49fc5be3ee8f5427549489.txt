@@ -1,0 +1,17 @@
+name()
+totalSupply()
+sellPrice()
+0x53ba0919
+balanceOf(address)
+decimal()
+mintToken(address,uint256)
+buyPrice()
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+0xa00ea164
+buy()
+setMinBalance(uint256)
+sell(uint256)
+0xe4f02c3a
+freezeAccount(address,bool)
+setPrice(uint256,uint256)

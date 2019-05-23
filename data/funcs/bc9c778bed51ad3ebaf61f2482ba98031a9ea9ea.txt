@@ -1,0 +1,3 @@
+0x494e4bc3
+random()
+game(uint256)

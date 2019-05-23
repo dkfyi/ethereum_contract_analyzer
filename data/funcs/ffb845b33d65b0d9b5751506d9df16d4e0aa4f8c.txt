@@ -1,0 +1,5 @@
+purchaseLand()
+0x21cd69e2
+getPreSaleData()
+getSenderLands(address)
+getLand(uint256)

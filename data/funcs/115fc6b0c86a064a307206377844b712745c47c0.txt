@@ -1,0 +1,5 @@
+0x943a92af
+0xb8adfa49
+0xd2d55dde
+setUint(bytes32,uint256)
+getUint(bytes32)

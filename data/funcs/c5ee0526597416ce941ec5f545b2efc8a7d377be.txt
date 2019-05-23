@@ -1,0 +1,5 @@
+kill()
+0x6e8cddb6
+getOwner()
+0xa223171a
+publish(uint256,bytes32)

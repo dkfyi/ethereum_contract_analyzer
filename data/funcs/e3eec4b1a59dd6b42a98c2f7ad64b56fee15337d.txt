@@ -1,0 +1,10 @@
+final_price()
+0x0b4ee703
+ticket_price()
+0x25aecfe0
+0x3400f292
+0x44731da4
+manager()
+0x9566525e
+0xd5be3661
+0xf71d96cb

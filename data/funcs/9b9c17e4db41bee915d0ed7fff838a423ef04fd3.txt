@@ -1,0 +1,15 @@
+0x08227acb
+0x1bbec987
+prepurchase(uint32)
+captains()
+withdraw()
+config()
+getCaptainCount(uint32)
+getCardInfo(uint32)
+getSellable(uint32)
+checkCaptain(address,uint32)
+getLevelConfig(uint32,uint32)
+CreateCaptainToken(address,uint256,uint32,uint32,uint32,uint32,uint32,uint32)
+balanceOf(address)
+tokenOfOwnerByIndex(address,uint256)
+setTokenPrice(uint256,uint256)

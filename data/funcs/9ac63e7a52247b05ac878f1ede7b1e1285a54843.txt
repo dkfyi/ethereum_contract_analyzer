@@ -1,0 +1,5 @@
+rand(uint256)
+NAME()
+killFeed()
+hireBountyHunter(uint256)
+SYMBOL()

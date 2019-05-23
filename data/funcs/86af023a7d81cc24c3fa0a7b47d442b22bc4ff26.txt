@@ -1,0 +1,14 @@
+name()
+0x0ef8c77e
+totalSupply()
+available_assert_time(uint16,uint64)
+burn(uint256)
+balanceOf(address)
+setDecimals(uint256)
+setPrice(uint256)
+link_classic_internal(uint64,int64)
+price()
+many_msg_babbage(bytes1)
+withdrawEtherOnlyOwner()
+sendEther(address,uint256)
+0xf540350a

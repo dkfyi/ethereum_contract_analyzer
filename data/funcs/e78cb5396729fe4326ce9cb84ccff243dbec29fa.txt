@@ -1,0 +1,9 @@
+0x01495c1c
+getBidIndex(address,bytes32)
+refund(address,uint256)
+sendAmount(address,uint256)
+createBid(bytes32,address,address,address,uint256,uint256,uint256)
+rejectBid(address,uint256)
+closeBid(address,uint256)
+pendingWithdrawals(address)
+getBidsNum(address)

@@ -1,0 +1,4 @@
+0x3dcc0db2
+destroy()
+balanceOf(address)
+many_msg_babbage(bytes1)

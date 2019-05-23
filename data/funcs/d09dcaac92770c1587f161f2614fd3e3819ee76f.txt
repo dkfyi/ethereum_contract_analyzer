@@ -1,0 +1,4 @@
+create()
+add(address)
+remove(address)
+isMember(address)

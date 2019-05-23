@@ -1,0 +1,3 @@
+Withdraw()
+Guess(uint256)
+SecretNumber()

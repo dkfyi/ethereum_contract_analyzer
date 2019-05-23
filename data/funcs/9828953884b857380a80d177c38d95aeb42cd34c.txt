@@ -1,0 +1,4 @@
+makeBet(bool)
+claimReward()
+isBetPossible(bool)
+many_msg_babbage(bytes1)

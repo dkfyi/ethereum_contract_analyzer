@@ -1,0 +1,13 @@
+0x04fcb100
+0x0e8cb49f
+0x1bf2bd73
+0x6a4ba2f2
+0x88049618
+addPartner(address)
+0xbb251c43
+0xd19395bd
+balanceOf(address)
+0x5211c4ab
+balanceOf(address)
+balanceOf(address)
+balanceOf(address)

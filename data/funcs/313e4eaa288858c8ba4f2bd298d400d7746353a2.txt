@@ -1,0 +1,8 @@
+checkRole(address,uint8)
+addAddressToAccessControl(address,uint8)
+ideal_warn_timed(uint256,uint128)
+ROLE_MINTER()
+hasRole(address,uint8)
+removeAddressFromAccessControl(address,uint8)
+ROLE_UNDER_MINTER()
+ROLE_KNOWN_ORIGIN()

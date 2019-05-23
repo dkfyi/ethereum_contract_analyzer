@@ -1,0 +1,5 @@
+0x2029ef24
+transferIfHardForked(address)
+0x81df2f9b
+transferIfPuritanical(address)
+afterForkRescueContractBalance()

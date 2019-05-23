@@ -1,0 +1,4 @@
+bid()
+withdraw()
+bid()
+withdrawEarnings()

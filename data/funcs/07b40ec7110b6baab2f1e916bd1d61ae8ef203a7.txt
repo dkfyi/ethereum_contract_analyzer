@@ -1,0 +1,4 @@
+addAddWhitelist(address)
+buyRoseGRLC(bytes32,string,uint256)
+checkRose(bytes32)
+buyRoseETH(string)

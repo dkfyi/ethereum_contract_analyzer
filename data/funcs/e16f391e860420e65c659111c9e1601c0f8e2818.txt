@@ -1,0 +1,4 @@
+getEbola()
+kill()
+getInfo()
+tipCreator()

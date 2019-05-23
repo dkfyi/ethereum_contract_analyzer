@@ -1,0 +1,7 @@
+isWhitelisted(address)
+updateWhitelist(address,uint8)
+setOpsAddress(address)
+ideal_warn_timed(uint256,uint128)
+opsAddress()
+whitelist(address)
+transferOwnership(address)

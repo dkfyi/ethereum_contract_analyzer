@@ -1,0 +1,14 @@
+proposals(uint256)
+0x0a9f46ad
+0x19cff706
+0x38c545b4
+isAuthorized()
+0x626da585
+renounceOwnership()
+0x8a0d2a30
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0x9a4f7300
+0xd5b9221b
+transferOwnership(address)
+0x19cff706

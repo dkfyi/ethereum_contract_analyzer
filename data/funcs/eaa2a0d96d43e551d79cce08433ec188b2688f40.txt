@@ -1,0 +1,5 @@
+0x0b5156c5
+0x29f1d0a7
+0x394117be
+0x59ab5277
+getNumberOfAssets()

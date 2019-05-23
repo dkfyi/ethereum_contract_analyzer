@@ -1,0 +1,3 @@
+getBalance()
+invested(address)
+0x8aac1362

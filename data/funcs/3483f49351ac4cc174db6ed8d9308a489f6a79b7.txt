@@ -1,0 +1,9 @@
+totalAmount()
+claim(address)
+remove(address)
+0x45c1e839
+ideal_warn_timed(uint256,uint128)
+withdrawal()
+balance(address)
+transferOwnership(address)
+add(address,uint256)

@@ -1,0 +1,3 @@
+bulkTransfer(address[],uint256[])
+isOwner()
+many_msg_babbage(bytes1)

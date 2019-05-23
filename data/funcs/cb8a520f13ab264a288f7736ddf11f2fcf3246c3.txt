@@ -1,0 +1,2 @@
+addMultipleRecords(uint256[])
+addRecord(uint256)

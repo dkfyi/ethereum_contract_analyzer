@@ -1,0 +1,9 @@
+setStorageAddress(address)
+0x6606a274
+0x6b5a8d4e
+0x8ae141b2
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+0x94659d69
+0x6b5a8d4e
+0xe7d39c3c

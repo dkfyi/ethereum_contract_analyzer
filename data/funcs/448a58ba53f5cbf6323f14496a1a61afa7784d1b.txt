@@ -1,0 +1,2 @@
+addAddress(address)
+contains(address)

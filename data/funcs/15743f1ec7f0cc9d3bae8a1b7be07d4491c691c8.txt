@@ -1,0 +1,11 @@
+transfer(address,address[],uint256[])
+withdrawEther()
+withdrawToken(address)
+ideal_warn_timed(uint256,uint128)
+tokenFallback(address,uint256,bytes)
+0xc1f28482
+transferOwnership(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)
+gasprice_bit_ether(int128)

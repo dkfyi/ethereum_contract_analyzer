@@ -1,0 +1,8 @@
+0x02e4af01
+getBalanceInEth(address)
+sendCoin(address,uint256)
+addCoin(uint256)
+getRandom()
+randomNumber()
+getBalance(address)
+convert(uint256,uint256)

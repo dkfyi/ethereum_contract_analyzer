@@ -1,0 +1,6 @@
+kill()
+0x6ffd3b87
+0x906598f8
+takeMoney()
+getKitty(uint256)
+giveBirth(uint256)

@@ -1,0 +1,3 @@
+updatejingzhi(uint256,string,uint256)
+queryjingzhi(uint256,string)
+jingZhiManager()

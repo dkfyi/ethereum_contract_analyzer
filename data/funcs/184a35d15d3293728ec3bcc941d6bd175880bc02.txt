@@ -1,0 +1,11 @@
+0x1a8bf881
+rate()
+MEC()
+changeRate(uint256)
+bonus()
+ideal_warn_timed(uint256,uint128)
+changeBonus(uint256)
+buyTokens(address)
+transferOwnership(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

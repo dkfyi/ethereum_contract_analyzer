@@ -1,0 +1,8 @@
+0x0b791430
+getFeed(uint256,uint256,uint256)
+amIOwner()
+newEvent(uint256,address[],uint256,uint256)
+acceptOwnership()
+0x91a89712
+checkPermissions()
+transferOwnership(address)

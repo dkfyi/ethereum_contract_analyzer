@@ -1,0 +1,3 @@
+kill()
+getContractOrNormal(address)
+testContractOrNormal(address)

@@ -1,0 +1,8 @@
+makeVisible(uint128)
+documentIt(uint128,uint64,bytes32[],string,string,string)
+getUserDocCount(address)
+grantEditorRights(address)
+getDocCount()
+editIt(uint128,uint64,bytes32[],string,string,string)
+makeInvisible(uint128)
+revokeEditorRights(address)

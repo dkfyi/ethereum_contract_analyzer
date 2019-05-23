@@ -1,0 +1,17 @@
+0x07fc0660
+0x2ed2003c
+0x40cda95f
+incrementBasketsMinted(uint256,address)
+0x50c6b6d6
+registerBasket(address,address,string,string,address[],uint256[])
+whitelistBasketFactory(address)
+checkBasketExists(address)
+0x8469f6fc
+getBasketArranger(address)
+incrementBasketsBurned(uint256,address)
+0x9d515669
+0xbd405824
+0xceb31b00
+0xd93c02b3
+getBasketDetails(address)
+admin()

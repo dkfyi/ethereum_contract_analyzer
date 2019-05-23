@@ -1,0 +1,17 @@
+removeOwner(address)
+0x20ff99f2
+0x3e5da930
+m_numOwners()
+addOwner(address)
+m_required()
+m_chiefOwnerIndexBit()
+revoke(bytes32)
+changeRequirement(uint256)
+transferTokens(address,uint256)
+hasConfirmed(bytes32,address)
+0xe12972c8
+changeOwner(address,address)
+0xfac6d405
+token()
+balanceOf(address)
+many_msg_babbage(bytes1)

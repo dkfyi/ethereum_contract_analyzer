@@ -1,0 +1,7 @@
+changeMyString(string)
+0x492bfa18
+0x4f21c8a8
+ideal_warn_timed(uint256,uint128)
+changeOpenNumber(uint256)
+0x9f2c7ae5
+changeOpenString(string)

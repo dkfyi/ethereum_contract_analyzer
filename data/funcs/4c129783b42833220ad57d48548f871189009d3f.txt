@@ -1,0 +1,11 @@
+burn(uint256)
+burnFrom(address,uint256)
+ideal_warn_timed(uint256,uint128)
+0xb626791e
+0xc884ef83
+transferOwnership(address)
+token()
+0xfd13a281
+transactionsCount()
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

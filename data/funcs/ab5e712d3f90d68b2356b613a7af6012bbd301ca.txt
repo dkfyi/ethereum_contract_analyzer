@@ -1,0 +1,14 @@
+0x1c608207
+supervisor()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+networkId()
+0xca1a4ca4
+0xd87a794f
+claimTokens(address)
+changeSupervisor(address)
+transferOwnership(address)
+0xff16fb6b
+0x6d2d73fa
+balanceOf(address)
+many_msg_babbage(bytes1)

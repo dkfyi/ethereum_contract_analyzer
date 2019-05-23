@@ -1,0 +1,7 @@
+0x0b7087ba
+0x59221a68
+closed()
+0x6fd1ce48
+ideal_warn_timed(uint256,uint128)
+0x9c8300f5
+price()

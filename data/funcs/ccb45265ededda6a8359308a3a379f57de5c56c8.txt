@@ -1,0 +1,3 @@
+getSender()
+setWord(string)
+getWord()

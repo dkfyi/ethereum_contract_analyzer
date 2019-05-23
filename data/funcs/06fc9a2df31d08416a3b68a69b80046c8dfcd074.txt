@@ -1,0 +1,4 @@
+getAdopters()
+0x43ae80d3
+adopt(uint256)
+getBalance(address)

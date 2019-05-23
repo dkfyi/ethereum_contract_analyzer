@@ -1,0 +1,14 @@
+owners(uint256)
+0x05d85eda
+withDraw()
+getBalance()
+getCow(uint256)
+countCows()
+0x3b928b7b
+kill()
+buyCow()
+allMilk()
+countMilk()
+removeCooldown()
+getMilk()
+0xe1f20d80

@@ -1,0 +1,12 @@
+0x1d3c3ee9
+0x4157b0fe
+0x59026054
+0x68de224e
+migrate(address)
+0xed029033
+many_msg_babbage(bytes1)
+transferProperty(uint16,address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+transferProperty(uint16,address)
+many_msg_babbage(bytes1)

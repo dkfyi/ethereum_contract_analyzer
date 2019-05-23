@@ -1,0 +1,5 @@
+kill()
+random()
+0xa856f359
+hash(uint256)
+0xc2ca0ac5

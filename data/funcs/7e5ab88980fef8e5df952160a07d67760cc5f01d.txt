@@ -1,0 +1,12 @@
+0x1cee0700
+nextDraw()
+0x3cb5d100
+getContributions(address)
+goal()
+destroy()
+drawPot(bytes32,bytes32)
+setDrawDate(uint256)
+numPlayers()
+addToContribution()
+recentWins(uint256)
+host()

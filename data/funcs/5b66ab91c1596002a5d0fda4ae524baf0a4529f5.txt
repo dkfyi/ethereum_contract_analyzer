@@ -1,0 +1,7 @@
+isInstantiation(address)
+instantiations(address,uint256)
+0x8b9ce6a6
+getInstantiationCount(address)
+starToken()
+0xb816f513
+0x34d8c24d

@@ -1,0 +1,7 @@
+distribute(address,uint256,address[],uint256[],uint256)
+checkExpectedTokens(address[],uint256[],uint256)
+token()
+allowance(address,address)
+gasprice_bit_ether(int128)
+totalSupply()
+balanceOf(address)

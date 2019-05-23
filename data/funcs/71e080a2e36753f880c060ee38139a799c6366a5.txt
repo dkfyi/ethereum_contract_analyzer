@@ -1,0 +1,2 @@
+register(bytes12)
+getBlobStore(bytes12)

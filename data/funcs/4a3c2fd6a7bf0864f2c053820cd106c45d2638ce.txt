@@ -1,0 +1,12 @@
+version()
+getModuleById(uint256)
+listModule(uint256,bytes32,bytes32,string,bytes4)
+getModuleId(string)
+0x81b2248a
+numModules()
+ideal_warn_timed(uint256,uint128)
+editModule(uint256,uint256,address,bytes4)
+transferAnyERC20Token(address,uint256)
+getModuleByName(string)
+transferOwnership(address)
+many_msg_babbage(bytes1)

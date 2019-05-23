@@ -1,0 +1,5 @@
+updatePrice(uint256)
+ideal_warn_timed(uint256,uint128)
+0xaa8f47cf
+timestamp()
+0xf2cc456c

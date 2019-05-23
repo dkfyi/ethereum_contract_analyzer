@@ -1,0 +1,13 @@
+0x1c9c088a
+setLogger(address)
+setOracle(address)
+ideal_warn_timed(uint256,uint128)
+0xb054a9e8
+0xc609eea9
+0xf24ccbfe
+transferOwnership(address)
+createProxy(address,bytes)
+addAuthorizer(address)
+0x25bc42dc
+createForwarder()
+0xdcaa0422

@@ -1,0 +1,7 @@
+setOwner(address)
+getLOg(uint256)
+submitCoding(string,uint256)
+setSource(address)
+readLog(uint256)
+getOwnedBot(address,uint256)
+getBot(uint256)

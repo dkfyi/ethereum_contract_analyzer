@@ -1,0 +1,6 @@
+0x0ac0de5c
+setGeneScienceAddress(address)
+geneScience()
+0xf2b95ff3
+mixGenes(uint256,uint256,uint256)
+isGeneScience()

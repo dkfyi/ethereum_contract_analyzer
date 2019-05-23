@@ -1,0 +1,3 @@
+addr()
+changeOwner(address)
+setAddr(address)

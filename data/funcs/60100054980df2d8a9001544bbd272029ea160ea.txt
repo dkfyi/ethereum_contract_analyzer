@@ -1,0 +1,7 @@
+beneficiary()
+tokenReward()
+fundingGoal()
+amountRaised()
+price()
+safeWithdrawal()
+many_msg_babbage(bytes1)

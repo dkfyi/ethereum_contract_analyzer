@@ -1,0 +1,12 @@
+removeAdmin(address)
+seal()
+admins(address)
+remove(address[])
+addAdmin(address)
+0x76fbc07e
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+newOwner()
+sealed()
+add(address[],uint256)
+transferOwnership(address)

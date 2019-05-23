@@ -1,0 +1,9 @@
+calculatePrize(uint256,uint256,uint256)
+withdraw()
+setCoinPrice(uint256)
+balanceOf(address)
+0x731bedd0
+contractBalance()
+oneRoll()
+cashout(uint256)
+coinPrice()

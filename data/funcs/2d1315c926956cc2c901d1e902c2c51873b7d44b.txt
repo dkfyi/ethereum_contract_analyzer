@@ -1,0 +1,3 @@
+__callback(bytes32,string)
+ETHXBT()
+0x4c773795

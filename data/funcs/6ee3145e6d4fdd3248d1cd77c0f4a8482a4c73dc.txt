@@ -1,0 +1,15 @@
+kittyCoreAddress()
+0x31144a80
+0x3d115334
+close()
+0x470a9cd7
+0x4734966a
+0x5bf6e5b0
+withdrawBalance()
+0x668059a9
+giveBirth(uint256)
+ideal_warn_timed(uint256,uint128)
+0x96ce255d
+transferOwnership(address)
+giveBirth(uint256)
+giveBirth(uint256)

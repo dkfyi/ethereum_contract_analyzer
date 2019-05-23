@@ -1,0 +1,5 @@
+0x02ffc0b0
+auctioneer()
+updateApprovalOfToken(address[],bool)
+0x6d1ea3fa
+updateAuctioneer(address)

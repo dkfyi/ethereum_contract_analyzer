@@ -1,0 +1,15 @@
+threshold()
+manager()
+0x4ab88427
+isFriend(address)
+0x77231eaa
+confirmTransaction(bytes32)
+0x7de7edef
+0x9ca89d0d
+NAME()
+0xae68b056
+0xb79ffaff
+0xce146828
+0xe52cb36a
+VERSION()
+0x468721a7

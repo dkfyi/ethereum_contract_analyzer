@@ -1,0 +1,12 @@
+0x2bbb56d9
+withdraw()
+affiliate()
+renounceOwnership()
+0x80ea4f1d
+ideal_warn_timed(uint256,uint128)
+0xaaa81743
+0xd700e1c2
+0xd78c29fb
+transferOwnership(address)
+0x5ff5d8bb
+0x0540a65c

@@ -1,0 +1,16 @@
+0x0cebfcc3
+0x175813f4
+0x27f492c2
+setPaymentAddress(address)
+0x7b93c212
+ideal_warn_timed(uint256,uint128)
+_destroyContract()
+deposit()
+setNewOwner(address)
+0x01e28500
+0x01e13380
+0x01e13380
+0x01e28500
+0x01e13380
+0x01e28500
+0x01e13380

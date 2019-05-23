@@ -1,0 +1,9 @@
+0x35e3d1ec
+0x5e316a95
+0x8086a92a
+ownerAddress()
+0x90bdce33
+changeOwner(address)
+0xafe7214d
+0xf27a0447
+pixelPrice()

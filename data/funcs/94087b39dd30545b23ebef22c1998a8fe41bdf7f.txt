@@ -1,0 +1,10 @@
+getBalance()
+0x1215c0cc
+setCommission(uint256)
+kill()
+0x671a6bba
+0x9e241e85
+pullBalance()
+0xbc90ebf8
+0xcfdf49fc
+transferOwnership(address)

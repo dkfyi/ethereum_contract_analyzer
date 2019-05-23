@@ -1,0 +1,12 @@
+cap()
+totalGivenBountyTokens()
+renounceOwnership()
+recoverERC20(address,uint256)
+ideal_warn_timed(uint256,uint128)
+0x977712cd
+multiSend(address[],uint256[])
+remainingTokens()
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)
+0x9f2c9503

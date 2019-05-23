@@ -1,0 +1,8 @@
+setAddress(string)
+getVersion()
+getAddress()
+0x408def1e
+0xa7b6faf2
+0xcc773044
+setComment(string)
+0xec44d92d

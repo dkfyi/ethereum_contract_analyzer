@@ -1,0 +1,3 @@
+WEI_PER_ETHER()
+signature(string,bytes32)
+0xcf4f1ed5

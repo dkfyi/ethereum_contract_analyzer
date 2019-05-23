@@ -1,0 +1,3 @@
+0xa9a14b56
+last_offer_id()
+isActive(uint256)

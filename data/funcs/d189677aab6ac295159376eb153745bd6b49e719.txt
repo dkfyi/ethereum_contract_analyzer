@@ -1,0 +1,5 @@
+beneficiary()
+balanceOf(address)
+fundingGoal()
+amountRaised()
+safeWithdrawal()

@@ -1,0 +1,2 @@
+getBalance()
+send(address,uint256)

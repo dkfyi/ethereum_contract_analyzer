@@ -1,0 +1,12 @@
+0x1fc9cee8
+resumeGame()
+pauseGame()
+balanceOf()
+finishSpin()
+addNewBetAmount(uint256)
+divertDividendsToBankroll()
+changeOwner(address)
+changeBankroll(address)
+tokenFallback(address,uint256,bytes)
+gameActive()
+many_msg_babbage(bytes1)

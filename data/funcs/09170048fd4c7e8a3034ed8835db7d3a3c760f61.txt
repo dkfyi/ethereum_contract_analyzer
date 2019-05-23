@@ -1,0 +1,9 @@
+owners(uint256)
+isOwner(address)
+0x6fe05ac7
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+totalEthReceived()
+0xad89ade8
+0xd2d562a4
+transferOwnership(address)

@@ -1,0 +1,13 @@
+name()
+round()
+status()
+tickets()
+lastWiningTicketNumber()
+about()
+jackpot()
+lastJackpotPayout()
+changeStatus(string)
+buyTickets()
+lastJackpotRound()
+lastWinner()
+0x68616e63

@@ -1,0 +1,5 @@
+mintData()
+mintPrice()
+0xafca4200
+mint(address,string,bytes32)
+0xf4a0a528

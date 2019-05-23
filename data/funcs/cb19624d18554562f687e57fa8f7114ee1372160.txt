@@ -1,0 +1,9 @@
+addContract(bytes32,address)
+0x597943ba
+0x5d526873
+removeContract(bytes32)
+execute(bytes32)
+0xe88d0f42
+contracts(bytes32)
+0xc7eb4522
+0x04cdd0e8

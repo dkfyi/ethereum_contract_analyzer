@@ -1,0 +1,10 @@
+bountyTotal()
+ideal_warn_timed(uint256,uint128)
+0xcdfbea58
+addBountyForHunter(address,uint256)
+transferOwnership(address)
+getBounty()
+token()
+isActive()
+isActive()
+many_msg_babbage(bytes1)

@@ -1,0 +1,12 @@
+setTokenAddress(address)
+0x45facd8e
+0x6850e5c1
+0x7a4102b8
+ideal_warn_timed(uint256,uint128)
+0xad96235c
+0xdf5cfa4e
+0xe945609a
+transferOwnership(address)
+airdropToken(address[],uint256)
+allowance(address,address)
+gasprice_bit_ether(int128)

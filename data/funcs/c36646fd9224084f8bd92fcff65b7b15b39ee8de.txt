@@ -1,0 +1,17 @@
+sharesTokenAddress()
+tokensWithdrawn()
+tokenSold()
+0x5e62527a
+ideal_warn_timed(uint256,uint128)
+tokenFree()
+price()
+presaleClosed()
+0xd587111e
+safeContract()
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

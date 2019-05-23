@@ -1,0 +1,5 @@
+getServiceURI(address)
+targetContractId()
+setServiceURI(string)
+setController(address)
+controller()

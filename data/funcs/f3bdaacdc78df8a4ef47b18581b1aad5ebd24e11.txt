@@ -1,0 +1,17 @@
+0x09fd8005
+fill(address,uint256,address,address,uint256,address,uint256,uint256,uint8,bytes32,bytes32)
+0x5680bab7
+0x824c1db5
+ideal_warn_timed(uint256,uint128)
+0xca697db4
+0xceb231c0
+creationTime()
+0xe62a4039
+0xf862701f
+fill(address,uint256,address,address,uint256,address,uint256,uint256,uint8,bytes32,bytes32)
+fill(address,uint256,address,address,uint256,address,uint256,uint256,uint8,bytes32,bytes32)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+allowance(address,address)
+approve(address,uint256)
+gasprice_bit_ether(int128)

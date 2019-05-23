@@ -1,0 +1,5 @@
+signup(bytes32)
+destroy()
+update(bytes32)
+0xa2bdedf4
+login()

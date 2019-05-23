@@ -1,0 +1,8 @@
+0x164b4fbf
+isAdmin(address)
+tokenFallback(address,uint256)
+0x753f40ca
+0xad6de445
+tokenFallback(address,uint256,bytes)
+many_msg_babbage(bytes1)
+transfer(address,uint256,bytes)

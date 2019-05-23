@@ -1,0 +1,15 @@
+resetAgent(address)
+0x1010cf83
+isAgent(address)
+setReleaseAgent(address)
+amIAgent()
+updateWhitelist(address,uint8)
+0x64138230
+0x6e84f870
+ideal_warn_timed(uint256,uint128)
+released()
+whitelist(address)
+setAgent(address)
+releaseAgent()
+transferOwnership(address)
+releaseOperation()

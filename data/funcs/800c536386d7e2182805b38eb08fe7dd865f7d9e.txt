@@ -1,0 +1,10 @@
+changeOperator(address)
+upgrade(address)
+last_completed_migration()
+0x4476d23b
+operator()
+0x94dd293c
+deployer()
+0xdefdfae6
+setCompleted(uint256)
+setCompleted(uint256)

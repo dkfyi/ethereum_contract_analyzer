@@ -1,0 +1,15 @@
+mixGenes(uint256,uint256,uint256)
+0x21a03081
+0x470e23f1
+0x4d539dac
+isGeneScience()
+0x6a66efb0
+ideal_warn_timed(uint256,uint128)
+0x91075cb5
+0x9641e48d
+0xc2da8fde
+0xd1f90e30
+0xda24f1f3
+transferOwnership(address)
+0x01000000
+0x01000000

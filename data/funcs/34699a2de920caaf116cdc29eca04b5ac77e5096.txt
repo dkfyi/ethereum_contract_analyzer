@@ -1,0 +1,9 @@
+0x3824a8ae
+kill()
+members(uint256)
+ideal_warn_timed(uint256,uint128)
+0xb55f108f
+getPlayerCount()
+0xebe63ffc
+mortal()
+transferOwnership(address)

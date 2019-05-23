@@ -1,0 +1,9 @@
+0x1040b5bd
+0x1a5df8f9
+0x1f5ffecc
+kill()
+0x5c942470
+0xb1291b1f
+test()
+testTrade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256,address)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)

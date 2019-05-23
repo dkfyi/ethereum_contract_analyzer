@@ -1,0 +1,2 @@
+register(bytes32,string)
+0xd1ed74ad

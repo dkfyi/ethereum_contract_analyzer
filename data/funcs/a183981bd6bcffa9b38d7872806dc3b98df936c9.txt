@@ -1,0 +1,17 @@
+0x0216b5e5
+calculateTokenAmount(uint256,uint256)
+milestoneCount()
+isPresalePurchase()
+getMilestone(uint256)
+0x389ce839
+0x44190005
+getOwner()
+0x89d42c3e
+ideal_warn_timed(uint256,uint128)
+MAX_MILESTONE()
+0xa14e3cb1
+0xbe412901
+setPreicoAddress(address,uint256)
+0xe89e4ed6
+getCurrentPrice()
+transferOwnership(address)

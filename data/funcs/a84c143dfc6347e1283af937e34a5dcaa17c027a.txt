@@ -1,0 +1,3 @@
+getProfit()
+play(uint256)
+0xf71d96cb

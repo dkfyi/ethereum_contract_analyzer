@@ -1,0 +1,12 @@
+getB3()
+0x1086b1a3
+0x28b6f861
+getB2()
+getB1()
+kill()
+0x59b85f94
+getDigit()
+getB0()
+0x9729d0ef
+0xd6ec025a
+0xf8cdfbf8

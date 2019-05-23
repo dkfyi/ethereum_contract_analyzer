@@ -1,0 +1,9 @@
+getReferrer(address)
+renounceOwnership()
+0x8419b6c6
+ideal_warn_timed(uint256,uint128)
+isOwner()
+setReferrer(address,address)
+transferOwnership(address)
+exists(address)
+exists(address)

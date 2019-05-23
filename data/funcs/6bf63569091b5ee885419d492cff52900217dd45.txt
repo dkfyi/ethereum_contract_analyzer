@@ -1,0 +1,11 @@
+withdraw(uint256)
+withdraw2(uint256)
+buyTokens(uint256)
+tokensSold()
+tokenContract()
+setTokenPrice(uint256)
+tokenPrice()
+0xbcea2249
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

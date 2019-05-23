@@ -1,0 +1,15 @@
+setBeneficiary(address)
+0x281fef6e
+beneficiary()
+tokenReward()
+balanceOf(address)
+amountRaised()
+withdrawal(uint256)
+ideal_warn_timed(uint256,uint128)
+0xd513f413
+0xe73faa2d
+0xee83ef1b
+transferOwnership(address)
+getBalance(address)
+safeWithdrawal()
+many_msg_babbage(bytes1)

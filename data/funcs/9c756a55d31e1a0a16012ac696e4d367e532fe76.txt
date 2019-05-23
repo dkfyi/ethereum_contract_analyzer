@@ -1,0 +1,14 @@
+isPricingStrategy()
+0x30648765
+unpause()
+0x4120657a
+allowAddress(address,bool)
+paused()
+discount()
+renounceOwnership()
+pause()
+oneTokenInWei()
+ideal_warn_timed(uint256,uint128)
+0xa6413a27
+setTokenPriceInWei(uint256)
+transferOwnership(address)

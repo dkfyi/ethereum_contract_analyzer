@@ -1,0 +1,15 @@
+consume()
+0x259f4a27
+0x28330fec
+0x57711abb
+0x6c6fbbe4
+renounceOwnership()
+currentRound()
+ideal_warn_timed(uint256,uint128)
+0xde2ee834
+winner()
+0xe3853a56
+transferOwnership(address)
+0xf58a9482
+getCurrentRoundInfo()
+getCurrentRoundInfo()

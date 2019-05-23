@@ -1,0 +1,6 @@
+kill()
+0x82c4b3b2
+tune(uint256)
+0xd2873cf7
+buyTicket()
+withdrawForWinner(uint256)

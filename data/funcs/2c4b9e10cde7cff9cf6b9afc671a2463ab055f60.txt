@@ -1,0 +1,12 @@
+setOwner(address)
+tokenContract()
+setAuthority(address)
+0x84684c9c
+ideal_warn_timed(uint256,uint128)
+authority()
+ideal_warn_timed(uint256,uint128)
+authority()
+totalSupply()
+mint(uint128)
+push(address,uint128)
+canCall(address,address,bytes4)

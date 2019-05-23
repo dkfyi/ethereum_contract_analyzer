@@ -1,0 +1,7 @@
+removeAdmin(address)
+admins(address)
+addAdmin(address)
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+newOwner()
+transferOwnership(address)

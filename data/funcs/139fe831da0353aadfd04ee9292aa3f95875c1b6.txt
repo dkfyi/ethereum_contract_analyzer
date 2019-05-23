@@ -1,0 +1,4 @@
+0x24e5df8e
+latestReleaseUrl()
+0xad6a3ed5
+latestReleaseChecksum()

@@ -1,0 +1,5 @@
+ConsultaRegistro(bytes32)
+0x762849cc
+TrocarAdmin(address)
+GuardaRegistro(bytes32)
+admin()

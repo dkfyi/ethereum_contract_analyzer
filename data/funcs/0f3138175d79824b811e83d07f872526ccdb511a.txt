@@ -1,0 +1,5 @@
+price()
+fiat()
+0xf24aa5df
+USD(uint256)
+USD(uint256)

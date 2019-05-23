@@ -1,0 +1,6 @@
+isWhitelisted(address)
+whitelistLength()
+ideal_warn_timed(uint256,uint128)
+removeWallet(address)
+addWallet(address)
+transferOwnership(address)

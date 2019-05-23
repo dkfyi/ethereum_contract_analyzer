@@ -1,0 +1,6 @@
+emergencyStop()
+getOwner()
+setController(address)
+transferOwnership(address)
+controller()
+emergencyStop()

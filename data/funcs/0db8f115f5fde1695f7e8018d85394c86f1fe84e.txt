@@ -1,0 +1,3 @@
+kill()
+0x7bf786f8
+cash(address,uint256,uint8,bytes32,bytes32)

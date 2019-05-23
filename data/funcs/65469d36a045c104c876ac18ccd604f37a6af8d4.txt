@@ -1,0 +1,6 @@
+name()
+balances(address)
+available_assert_time(uint16,uint64)
+sendCoin(address,uint256)
+link_classic_internal(uint64,int64)
+getBalance(address)

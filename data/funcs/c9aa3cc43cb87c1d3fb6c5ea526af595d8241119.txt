@@ -1,0 +1,13 @@
+seraphims(address)
+kill()
+updateMaintenanceMode(bool)
+isMaintenanceMode()
+removeSERAPHIM(address)
+petCardDataContract()
+totalSeraphims()
+0xcb6ed870
+addSERAPHIM(address)
+creatorAddress()
+SetPetCardDataContact(address)
+getPet(uint256)
+transferPet(address,address,uint64)

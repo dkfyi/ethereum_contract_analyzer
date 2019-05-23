@@ -1,0 +1,8 @@
+0x048f06f2
+lastTimestamp()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+getRoot(uint256)
+0xb58166f2
+transferOwnership(address)

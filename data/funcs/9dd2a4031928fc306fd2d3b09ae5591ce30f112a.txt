@@ -1,0 +1,13 @@
+0x11ce7a65
+0x9174d449
+0xfdd93d4b
+getBestOffer(address,address)
+getWorseOffer(uint256)
+getBestOffer(address,address)
+offers(uint256)
+getWorseOffer(uint256)
+offers(uint256)
+getBestOffer(address,address)
+offers(uint256)
+getWorseOffer(uint256)
+offers(uint256)

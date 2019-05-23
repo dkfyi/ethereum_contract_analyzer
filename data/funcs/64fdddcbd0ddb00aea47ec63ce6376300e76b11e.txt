@@ -1,0 +1,6 @@
+numberOfSales()
+totalTokens()
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+0xb5f522f7
+0xba2ad82b

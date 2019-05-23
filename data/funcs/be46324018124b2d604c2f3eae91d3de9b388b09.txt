@@ -1,0 +1,2 @@
+Infos()
+participantDetails(uint256)

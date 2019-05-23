@@ -1,0 +1,2 @@
+getMyMoney()
+0xe3850144

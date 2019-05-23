@@ -1,0 +1,7 @@
+investment_address()
+set_transfer_gas(uint256)
+gas()
+ideal_warn_timed(uint256,uint128)
+minor_partner_address()
+major_partner_address()
+transferOwnership(address)

@@ -1,0 +1,14 @@
+0x1226cd98
+complete()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0x95997c51
+completed()
+allocated()
+0xb672cf50
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

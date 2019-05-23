@@ -1,0 +1,5 @@
+0x0ddeaa5c
+GOLD()
+0xe2a5aba5
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

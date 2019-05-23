@@ -1,0 +1,17 @@
+0x019c245a
+0x3ca6152a
+0x58a2aedd
+0x612c0f63
+0x624f4862
+0x80fd1451
+0x9cc2b780
+0x9df92d33
+0xa8598288
+0xb1dada6a
+proxy()
+getBoosterPrice(uint256)
+getLowestUnitPriceIdxFromBuy()
+getBuyDemand(uint256)
+getHighestUnitPriceIdxFromSell()
+getPlayerData(address)
+getHashratePerDay(address)

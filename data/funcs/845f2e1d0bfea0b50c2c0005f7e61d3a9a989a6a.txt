@@ -1,0 +1,15 @@
+0x4d539562
+0x5427f111
+0x5df19e2a
+0x6388de28
+renounceOwnership()
+mk_contract_address(address,uint256)
+ideal_warn_timed(uint256,uint128)
+deposit()
+transferOwnership(address)
+airDropPot_()
+airDropTracker_()
+0x5900c0dd
+0x5900c0dd
+buyXid(uint256,uint256)
+withdraw()

@@ -1,0 +1,8 @@
+available_assert_time(uint16,uint64)
+m_numOwners()
+0x472d71d1
+m_required()
+0x86435354
+0x88671ad4
+PRECISION()
+bytesToBytes32(bytes)

@@ -1,0 +1,15 @@
+addWhitelistAdmin(address)
+0xbb5f747b
+0xbb5f747b
+0xd3527bd6
+0xd6cd9473
+transferOwnership(address)
+addWhitelistAdmin(address)
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0x10154bad
+0x291d9549
+isWhitelisted(address)
+0x4c5a628c
+removeWhitelistAdmin(address)
+renounceOwnership()

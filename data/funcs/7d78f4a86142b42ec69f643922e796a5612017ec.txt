@@ -1,0 +1,5 @@
+kill()
+0x7cf3a433
+holdCoin(address,address)
+0x8b69450d
+0xcf8c8ed6

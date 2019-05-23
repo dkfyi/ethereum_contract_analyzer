@@ -1,0 +1,5 @@
+decimalUnits()
+tokenName()
+balanceOf(address)
+tokenSymbol()
+many_msg_babbage(bytes1)

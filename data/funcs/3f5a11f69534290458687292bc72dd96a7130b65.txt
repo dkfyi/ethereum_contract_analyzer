@@ -1,0 +1,6 @@
+register(string,string,string,string)
+review(string,bool)
+0x32c32135
+0x52f33682
+totalUsers()
+0xf3a938e1

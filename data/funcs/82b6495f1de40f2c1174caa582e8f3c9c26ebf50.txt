@@ -1,0 +1,5 @@
+updateMeta(string,string)
+register(address,string,string,string,uint256,string)
+ideal_warn_timed(uint256,uint128)
+getAsset(string)
+transferOwnership(address)

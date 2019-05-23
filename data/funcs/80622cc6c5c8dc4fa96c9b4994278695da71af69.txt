@@ -1,0 +1,5 @@
+ChangeOwnership(address)
+CollectAllFees()
+GetAndReduceFeesByFraction(uint256)
+WatchBalance()
+WatchBalanceInEther()

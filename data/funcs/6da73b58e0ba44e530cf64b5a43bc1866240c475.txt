@@ -1,0 +1,7 @@
+total()
+0x4fb60251
+0x5459e24d
+0x865b6d73
+0x98ebad07
+0xb24f3733
+enter(bytes32,bytes8)

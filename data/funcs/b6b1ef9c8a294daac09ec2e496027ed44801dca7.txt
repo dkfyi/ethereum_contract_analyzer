@@ -1,0 +1,4 @@
+getinfo()
+0x20fba162
+kill()
+Test()

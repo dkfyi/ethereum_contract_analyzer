@@ -1,0 +1,8 @@
+0x0ceabd0d
+beneficiary()
+0x66b6b666
+tokenReward()
+price()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

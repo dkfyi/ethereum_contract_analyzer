@@ -1,0 +1,17 @@
+0x178cc6d5
+SetRate(uint256)
+rate()
+weiRaised()
+wallet()
+0x5b4012be
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0xb1001650
+0xc4255286
+0xdc8224d1
+buyTokens(address)
+transferOwnership(address)
+token()
+0x135f1b40
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

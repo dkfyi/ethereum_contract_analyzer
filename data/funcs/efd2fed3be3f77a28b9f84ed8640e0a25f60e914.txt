@@ -1,0 +1,15 @@
+0x0801b654
+temporalUnit()
+unpause()
+feeRecipient()
+paused()
+pause()
+ideal_warn_timed(uint256,uint128)
+factoryAddress()
+0xe666bbcb
+0x14c84e5d
+0xe9d24377
+min(uint256,uint256)
+computeEndowment(uint256,uint256,uint256,uint256,uint256,uint256)
+EXECUTION_GAS_OVERHEAD()
+0xe8d7a351

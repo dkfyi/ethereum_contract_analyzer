@@ -1,0 +1,9 @@
+deleteUserClaimInBulk(address[])
+contactInformation()
+updateUserClaim(address,uint256)
+deleteUserClaim(address)
+ideal_warn_timed(uint256,uint128)
+0xa960c65f
+setContactInformation(string)
+updateUserClaimInBulk(address[],uint256[])
+transferOwnership(address)

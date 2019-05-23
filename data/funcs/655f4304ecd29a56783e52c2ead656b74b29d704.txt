@@ -1,0 +1,6 @@
+getdepositValue()
+getvalue()
+addDeposit(uint256)
+withdrawals()
+isdeposit()
+withdrawtime()

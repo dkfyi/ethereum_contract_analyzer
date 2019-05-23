@@ -1,0 +1,6 @@
+getPlayerGainLossOnLastFlip()
+betAndFlip()
+kill()
+getEndowmentBalance()
+getContractCreationValue()
+0xfdb7ecd5

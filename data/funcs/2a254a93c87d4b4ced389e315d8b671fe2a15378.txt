@@ -1,0 +1,9 @@
+0x3498af48
+finish(uint8,uint8,uint8)
+ideal_warn_timed(uint256,uint128)
+calculatePrizes()
+playersCount()
+0xaf155a44
+addPlayer(address)
+finished()
+transferOwnership(address)

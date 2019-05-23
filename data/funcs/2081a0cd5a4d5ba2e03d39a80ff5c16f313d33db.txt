@@ -1,0 +1,2 @@
+updateWhitelist(address,uint8)
+whitelist(address)

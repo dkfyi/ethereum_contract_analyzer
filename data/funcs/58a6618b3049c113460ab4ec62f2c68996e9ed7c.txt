@@ -1,0 +1,16 @@
+0x020ed8d3
+0x087991bc
+setOwner(address)
+0x28e7677d
+0x4d46d581
+0x73cc48a6
+0x76a14d1d
+0x8438dc04
+ideal_warn_timed(uint256,uint128)
+anchors()
+0xbd7ed31a
+0xc327deef
+0xe60b202f
+hash(bytes,bytes,uint256)
+verify(bytes,bytes,bytes)
+verify(bytes,bytes)

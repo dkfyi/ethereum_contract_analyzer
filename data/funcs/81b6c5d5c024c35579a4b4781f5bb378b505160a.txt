@@ -1,0 +1,13 @@
+0x0c2b2186
+getRandom(uint8,uint8,address)
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+payOut()
+newOwner()
+transferOwnership(address)
+0xf5420374
+gasprice_bit_ether(int128)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

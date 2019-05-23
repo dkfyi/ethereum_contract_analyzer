@@ -1,0 +1,9 @@
+tokenContract()
+token_price()
+0x9d21ce9c
+0xd98af7f7
+0xee8a5a35
+master()
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

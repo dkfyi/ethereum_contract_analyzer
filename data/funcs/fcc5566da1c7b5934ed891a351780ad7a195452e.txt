@@ -1,0 +1,14 @@
+creator()
+0x0728da48
+sendPrize(uint256)
+checkPlayerExists(address)
+kill()
+resetData()
+playerInfo(address)
+0x53a79d74
+0x8ce04f42
+betAmount()
+numBets()
+0xf71d96cb
+0xf846cabc
+totalBet()

@@ -1,0 +1,14 @@
+0x12677dce
+manager()
+0x658486cf
+0x84847450
+ideal_warn_timed(uint256,uint128)
+setManager(address)
+0xdb7576fc
+0xdc68c52c
+transferOwnership(address)
+priceList(uint256)
+currentRate()
+buyTokens(address)
+safeTransfer(address,uint256,bytes)
+gasprice_bit_ether(int128)

@@ -1,0 +1,12 @@
+updateCustomFee(uint256,address,address,address,address)
+isOperator(address)
+MAX_OPS()
+ideal_warn_timed(uint256,uint128)
+updateFee(uint256)
+addOperator(address)
+removeOperator(address)
+removeAllOps()
+getFee(uint256,address,address,address,address)
+0xe28d4906
+0xe7233049
+transferOwnership(address)

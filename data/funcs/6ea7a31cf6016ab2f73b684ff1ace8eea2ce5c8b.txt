@@ -1,0 +1,12 @@
+totalVotes()
+0x149d50f7
+0x159b8710
+getElectionName(uint256)
+0x7e108a27
+ideal_warn_timed(uint256,uint128)
+0xafd5ed1d
+0xc9a350cd
+0xe134c737
+0xeceed339
+0xed81ff21
+0xff8f5aac

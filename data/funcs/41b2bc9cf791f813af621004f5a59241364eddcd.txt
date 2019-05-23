@@ -1,0 +1,16 @@
+0x1626ba7e
+0x215475b2
+0x46920bad
+version()
+operator()
+0x5d60fab9
+0x7a169d49
+ideal_warn_timed(uint256,uint128)
+0xa1e75069
+0xa2b7a469
+setOperator(address)
+transferOwnership(address)
+withdraw(address,uint256)
+0xe051f75b
+approve(address,uint256)
+many_msg_babbage(bytes1)

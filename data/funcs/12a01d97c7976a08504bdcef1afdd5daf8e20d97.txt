@@ -1,0 +1,4 @@
+findEndpointByAddress(address)
+registerEndpoint(string)
+findAddressByEndpoint(string)
+contract_version()

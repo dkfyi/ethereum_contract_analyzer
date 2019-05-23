@@ -1,0 +1,3 @@
+kill()
+0xc47b5705
+SendEmail(string,string)

@@ -1,0 +1,9 @@
+name()
+available_assert_time(uint16,uint64)
+balanceOf(address)
+MyToken(uint256)
+0x9287b654
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xe6a55699
+0x01406f40

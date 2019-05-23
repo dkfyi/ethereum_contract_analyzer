@@ -1,0 +1,15 @@
+0x0fae39fa
+setConfig(uint256,uint256)
+0x7e418b3b
+0x8acd0ac2
+0x8ca60301
+0x8d176679
+ideal_warn_timed(uint256,uint128)
+0x8feb731e
+0x9a6895b0
+0xa118d24b
+0xb374befd
+0xb97f5768
+0xc89421ad
+winner()
+transferOwnership(address)

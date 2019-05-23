@@ -1,0 +1,11 @@
+unpause()
+kill()
+paused()
+pause()
+0x947b60ee
+0xb4e3dfc3
+currentCount()
+0xd3b30b75
+reset()
+0xdb8c6794
+0xdd51babf

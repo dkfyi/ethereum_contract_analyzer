@@ -1,0 +1,9 @@
+bid(uint256)
+ownerOf(uint256)
+0x67b5f82c
+getColor(uint256)
+ideal_warn_timed(uint256,uint128)
+many_msg_babbage(bytes1)
+0xd6ee7ac7
+registerColor(string,uint256)
+transferOwnership(address)

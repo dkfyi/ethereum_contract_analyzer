@@ -1,0 +1,17 @@
+0x1f9a2e5e
+0x4811b141
+deactivate()
+0x556eea6d
+0x76c41357
+0x85aa2452
+0x8a7e729b
+0xb1a876ee
+0xb841d98a
+0xcfe3e225
+0x3b9aca00
+balanceOf(address)
+0x3b9aca00
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+balanceOf(address)

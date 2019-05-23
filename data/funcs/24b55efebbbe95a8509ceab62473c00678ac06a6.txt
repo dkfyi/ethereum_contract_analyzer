@@ -1,0 +1,8 @@
+onTransfer(address,address,uint256)
+0x51646364
+tokenContract()
+convert(uint256)
+onApprove(address,address,uint256)
+proxyPayment(address)
+gasprice_bit_ether(int128)
+generateTokens(address,uint256)

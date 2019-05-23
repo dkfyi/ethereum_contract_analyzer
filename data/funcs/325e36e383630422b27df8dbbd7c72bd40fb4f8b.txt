@@ -1,0 +1,3 @@
+0x09e2d1a6
+getInfo(uint256)
+kill()

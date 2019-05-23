@@ -1,0 +1,4 @@
+kill()
+purge()
+data()
+0x8b0d8b12

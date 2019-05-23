@@ -1,0 +1,7 @@
+getListCount()
+ideal_warn_timed(uint256,uint128)
+newEntry(bytes32,bytes32,bytes32,bytes16,bytes1,bytes16,bytes32,bytes32)
+pullRow(uint256)
+disclosureList(uint256)
+pullEntry(uint256)
+amendEntry(uint256,bytes32,bytes32,bytes32,bytes16,bytes1,bytes16,bytes32,bytes32)

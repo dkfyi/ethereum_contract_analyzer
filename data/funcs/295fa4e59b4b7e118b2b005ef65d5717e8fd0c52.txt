@@ -1,0 +1,2 @@
+howMany()
+0x8f6c696b

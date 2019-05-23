@@ -1,0 +1,10 @@
+0x079dd4b7
+tokenTransferProxy()
+0x2f866f73
+0x6fa9d056
+0x869f0511
+ideal_warn_timed(uint256,uint128)
+tokenRegistry()
+0xe2aa46bb
+transferOwnership(address)
+0xf8d89898

@@ -1,0 +1,3 @@
+bhCheck()
+bnCheck()
+isFork()

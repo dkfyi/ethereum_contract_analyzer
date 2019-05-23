@@ -1,0 +1,13 @@
+renounceOwnership()
+auction()
+ideal_warn_timed(uint256,uint128)
+reclaimEther()
+0xbca6ce64
+0xd98cf4be
+transferOwnership(address)
+0xf77fcc2a
+bid(uint256)
+many_msg_babbage(bytes1)
+getAuction(uint256)
+bid(uint256)
+many_msg_babbage(bytes1)

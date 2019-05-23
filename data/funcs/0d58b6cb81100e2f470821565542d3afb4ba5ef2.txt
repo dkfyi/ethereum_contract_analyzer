@@ -1,0 +1,6 @@
+setBeneficiary(address)
+0x3ea478aa
+0x598883c7
+0x985e6487
+transferOwnership(address)
+transferToken(address,address,uint256)

@@ -1,0 +1,5 @@
+0x0366fc49
+kill()
+payout()
+contractName()
+ideal_warn_timed(uint256,uint128)

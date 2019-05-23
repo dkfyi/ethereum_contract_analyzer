@@ -1,0 +1,10 @@
+getContract(address)
+withdraw()
+Dice()
+0x69bdc62d
+ideal_warn_timed(uint256,uint128)
+houseEdge()
+0xd7648e28
+houseEdgeDivisor()
+withdraw()
+play(uint256)

@@ -1,0 +1,6 @@
+getNewPeriod()
+getPeriod()
+getBlocksTillMatthew()
+getDestroyedWhenRoundOver()
+destroyWhenRoundOver()
+setNewPeriod(uint256)

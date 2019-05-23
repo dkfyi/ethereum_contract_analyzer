@@ -1,0 +1,16 @@
+changeDescription(address,string)
+unregister(address)
+searchByOwner(address)
+changeName(address,string)
+indexedByTag(bytes32,uint256)
+register(address,address,string,string,bytes32[],uint256,string)
+setTime(address,uint256)
+getRegInfo(address)
+transfer(address,address)
+indexedByOwner(address,uint256)
+searchByTag(bytes32)
+registries(address)
+numRegistries()
+searchByName(string)
+0xedf26d9b
+0x579bd722

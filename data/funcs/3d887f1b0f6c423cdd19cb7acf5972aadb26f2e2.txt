@@ -1,0 +1,11 @@
+0x06ae19a2
+0x07fb5bc2
+0x41affd45
+0x554b66a5
+0x5f2ebe27
+destroy()
+0x852ba312
+ideal_warn_timed(uint256,uint128)
+0xb925e0f2
+documents(uint256)
+transferOwnership(address)

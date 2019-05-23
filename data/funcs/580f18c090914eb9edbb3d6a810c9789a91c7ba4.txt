@@ -1,0 +1,3 @@
+callEmitter(uint256)
+setEmitter(address)
+emit(uint256)

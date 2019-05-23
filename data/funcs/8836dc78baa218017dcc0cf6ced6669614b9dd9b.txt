@@ -1,0 +1,5 @@
+setAddr(string,address)
+getAddr(string)
+SendERC20ToAsset(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

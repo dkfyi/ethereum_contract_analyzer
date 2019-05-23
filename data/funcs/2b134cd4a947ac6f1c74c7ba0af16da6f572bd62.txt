@@ -1,0 +1,15 @@
+0x508c1dbd
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0x916c03ba
+buy(address,uint256)
+transferOwnership(address)
+isApprovedForAll(address,address)
+ownerOf(uint256)
+ownerOf(uint256)
+isApprovedForAll(address,address)
+ownerOf(uint256)
+ideal_warn_timed(uint256,uint128)
+safeTransferFrom(address,address,uint256)
+ownerOf(uint256)

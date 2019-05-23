@@ -1,0 +1,8 @@
+0x35eff7e4
+beneficiary()
+totalBought()
+setBuyPrice(uint256)
+tokenReward()
+balanceOf(address)
+buyPrice()
+many_msg_babbage(bytes1)

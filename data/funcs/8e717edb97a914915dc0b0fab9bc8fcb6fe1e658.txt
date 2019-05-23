@@ -1,0 +1,6 @@
+namehash(string)
+IPFShash(string)
+tinyIPFShash(string)
+publicResolver()
+text(bytes32,string)
+text(bytes32,string)

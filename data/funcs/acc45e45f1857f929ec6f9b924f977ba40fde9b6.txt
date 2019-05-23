@@ -1,0 +1,8 @@
+count()
+add(address)
+remove(address)
+setMembers(address[])
+ideal_warn_timed(uint256,uint128)
+closedown()
+changeOwner(address)
+memberAt(uint256)

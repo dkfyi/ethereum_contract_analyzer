@@ -1,0 +1,8 @@
+owners(uint256)
+n()
+isOwner(address)
+m()
+hasConfirmed(bytes32,address)
+totalRaised()
+send(address,uint256)
+required()

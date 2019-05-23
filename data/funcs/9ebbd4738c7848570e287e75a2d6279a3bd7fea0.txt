@@ -1,0 +1,17 @@
+0x1b042ded
+getTokensCount()
+0x4445a316
+tokens(uint256)
+version()
+0x6057ea44
+ideal_warn_timed(uint256,uint128)
+0x9231b020
+getTokens()
+0xbd17183d
+getAddress(bytes32)
+getAddress(bytes32)
+getAddress(bytes32)
+getBool(bytes32)
+setBool(bytes32,bool)
+0xf2a5e3bd
+getAddress(bytes32)

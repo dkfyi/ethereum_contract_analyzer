@@ -1,0 +1,17 @@
+Drawer()
+withdraw(uint256)
+0x44f98fa5
+award(bytes32)
+getTicketTime(bytes32)
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+chargeOwe(bytes32)
+LimitBottom()
+submit(bytes32,bytes32)
+changeLimit(uint256,uint256)
+newOwner()
+LimitTop()
+changeDrawer(address)
+getisPlay(bytes32)
+transferOwnership(address)
+0x0133ee84

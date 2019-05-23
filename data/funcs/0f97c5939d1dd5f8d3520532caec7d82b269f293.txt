@@ -1,0 +1,9 @@
+banker()
+0x17e4e25d
+withdrawToOwner(uint256)
+ideal_warn_timed(uint256,uint128)
+0x9989f16f
+deposit()
+refundBet(uint256)
+setBanker(address)
+0xfaf6337b

@@ -1,0 +1,16 @@
+0x8c1e07f7
+0xba5aced2
+0xf5fe6fa4
+ideal_warn_timed(uint256,uint128)
+totalSupply()
+getConnectorBalance(address)
+ideal_warn_timed(uint256,uint128)
+quickConvert(address[],uint256,uint256)
+quickConvert(address[],uint256,uint256)
+approve(address,uint256)
+approve(address,uint256)
+quickConvert(address[],uint256,uint256)
+ideal_warn_timed(uint256,uint128)
+quickConvert(address[],uint256,uint256)
+ideal_warn_timed(uint256,uint128)
+quickConvertPrioritized(address[],uint256,uint256,uint256,uint8,bytes32,bytes32)

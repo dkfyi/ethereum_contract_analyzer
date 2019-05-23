@@ -1,0 +1,4 @@
+kill()
+transferIfHF(address)
+transferIfNoHF(address)
+isHF()

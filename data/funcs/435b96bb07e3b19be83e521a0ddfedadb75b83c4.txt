@@ -1,0 +1,15 @@
+setToken(address)
+tokenAddr()
+getETHBalance()
+0x8181847c
+withdrawRemainingTokens()
+ideal_warn_timed(uint256,uint128)
+0x96320979
+0x9e66e0f3
+0xa312880b
+withdrawETH()
+token()
+many_msg_babbage(bytes1)
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

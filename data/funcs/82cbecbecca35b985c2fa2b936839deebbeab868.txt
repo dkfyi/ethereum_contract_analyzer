@@ -1,0 +1,6 @@
+transfer(address,uint256,uint256)
+totalSupply()
+0x54df0f9e
+ownerOf(uint256)
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)

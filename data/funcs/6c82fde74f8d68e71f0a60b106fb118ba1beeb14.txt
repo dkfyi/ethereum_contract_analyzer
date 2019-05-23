@@ -1,0 +1,4 @@
+contract_owner()
+acceptOwnership()
+contract_newOwner()
+transferOwnership(address)

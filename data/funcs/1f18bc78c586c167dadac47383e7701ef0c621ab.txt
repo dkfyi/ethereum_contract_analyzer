@@ -1,0 +1,13 @@
+close()
+0x4f56da2a
+wallet()
+preSale()
+0x62ceaec0
+enableRefunds()
+ideal_warn_timed(uint256,uint128)
+state()
+0xcb13cddb
+kill(address)
+transferOwnership(address)
+deposit(address)
+refund(address)

@@ -1,0 +1,13 @@
+withdraw(uint256)
+kill()
+0x7e7efc91
+0x7fc11fea
+0x9f6bd1c0
+0xa910a18c
+0xc213b5a3
+deposit()
+withdraw(uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+deposit()

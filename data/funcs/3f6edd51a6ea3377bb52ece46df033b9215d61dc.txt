@@ -1,0 +1,11 @@
+0x02399125
+streamityContractAddress()
+0x53122f56
+withdrawCommisionToAddressAltCoin(address,uint256)
+ideal_warn_timed(uint256,uint128)
+setStreamityContractAddress(address)
+transferOwnership(address)
+0xf7b8a600
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)
+recover(bytes32,bytes)

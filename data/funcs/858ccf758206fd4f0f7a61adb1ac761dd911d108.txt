@@ -1,0 +1,13 @@
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+update()
+0xb41d93a6
+getAddress()
+getAddress()
+randomDS_getSessionPubKeyHash()
+getAddress()
+getAddress()
+getAddress()
+getAddress()
+getPrice(string,uint256)
+queryN_withGasLimit(uint256,string,bytes,uint256)

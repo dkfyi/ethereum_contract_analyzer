@@ -1,0 +1,3 @@
+getIdentity(address)
+0x8adc134d
+addIdentity(address)

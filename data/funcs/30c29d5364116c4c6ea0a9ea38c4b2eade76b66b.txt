@@ -1,0 +1,5 @@
+getCreator()
+setMessage(string)
+getTotalGas()
+getLastCaller()
+getMessage()

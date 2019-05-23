@@ -1,0 +1,11 @@
+getAddress(bytes32)
+0x5eb07dbd
+renounceOwnership()
+0x86ac6bdf
+0x8bd002b5
+ideal_warn_timed(uint256,uint128)
+0xbc01efc8
+getUint(bytes32)
+setAddress(bytes32,address)
+setUint(bytes32,uint256)
+transferOwnership(address)

@@ -1,0 +1,5 @@
+0x16b59f3a
+0x2891a990
+addHash(bytes32)
+0x6c4f7da4
+0xf9f66dee

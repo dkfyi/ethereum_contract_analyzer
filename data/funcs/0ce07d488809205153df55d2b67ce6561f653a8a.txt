@@ -1,0 +1,6 @@
+0x33920503
+acceptOwnership()
+0x8322ada6
+ideal_warn_timed(uint256,uint128)
+newOwner()
+transferOwnership(address)

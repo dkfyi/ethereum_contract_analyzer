@@ -1,0 +1,6 @@
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+getValue(string)
+0xec86cfad
+transferOwnership(address)

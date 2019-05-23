@@ -1,0 +1,5 @@
+manager()
+collectFunds()
+0x8da7f232
+getColors(uint32)
+setColors(uint32[],uint8[])

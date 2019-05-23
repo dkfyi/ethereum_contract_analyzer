@@ -1,0 +1,12 @@
+proposals(uint256)
+chairperson()
+0x3513f8fb
+close()
+tokenContract()
+closed()
+winningProposal()
+voters(address)
+vote(uint256,uint256)
+fundContract()
+winnerName()
+gasprice_bit_ether(int128)

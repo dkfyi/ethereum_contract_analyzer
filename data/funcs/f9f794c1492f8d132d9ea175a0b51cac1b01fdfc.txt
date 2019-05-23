@@ -1,0 +1,3 @@
+kill()
+get(string)
+set(string,uint256)

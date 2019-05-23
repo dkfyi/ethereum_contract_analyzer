@@ -1,0 +1,16 @@
+0x01c0954b
+0x16f4d52d
+0x1878a5c9
+confirmTransfer(uint256)
+unpause()
+0x413d3cf1
+0x448878fc
+0x59ecd657
+paused()
+pause()
+ideal_warn_timed(uint256,uint128)
+0x94cf795e
+getRequiredSignatures()
+transferOwnership(address)
+0xf91a7b89
+many_msg_babbage(bytes1)

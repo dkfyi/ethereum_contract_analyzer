@@ -1,0 +1,3 @@
+init()
+getTimes()
+0xfc7b6aee

@@ -1,0 +1,17 @@
+name()
+totalSupply()
+0x1dbe22be
+tokenOfOwnerByIndex(address,uint256)
+0x4357a543
+tokenByIndex(uint256)
+ownerOf(uint256)
+0x660ffae6
+balanceOf(address)
+burnToken(uint256)
+getTokenInfo(uint256)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+0xc1a87948
+0xd3568dc3
+0xe0681e36
+transferOwnership(address)

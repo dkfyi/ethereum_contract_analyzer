@@ -1,0 +1,5 @@
+beneficiary()
+tokenReward()
+balanceOf(address)
+Price()
+many_msg_babbage(bytes1)

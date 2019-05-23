@@ -1,0 +1,16 @@
+0x0147d79c
+creator()
+0x05d950a2
+name()
+0x098a9e51
+getTokenAddress()
+totalSupply()
+0x2d3582a1
+withdraw(uint256)
+available_assert_time(uint16,uint64)
+link_classic_internal(uint64,int64)
+getCurrentBalance()
+0xaf0d7e88
+0xcb977480
+deposit()
+0xfc74ba66

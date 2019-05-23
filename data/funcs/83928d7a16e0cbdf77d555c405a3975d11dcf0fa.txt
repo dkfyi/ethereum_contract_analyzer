@@ -1,0 +1,16 @@
+0x0f3beee4
+0x10ab7691
+0x1cab59a4
+minPayment()
+0x49b2cc5f
+0x556c1a71
+0x9a36e73b
+0xaa66bfb9
+calculationOfPayment()
+userDeposit(address)
+0xd2fe0d76
+0xd388bd02
+0xe35c8026
+0xe42306ae
+0xf59bbc9e
+ReturnEthToEtherhero()

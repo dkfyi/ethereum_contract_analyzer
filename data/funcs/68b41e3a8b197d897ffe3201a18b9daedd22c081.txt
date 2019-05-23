@@ -1,0 +1,8 @@
+fipsTransfer(bytes20,address)
+fipsPublishData(bytes20,bytes)
+fipsOwner(bytes20)
+0x569bd0ca
+fipsRegister()
+destroy()
+registrantApprove(address)
+registrantRemove(address)

@@ -1,0 +1,2 @@
+makeOldFucks(uint32)
+giveBlockReward()

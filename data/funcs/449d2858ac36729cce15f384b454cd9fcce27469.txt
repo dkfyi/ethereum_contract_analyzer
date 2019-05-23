@@ -1,0 +1,7 @@
+send(address,address,uint256)
+withdraw()
+ideal_warn_timed(uint256,uint128)
+multisend(address,address[],uint256[])
+transferOwnership(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

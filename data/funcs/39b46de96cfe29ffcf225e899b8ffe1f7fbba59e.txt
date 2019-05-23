@@ -1,0 +1,14 @@
+getAuditReportIPFS(address,bytes32)
+getAuditOutcome(address,bytes32)
+AUDITED_AND_APPROVED()
+NOT_AUDITED()
+registerAudit(bytes32,bytes,bool)
+changeSolidStampContract(address)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+AUDITED_AND_REJECTED()
+0xdc119bec
+registerAudits(bytes32[],bytes,bool)
+0xef100a79
+transferOwnership(address)
+auditContract(address,bytes32,bytes,bool)

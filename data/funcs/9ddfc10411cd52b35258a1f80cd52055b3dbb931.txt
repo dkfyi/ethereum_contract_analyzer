@@ -1,0 +1,5 @@
+contracts(uint256)
+addMultipleContracts(bytes32,bytes32,bytes32,bytes32,address[],bytes32)
+contractCount()
+signContract(uint256)
+addContract(bytes32,bytes32,bytes32,bytes32,address,bytes32)

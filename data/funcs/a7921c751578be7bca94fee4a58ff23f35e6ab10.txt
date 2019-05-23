@@ -1,0 +1,5 @@
+sealer()
+getMarriage(uint256)
+sign(string,string,string,string)
+sealedBy()
+numMarriages()

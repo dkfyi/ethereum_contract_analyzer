@@ -1,0 +1,3 @@
+addToken(address,uint256)
+transfer(address,address,uint256)
+getBalance(address)

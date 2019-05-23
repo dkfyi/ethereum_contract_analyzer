@@ -1,0 +1,7 @@
+completedGames()
+jackpot()
+MaxPlayers()
+getPlayers()
+ideal_warn_timed(uint256,uint128)
+0xf71d96cb
+lastWinner()

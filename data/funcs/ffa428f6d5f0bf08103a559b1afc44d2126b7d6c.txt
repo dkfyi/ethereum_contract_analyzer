@@ -1,0 +1,6 @@
+totalSupply()
+withdraw(uint256)
+finalize()
+balanceOf(address)
+disallow(address)
+approve(address)

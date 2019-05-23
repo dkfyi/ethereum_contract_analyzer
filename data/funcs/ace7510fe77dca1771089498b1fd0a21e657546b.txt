@@ -1,0 +1,15 @@
+0x7ad47ac3
+0x7ad47ac3
+0x8537bbe3
+0xb3c4a821
+0xd42196cd
+retrieveEth()
+getMasterCopy()
+0x12937659
+getSender()
+0x6c350f7b
+0x77465545
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

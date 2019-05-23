@@ -1,0 +1,8 @@
+setFromContractAddr(address)
+fromContractAddr()
+getNewToken(uint256)
+0x6ec79557
+setToContractAddr(address)
+toContractAddr()
+ownerOf(uint256)
+issueTokenAndTransfer(uint256,address)

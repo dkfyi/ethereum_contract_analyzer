@@ -1,0 +1,11 @@
+creator()
+0x13d18f53
+getTokenBalance(address)
+standardToken()
+0x63531b17
+0x755b2110
+0xe845626b
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

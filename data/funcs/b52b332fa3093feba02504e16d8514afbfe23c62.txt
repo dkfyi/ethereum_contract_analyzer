@@ -1,0 +1,3 @@
+last()
+store()
+0xbb95d992

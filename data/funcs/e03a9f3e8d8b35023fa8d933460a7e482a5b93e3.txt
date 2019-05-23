@@ -1,0 +1,10 @@
+isRegistered()
+users(uint256)
+0x401090ea
+0x6ed6da9e
+registerUser(string)
+updateUser(bytes32)
+0xb8e21a5b
+totalUsers()
+stringToBytes32(string)
+0xfd1b5158

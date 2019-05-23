@@ -1,0 +1,13 @@
+0x204e1c7a
+renounceOwnership()
+0x7eff275e
+ideal_warn_timed(uint256,uint128)
+0x9623609d
+upgrade(address,address)
+transferOwnership(address)
+0xf3b7dead
+implementation()
+changeAdmin(address)
+upgradeToAndCall(address,bytes)
+upgradeTo(address)
+admin()

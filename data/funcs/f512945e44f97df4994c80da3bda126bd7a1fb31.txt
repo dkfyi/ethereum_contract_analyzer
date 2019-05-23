@@ -1,0 +1,16 @@
+name()
+totalSupply()
+0x1ad184ff
+available_assert_time(uint16,uint64)
+standard()
+balanceOf(address)
+0x845d4ecd
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+0xa5610de5
+many_msg_babbage(bytes1)
+frozenAccount(address)
+mint(address,uint256,string)
+freezeAccount(address,bool,string)
+transferOwnership(address)
+0xf8bcbb21

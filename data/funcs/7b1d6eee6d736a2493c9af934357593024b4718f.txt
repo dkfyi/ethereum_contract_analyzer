@@ -1,0 +1,13 @@
+deadline()
+changeMinimum(uint256)
+beneficiary()
+stopCrowdsale()
+minimum()
+tokenReward()
+balanceOf(address)
+fundingGoal()
+amountRaised()
+ideal_warn_timed(uint256,uint128)
+price()
+0xa10600fb
+many_msg_babbage(bytes1)

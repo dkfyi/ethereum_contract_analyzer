@@ -1,0 +1,4 @@
+Set_your_game_number(uint16)
+Last_block_number_and_bloctime_used()
+Results_of_the_last_round()
+Game_balance_in_Ethers()

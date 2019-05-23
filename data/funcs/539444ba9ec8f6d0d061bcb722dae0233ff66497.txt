@@ -1,0 +1,7 @@
+0x1afa8e3b
+0x8e0b10f7
+_payRoyalty()
+hasProof(bytes32)
+notarise(bytes32)
+hasProof(bytes32)
+storeProof(bytes32)

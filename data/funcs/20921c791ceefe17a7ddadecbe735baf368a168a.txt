@@ -1,0 +1,6 @@
+0x04812d1e
+getPlayerGainLossOnLastFlip()
+kill()
+getEndowmentBalance()
+getContractCreationValue()
+0xfdb7ecd5

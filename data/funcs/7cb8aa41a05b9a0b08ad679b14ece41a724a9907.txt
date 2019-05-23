@@ -1,0 +1,17 @@
+0x0a116af8
+0x4bf61d10
+0x949b61c2
+0xa6a1497e
+0xcd94779f
+0x792a0a80
+name()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+decreaseApproval(address,uint256)
+balanceOf(address)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+increaseApproval(address,uint256)
+allowance(address,address)

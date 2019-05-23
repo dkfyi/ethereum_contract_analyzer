@@ -1,0 +1,7 @@
+kill()
+add_owner(address)
+withdraw(address)
+price()
+change_price(uint256)
+0xd60f8f4d
+remove_owner(address)

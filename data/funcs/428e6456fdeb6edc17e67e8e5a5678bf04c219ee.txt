@@ -1,0 +1,12 @@
+0x43319cf0
+changeRealZipper(address)
+0x6139dbb9
+0x683ae083
+0x887e7be5
+withdraw(address,uint256)
+submitTransaction(address,uint256,bytes)
+revokeConfirmation(uint256)
+confirmTransaction(uint256)
+isOwner(address)
+isOwner(address)
+submitTransaction(address,uint256,bytes)

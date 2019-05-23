@@ -1,0 +1,14 @@
+owners(address)
+getBalance()
+removeOwner(address)
+0x6e57d15b
+addOwner(address)
+updateToken(address)
+destination()
+ownersCount()
+0xc10f410b
+lockedUntil()
+0xdb618828
+token()
+balanceOf(address)
+many_msg_babbage(bytes1)

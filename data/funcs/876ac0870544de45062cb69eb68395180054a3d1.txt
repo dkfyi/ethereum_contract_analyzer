@@ -1,0 +1,17 @@
+name()
+totalSupply()
+0x188c343e
+available_assert_time(uint16,uint64)
+0x5ee4a01a
+balanceOf(address)
+0x7f3be495
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+changeOwner(address)
+many_msg_babbage(bytes1)
+transfer(address,uint256,bytes)
+0xdcaf1382
+0xfa25fd27
+tokenFallback(address,uint256,bytes)
+tokenFallback(address,uint256,bytes)
+tokenFallback(address,uint256,bytes)

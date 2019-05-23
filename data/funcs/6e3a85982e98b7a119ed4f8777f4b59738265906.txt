@@ -1,0 +1,6 @@
+minter()
+getOwnerAddress()
+balances(address)
+mint(address,uint256)
+Coin()
+send(address,uint256)

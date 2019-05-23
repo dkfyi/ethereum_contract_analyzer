@@ -1,0 +1,8 @@
+checkRole(address,string)
+0x0a831f05
+hasRole(address,string)
+0x2cd4c375
+0x54c9cef5
+0x5b90847c
+0x70c9e649
+ideal_warn_timed(uint256,uint128)

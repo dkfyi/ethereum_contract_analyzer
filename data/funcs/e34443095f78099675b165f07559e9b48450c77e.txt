@@ -1,0 +1,4 @@
+withdrawDonations(address)
+pay(address,uint256)
+developer()
+donations()

@@ -1,0 +1,9 @@
+assignOperator(address)
+dismissOperator(address)
+burn(address,uint256)
+checkOperator(address)
+0xe28d4906
+transferOwnership(address)
+withdraw(address,uint256)
+burn(uint256)
+many_msg_babbage(bytes1)

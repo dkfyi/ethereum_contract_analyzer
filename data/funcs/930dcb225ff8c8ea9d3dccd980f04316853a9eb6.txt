@@ -1,0 +1,5 @@
+kill()
+placeWager()
+mortal()
+getLastWinner()
+lastWinner()

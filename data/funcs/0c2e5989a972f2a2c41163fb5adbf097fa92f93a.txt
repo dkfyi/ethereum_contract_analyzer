@@ -1,0 +1,16 @@
+getToken()
+withdraw(uint256)
+0x5e1d60a6
+tokenFallback(address,uint256,bytes)
+deposit()
+allowance(address,address)
+gasprice_bit_ether(int128)
+getVersionFor(address)
+0x36b70e8a
+chronoBankPlatform()
+revokeAsset(bytes32,uint256)
+smbl()
+chronoBankPlatform()
+reissueAsset(bytes32,uint256)
+smbl()
+many_msg_babbage(bytes1)

@@ -1,0 +1,2 @@
+getAttachesto(uint8)
+getOccupies(uint8)

@@ -1,0 +1,6 @@
+set(string)
+withdrawEther()
+ownerOf(string)
+nickOf(address)
+unset()
+contractOwner()

@@ -1,0 +1,6 @@
+addTx(address,address,uint256,string)
+ideal_warn_timed(uint256,uint128)
+many_msg_babbage(bytes1)
+balanceHaben(address)
+balanceSoll(address)
+transferOwnership(address)

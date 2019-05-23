@@ -1,0 +1,2 @@
+0x9e69c732
+lookup(string)

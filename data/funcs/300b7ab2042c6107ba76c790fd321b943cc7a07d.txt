@@ -1,0 +1,6 @@
+sendDivsToBankroll()
+buyTokensWithProperEvent(address,uint8)
+changeBankroll(address)
+balanceOf(address)
+buyAndTransfer(address,address,bytes,uint8)
+balanceOf(address)

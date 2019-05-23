@@ -1,0 +1,15 @@
+numberOfVotes()
+0x17f73bd2
+0x2576a7e9
+0x4d87682c
+0x4e897592
+vote(address)
+0x7eadebfe
+0x82794fb5
+0xb0340123
+0xbba594fd
+execute(address,uint256,bytes32)
+0xcf06678c
+calculateVotes()
+balanceOf(address)
+0x6ee3f3f7

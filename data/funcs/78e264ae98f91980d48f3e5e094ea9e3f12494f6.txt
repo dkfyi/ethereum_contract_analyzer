@@ -1,0 +1,10 @@
+name()
+issue(address)
+description()
+ideal_warn_timed(uint256,uint128)
+place()
+hoursCount()
+language()
+0xf02d7ef0
+transferOwnership(address)
+annul(address)

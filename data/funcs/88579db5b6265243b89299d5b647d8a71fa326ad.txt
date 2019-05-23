@@ -1,0 +1,15 @@
+withdrawFunds(uint256)
+0x2530ea71
+addFunds(address)
+getContractBalance()
+0x7e504310
+0x7f81e207
+ideal_warn_timed(uint256,uint128)
+0x9f4bf27e
+0xaf33aa06
+0xc84aae17
+0xcd7b7bfc
+0xdc311dd3
+0xedb2272d
+0xeecefbf1
+transferOwnership(address)

@@ -1,0 +1,7 @@
+sale_address()
+founder()
+ends()
+price()
+begins()
+SISA_token()
+gasprice_bit_ether(int128)

@@ -1,0 +1,10 @@
+0x03785c7e
+name()
+0x48b9ef40
+description()
+0x778c3e53
+0x870cd42c
+0x89c3e46c
+completed()
+0xa6f15a5e
+donate()

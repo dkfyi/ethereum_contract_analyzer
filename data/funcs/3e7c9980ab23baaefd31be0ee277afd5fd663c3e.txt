@@ -1,0 +1,13 @@
+setSecurityCheck(string)
+setBeneficiary(address)
+beneficiary()
+kill()
+setCost(uint256)
+delegate(address)
+buildingCostWei()
+ideal_warn_timed(uint256,uint128)
+0x9abee935
+getLastContract()
+getContractsOf(address,uint256)
+securityCheckURI()
+0xba8ff04a

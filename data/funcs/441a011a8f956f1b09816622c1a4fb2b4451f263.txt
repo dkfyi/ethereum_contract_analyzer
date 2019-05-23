@@ -1,0 +1,4 @@
+create(string,string)
+0x250caccc
+kill()
+0x68744046

@@ -1,0 +1,7 @@
+getBalance()
+withdrawDeposit(uint256)
+getWinner(uint256)
+charge()
+0x5578027e
+getWinnerCount()
+0xdaf155f4

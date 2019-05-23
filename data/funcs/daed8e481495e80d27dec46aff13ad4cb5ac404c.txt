@@ -1,0 +1,3 @@
+totalSupply()
+balanceOf(address)
+contribute()

@@ -1,0 +1,3 @@
+getWeiPriceOneUsd()
+0xa60c5899
+peek()

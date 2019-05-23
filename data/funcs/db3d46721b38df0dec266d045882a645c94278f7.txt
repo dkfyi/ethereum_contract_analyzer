@@ -1,0 +1,14 @@
+0x0d8a4da5
+activate()
+0x2640a2b5
+deactivate()
+version()
+details()
+0x571b3424
+progress()
+0x80004957
+ideal_warn_timed(uint256,uint128)
+0xb660b06a
+0xbf15071d
+0xcdea24cb
+0xf17d8d4a

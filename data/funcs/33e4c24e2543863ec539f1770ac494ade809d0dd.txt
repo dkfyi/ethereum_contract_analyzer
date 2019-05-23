@@ -1,0 +1,11 @@
+selfAddress()
+version()
+withdrawTokens(address,address,uint256)
+sender()
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+etherToken()
+0xd3fc24d5
+newOwner()
+transferOwnership(address)
+many_msg_babbage(bytes1)

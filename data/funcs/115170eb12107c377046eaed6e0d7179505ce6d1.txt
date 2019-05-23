@@ -1,0 +1,17 @@
+name()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+unpause()
+mint(address,uint256)
+burn(uint256)
+paused()
+balanceOf(address)
+decimal()
+pause()
+newManager(address)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xb39e12cf
+allowance(address,address)
+0xc4a11628

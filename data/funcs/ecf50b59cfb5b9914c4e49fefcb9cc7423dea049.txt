@@ -1,0 +1,7 @@
+setOwner(address)
+m_numOwners()
+kill()
+authorizeAddress(address)
+m_required()
+execute(address,uint256,bytes)
+deauthorizeAddress(address)

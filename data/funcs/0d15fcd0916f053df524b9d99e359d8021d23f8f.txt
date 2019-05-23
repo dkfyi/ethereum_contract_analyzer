@@ -1,0 +1,15 @@
+0x1d70c753
+kill()
+sys()
+canCall(address,address,bytes4)
+setOwner(address)
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+get(bytes32)
+unset(bytes32)
+canCall(address,address,bytes4)
+authority()
+0xdc09a8a7
+set(bytes32,bytes32)
+canCall(address,address,bytes4)
+canCall(address,address,bytes4)

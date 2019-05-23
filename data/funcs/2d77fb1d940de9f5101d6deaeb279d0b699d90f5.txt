@@ -1,0 +1,14 @@
+centsPerEther()
+getCurrentPrice(uint256,uint256)
+isPricingStrategy()
+0x42d3f84a
+0x6ee3dbe7
+ideal_warn_timed(uint256,uint128)
+0x9aa0dd82
+0xcfe9f778
+setCentsPerEther(uint256)
+setPreicoAddress(address,uint256)
+isPresalePurchase(address)
+preicoAddresses(address)
+transferOwnership(address)
+0xfce04955

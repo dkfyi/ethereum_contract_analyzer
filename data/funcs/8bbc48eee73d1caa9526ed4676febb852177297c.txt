@@ -1,0 +1,4 @@
+setOwner(address)
+getAddress()
+kill()
+setAddress(address)

@@ -1,0 +1,6 @@
+manager()
+collectFunds()
+ideal_warn_timed(uint256,uint128)
+0x8da7f232
+getColors(uint32)
+setColors(uint32[],uint8[])

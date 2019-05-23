@@ -1,0 +1,5 @@
+updateRequestSeed(bytes32,bytes32)
+addItem(bytes32)
+checkItem(bytes32)
+ideal_warn_timed(uint256,uint128)
+getPublicForSecretFor(bytes32)

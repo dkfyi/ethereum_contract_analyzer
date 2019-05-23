@@ -1,0 +1,13 @@
+snapshotCount()
+authorize(address,bool)
+deleteRef(string)
+getSnapshot(uint256)
+0x80c75bb2
+refCount()
+isObsolete()
+setRef(string,string)
+refName(uint256)
+getRef(string)
+0xb2761b8e
+repoInterfaceVersion()
+addSnapshot(string)

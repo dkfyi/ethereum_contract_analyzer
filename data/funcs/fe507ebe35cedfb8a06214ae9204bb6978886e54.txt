@@ -1,0 +1,10 @@
+0x1f73c1a9
+version()
+ideal_warn_timed(uint256,uint128)
+receive()
+pay(address,uint256)
+getAddress(bytes32)
+0x9231b020
+many_msg_babbage(bytes1)
+getAddress(bytes32)
+getAddress(bytes32)

@@ -1,0 +1,10 @@
+0x1bab8472
+baseAmount()
+decimalFactor()
+ideal_warn_timed(uint256,uint128)
+0xa814216a
+levelOneBonus()
+levelTwoBonus()
+transferOwnership(address)
+0xfb316f4c
+many_msg_babbage(bytes1)

@@ -1,0 +1,6 @@
+title()
+description()
+0x749bb234
+ideal_warn_timed(uint256,uint128)
+price()
+changePrice(uint256)

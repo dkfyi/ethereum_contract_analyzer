@@ -1,0 +1,5 @@
+vote(uint256)
+candidatesCount()
+0x3477ee2e
+kill()
+voters(address)

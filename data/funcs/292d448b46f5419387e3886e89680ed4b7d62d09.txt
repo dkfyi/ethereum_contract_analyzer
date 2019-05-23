@@ -1,0 +1,7 @@
+beneficiaryUserIds(uint256)
+tokenAddr()
+ideal_warn_timed(uint256,uint128)
+addBonusToken(address,uint256)
+transferOwnership(address)
+beneficiaryAddresses(address)
+mintFromTrustedContract(address,uint256)

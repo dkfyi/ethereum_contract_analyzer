@@ -1,0 +1,15 @@
+contracts(uint256)
+getContractCount()
+0x9bb6f01d
+active()
+getBalance()
+killContract()
+0x38ae53ae
+0x7f510878
+getOwner()
+ideal_warn_timed(uint256,uint128)
+0x9095f121
+payout(uint256,address)
+0xcd014e58
+addBalance(uint256)
+arbiter()

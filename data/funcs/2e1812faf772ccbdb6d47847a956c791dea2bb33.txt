@@ -1,0 +1,15 @@
+removeMember(address)
+getBalance()
+0x1bae7684
+0x4d1cbf83
+0x8ce1ca7b
+ideal_warn_timed(uint256,uint128)
+isMember(address)
+join()
+addMember(address)
+0xe96fb981
+transferOwnership(address)
+0xfb488204
+quit()
+allowance(address,address)
+gasprice_bit_ether(int128)

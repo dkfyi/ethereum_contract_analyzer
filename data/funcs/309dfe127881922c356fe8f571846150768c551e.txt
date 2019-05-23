@@ -1,0 +1,6 @@
+getBalance()
+ticketPrice()
+getLastTicketTime()
+withdraw()
+lottoIndex()
+AddTicket()

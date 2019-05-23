@@ -1,0 +1,13 @@
+0x078bc758
+0x2692b8d5
+0x2f04fa25
+0x3e10bddd
+0x474a59f2
+0x8a119af9
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+0xae5fa5fb
+0xb79c594c
+setMinBalance(uint256)
+VERSION()
+gasprice_bit_ether(int128)

@@ -1,0 +1,14 @@
+getBalance()
+0x28e80635
+kill()
+0x519cabfa
+withdrawal(uint256)
+ideal_warn_timed(uint256,uint128)
+0xa29282f1
+0xacd980cb
+0xb49440ac
+0xeba01e8e
+donate()
+transferOwnership(address)
+withdrawalAll()
+getLastWinner()

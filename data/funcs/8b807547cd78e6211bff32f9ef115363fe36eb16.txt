@@ -1,0 +1,5 @@
+memberCount()
+shareOf(address)
+withdraw()
+0xd3c86f54
+0xf12b3f02

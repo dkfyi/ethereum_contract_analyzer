@@ -1,0 +1,11 @@
+0x1d3a7b21
+payoutAddr()
+renounceOwnership()
+destroy()
+ideal_warn_timed(uint256,uint128)
+0x95a450fe
+0xa3ff39b2
+transferOwnership(address)
+destroyAndSend(address)
+0xf7c83c91
+0x1d3a7b21

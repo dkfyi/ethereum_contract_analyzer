@@ -1,0 +1,7 @@
+fillOrder(uint256)
+ideal_warn_timed(uint256,uint128)
+fillOrder(address,uint256)
+cancel()
+transferOwnership(address)
+allowance(address,address)
+gasprice_bit_ether(int128)

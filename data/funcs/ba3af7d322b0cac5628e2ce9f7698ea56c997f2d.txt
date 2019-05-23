@@ -1,0 +1,4 @@
+transfer(bytes32,address,uint256)
+icapTransfer(bytes32,address,bytes32,uint256)
+deposit(bytes32)
+deposit(bytes32)

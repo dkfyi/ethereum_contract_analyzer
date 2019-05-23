@@ -1,0 +1,3 @@
+add(uint256)
+getSize()
+getTimestamp(uint256)

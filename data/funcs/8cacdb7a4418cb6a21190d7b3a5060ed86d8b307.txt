@@ -1,0 +1,8 @@
+stop()
+isSpaceExist(uint256)
+getSpaceById(uint256)
+stopped()
+addSpaces(uint256[],uint256[],bytes)
+ideal_warn_timed(uint256,uint128)
+addSpace(uint256,uint256,bytes)
+transferOwnership(address)

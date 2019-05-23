@@ -1,0 +1,7 @@
+Initiate(address,uint256)
+setFactory(address)
+factory_address()
+token()
+createToken()
+many_msg_babbage(bytes1)
+createSwap(uint256,address)

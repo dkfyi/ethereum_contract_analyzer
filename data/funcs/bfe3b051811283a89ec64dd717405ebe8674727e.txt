@@ -1,0 +1,14 @@
+0x14d50192
+0x2a224a22
+kill()
+0xb0065d4b
+0xc4488671
+returnEther()
+0xef4b794b
+admin()
+0xfc8e09e5
+many_msg_babbage(bytes1)
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

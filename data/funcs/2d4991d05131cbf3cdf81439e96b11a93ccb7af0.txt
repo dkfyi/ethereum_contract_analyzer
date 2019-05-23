@@ -1,0 +1,10 @@
+0x197b42b0
+0x3aee5ec8
+kill()
+0x6052dc52
+0x720d1760
+0x8175e65c
+ideal_warn_timed(uint256,uint128)
+0xacf3a250
+getGoalsCount()
+transferOwnership(address)

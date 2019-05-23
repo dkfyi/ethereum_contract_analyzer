@@ -1,0 +1,5 @@
+donate(bytes32,bytes32,bytes)
+claimId(bytes32,uint256)
+transferDonations(bytes32,address)
+donations(bytes32,uint256)
+donationBoxes(bytes32)

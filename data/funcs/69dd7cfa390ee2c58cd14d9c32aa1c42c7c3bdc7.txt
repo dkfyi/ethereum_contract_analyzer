@@ -1,0 +1,6 @@
+0x25d2a597
+cards()
+0x6c3fb63c
+0x6cdb1b75
+setCoinBalance(address,uint256,uint8,bool)
+setCoinBalance(address,uint256,uint8,bool)

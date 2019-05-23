@@ -1,0 +1,16 @@
+0x16e31ea3
+0x1858a088
+0x1e7c0197
+remove(uint256)
+network()
+0x903bc707
+0x96ed2f9a
+read(uint256)
+0xf3107a23
+update(uint256,string)
+0x16e31ea3
+0x1e7c0197
+remove(uint256)
+0x903bc707
+read(uint256)
+update(uint256,string)

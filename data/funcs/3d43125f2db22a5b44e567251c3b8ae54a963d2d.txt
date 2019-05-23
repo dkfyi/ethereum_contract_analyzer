@@ -1,0 +1,2 @@
+metaCoin()
+sendCoin(address,uint256)

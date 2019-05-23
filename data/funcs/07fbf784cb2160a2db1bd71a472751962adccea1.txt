@@ -1,0 +1,13 @@
+creator()
+deadline()
+0x343cd460
+beneficiary()
+kill()
+saleState()
+tokenReward()
+fundingGoal()
+amountRaised()
+price()
+stopSale()
+0xf2333ec4
+many_msg_babbage(bytes1)

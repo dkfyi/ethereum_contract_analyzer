@@ -1,0 +1,4 @@
+getElevations()
+0x060faeb0
+kill()
+getOwners()

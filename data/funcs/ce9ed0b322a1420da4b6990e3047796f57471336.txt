@@ -1,0 +1,7 @@
+ourLastJackpotWinner()
+die()
+withdraw()
+currentJackpotInWei()
+amountOfRegisters()
+ourLastWinner()
+0x58dbf18c

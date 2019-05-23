@@ -1,0 +1,3 @@
+kill()
+0x70c66d66
+greet(string)

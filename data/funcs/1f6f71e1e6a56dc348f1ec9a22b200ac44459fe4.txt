@@ -1,0 +1,8 @@
+getCorrectedTotalBPOfTokens(uint256[])
+getCorrectedStats(uint256)
+0xd19c72f4
+getHeroInfo(uint256)
+getHeroInfo(uint256)
+balanceOf(address)
+getHeroInfo(uint256)
+getTokenIdOfAddressAndIndex(address,uint256)

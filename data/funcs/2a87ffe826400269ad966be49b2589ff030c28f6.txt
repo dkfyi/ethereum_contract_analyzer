@@ -1,0 +1,13 @@
+name()
+getBalance()
+available_assert_time(uint16,uint64)
+0x31dacf77
+getBalanceContract()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xdbbefb86
+0xe608672f
+transferOwnership(address)
+standart()

@@ -1,0 +1,6 @@
+kill()
+getbalance()
+0x8ecf343d
+Owner()
+0xece57b04
+0xf67f1128

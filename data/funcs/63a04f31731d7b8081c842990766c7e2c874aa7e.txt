@@ -1,0 +1,4 @@
+register(string,string)
+kill()
+empty()
+lookup(string)

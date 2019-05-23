@@ -1,0 +1,10 @@
+0x2fdd4d7b
+0x351c7d35
+setCreditMCCurator(address)
+0x5b1ae381
+dev()
+0xa7f3f0d2
+0xb73b1e81
+0xc9dbf2f5
+creditsExchanged()
+curator()

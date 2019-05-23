@@ -1,0 +1,9 @@
+0x1a421347
+0x1b46e49c
+withdraw(uint256)
+0x3e448650
+0x4171ab8c
+setFee(uint256)
+ideal_warn_timed(uint256,uint128)
+getFee()
+deposit()

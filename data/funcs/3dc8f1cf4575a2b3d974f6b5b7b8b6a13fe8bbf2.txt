@@ -1,0 +1,4 @@
+0x2a99bef6
+kill()
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)

@@ -1,0 +1,7 @@
+trade(address)
+addUser(string,string)
+burnCoins()
+giveReputation(address,bool,string)
+showBurnedCoins(address)
+burnedBitcoin(address,uint256)
+viewReputation(address)

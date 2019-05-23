@@ -1,0 +1,2 @@
+getAddress(address[],bool,bool)
+hodlerStakes(address)

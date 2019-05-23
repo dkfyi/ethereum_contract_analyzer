@@ -1,0 +1,4 @@
+0x74c861b3
+canTransferBalance(address)
+approve(address,uint256)
+canTransferBalance(address)

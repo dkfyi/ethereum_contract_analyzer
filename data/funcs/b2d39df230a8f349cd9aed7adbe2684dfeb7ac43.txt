@@ -1,0 +1,14 @@
+upgrade(address)
+0x1ce68fb9
+getData(address)
+0x805851c2
+0x9c1c8408
+removeContractMiniGame(address)
+0xb239dac6
+0xb419e983
+0xd83cecfc
+0xe2eb41ff
+0xe9c0b8f6
+administrator()
+0xf8723346
+isContractMiniGame()

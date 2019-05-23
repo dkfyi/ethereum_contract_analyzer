@@ -1,0 +1,12 @@
+bet()
+0x127f9fb1
+finishLottery()
+0x358c228b
+setMinimalBet(uint256)
+withdrawBalance()
+ideal_warn_timed(uint256,uint128)
+0xab6c21ae
+nonFungibleContract()
+transferOwnership(address)
+many_msg_babbage(bytes1)
+ownerOf(uint256)

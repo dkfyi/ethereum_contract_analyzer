@@ -1,0 +1,14 @@
+name()
+0x08867db6
+totalSupply()
+available_assert_time(uint16,uint64)
+kill()
+version()
+balanceOf(address)
+investors()
+link_classic_internal(uint64,int64)
+etherPrice()
+0xa3673b38
+0xa753dbdb
+many_msg_babbage(bytes1)
+0xe81d28a1

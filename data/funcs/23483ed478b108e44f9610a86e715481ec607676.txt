@@ -1,0 +1,8 @@
+getServiceAddress(bytes)
+setService(bytes,address)
+candidate()
+getServiceName(address)
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+confirmOwner()
+setBackend(address)

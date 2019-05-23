@@ -1,0 +1,14 @@
+0x2a6f5190
+disapproveInvestor(address)
+disapproveInvestorsInBulk(address[])
+renounceOwnership()
+approveInvestor(address)
+0x8480760c
+0x86b06ffc
+ideal_warn_timed(uint256,uint128)
+isOwner()
+isInvestorApproved(address)
+0xbbf38f39
+0xe2a345dd
+transferOwnership(address)
+approveInvestorsInBulk(address[])

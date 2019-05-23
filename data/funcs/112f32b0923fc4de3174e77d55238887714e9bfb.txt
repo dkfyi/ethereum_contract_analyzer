@@ -1,0 +1,4 @@
+kill()
+0x6d0771c3
+0x777518dc
+ownerAddr()

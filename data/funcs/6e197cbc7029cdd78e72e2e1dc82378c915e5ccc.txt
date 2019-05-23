@@ -1,0 +1,17 @@
+0x33a88623
+withdraw()
+kill()
+jackpotSize()
+0x5b26c07f
+0x5e2bc701
+ideal_warn_timed(uint256,uint128)
+0xa33a981e
+maxProfit()
+withdrawFunds(address,uint256)
+acceptNextOwner()
+approveNextOwner(address)
+increaseJackpot(uint256)
+placeBet(uint256,uint256,uint256)
+setMaxProfit(uint256)
+0x662bb8f4
+0x616c6c65

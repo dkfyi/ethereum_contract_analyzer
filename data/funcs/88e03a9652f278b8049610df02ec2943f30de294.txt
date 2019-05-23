@@ -1,0 +1,15 @@
+0x11693109
+rate()
+weiRaised()
+wallet()
+0x5560127c
+bonusRate()
+updateTokenPrice(uint256)
+0x7079d9fd
+sendTokensToInvestors(address,uint256)
+stopCrowdSale()
+dispenseTokensToInvestorAddressesByValue(address[],uint256[])
+buyTokens(address)
+startCrowdSale()
+token()
+many_msg_babbage(bytes1)

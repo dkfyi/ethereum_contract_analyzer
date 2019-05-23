@@ -1,0 +1,12 @@
+addBalance(address,uint256)
+delAdmin(address)
+0x700dbd10
+setAdmin(address)
+balanceOf(address)
+0x77b3dfd2
+changeOwner(address)
+0xc31c338f
+subBalance(address,uint256)
+addBalance(address,uint256)
+balanceOf(address)
+subBalance(address,uint256)

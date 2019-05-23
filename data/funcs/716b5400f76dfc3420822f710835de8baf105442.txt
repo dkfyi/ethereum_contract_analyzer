@@ -1,0 +1,8 @@
+0x06f5497e
+0x33981dd4
+0x3889a18a
+getCertificate(uint256)
+0x630a9e47
+changeAllowedRecipients(address,bool)
+0x8809f727
+0xf45e6024

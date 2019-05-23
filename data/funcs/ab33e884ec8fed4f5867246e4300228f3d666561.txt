@@ -1,0 +1,11 @@
+getExchangeCost(address,address,uint256,bytes)
+getMaxMakerAmount(address,address,bytes)
+exchange(address,address,address,address,uint256,bytes)
+0xb7a77bf8
+getPayAmount(address,address,uint256)
+getBestOffer(address,address)
+getWorseOffer(uint256)
+sellAllAmount(address,uint256,address,uint256)
+getOffer(uint256)
+allowance(address,address)
+approve(address,uint256)

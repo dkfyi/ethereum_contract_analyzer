@@ -1,0 +1,16 @@
+0x06139934
+started()
+0x32f43576
+0x35d4451c
+0x60ab24a3
+payoutAmount()
+0x7c731c0e
+percentRate()
+ownerAddress()
+0xb74126cc
+start()
+totalRaised()
+0xc7e8d36e
+0xdfc02ef5
+0xf3f7d633
+0xf488fdd0

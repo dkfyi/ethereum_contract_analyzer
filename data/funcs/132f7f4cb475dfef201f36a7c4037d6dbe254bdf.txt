@@ -1,0 +1,15 @@
+0x1558e384
+hasRole(address,string)
+inList(address)
+addAddresses(address[],string)
+getRole(address)
+removeAddress(address)
+0x4bfb8494
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+0x8e7e1efa
+0xa0ad0253
+changeOwner(address)
+removeAddresses(address[])
+addAddress(address,string)
+newOwner()

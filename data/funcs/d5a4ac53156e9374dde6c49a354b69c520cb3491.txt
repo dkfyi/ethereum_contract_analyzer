@@ -1,0 +1,15 @@
+totalVotes()
+weiBalance()
+0x2e6dbdf9
+0x2e854433
+0x47799092
+transferOwner(address)
+ideal_warn_timed(uint256,uint128)
+remainder()
+0xce415afc
+0xa620fcc7
+0xa620fcc7
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+get(uint256)

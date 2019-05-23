@@ -1,0 +1,7 @@
+deadline()
+beneficiary()
+tokenReward()
+amountRaised()
+price()
+safeWithdrawal()
+mint(address,uint256)

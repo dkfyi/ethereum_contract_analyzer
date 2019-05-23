@@ -1,0 +1,2 @@
+setCustomExtraData(bytes32,uint256,bytes32,bytes32)
+getCustomExtraData(bytes32,uint256,bytes32)

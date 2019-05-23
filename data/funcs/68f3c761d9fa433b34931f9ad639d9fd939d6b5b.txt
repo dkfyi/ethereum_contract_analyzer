@@ -1,0 +1,17 @@
+ROLE_WHITELISTED()
+0x1fbfa9fe
+setRate(uint256)
+withdrawToken(address,uint256,address)
+0x4655caeb
+0x641a6f79
+renounceOwnership()
+0x736b127d
+ideal_warn_timed(uint256,uint128)
+isOwner()
+withdrawEther(uint256,address)
+0xd1004c98
+0xdfcf7ecb
+transferOwnership(address)
+0xfd3df585
+0xff38c18d
+many_msg_babbage(bytes1)

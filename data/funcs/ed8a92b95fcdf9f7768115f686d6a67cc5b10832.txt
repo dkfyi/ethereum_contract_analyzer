@@ -1,0 +1,5 @@
+playToWin(uint256)
+cashOut()
+ideal_warn_timed(uint256,uint128)
+play(uint256)
+play(uint256)

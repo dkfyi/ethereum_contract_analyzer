@@ -1,0 +1,15 @@
+reCalc()
+getBalance()
+withdraw()
+manager()
+0x4afdd0e7
+0x5294010f
+getProfit()
+getCumulativeProfit()
+getDepositDelta()
+withdrawProfit()
+feeRate()
+numDeposits()
+deposit()
+0xd9607482
+0xea362937

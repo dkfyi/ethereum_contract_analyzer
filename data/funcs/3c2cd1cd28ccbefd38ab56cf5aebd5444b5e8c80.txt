@@ -1,0 +1,3 @@
+kill()
+getMenu()
+getSandwichInfoCaloriesPrice(uint256)

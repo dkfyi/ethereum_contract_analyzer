@@ -1,0 +1,12 @@
+totalSupply()
+0x35d67edf
+initialSupply()
+assetType()
+setState(uint8)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+state()
+addSubjectMatter(string)
+getSubjectMattersSize()
+transferOwnership(address)
+updateSubjectMatter(uint256,string)

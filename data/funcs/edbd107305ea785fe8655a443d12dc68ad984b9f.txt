@@ -1,0 +1,6 @@
+0x47118189
+0x486c864e
+0x71942a01
+0xa9ed6e9a
+issue(address,uint256)
+issuetender(address,uint256,uint256)

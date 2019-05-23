@@ -1,0 +1,5 @@
+setOwner(address)
+setBeneficiary(address)
+beneficiary()
+withdraw()
+fee()

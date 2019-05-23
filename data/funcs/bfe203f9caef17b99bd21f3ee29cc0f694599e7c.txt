@@ -1,0 +1,8 @@
+kill()
+0x5eb66379
+0x7e54594f
+getTicketPrice()
+getJackpot()
+0xfef7fe30
+resolve()
+resolve()

@@ -1,0 +1,7 @@
+AddClaim(uint32,string,bytes32,bytes32,address,uint32)
+AddSWAndClaim(string,string,bytes32,bytes32,bytes32,string,bytes32,bytes32,address,uint32)
+0x913d54d5
+GetClaimCount()
+m_software(uint256)
+AddSoftware(string,string,bytes32,bytes32,bytes32)
+GetSoftwareCount()

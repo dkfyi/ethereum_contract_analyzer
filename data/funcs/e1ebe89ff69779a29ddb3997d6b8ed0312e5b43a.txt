@@ -1,0 +1,13 @@
+0x0952ad24
+0x27cdf22e
+0x6905ce9d
+isValid(bytes32)
+0x7f6e4281
+0x87a61cbd
+0x9c024138
+orders(bytes32)
+whitelist()
+hasRole(address,string)
+balanceOf(address)
+allowance(address,address)
+gasprice_bit_ether(int128)

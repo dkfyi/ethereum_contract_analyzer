@@ -1,0 +1,7 @@
+ETH_TOKEN_ADDRESS()
+0x2e378429
+0xc660825c
+0xe3b5ce76
+trade(address,uint256,address,address,uint256,uint256,address)
+ideal_warn_timed(uint256,uint128)
+allowance(address,address)

@@ -1,0 +1,12 @@
+tokenRaised()
+finishPresale(uint256)
+tokenReward()
+balanceOf(address)
+changeCrowdsale(bool)
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+buyToken()
+changeOwner(address)
+rateOfEther()
+0x1b6b0b00
+gasprice_bit_ether(int128)

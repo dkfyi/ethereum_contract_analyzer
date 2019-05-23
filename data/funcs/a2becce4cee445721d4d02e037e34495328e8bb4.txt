@@ -1,0 +1,7 @@
+name()
+minBid()
+numMembers()
+0x69d3ea1f
+0x9dcd976e
+0xde99ca87
+0xe8e2fe88

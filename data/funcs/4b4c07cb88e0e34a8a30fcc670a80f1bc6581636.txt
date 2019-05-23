@@ -1,0 +1,13 @@
+dropAmount()
+setTokenAddress(address)
+0x360500cc
+totalDropAmount()
+airdropToken()
+renounceOwnership()
+withdrawToken(address)
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

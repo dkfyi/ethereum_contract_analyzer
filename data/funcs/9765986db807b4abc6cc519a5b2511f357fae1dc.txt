@@ -1,0 +1,14 @@
+wallet2()
+0x0fb10780
+wallet1()
+rate()
+transferTo(address,uint256)
+weiRaised()
+updateWallet(address,address)
+changeRate(uint256)
+0xa8ef1616
+buyTokens(address)
+0xf9f494ed
+token()
+0xfe621505
+many_msg_babbage(bytes1)

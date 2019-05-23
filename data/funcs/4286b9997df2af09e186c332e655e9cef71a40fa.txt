@@ -1,0 +1,15 @@
+0x08ae4b0c
+setOwner(address)
+getMember(address)
+countMembers()
+refund(address,uint256)
+0x64d92f59
+setFee(uint256)
+updateMemberAddress(address,address)
+requestMembership()
+ideal_warn_timed(uint256,uint128)
+getMembers()
+getMembershipType(address)
+memberFee()
+setMembershipType(address,uint256)
+withdraw(address,uint256)

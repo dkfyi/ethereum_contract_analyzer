@@ -1,0 +1,15 @@
+cancelSell(uint256)
+totalSupply()
+initBronze()
+gift(uint256,address)
+initPlatinum()
+initGold()
+0xa12a7ff3
+0xd6ac5f6c
+sell(uint256,uint256)
+buy(uint256)
+initCopper()
+initSilver()
+0x01000000
+0xff000000
+0x01000000

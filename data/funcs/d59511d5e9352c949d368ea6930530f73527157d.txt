@@ -1,0 +1,5 @@
+getBlock()
+setStartTime(uint256)
+isStarted()
+getTime()
+startTime()

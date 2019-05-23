@@ -1,0 +1,7 @@
+lastCreditorPayedOut()
+0x3a65d33b
+jackpot()
+ideal_warn_timed(uint256,uint128)
+creditorAddresses(uint256)
+0xd64c853d
+creditorAmounts(uint256)

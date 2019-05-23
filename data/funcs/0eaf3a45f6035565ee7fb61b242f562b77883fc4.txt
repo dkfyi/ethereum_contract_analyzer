@@ -1,0 +1,5 @@
+get_owner()
+0x1e83cdab
+setup(string)
+withdraw(string)
+0x578ff67a

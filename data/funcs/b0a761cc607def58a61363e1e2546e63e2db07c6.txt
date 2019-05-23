@@ -1,0 +1,16 @@
+add(uint256)
+getValue()
+removeAddressesFromWhitelist(address[])
+0x27ee58a6
+removeAddressFromWhitelist(address)
+withdraw(uint256)
+value()
+sendFunds(address,uint256)
+addAddressToWhitelist(address)
+ideal_warn_timed(uint256,uint128)
+whitelist(address)
+addAddressesToWhitelist(address[])
+transferOwnership(address)
+0xfc3c0eee
+sendFunds(address,uint256)
+sendFunds(address,uint256)

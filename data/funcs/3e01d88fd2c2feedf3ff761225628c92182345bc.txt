@@ -1,0 +1,12 @@
+doesReferralCodeValid(string)
+payout(address,uint256)
+memberCount()
+participate(string)
+getReferralRates()
+PARTICIPATION_FEE()
+ideal_warn_timed(uint256,uint128)
+isMember(address)
+changeOwner(address)
+referralCodeFromAddress(address)
+0xfcc8156f
+isMember(address)

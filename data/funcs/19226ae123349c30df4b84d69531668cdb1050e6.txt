@@ -1,0 +1,10 @@
+round()
+0x3d4cfa6b
+getIndividualPercent()
+0x6f7bc9be
+0x7d19ba23
+pause()
+getInvestorCount()
+0xc5408d50
+getBankPercent()
+0xedf26d9b

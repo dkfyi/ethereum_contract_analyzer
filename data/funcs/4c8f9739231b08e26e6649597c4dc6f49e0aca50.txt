@@ -1,0 +1,10 @@
+0x19990092
+GetMoney(uint256,address)
+GetUserRank(uint8,address)
+GetCategoryValue(uint8)
+AddNewSmallContract(address)
+GetCategoryNumber(bytes4)
+0x797fdd7b
+0x85a1c950
+0x8a4c4527
+0xa538bd90

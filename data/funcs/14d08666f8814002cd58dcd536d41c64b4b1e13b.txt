@@ -1,0 +1,3 @@
+isGeneScience()
+mixGenes(uint256,uint256)
+rand(uint256,uint256)

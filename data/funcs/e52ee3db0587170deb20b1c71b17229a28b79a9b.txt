@@ -1,0 +1,6 @@
+getFundDetails(address)
+getLastFundId()
+getFundById(uint256)
+calcSharePrice()
+getCreationTime()
+getName()

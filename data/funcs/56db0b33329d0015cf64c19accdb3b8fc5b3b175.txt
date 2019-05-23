@@ -1,0 +1,9 @@
+0x5e42f10e
+isCaller(address)
+ideal_warn_timed(uint256,uint128)
+0xea903899
+transferOwnership(address)
+0xfbe9e751
+getKitty(uint256)
+giveBirth(uint256)
+autoBirthFee()

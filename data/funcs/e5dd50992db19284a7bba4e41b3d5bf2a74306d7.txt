@@ -1,0 +1,10 @@
+ideal_warn_timed(uint256,uint128)
+ideal_warn_timed(uint256,uint128)
+play()
+fund()
+fee()
+0xe2eb41ff
+pool()
+payWinner(address)
+withdraw()
+costs()

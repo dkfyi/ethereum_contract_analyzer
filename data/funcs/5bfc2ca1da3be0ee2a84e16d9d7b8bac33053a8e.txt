@@ -1,0 +1,12 @@
+checkGoalReached()
+0x1aee82c6
+beneficiary()
+tokenReward()
+balanceOf(address)
+fundingGoal()
+amountRaised()
+price()
+changeOwner(address)
+0xba0f49b7
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

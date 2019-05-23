@@ -1,0 +1,14 @@
+0x3f9effdc
+0x4001a81f
+0x4049700f
+kill()
+ideal_warn_timed(uint256,uint128)
+0x99baa10c
+0xa3934658
+changeOwner(address)
+0xab377daa
+0xb3364a26
+0xbf76c0ef
+0xd59933d5
+addShareholder(address)
+payDividends()

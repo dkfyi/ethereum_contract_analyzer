@@ -1,0 +1,8 @@
+bets(uint256)
+withdrawPrize()
+0x5dced9d5
+0x626eff62
+0x8a73b437
+0x915eb32f
+0xf14a8863
+0xf283ac30

@@ -1,0 +1,9 @@
+0x654cf872
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0xd54cefc1
+transferOwnership(address)
+allowance(address,address)
+gasprice_bit_ether(int128)
+balanceOf(address)
+many_msg_babbage(bytes1)

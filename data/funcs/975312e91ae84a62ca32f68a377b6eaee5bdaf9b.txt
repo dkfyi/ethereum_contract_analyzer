@@ -1,0 +1,12 @@
+settle()
+transfer(address)
+commit()
+0x4f7095aa
+result()
+r()
+s()
+place()
+reveal()
+calResult()
+settleBet(uint256,uint256)
+placeBet(uint256,uint256,uint256,uint256,bytes32,bytes32)

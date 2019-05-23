@@ -1,0 +1,7 @@
+isContract(address)
+preIcoStart()
+MIN_INVESTMENT()
+invested(address)
+preIcoAddr()
+preIcoEnd()
+buyTokens(address)

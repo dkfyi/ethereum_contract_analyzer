@@ -1,0 +1,8 @@
+setOwner(address)
+0x302b2da0
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+authority()
+cupi()
+safe(bytes32)
+canCall(address,address,bytes4)

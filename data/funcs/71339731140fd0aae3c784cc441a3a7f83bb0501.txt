@@ -1,0 +1,3 @@
+bitSlice(uint256,uint256,uint256)
+random(uint256)
+maxRandom()

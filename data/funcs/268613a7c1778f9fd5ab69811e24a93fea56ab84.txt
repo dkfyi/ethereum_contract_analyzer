@@ -1,0 +1,16 @@
+0x11db4666
+unpause()
+tokenContract()
+paused()
+0x6055e439
+renounceOwnership()
+pause()
+ideal_warn_timed(uint256,uint128)
+0x9caf79c6
+tokenOwner()
+0xbc31c1c1
+withdrawETH()
+0xe41f9ef3
+transferOwnership(address)
+transferFrom(address,address,uint256,uint256)
+balanceOf(uint256,address)

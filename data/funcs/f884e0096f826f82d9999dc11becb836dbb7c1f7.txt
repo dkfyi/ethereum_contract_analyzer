@@ -1,0 +1,15 @@
+jadd(uint256,uint256,uint256,uint256,uint256,uint256)
+hash_pubkey_to_pubkey(uint256,uint256)
+verify(uint256,uint256,uint256[],uint256,uint256,uint256[],uint256[])
+0x24386d4b
+jrecover_y(uint256,uint256)
+kill()
+ecsubtract(uint256,uint256,uint256,uint256,uint256,uint256)
+jdecompose(uint256,uint256,uint256)
+0x76de1e1d
+jdouble(uint256,uint256,uint256)
+0xaeb555f1
+jexp(uint256,uint256,uint256)
+0xd876fb21
+0x400000f4
+0x400000f4

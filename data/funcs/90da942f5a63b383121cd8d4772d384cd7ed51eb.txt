@@ -1,0 +1,3 @@
+0x8bcdcbf3
+sendNegativeWhuffies(address,string)
+sendPositiveWhuffies(address,string)

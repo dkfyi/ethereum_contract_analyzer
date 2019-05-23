@@ -1,0 +1,4 @@
+MAX_UINT256()
+getTotal()
+getSevenCount()
+addDiceRoll(uint256,uint256)

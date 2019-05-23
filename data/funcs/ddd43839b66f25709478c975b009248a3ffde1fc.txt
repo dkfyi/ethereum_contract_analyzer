@@ -1,0 +1,13 @@
+getData(uint256)
+maxNumber()
+rand()
+unpause()
+last()
+getLast()
+paused()
+0x769b0272
+pause()
+ideal_warn_timed(uint256,uint128)
+kill(address)
+0xf0ba8440
+transferOwnership(address)

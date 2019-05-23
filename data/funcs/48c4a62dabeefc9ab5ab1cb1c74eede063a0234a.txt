@@ -1,0 +1,8 @@
+0x19b1b349
+allTimePlayers()
+allTimeJackpot()
+removeGame(address)
+allowed(address)
+0xf0b2dee9
+allowed(address)
+allowed(address)

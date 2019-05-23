@@ -1,0 +1,14 @@
+0x0bcd4ebb
+0x0f0356d0
+0x3f4985cf
+0x56b97ec1
+0x63047bd8
+0x6bb18a54
+0x78b1fa74
+0x8b27f7f5
+ideal_warn_timed(uint256,uint128)
+0x9be65a60
+changeOwner(address)
+0xce03c0a2
+balanceOf(address)
+many_msg_babbage(bytes1)

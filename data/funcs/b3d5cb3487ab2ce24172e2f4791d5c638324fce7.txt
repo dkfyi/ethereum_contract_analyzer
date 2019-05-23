@@ -1,0 +1,4 @@
+voteFor(address,uint256)
+0x5e3cd7bc
+0x660bb1b2
+maxNumVotesPerAccount()

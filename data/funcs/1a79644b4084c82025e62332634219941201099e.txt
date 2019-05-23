@@ -1,0 +1,5 @@
+active()
+0x0749b74d
+0x27475749
+kill()
+0xcb9dde22

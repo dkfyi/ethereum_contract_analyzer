@@ -1,0 +1,5 @@
+name()
+0x4d2b1978
+getCount()
+0xbec15bfd
+documents(uint256)

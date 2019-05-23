@@ -1,0 +1,17 @@
+bonus(uint256)
+rate()
+maxInvest()
+endTime()
+cap()
+getTokens(uint256,uint256)
+minInvest()
+changeRate(uint256)
+startTime()
+0xd331f87e
+buyTokens(address)
+hasEnded()
+0xf01279d1
+token()
+sale(address,uint256)
+saled()
+saled()

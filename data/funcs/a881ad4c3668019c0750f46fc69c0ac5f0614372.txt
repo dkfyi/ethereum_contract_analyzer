@@ -1,0 +1,4 @@
+creator()
+increaseBalance(address,uint256)
+getBalance(address)
+decreaseBalance(address,uint256)

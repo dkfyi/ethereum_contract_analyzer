@@ -1,0 +1,4 @@
+0x5e710902
+mixGenes(uint256,uint256)
+totalSupply()
+0xa9203f3c

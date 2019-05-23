@@ -1,0 +1,3 @@
+max(uint256,uint256)
+min(uint256,uint256)
+safeCastSigned(uint256)

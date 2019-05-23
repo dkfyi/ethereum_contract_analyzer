@@ -1,0 +1,8 @@
+extensions()
+0x741311bd
+0xb8f7cc21
+0xdc3c73b4
+formula()
+calculateSaleReturn(uint256,uint256,uint32,uint256)
+formula()
+calculateSaleReturn(uint256,uint256,uint32,uint256)

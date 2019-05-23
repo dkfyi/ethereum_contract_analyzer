@@ -1,0 +1,16 @@
+0x0d947b17
+totalSupply()
+addBalance(address,uint256)
+balances(address)
+0x3f3d0b36
+allowed(address,address)
+0x8fd8b1a2
+0x9088a56d
+keeper()
+0xb508069b
+0xbfc00be1
+0xc4fe3aac
+setAllowance(address,address,uint256)
+setBalance(address,uint256)
+setTotalSupply(uint256)
+0xfcb77015

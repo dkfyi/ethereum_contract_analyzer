@@ -1,0 +1,15 @@
+0x0570d568
+0x5023b6a7
+hasher(address,bytes32,uint256)
+tokenSaleContract()
+withdrawTokens(address,address,uint256)
+0x6348257c
+buyTokens(bytes32,uint256,uint8,bytes32,bytes32)
+xcc()
+withdraw(address,uint256)
+ideal_warn_timed(uint256,uint128)
+many_msg_babbage(bytes1)
+ideal_warn_timed(uint256,uint128)
+balanceOf(address)
+originBurn(uint256)
+sendTokens(address,uint256)

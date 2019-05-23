@@ -1,0 +1,12 @@
+0x25b731af
+info()
+investorsStorage()
+setInvestorsStorage(address)
+dividendsPercent()
+setRevolution(address)
+iterStart()
+size()
+latestPayout()
+keyFromIndex(uint256)
+investorBaseInfo(address)
+dividendsPercent()

@@ -1,0 +1,8 @@
+resolver()
+key()
+get_contract(bytes32)
+setWhitelisted(address,bool)
+whitelist(address)
+CONTRACT_ADDRESS()
+get_contract(bytes32)
+get_contract(bytes32)

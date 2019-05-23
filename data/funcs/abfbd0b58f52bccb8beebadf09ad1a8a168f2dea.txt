@@ -1,0 +1,8 @@
+send(address,address,uint256)
+manager()
+ideal_warn_timed(uint256,uint128)
+changeManager(address)
+changeOwner(address)
+multisend(address,address[],uint256[])
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

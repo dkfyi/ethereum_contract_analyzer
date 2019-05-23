@@ -1,0 +1,6 @@
+doStuff()
+etherDelta()
+deposit()
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+withdraw(uint256)
+tokens(address,address)

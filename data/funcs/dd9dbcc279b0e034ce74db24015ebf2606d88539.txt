@@ -1,0 +1,16 @@
+0x0cbc79ae
+calcConfirmsNeeded(uint256,uint256)
+0x3f244a4b
+createContract(bytes,uint256)
+getAmount(bytes)
+0x5f0d4262
+0x9ae196ff
+0xcbf279f7
+0xfb18a41a
+plus(uint256,uint256)
+plus(uint256,uint256)
+many_msg_babbage(bytes1)
+approve(address,uint256)
+gasprice_bit_ether(int128)
+0x66c19bcd
+0x66c19bcd

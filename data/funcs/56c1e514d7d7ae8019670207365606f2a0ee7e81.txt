@@ -1,0 +1,8 @@
+getCandidates()
+getVotes()
+create_price()
+isFinished()
+isVoted()
+vote(uint32)
+setCreatePrice(uint256)
+add(uint32)

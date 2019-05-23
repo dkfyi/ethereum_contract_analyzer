@@ -1,0 +1,2 @@
+setRating(bytes32,uint256)
+ratings(bytes32)

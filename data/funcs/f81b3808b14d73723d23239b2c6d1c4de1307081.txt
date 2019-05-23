@@ -1,0 +1,14 @@
+addManager(address)
+getReferrer(address)
+0x5754e959
+0x70872bc0
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0xa0e4e4dc
+removeManager(address)
+setReferrer(address,address)
+transferOwnership(address)
+isManager(address)
+exists(address)
+deposit()

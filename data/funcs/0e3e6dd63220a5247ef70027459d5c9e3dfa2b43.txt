@@ -1,0 +1,13 @@
+removeAdmin(address)
+isAdmin(address)
+0x26e41dd8
+0x4209b08d
+0x4dcd2c6a
+isEnabled()
+addAdmin(address)
+0x80f76021
+0x8ec280cf
+0xd73305e5
+transferAdmin(address,address)
+0xeab18a57
+0x80f76021

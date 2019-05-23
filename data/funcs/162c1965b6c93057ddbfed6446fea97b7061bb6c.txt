@@ -1,0 +1,13 @@
+getFullProfit(uint256,uint256,uint256)
+0x50add4a8
+0x51c22d36
+getToJackpot(uint256,uint256)
+0xac7c35f7
+0xb90cee23
+getProfit(uint256,uint256)
+minNumber()
+maxNumber()
+maxProfit()
+minBet()
+playerMakeBet(uint256,uint256,bytes32,uint8,bytes32,bytes32)
+withdraw(bytes32,string,string)

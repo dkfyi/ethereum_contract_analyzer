@@ -1,0 +1,13 @@
+0x06ee4da3
+0x11afd4e7
+0x3c2e5288
+contractEnabled()
+0x47d23419
+disableContract()
+ideal_warn_timed(uint256,uint128)
+0x97a5d5b5
+0xa5c64259
+0xb1bc8477
+0xb307ffa5
+0xc41176cd
+0xd89d1510

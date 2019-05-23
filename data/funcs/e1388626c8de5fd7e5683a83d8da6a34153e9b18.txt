@@ -1,0 +1,7 @@
+investor()
+niceGuys(uint256)
+cNiceGuyIdx()
+persons(uint256)
+payoutIdx()
+cNiceGuy()
+enter()

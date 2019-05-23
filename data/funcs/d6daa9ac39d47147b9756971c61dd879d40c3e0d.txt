@@ -1,0 +1,8 @@
+registrar()
+updateRegistration(string,string)
+fee_registration()
+sendMsg(address,string)
+setMsgPrice(uint256)
+fee_msg()
+setRegistrationPrice(uint256)
+cnt_registrations()

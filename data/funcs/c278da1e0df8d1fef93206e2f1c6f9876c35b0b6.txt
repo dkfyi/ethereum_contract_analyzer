@@ -1,0 +1,6 @@
+disable()
+getLastHash()
+0x7bfb218d
+ideal_warn_timed(uint256,uint128)
+logEvent(string,bool)
+ipfsHash()

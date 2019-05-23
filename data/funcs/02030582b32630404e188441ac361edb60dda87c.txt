@@ -1,0 +1,13 @@
+0x68b2045a
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+calculate(uint256)
+0xc0188387
+changeExchangeRate(uint256,uint256)
+transferOwnership(address)
+ico()
+0xc00c4da1
+totalSupply()
+available_assert_time(uint16,uint64)
+available_assert_time(uint16,uint64)

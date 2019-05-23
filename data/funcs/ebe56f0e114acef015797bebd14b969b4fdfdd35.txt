@@ -1,0 +1,4 @@
+totalSupply()
+ownerOf(uint256)
+balanceOf(address)
+buyToken()

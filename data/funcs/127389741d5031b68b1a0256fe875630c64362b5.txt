@@ -1,0 +1,2 @@
+getElevation(uint8,uint8)
+kill()

@@ -1,0 +1,17 @@
+setOwner(address)
+0x2ca3adcb
+0x57ad5d53
+halt()
+ideal_warn_timed(uint256,uint128)
+collector()
+authorizedCaller()
+0xb125f4a9
+halted()
+start()
+0xcf8fbec9
+0xd74225c8
+0xe57be83a
+setCollector(address)
+0x636d0978
+0xfd8c91da
+0x57ad5d53

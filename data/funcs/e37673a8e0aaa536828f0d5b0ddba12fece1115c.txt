@@ -1,0 +1,4 @@
+getWinningOutcome(uint256)
+deleteContract()
+changeCreator(address)
+0xa6b756c5

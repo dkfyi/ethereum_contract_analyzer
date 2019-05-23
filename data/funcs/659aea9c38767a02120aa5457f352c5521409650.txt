@@ -1,0 +1,9 @@
+transfer(address)
+setLimit(uint256)
+Generation()
+0x69db5457
+update(uint256)
+0x9977c78a
+getCount()
+balance(address)
+add(address,uint256)

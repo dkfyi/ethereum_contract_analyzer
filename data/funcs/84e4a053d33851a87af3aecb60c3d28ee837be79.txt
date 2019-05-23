@@ -1,0 +1,15 @@
+getPriceProxy()
+0x1bd6ebc8
+USD()
+initialize()
+ETH()
+getAddress()
+getAddress()
+0x0bbceb33
+getPrice(string,uint256)
+getAddress()
+0x0bbceb33
+getPrice(string,uint256)
+getAddress()
+getAddress()
+query(uint256,string,string)

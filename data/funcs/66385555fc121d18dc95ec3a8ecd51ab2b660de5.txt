@@ -1,0 +1,5 @@
+Open(bytes)
+closed()
+hashPass()
+Put(bytes32)
+CalcHash(bytes)

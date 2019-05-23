@@ -1,0 +1,6 @@
+getBalance()
+0x31dacf77
+getBalanceContract()
+ideal_warn_timed(uint256,uint128)
+0xdbbefb86
+transferOwnership(address)

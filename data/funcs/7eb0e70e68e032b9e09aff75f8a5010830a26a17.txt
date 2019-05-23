@@ -1,0 +1,5 @@
+setMemberShip(address,uint256)
+extendMembership(uint256)
+0xa75f87ce
+0xe39dd79c
+0xede49386

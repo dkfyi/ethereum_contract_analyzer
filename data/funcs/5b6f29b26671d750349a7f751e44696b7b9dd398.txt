@@ -1,0 +1,3 @@
+bet()
+withdraw()
+Set_your_game_number(uint16)

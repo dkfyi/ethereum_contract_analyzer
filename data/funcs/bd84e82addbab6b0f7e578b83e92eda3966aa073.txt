@@ -1,0 +1,10 @@
+unregister(bytes32)
+getAddr(bytes32)
+numContracts()
+0x980e1c5e
+0xb820a0ed
+0xd3a5b107
+setAddr(bytes32,address)
+getOwner(bytes32)
+register(bytes32)
+contracts(bytes32)

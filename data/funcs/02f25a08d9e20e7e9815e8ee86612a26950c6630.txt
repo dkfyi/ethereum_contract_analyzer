@@ -1,0 +1,6 @@
+removeOwner(address)
+bulkMint(address[],uint256[])
+addOwner(address)
+isOwner()
+token()
+mint(address,uint256)

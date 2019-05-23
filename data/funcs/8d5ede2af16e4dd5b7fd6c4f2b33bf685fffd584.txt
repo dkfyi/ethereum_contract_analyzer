@@ -1,0 +1,4 @@
+status()
+changeFounderAddress(address)
+Make_Deposit()
+performPayouts()

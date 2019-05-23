@@ -1,0 +1,5 @@
+receiveEtherFromForegroundAddress(address,address,uint256,address)
+foreground()
+fundContract()
+sellTokens(address,uint256)
+calculateTotalDue(uint256,uint256)

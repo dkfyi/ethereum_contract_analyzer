@@ -1,0 +1,13 @@
+removeAddressesFromWhitelist(address[])
+removeAddressFromWhitelist(address)
+add(address,bytes32)
+withdraw(uint256)
+0x52490048
+0x6135c5ae
+0x6fadcf72
+addAddressToWhitelist(address)
+ideal_warn_timed(uint256,uint128)
+whitelist(address)
+0xc0896d24
+addAddressesToWhitelist(address[])
+transferOwnership(address)

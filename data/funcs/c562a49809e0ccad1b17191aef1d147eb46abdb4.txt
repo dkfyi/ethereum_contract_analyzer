@@ -1,0 +1,7 @@
+rate()
+weiRaised()
+wallet()
+buyTokens(address)
+hasEnded()
+token()
+mint(address,uint256)

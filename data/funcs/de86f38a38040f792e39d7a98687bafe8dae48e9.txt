@@ -1,0 +1,8 @@
+removeAdmin(address)
+0x1c58db4f
+kill()
+0x6ec6333d
+0xd2a69501
+0xe101bea1
+deposit()
+withdraw(uint256)

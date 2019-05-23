@@ -1,0 +1,11 @@
+0x682c3f63
+s()
+0x890eba68
+0xce5173eb
+bid(uint256)
+chi()
+chi()
+tag()
+chi()
+vox()
+par()

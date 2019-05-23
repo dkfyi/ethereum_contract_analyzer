@@ -1,0 +1,7 @@
+burnGasAndFree(address,uint256,address,address[],bytes)
+burnGasAndFreeFrom(address,uint256,address,address[],bytes)
+free(uint256)
+multiGenerate(address,address[],bytes)
+approve(address,uint256)
+freeFrom(address,uint256)
+multiGenerate(address,address[],bytes)

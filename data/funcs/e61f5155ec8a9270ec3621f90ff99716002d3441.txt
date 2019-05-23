@@ -1,0 +1,16 @@
+0x0e0538b5
+0x2e3cff56
+0x3e5ea989
+0x4d5745f9
+getPrice(uint256,uint256)
+ownership()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0x8faf2d13
+0x95adc2f2
+0xb951710b
+0xbc2816f5
+0xce3af87a
+0xd050db54
+transferOwnership(address)

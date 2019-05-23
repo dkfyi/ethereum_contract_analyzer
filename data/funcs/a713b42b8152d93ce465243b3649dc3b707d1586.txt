@@ -1,0 +1,3 @@
+kill()
+send(address,string)
+0xa087a87e

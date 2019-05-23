@@ -1,0 +1,3 @@
+withdraw(uint256)
+queryCredit(address)
+0xd5d44d80

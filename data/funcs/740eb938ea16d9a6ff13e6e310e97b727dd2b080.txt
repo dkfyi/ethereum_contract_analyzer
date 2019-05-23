@@ -1,0 +1,8 @@
+0x0429e372
+setInstructor(string,uint256)
+0x262a9dff
+getInstructor()
+getInstructors()
+0x8eb5234c
+0x9e656a41
+0xa9d309d0

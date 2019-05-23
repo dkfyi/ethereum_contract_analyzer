@@ -1,0 +1,15 @@
+0x8b7ddc69
+0x05f5e100
+0x3b9aca00
+name()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+balanceOf(address)
+getOwner()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xdb414e8e
+allowance(address,address)
+isToken()

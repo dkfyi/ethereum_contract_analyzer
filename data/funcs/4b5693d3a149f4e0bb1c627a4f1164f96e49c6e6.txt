@@ -1,0 +1,9 @@
+placeBet(uint256)
+withdraw(uint256)
+0x3d89764c
+isOpen()
+destroy()
+0x886e3437
+ideal_warn_timed(uint256,uint128)
+0xc2c3041d
+payout(uint256)

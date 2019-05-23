@@ -1,0 +1,8 @@
+getBack2()
+trade(address[],uint256,uint256)
+getBack()
+bancorTradingContract()
+many_msg_babbage(bytes1)
+balanceOf(address)
+approve(address,uint256)
+quickConvert(address[],uint256,uint256)

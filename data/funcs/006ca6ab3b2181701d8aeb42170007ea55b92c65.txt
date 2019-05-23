@@ -1,0 +1,12 @@
+0x0b7b3eb7
+changeAllCosigners2(uint256,address[],bytes,bytes,bytes,bytes)
+0x22c5ec0f
+approveDisband()
+m_teamId()
+transfer2(uint256,address[],uint256[],bytes,bytes,bytes,bytes)
+transfer(uint256,address[],uint256[],uint256[3],bytes,bytes,bytes)
+changeAllCosigners(uint256,address[],uint256[3],bytes,bytes,bytes)
+disbandTo(address)
+assignOwner(address[],uint256,address)
+m_owner()
+m_opNum()

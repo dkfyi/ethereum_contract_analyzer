@@ -1,0 +1,10 @@
+0x0e8e0d86
+totalSupply()
+issuer()
+balances(address)
+0x5e4a9a65
+0x86511595
+many_msg_babbage(bytes1)
+0xb84b8c3c
+issue(address,uint256,string)
+0xf62e7851

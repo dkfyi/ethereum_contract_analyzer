@@ -1,0 +1,8 @@
+migrationReceiver_setup()
+wallet()
+refund()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+setWallet(address)
+transferOwnership(address)
+deposit(address)

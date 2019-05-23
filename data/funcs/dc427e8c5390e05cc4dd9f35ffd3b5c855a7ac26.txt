@@ -1,0 +1,4 @@
+0x4c89867f
+0x5b687a61
+getAllAddresses()
+addNewAddress(address)

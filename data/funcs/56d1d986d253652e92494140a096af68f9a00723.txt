@@ -1,0 +1,16 @@
+withdrawTipForDeveloper()
+ceoAddress()
+closeMyGame(uint256)
+totalAvailableGames()
+setCEO(address)
+unpause()
+createGame(bytes32)
+paused()
+0x808754ab
+pause()
+totalCreatedGame()
+totalTipForDeveloper()
+0xa77db944
+joinGame(uint256,uint256)
+0xc74ab7ac
+0xe874a411

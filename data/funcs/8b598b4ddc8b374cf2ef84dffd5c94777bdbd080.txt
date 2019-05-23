@@ -1,0 +1,3 @@
+balances(address)
+claim()
+deposit(address)

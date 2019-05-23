@@ -1,0 +1,5 @@
+getOwnerAddress()
+0x145ef6e9
+0x295795e2
+setOwnerAddress(address)
+kill()

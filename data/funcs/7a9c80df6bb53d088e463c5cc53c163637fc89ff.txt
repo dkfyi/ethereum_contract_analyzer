@@ -1,0 +1,15 @@
+0x0c6f0955
+isApproved()
+deadline()
+beneficiary()
+0x52e62626
+ideal_warn_timed(uint256,uint128)
+highestBidder()
+0x9fd40b77
+balance()
+0xbaa49301
+highestBid()
+0xe14e1f91
+0xf3d53ced
+safeTransfer()
+0x6f6d2061

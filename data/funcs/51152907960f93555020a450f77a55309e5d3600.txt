@@ -1,0 +1,16 @@
+0xd7480fc3
+0xd7480fc3
+setRoot(bytes32)
+0xe12a1cea
+root()
+token()
+0x50d38cf7
+0x7bc84332
+0x7bf786f8
+getTokenBalance()
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+balanceOf(address)
+available_assert_time(uint16,uint64)
+many_msg_babbage(bytes1)

@@ -1,0 +1,13 @@
+addAddress(address)
+kill()
+lockContract()
+0x831c43ac
+ideal_warn_timed(uint256,uint128)
+0x9ea06703
+signProposal(uint256)
+0xac6ab9ed
+getProposal(uint256)
+locked()
+0xd1a62648
+0xda35c664
+0x1cc41b3b

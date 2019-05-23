@@ -1,0 +1,8 @@
+ResumePayment()
+PausePayment()
+paused()
+ideal_warn_timed(uint256,uint128)
+SetMasterWallet(address)
+Pay(address)
+transferOwnership(address)
+masterWallet()

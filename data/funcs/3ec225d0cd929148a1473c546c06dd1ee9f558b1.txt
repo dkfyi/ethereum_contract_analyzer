@@ -1,0 +1,16 @@
+addTx(address,address,uint256,string)
+0x68c32b9c
+ideal_warn_timed(uint256,uint128)
+0xaabf091d
+oracles(address)
+balanceHaben(address)
+balanceSoll(address)
+0xcf41f701
+addOracle(address)
+0xe563037e
+transferOwnership(address)
+0xfdc85fc4
+addTx(address,address,uint256,string)
+transferOwnership(address)
+balanceHaben(address)
+balanceSoll(address)

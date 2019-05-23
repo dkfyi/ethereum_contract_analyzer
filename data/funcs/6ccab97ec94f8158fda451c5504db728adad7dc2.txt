@@ -1,0 +1,10 @@
+0xf063042d
+0x9d55b53f
+addOwner(address)
+removeOwner(address)
+0x7fb372b0
+isOwner(address)
+state()
+0x04000000
+many_msg_babbage(bytes1)
+isOwner(address)

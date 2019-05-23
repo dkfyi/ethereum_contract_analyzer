@@ -1,0 +1,7 @@
+emitTransfer(address,address,bytes32,uint256,string)
+emitOwnershipChange(address,address,bytes32)
+emitIssue(bytes32,uint256,address)
+emitRevoke(bytes32,uint256,address)
+emitApprove(address,address,bytes32,uint256)
+emitError(bytes32)
+versions(address)

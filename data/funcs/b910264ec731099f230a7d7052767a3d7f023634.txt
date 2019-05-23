@@ -1,0 +1,10 @@
+0x5f3e849f
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+bountyOf(address)
+crowdsale()
+transferOwnership(address)
+claimBounty(address)
+balanceOf(address)
+0xf8bd8c87
+many_msg_babbage(bytes1)

@@ -1,0 +1,15 @@
+0x101b4e4c
+0x276ad3c5
+withdraw(uint256)
+0x604e7196
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+withdrawToken(address,uint256)
+0xbd043d49
+newOwner()
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

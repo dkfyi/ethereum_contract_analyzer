@@ -1,0 +1,12 @@
+placeBet(uint256,bytes32,bytes32)
+totalGames()
+getGame(uint64)
+disableBetting_only_Dev()
+deleteContract()
+enableBetting_only_Dev()
+0x770de290
+getSettings()
+checkGameResult(address)
+Invest()
+SpinTheWheel(address)
+getCoeff(uint16)

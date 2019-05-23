@@ -1,0 +1,4 @@
+count()
+0x388e6dca
+0x663b3e22
+ideal_warn_timed(uint256,uint128)

@@ -1,0 +1,14 @@
+divestETH()
+getBalance()
+withdraw()
+getAffiliateCommision()
+0x5c5f0265
+getProfitFromSender()
+investETH(address)
+lastInvest(address)
+getBonus()
+getInvested()
+getProfit(address)
+0xd86479df
+reinvestProfit()
+withdrawAffiliateCommision()

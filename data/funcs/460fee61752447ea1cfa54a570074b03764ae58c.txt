@@ -1,0 +1,17 @@
+getTotalWeight()
+setTargetToken(address)
+countStakeHolders()
+targetToken()
+getTokenBalance(address)
+distribute(address)
+maxStakeHolders()
+isDistributionDue(address)
+ideal_warn_timed(uint256,uint128)
+getPortion(uint256,uint256,address)
+isDistributionDue()
+0xacad41a4
+0xb0aaa915
+transferOwnership(address)
+getPortion(uint256)
+balanceOf(address)
+many_msg_babbage(bytes1)

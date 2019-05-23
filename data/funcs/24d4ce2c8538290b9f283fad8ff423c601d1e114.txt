@@ -1,0 +1,14 @@
+0x01278eae
+0x0e38ed3c
+identityApproved(address)
+0x6850e7fb
+0x70a59445
+0x89a367f9
+ideal_warn_timed(uint256,uint128)
+0x97fa8406
+0xa1174e7d
+0xbf190db9
+transferOwnership(address)
+0xfe72ae13
+0xfeb5b2e9
+0x616c6c20

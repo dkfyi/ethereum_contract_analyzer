@@ -1,0 +1,7 @@
+disapproveInvestor(address)
+disapproveInvestorsInBulk(address[])
+approveInvestor(address)
+ideal_warn_timed(uint256,uint128)
+isInvestorApproved(address)
+transferOwnership(address)
+approveInvestorsInBulk(address[])

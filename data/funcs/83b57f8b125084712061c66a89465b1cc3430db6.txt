@@ -1,0 +1,8 @@
+0x07443e82
+withdrawTokens(address,address,uint256)
+ideal_warn_timed(uint256,uint128)
+exchange()
+transferOwnership(address)
+withdraw(address,uint256)
+trade(address,uint256,address,address,uint256,uint256,address)
+many_msg_babbage(bytes1)

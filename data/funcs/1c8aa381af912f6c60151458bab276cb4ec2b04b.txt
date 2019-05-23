@@ -1,0 +1,8 @@
+CafeMaker()
+payed()
+PricePerCafe()
+CafeDelivered()
+Owner()
+delivered()
+GetFreeCnt()
+CollectMoney(uint256)

@@ -1,0 +1,4 @@
+0x3e61e9dc
+0x7f3d6418
+operatorSend(address,address,uint256,bytes,bytes)
+operatorSend(address,address,uint256,bytes,bytes)

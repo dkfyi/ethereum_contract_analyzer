@@ -1,0 +1,11 @@
+withDraw(uint256)
+kill()
+0x4d44e663
+checkContractBalance()
+0x50fe51b2
+make(uint256)
+0x6a7fbcf8
+0xb625fe0c
+transferOwnership(address)
+0xf6300bdb
+dice(uint256)

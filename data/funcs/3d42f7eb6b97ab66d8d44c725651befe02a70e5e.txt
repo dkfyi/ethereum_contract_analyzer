@@ -1,0 +1,3 @@
+getName(address)
+hasName(address)
+setName(string)

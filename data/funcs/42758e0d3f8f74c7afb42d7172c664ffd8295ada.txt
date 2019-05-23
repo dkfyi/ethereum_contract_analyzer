@@ -1,0 +1,12 @@
+name()
+disableTransfers(bool)
+totalSupply()
+available_assert_time(uint16,uint64)
+0x5a897009
+allowed(address,address)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+transfersEnabled()
+transferOwnership(address)

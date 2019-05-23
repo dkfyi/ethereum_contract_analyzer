@@ -1,0 +1,8 @@
+getCertifierStatus(address)
+setOwner(address)
+isCertifier(address)
+addCertifier(address)
+getCertifierAtIndex(uint256)
+getCertifiersCount()
+getOwner()
+fixBalance()

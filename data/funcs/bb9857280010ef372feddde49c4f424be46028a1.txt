@@ -1,0 +1,7 @@
+sellDaiForEth(uint256,uint256)
+0x42b12bc5
+ideal_warn_timed(uint256,uint128)
+0x911e8641
+quickConvert(address[],uint256,uint256)
+quickConvert(address[],uint256,uint256)
+approve(address,uint256)

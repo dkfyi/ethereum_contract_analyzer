@@ -1,0 +1,10 @@
+companyWalletAddress()
+profitContainerAddress()
+0x2902a0ca
+multisig()
+setCompanyWalletAddress(address)
+ideal_warn_timed(uint256,uint128)
+setProfitContainerAddress(address)
+changeOwner(address)
+setEtherRatioForOwner(uint256)
+etherRatioForOwner()

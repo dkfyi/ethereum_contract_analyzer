@@ -1,0 +1,8 @@
+0x1bde02e6
+issuer()
+next()
+version()
+revoke(string)
+0x742f0688
+0xb2b2b44d
+0xed0f2e75

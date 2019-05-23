@@ -1,0 +1,6 @@
+getCreator()
+total()
+0x8a999417
+0xa96ec5d8
+0xb10403dc
+0xed0f2e75

@@ -1,0 +1,17 @@
+name()
+totalSupply()
+tokenOfOwner(address)
+0x5336588b
+ownerOf(uint256)
+balanceOf(address)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0x9237ba2b
+0x9286ece4
+0x92f0fa6c
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+developerAddress()
+0xcec21acb
+transferOwnership(address)
+setDeveloper(address)

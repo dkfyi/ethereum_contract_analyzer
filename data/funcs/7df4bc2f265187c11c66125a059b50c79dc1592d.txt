@@ -1,0 +1,12 @@
+creator()
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+0x4731649b
+balanceOf(address)
+link_classic_internal(uint64,int64)
+price()
+many_msg_babbage(bytes1)
+generateTokens(uint256)
+allowance(address,address)
+0x02f7e340

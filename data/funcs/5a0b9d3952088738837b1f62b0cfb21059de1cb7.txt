@@ -1,0 +1,12 @@
+0x2d0277b9
+0x43505a75
+0x45008797
+0x5bada338
+0x6704d86c
+0x88fd6510
+safeSub(uint256,uint256)
+0xb2aa4acd
+safeMul(uint256,uint256)
+0xd0f1154e
+0xd1717fd4
+safeAdd(uint256,uint256)

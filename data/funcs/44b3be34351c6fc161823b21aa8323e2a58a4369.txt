@@ -1,0 +1,12 @@
+0x071f7003
+0x105faa0b
+withdraw(uint256)
+airdrop()
+callThisToStop()
+addAuthorizedAddress(address)
+0x45db6cd1
+0xbea1c286
+callThisToStart()
+airDropPot_()
+buyXaddr(address,uint256)
+buyXid(uint256,uint256)

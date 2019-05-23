@@ -1,0 +1,5 @@
+nCanOpenRewardMinEth()
+balanceOf(address)
+nPlatCurTotalEth()
+OfficialWalletAddr()
+LatestRechargeTime()

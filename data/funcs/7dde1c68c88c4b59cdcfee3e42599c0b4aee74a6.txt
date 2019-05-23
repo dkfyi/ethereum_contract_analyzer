@@ -1,0 +1,11 @@
+0x3cf6a11b
+buy(uint256,uint256,uint256,uint256,string,string,string)
+0x4a58b75a
+0x4e1a5193
+0x788f14ae
+0x9b07a0d7
+0xafe7214d
+0xcdc22589
+0xd07c838e
+blocks(uint256)
+pixelPrice()

@@ -1,0 +1,15 @@
+issuer()
+0x215d1343
+0x3e3fb23e
+kill()
+0x48756fd8
+0x76a39356
+0x96d7ac7a
+0x9fdd3630
+0xa4ab866a
+many_msg_babbage(bytes1)
+frozenAccount(address)
+0xd1e93151
+0xe33247ea
+freezeAccount(address,bool)
+0xec727e13

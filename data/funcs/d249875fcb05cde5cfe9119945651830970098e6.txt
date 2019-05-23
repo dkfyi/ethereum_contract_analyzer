@@ -1,0 +1,17 @@
+0x0b8eebde
+0x1ba5eec0
+0x222b3ff5
+0x642915c8
+bet(uint256)
+0x7b52df2a
+turn()
+ideal_warn_timed(uint256,uint128)
+history(uint256)
+0xb20dc237
+0xbd6fe1e4
+totalBets()
+0xc0daddfd
+0xc37f262b
+randomGen(uint256,uint256)
+0xe73faa2d
+open()

@@ -1,0 +1,2 @@
+setHash(bytes32)
+getHash()

@@ -1,0 +1,5 @@
+despoit(uint256)
+multiBlockRandomGen(uint256,uint256)
+goodluck(uint256)
+goodbye()
+randomGen(uint256,uint256)

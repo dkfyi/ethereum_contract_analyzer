@@ -1,0 +1,16 @@
+withdraw(uint256)
+0x4fc5b6f6
+tokenSold()
+exchange(uint256)
+0x7c3fdc02
+setTransferFee(uint256)
+price()
+exrate()
+transferFee()
+buy(address,uint256)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+0x03938700
+0x02625a00
+0x018cba80

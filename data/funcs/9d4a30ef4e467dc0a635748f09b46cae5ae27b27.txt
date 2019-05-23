@@ -1,0 +1,6 @@
+selfRegisterDINsWithResolver(address,uint256)
+registerDINsWithResolver(address,address,uint256)
+selfRegisterDINs(uint256)
+registerDINs(address,uint256)
+registerDINWithResolver(address,address)
+registerDIN(address)

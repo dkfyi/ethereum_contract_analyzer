@@ -1,0 +1,2 @@
+kill()
+0xcd20a6bc

@@ -1,0 +1,9 @@
+die()
+push(string)
+peek()
+isEmpty()
+ideal_warn_timed(uint256,uint128)
+size()
+pop()
+0xd136d90c
+0xdc9031c4

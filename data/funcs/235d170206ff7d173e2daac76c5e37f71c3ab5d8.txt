@@ -1,0 +1,12 @@
+approve(address,uint256)
+getNFTbyTokenId(uint256)
+totalSupply()
+0x1fe9f877
+gasprice_bit_ether(int128)
+getAllTokens()
+ownerOf(uint256)
+balanceOf(address)
+0x7840fa1a
+tokensOfOwner(address)
+many_msg_babbage(bytes1)
+setNFTbyTokenId(uint256,string,bool)

@@ -1,0 +1,11 @@
+0x04c271f6
+0x355e6ce8
+getAllCompanies()
+0x4706408f
+0x4792b148
+0x87947381
+ideal_warn_timed(uint256,uint128)
+0x8e369531
+0x91ecdc6e
+0xcb6c319c
+transferOwnership(address)

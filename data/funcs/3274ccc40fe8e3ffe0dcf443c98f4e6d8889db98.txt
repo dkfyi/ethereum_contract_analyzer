@@ -1,0 +1,12 @@
+owners(address)
+transferToken(address,uint256)
+removeOwner(address)
+0x32d7d66d
+kill()
+0x6e57d15b
+addOwner(address)
+airdrop(address[])
+ownersCount()
+many_msg_babbage(bytes1)
+available_assert_time(uint16,uint64)
+many_msg_babbage(bytes1)

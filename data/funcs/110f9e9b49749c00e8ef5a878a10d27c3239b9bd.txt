@@ -1,0 +1,3 @@
+kill()
+0x7bc9ea60
+say()

@@ -1,0 +1,13 @@
+expiry_date()
+beneficiary()
+0x78f45340
+withdraw_ether()
+withdraw_badge()
+end_auction()
+highest_bidder()
+badge_obj()
+highest_bid()
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

@@ -1,0 +1,6 @@
+move(address,int64)
+outstandingValue()
+allocate(address,int64)
+getOwner()
+holderBalance(address)
+myBalance()

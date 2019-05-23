@@ -1,0 +1,6 @@
+withdraw()
+0x85295877
+attack()
+master()
+SetPass(bytes32)
+GetGift(bytes)

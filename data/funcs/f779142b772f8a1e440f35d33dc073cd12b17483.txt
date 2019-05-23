@@ -1,0 +1,15 @@
+available(address)
+totalSupply()
+0x18f838ae
+addBalance(address,uint256)
+balances(address)
+setFreeze(address,uint256)
+erc20Impl()
+allowed(address,address)
+changeOwner(address)
+Owner()
+0xb4bf1cdf
+freezeOf(address)
+setAllowance(address,address,uint256)
+setBalance(address,uint256)
+setTotalSupply(uint256)

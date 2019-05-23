@@ -1,0 +1,15 @@
+0x0fcdc062
+0x28e8339b
+0x4782f779
+0x63478e77
+0x66f8c4f3
+0x72d691cb
+0x8a4bd1c5
+0xc5f425e5
+0xce493ab3
+batchTransfer(address[])
+0xee72640a
+depositETH()
+isDistributed()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

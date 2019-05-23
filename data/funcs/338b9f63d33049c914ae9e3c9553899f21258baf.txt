@@ -1,0 +1,8 @@
+0x2813d19d
+hasAccess()
+removeAccess(address)
+giveAccess(address)
+processing(address,uint256,uint256,uint256)
+0xf69af3de
+processing(address,uint256,uint256,uint256)
+isActivated()

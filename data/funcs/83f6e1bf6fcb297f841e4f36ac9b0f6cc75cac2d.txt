@@ -1,0 +1,4 @@
+question()
+vote(bool)
+0x70aede51
+getResult()

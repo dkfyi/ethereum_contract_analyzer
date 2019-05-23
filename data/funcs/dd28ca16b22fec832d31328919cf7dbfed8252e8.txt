@@ -1,0 +1,8 @@
+getB3()
+0x28b6f861
+getB2()
+getB1()
+kill()
+getDigit()
+getB0()
+getFinalBytes()

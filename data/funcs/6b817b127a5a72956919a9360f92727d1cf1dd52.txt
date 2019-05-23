@@ -1,0 +1,10 @@
+0x1b22f7db
+0x2d58b3a4
+0x335ed0a4
+addUserEndorsement(address,bool,string,string)
+addHarvestOperationEndorsement(string,bool,string,string)
+0x90e2f537
+0xa6433a39
+addVineyardEndorsement(string,uint256,bool,string,string)
+addWineryOperationEndorsement(string,uint256,bool,string,string)
+addProductEndorsement(string,uint256,int256,bool,string,string)

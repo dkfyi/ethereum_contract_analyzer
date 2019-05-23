@@ -1,0 +1,13 @@
+endCrowdsale()
+deadline()
+beneficiary()
+fundTransferred()
+tokenReward()
+balanceOf(address)
+fundingGoal()
+amountRaised()
+price()
+startdate()
+safeWithdrawal()
+0x05f5e100
+many_msg_babbage(bytes1)

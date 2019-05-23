@@ -1,0 +1,3 @@
+kill()
+get(address)
+add(bytes32,bytes32)

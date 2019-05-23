@@ -1,0 +1,3 @@
+transfer(uint256)
+balanceOf(address)
+destinationAddress()

@@ -1,0 +1,7 @@
+MinDeposit()
+bal()
+CashOut(uint256)
+GetBal()
+Deposit()
+AddMessage(address,uint256,string)
+AddMessage(address,uint256,string)

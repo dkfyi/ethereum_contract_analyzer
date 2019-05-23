@@ -1,0 +1,3 @@
+passFoundation()
+TOTAL_SUPPLY()
+pass()

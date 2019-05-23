@@ -1,0 +1,14 @@
+getType()
+0x160f78cc
+0x176fd3f0
+init(address)
+0x1f4339d8
+claimContractOwnership()
+changeContractOwnership(address)
+pendingContractOwner()
+price()
+contractOwner()
+sellers(uint256)
+forceChangeContractOwnership(address)
+0xee24c5f7
+0xf2aa8218

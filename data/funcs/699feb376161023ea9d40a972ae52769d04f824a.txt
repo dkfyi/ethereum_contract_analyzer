@@ -1,0 +1,5 @@
+getBalance()
+sendWei(address)
+getWei()
+getSendAmount()
+killMe()

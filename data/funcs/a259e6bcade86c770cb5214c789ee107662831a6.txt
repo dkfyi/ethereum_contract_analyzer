@@ -1,0 +1,12 @@
+feerate()
+jackpotrate()
+deposits_until_jackpot()
+totalmoneyearned()
+totalearners()
+profitrate()
+crazyearners(uint256)
+ideal_warn_timed(uint256,uint128)
+balance()
+totaldeposited()
+enter()
+0x290decd9

@@ -1,0 +1,4 @@
+getController()
+setController(address)
+controllerLookupName()
+lookup(bytes32)

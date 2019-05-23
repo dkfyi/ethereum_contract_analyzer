@@ -1,0 +1,2 @@
+icoHashedPass()
+buyAndSetDivPercentage(address,uint8,string)

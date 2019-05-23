@@ -1,0 +1,16 @@
+owners(uint256)
+0x238c8a82
+rate()
+withdraw(uint256)
+getBonus(uint256,address)
+0x4768d4ef
+manager()
+0x625a3a34
+updateMatchInfo(uint256,string,uint64,uint64)
+numMatches()
+0x92b108d0
+getOwners()
+0xc437a0cd
+setManager(address)
+0xeb6b192f
+setOwners(address[])

@@ -1,0 +1,3 @@
+doit(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

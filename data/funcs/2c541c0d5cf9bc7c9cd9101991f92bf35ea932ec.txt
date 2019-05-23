@@ -1,0 +1,13 @@
+0x07262375
+0x1bcfc432
+0x38c8f2ce
+0x3ff3620b
+0x891ac16b
+0x89c2dcb0
+0x9452651b
+0xcdbc11b1
+exchange()
+0xe8c0f815
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

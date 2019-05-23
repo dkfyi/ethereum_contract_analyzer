@@ -1,0 +1,7 @@
+last()
+playToWin(uint256)
+RandomNumberFromSeed(uint256)
+cashOut()
+RandomNumber()
+nonce()
+Guess(uint256)

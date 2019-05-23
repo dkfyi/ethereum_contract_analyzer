@@ -1,0 +1,9 @@
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+0x1040b5bd
+kill()
+0x5c942470
+0x7a2b922a
+withdrawToken(address,uint256)
+test()
+testTrade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256,address)
+withdrawToken(address,uint256)

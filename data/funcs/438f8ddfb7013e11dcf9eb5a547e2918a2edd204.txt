@@ -1,0 +1,6 @@
+0x22ee07dc
+beneficiary()
+tokenReward()
+balanceOf(address)
+amountRaised()
+many_msg_babbage(bytes1)

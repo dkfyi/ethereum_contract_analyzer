@@ -1,0 +1,14 @@
+destroyMe()
+withdraw()
+0x857a5cc4
+0xc48342fe
+0xf67e2ab6
+totalSupply()
+getKitty(uint256)
+getCurrentPrice(uint256)
+0x6ab108f9
+many_msg_babbage(bytes1)
+totalSupply()
+getKitty(uint256)
+getCurrentPrice(uint256)
+0x67280db0

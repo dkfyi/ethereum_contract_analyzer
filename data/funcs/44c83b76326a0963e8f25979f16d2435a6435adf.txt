@@ -1,0 +1,14 @@
+0x24e26241
+0x38aa6b7d
+manager()
+0x4afdd0e7
+0x4e4f8289
+withdraw(address)
+0x5294010f
+decay()
+numDeposits()
+0xbdc68113
+getProfit(address)
+deposit()
+0xd9607482
+getBalance(address)

@@ -1,0 +1,17 @@
+0x1037ea51
+0x1054727f
+0x1f9bf1f2
+withdraw(uint256)
+0x3a88360c
+etherdelta()
+0x7872c1d3
+ideal_warn_timed(uint256,uint128)
+0x9e332bcc
+deposit(uint256)
+getEth()
+0xe1f84747
+signatureSplit(bytes)
+withdraw(uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+deposit()

@@ -1,0 +1,5 @@
+StartQuiz(string,string)
+NewQuiz(string,bytes32)
+Try(string)
+StopQuiz()
+Question()

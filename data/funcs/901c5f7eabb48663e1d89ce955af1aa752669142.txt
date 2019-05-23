@@ -1,0 +1,14 @@
+0x10ebcc1f
+0x17f85f85
+0x3cf96af1
+0x6d809e43
+0x75d0884d
+ideal_warn_timed(uint256,uint128)
+0x8fc5dad8
+0xa6385803
+getVote(string)
+0xe2048503
+transferOwnership(address)
+0xf8722b47
+0xeda31bc2
+0xa39dbdb9

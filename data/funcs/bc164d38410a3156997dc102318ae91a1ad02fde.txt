@@ -1,0 +1,8 @@
+deadline()
+beneficiary()
+tokenReward()
+balanceOf(address)
+amountRaised()
+price()
+safeWithdrawal()
+many_msg_babbage(bytes1)

@@ -1,0 +1,14 @@
+0x24e1e82b
+0x2cd66ae3
+unpause()
+paused()
+0x6e3f54a3
+pause()
+0x864ff678
+ideal_warn_timed(uint256,uint128)
+0xccc6bffe
+getPlayerInfoByAddress(address)
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

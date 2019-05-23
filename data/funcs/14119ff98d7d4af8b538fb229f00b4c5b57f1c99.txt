@@ -1,0 +1,13 @@
+hasDividends()
+0x233bdd69
+putProfit()
+claimDividends()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+totalDividends()
+0xd9da8dad
+dividendBalanceOf(address)
+transferOwnership(address)
+token()
+balanceOf(address)
+totalSupply()

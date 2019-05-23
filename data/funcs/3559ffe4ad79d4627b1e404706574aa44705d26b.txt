@@ -1,0 +1,3 @@
+0x26ba334f
+createPadlock(string)
+message()

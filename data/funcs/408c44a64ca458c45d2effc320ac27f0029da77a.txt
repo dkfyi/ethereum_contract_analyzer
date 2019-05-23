@@ -1,0 +1,16 @@
+0x23befb10
+deadline()
+beneficiary()
+totalTokensForSale()
+0x6dc66f2b
+tokenReward()
+balanceOf(address)
+fundingGoal()
+amountRaised()
+closeCrowdsale()
+price()
+crowdsaleClosed()
+0xfa98cd88
+safeWithdrawal()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

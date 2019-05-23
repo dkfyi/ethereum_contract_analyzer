@@ -1,0 +1,7 @@
+0x296c667f
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0xdda8dc6c
+0xe30acfaf
+transferOwnership(address)

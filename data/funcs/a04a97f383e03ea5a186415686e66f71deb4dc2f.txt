@@ -1,0 +1,4 @@
+valueSet(string,bytes)
+valueDelete(string)
+valueGet(string)
+valueGet(address,string)

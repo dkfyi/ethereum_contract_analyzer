@@ -1,0 +1,12 @@
+0x08863c5b
+balances(address)
+withdraw(uint256)
+0x3351612f
+0x39e9e8eb
+artist()
+0x692ce3cf
+0x6a07a832
+price()
+balance()
+0xb9640f8c
+deposit()

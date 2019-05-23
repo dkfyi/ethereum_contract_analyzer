@@ -1,0 +1,3 @@
+removeTank(address)
+isTank(address)
+setTank(address)

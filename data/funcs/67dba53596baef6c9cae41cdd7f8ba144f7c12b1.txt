@@ -1,0 +1,12 @@
+transferToken(address,uint256)
+presaleendTime()
+weiRaised()
+manualBatchTransferToken(uint256[],address[])
+ideal_warn_timed(uint256,uint128)
+presalestartTime()
+0xa4702cb5
+isContributionAllowed()
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

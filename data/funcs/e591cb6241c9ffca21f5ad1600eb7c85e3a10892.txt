@@ -1,0 +1,12 @@
+0x6c13c8a8
+0x77128959
+0x80fd1451
+0x963ba066
+0x9df92d33
+0xb1dada6a
+proxy()
+getHighestUnitPriceIdxFromSell()
+getLowestUnitPriceIdxFromBuy()
+getBuyDemand(uint256)
+getPlayerData(address)
+getHashratePerDay(address)

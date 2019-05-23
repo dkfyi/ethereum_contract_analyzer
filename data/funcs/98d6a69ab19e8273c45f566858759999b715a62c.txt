@@ -1,0 +1,6 @@
+0x2a1fa30d
+tokens(address,address)
+0xef50f76a
+getReturn(address,address,uint256)
+0xcf93ebe3
+getExpectedRate(address,address,uint256)

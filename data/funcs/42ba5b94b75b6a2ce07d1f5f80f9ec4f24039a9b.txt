@@ -1,0 +1,10 @@
+kill()
+changeToken(address)
+0x97849c5d
+0xb0065d4b
+returnEther()
+admin()
+0xff8bce6e
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

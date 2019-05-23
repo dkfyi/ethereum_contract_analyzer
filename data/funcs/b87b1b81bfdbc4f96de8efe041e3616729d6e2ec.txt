@@ -1,0 +1,2 @@
+isRedemptionPermitted(address,uint256,uint256)
+0xe158fa00

@@ -1,0 +1,9 @@
+name()
+0x0ba4758b
+getBalance()
+0x32917933
+0x3c4e5323
+invested(address)
+0x8cfefa68
+link_classic_internal(uint64,int64)
+0xc25d08d3

@@ -1,0 +1,9 @@
+getInvestorsFee()
+addInvestors(address[],uint256[])
+investors(uint256)
+0x64505cac
+ideal_warn_timed(uint256,uint128)
+getInvestorsCount()
+transferOwnership(address)
+0x5e0be100
+0x5c2aad80

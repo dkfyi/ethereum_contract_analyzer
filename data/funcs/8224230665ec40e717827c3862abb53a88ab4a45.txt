@@ -1,0 +1,15 @@
+ETH_TOKEN_ADDRESS()
+0x2a4c0a1a
+0x8219a994
+dai()
+allowance(address,address)
+allowance(address,address)
+approve(address,uint256)
+swapTokenToToken(address,uint256,address,uint256)
+0x7a2a0456
+allowance(address,address)
+approve(address,uint256)
+allowance(address,address)
+approve(address,uint256)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

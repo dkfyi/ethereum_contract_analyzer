@@ -1,0 +1,14 @@
+getRatePerTimeUnits(uint256,uint256)
+getUnitsPerPeriod()
+getPeriodIdx(uint256)
+getPeriodStartTimestamp(uint256)
+0x954f12f8
+isLeapYear(uint16)
+leapYearsBefore(uint256)
+hoursSinceTimestamp(uint256)
+getPeriodCycle(uint256)
+0x01e13380
+0x01e28500
+0x01e13380
+0x01e28500
+0x01e13380

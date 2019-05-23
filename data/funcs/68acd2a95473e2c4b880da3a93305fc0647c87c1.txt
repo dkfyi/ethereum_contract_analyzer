@@ -1,0 +1,13 @@
+0x22d03436
+0x39538600
+removeAuthorized(address)
+0x6d21a7dd
+0x6f6355f4
+renounceOwnership()
+0x783c1f76
+ideal_warn_timed(uint256,uint128)
+0x93d09277
+0xb9059f6b
+0xb9181611
+addAuthorized(address)
+transferOwnership(address)

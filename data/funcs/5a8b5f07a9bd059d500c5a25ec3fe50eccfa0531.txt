@@ -1,0 +1,7 @@
+__callback(bytes32,string)
+deposit()
+getAddress()
+cbAddress()
+getAddress()
+query2(uint256,string,string,string)
+getPrice(string)

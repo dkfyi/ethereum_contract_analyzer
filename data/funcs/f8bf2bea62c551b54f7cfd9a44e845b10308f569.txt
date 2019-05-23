@@ -1,0 +1,16 @@
+0x27117c86
+Allow_Entries()
+Raffle_Prize()
+Raffle_ID()
+ideal_warn_timed(uint256,uint128)
+Date_Finished()
+Winner()
+Total_Entries()
+Winning_Entry()
+raffleDraw()
+Raffle_Finished()
+Date_Started()
+0xf05fb5b3
+addEntry(address)
+transferOwnership(address)
+shutdown()

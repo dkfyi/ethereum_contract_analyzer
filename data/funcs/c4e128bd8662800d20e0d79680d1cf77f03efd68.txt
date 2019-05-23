@@ -1,0 +1,5 @@
+getAll()
+0x56cc14ec
+getNameByAddress(address)
+register(address,string,string)
+empty()

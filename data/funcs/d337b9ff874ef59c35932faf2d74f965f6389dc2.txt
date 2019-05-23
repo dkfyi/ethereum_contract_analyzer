@@ -1,0 +1,6 @@
+getBalance()
+Win()
+setTarget(address)
+getPayout()
+spotsLeft()
+buyTicketsFor(address)

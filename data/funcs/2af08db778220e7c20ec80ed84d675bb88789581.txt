@@ -1,0 +1,17 @@
+0x011783eb
+register(address,bytes32)
+getAddress(bytes32)
+sampleBoolRetFalse()
+first()
+0x436fd842
+second()
+getName(address)
+fourth()
+sampleBoolRetTrue()
+sampleBool(bool)
+third()
+threeParams()
+sampleMulti(bool,bytes32,int8,bytes4)
+0xd3ac269d
+fifth()
+0x01000000

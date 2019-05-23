@@ -1,0 +1,10 @@
+pool()
+0x17077cc5
+tokenReward()
+0x7b46c54f
+ideal_warn_timed(uint256,uint128)
+WithdrawToken(address,uint256)
+allowAccess(address)
+0xd1264ff1
+transferOwnership(address)
+gasprice_bit_ether(int128)

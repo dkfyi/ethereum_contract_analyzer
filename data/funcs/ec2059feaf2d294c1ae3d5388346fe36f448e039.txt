@@ -1,0 +1,8 @@
+MAX_VALUE()
+ZeroPonzi()
+0x29652e86
+payoutIndex()
+RET_MUL()
+MIN_VALUE()
+payoutTotal()
+RET_DIV()

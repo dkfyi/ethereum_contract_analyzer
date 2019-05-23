@@ -1,0 +1,6 @@
+0x3f425cd3
+0x6f549dbf
+0xde00683a
+0xfb2f1d99
+isPregnant(uint256)
+giveBirth(uint256)

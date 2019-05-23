@@ -1,0 +1,7 @@
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+0x682f2a2d
+0x6e9bffc2
+link_classic_internal(uint64,int64)
+0xca08d2c4

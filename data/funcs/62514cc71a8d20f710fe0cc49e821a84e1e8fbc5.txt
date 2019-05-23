@@ -1,0 +1,5 @@
+erase(uint256)
+getData()
+uploadData(bytes)
+uploadFinish()
+0xf0ba8440

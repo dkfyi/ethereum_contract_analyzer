@@ -1,0 +1,10 @@
+dropAmount()
+0x190b41ee
+acceptOwnership()
+numDrops()
+ideal_warn_timed(uint256,uint128)
+newOwner()
+emergencyERC20Drain(address,uint256)
+transferOwnership(address)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

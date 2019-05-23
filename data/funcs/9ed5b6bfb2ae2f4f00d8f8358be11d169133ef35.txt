@@ -1,0 +1,9 @@
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+withdraw(uint256)
+addUser(address)
+cashout()
+0xb7c68dc9
+deposit()
+0x88df15b4
+0x0a7fe276
+w(uint256)

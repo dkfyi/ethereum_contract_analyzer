@@ -1,0 +1,6 @@
+rate()
+weiRaised()
+wallet()
+_getTokenAmount(uint256)
+buyTokens(address)
+buyToken(address,uint256)

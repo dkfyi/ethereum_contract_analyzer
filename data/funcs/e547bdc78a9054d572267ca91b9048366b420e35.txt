@@ -1,0 +1,6 @@
+setOwner(address)
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+viewToken()
+authority()
+canCall(address,address,bytes4)

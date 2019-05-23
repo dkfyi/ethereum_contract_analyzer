@@ -1,0 +1,7 @@
+take()
+putHere()
+test()
+DranMe()
+becomePlayer()
+manipulateSecret()
+claimPrize()

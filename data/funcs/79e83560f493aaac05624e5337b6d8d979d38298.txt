@@ -1,0 +1,15 @@
+totalSupply()
+claim()
+0x590e56d0
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+released(address)
+getPrice()
+0x9e84f27c
+many_msg_babbage(bytes1)
+shares(address)
+totalReleased()
+transferOwnership(address)
+0x4adf5351
+getPrice()
+0x96830abe

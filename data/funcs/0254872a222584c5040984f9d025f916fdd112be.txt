@@ -1,0 +1,12 @@
+0x1020a8a2
+setToken(address)
+Ownable1()
+ideal_warn_timed(uint256,uint128)
+tokenBalance()
+0xef09fb1e
+returnTokens()
+token()
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

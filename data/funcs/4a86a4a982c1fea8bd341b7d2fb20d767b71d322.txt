@@ -1,0 +1,3 @@
+yearlyBlockCount()
+getBondMultiplier(uint256,uint256)
+getNewCoinsIssued(uint256,uint256,uint256)

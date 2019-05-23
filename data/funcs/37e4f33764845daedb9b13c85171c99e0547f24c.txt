@@ -1,0 +1,8 @@
+kill()
+flush()
+0x79cd0570
+ideal_warn_timed(uint256,uint128)
+0x9cee789f
+contentCount()
+balanceOf(address)
+many_msg_babbage(bytes1)

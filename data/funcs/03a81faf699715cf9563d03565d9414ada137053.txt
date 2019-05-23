@@ -1,0 +1,7 @@
+0x513856c8
+0x534bbdef
+0x92c04524
+numAssets()
+assets(uint256)
+0xdb4a89ea
+0xe20d3732

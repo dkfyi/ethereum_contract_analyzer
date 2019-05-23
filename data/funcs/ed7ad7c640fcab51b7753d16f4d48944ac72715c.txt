@@ -1,0 +1,9 @@
+0x21d38fb5
+pID_()
+getPlayerAddr(uint256)
+getPlayerAff(uint256)
+0x778d9e20
+0x80bf82f8
+0x9de5720f
+plyr_(uint256)
+getPlayerID(address)

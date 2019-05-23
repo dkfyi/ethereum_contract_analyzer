@@ -1,0 +1,6 @@
+0x02dd7c9c
+getBalanceInEth(address)
+sendCoin(address,uint256)
+0xb4014879
+getBalance(address)
+convert(uint256,uint256)

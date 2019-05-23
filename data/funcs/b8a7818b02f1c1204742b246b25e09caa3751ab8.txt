@@ -1,0 +1,3 @@
+getStats(uint256)
+0xda65ca7b
+getAxie(uint256)

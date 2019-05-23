@@ -1,0 +1,11 @@
+totalVotes()
+totalVotesFor(bytes32)
+validCandidate(bytes32)
+numCandidates()
+0x7021939f
+0x789d9e8a
+0x8cb647d3
+0xb13c744b
+endVote()
+voteForCandidate(bytes32)
+0xd8bff5a5

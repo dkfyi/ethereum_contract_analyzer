@@ -1,0 +1,5 @@
+TechnicalRise()
+timeOut()
+lastBidder()
+feeRate()
+fund()

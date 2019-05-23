@@ -1,0 +1,6 @@
+registrator(address)
+ideal_warn_timed(uint256,uint128)
+updateRegistratorStatus(address,bool)
+storeAuthenticity(string)
+checkAuthenticity(string)
+transferOwnership(address)

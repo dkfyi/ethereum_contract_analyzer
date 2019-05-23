@@ -1,0 +1,9 @@
+name()
+wallet2()
+wallet1()
+available_assert_time(uint16,uint64)
+balanceOf(address)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xea921f2a
+0xc4a11628

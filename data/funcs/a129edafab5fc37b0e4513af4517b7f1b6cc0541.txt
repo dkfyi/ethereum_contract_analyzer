@@ -1,0 +1,2 @@
+0x532e9a5b
+sendCoin(address,uint256)

@@ -1,0 +1,7 @@
+getPonziFriend(address)
+0x0c8cae50
+0x1201460d
+0x77b5031a
+newPonziFriend(uint256)
+getStats()
+0xc7970477

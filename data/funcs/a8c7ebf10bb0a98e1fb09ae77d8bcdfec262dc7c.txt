@@ -1,0 +1,8 @@
+kill()
+0x73f44395
+ideal_warn_timed(uint256,uint128)
+0x956e2ec9
+0xca7872b3
+owned()
+0xe4d7c28c
+vote(string)

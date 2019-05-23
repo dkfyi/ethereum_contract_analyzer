@@ -1,0 +1,15 @@
+getMembersCount()
+removeMember(address)
+getTierOfMember(address)
+isAdmin(address)
+0x2b198f8e
+getMembersOfTier(uint256)
+getMemberByIdx(uint256)
+addAdmin(address)
+ideal_warn_timed(uint256,uint128)
+isUserMember(address)
+getMembersOfTierCount(uint256)
+0xa1759d24
+getMemberIdxOfUser(address)
+transferOwnership(address)
+setMemberTier(address,uint256)

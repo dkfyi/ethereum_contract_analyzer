@@ -1,0 +1,9 @@
+0x109aa0d7
+getFunds()
+setContract(address)
+0x832d2d58
+0xbe4d6211
+0xfc64b60b
+cancelOfferForCity(uint256)
+cancelOfferForCity(uint256)
+makeOfferForCity(uint16,uint256)

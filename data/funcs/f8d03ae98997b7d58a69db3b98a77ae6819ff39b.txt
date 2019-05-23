@@ -1,0 +1,8 @@
+isOwner()
+isOwner()
+getProperty(string)
+0xbacb6567
+transferOwnership(address)
+renounceOwnership()
+0x88b54f8d
+ideal_warn_timed(uint256,uint128)

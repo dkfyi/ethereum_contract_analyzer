@@ -1,0 +1,5 @@
+0x04289bec
+getPrice(bytes32)
+0x58924a2e
+0xb9dccd55
+0xc8507cbd

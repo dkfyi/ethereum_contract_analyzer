@@ -1,0 +1,3 @@
+0x1ab64c77
+0x560a1503
+getContractVersion()

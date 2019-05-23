@@ -1,0 +1,13 @@
+0x0a937c2b
+0x2bb39dd1
+0x419ef1ca
+0x4d870cf3
+0x4ff1dcb4
+renounceOwnership()
+getSupplyLimit(uint16)
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0xae999406
+0xd2c209a8
+0xef836b85
+transferOwnership(address)

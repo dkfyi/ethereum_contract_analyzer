@@ -1,0 +1,10 @@
+setOwner(address)
+participants(uint256)
+ideal_warn_timed(uint256,uint128)
+collectedFees()
+payoutIdx()
+balance()
+collectFees()
+Doubler()
+enter()
+0x290decd9

@@ -1,0 +1,5 @@
+getOwner(string)
+get(string)
+set(string,string)
+owner(bytes32)
+owner(bytes32)

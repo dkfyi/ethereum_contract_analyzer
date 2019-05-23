@@ -1,0 +1,2 @@
+tokenReward()
+jigoutuihuan(address,uint256)

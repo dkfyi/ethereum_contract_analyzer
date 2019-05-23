@@ -1,0 +1,8 @@
+invalidateName(string)
+withdrawAll()
+0xd232e9c7
+0xe9608eec
+invalidateName(string)
+sealedBids(address,bytes32)
+cancelBid(address,bytes32)
+cancelBid(address,bytes32)

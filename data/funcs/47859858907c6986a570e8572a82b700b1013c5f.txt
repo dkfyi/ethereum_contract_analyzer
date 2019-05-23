@@ -1,0 +1,14 @@
+0x04a55cbf
+name()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+0x481e81d8
+standard()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+Decimals()
+allowance(address,address)
+0xe1f1bab5

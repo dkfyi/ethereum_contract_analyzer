@@ -1,0 +1,3 @@
+Outcome()
+0xbf7dd101
+enter()

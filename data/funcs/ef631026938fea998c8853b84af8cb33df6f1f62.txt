@@ -1,0 +1,4 @@
+withdraw()
+kill()
+0xe8f81243
+playerRoll(uint8,uint8,address)

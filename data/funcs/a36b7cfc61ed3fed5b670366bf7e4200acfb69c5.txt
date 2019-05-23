@@ -1,0 +1,6 @@
+destroy()
+ideal_warn_timed(uint256,uint128)
+0xa06c1a33
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

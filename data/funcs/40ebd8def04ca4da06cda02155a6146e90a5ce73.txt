@@ -1,0 +1,6 @@
+beneficiary()
+startBlock()
+fundRaising()
+amountRaised()
+fee()
+hardCap()

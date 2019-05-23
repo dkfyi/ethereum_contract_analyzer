@@ -1,0 +1,4 @@
+0x18559e19
+test1()
+0xec7bf79c
+getNumber()

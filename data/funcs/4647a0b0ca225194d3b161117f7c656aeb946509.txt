@@ -1,0 +1,6 @@
+0x311b8ec0
+0x4d93c65a
+0x7a85a06a
+generateProof(string,address,address,uint8)
+unlockAmount(string,uint8)
+locks(bytes32)

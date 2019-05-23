@@ -1,0 +1,6 @@
+money()
+0xb74387fc
+0xe3295ec2
+payoutPreviousRoll()
+payoutPreviousRoll()
+roll(uint8)

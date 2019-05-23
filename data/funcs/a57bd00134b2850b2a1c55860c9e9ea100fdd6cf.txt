@@ -1,0 +1,14 @@
+0x78e111f6
+0x78e111f6
+setCache(address)
+0x9c52a7f1
+0xa90e8731
+0xbf353dbb
+execute(address,bytes)
+execute(bytes,bytes)
+cache()
+0x65fae35e
+read(bytes)
+write(bytes)
+read(bytes)
+write(bytes)

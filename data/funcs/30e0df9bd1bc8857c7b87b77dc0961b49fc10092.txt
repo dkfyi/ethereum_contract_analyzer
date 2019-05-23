@@ -1,0 +1,5 @@
+0x2b73b6fd
+isLocked(bytes32)
+exists(bytes32)
+add(bytes32)
+remove(bytes32)

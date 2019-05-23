@@ -1,0 +1,15 @@
+name()
+pIDxAddr_(address)
+airDropTracker_()
+0x19f092f4
+withdraw()
+pIndex()
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+genPot_()
+updateTeamV(address)
+teamV()
+airDropPot_()
+buy(address)
+0x3b9aca00
+0x3b9aca00

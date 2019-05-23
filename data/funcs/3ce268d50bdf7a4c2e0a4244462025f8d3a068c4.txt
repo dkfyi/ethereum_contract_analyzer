@@ -1,0 +1,5 @@
+getBalance()
+withdraw(uint256)
+lastFund()
+remove()
+deposit()

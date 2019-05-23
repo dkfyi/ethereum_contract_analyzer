@@ -1,0 +1,6 @@
+gibLambos(uint256)
+balanceOf(address)
+burn(uint256)
+balanceOf(address)
+mint(address)
+many_msg_babbage(bytes1)

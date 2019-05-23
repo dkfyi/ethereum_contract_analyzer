@@ -1,0 +1,5 @@
+endTime()
+weiRaised()
+wallet()
+buyTokens(address)
+hasEnded()

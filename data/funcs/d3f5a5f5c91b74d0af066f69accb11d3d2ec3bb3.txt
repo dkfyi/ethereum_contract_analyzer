@@ -1,0 +1,12 @@
+0x44eeaae6
+0x56d64321
+0x584f21ae
+0x5a1b8cd3
+0x675b7fc8
+0x6e4db274
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+0xb0a3278d
+changeName(uint256,string)
+0xf17b3428
+0xfc1735fa

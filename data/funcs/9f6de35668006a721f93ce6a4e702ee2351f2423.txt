@@ -1,0 +1,16 @@
+sin()
+setOwner(address)
+0x379f5217
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+sai()
+0xa57d9ad3
+authority()
+0xe0cd1d69
+burn(address,uint128)
+burn(address,uint128)
+mint(address,uint128)
+mint(address,uint128)
+balanceOf(address)
+balanceOf(address)
+canCall(address,address,bytes4)

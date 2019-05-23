@@ -1,0 +1,5 @@
+0x6ea98d6c
+0x8374cddc
+get(address)
+bid()
+withdrawEarnings()

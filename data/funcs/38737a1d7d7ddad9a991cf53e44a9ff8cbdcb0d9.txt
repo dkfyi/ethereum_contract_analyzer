@@ -1,0 +1,11 @@
+getName(address)
+register(address,string,string)
+0xa6b03633
+registered(address)
+0xd94110a4
+getOwner(address)
+funders(address)
+0x51848835
+ideal_warn_timed(uint256,uint128)
+0x9d265e58
+0xf9a13d30

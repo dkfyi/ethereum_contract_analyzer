@@ -1,0 +1,11 @@
+setOwner(address)
+0x246eee7f
+0x5589f21d
+renounceOwnership()
+0x8020d11d
+0x88a6f572
+getOwner()
+ideal_warn_timed(uint256,uint128)
+0x9383d2fa
+transferOwnership(address)
+0x3ea31db8

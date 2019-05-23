@@ -1,0 +1,8 @@
+0x2d4286bf
+0x52cf4431
+0x59fe37aa
+isCertified(address)
+destroy()
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+destroyAndSend(address)

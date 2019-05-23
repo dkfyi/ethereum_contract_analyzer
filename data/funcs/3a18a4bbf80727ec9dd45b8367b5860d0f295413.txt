@@ -1,0 +1,5 @@
+name()
+totalSupply()
+balanceOf(address)
+transfer(address,uint32)
+link_classic_internal(uint64,int64)

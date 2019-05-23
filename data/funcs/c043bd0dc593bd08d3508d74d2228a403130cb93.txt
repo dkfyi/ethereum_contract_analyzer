@@ -1,0 +1,11 @@
+setBeneficiary(address)
+kittyCoreAddress()
+beneficiary()
+close()
+withdrawBalance()
+0x731ef136
+setKittyCoreAddress(address)
+ideal_warn_timed(uint256,uint128)
+0xc5064394
+transferOwnership(address)
+freeFrom(address,uint256)

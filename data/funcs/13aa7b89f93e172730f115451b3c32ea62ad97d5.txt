@@ -1,0 +1,8 @@
+name()
+getBalance()
+0x2de02f8c
+standard()
+0x7c9495b2
+0x9d5e6c9d
+price()
+0xc7802177

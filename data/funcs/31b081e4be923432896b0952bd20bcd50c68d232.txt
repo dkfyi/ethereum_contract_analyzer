@@ -1,0 +1,11 @@
+0x38aa6b7d
+0x4afdd0e7
+0x4e4f8289
+withdraw(address)
+0xaa3f8cb7
+numDeposits()
+0xbdc68113
+getProfit(address)
+deposit()
+0xd9607482
+getBalance(address)

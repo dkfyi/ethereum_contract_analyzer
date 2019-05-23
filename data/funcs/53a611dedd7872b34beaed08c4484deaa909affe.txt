@@ -1,0 +1,4 @@
+name()
+transfer(address,uint8)
+available_assert_time(uint16,uint64)
+balanceOf(address)

@@ -1,0 +1,11 @@
+link_classic_internal(uint64,int64)
+name()
+balanceOf(address)
+totalSupply()
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)
+approve(address,uint256)
+allowance(address,address)
+setOpen(bool)
+setMiner(address)
+0x9f2071ed

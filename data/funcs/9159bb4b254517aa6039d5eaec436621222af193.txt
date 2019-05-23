@@ -1,0 +1,10 @@
+0x04879aa1
+0x1eecd934
+0x5d83c2b8
+getPayout()
+ticketsSold()
+getRandom()
+houseEdge()
+0xdc2337e2
+0xdc82697c
+buyTicket()

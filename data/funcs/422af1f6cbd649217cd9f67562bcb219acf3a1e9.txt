@@ -1,0 +1,6 @@
+__callback(bytes32,string)
+oraclize_setProof(bytes1)
+getAddress()
+cbAddress()
+getAddress()
+setProofType(bytes1)

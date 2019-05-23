@@ -1,0 +1,14 @@
+getType()
+getName()
+addAddress(address)
+isWhitelisted(address)
+unpause()
+removeAddress(address)
+0x4d8b483f
+paused()
+renounceOwnership()
+pause()
+ideal_warn_timed(uint256,uint128)
+0x93f0899a
+whitelist(address)
+transferOwnership(address)

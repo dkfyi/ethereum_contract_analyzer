@@ -1,0 +1,4 @@
+baseRate()
+0x398482d8
+0x527d6699
+setPrice(uint256,uint256)

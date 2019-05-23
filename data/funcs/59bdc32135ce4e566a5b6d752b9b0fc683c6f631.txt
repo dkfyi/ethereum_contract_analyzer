@@ -1,0 +1,7 @@
+beneficiary()
+0x979215de
+rewards()
+isLotteryClosed()
+playerEther()
+0xf71d96cb
+safeWithdrawal()

@@ -1,0 +1,16 @@
+setToken(address)
+returnOwnership()
+0x4b62520e
+0x5908fc6c
+ideal_warn_timed(uint256,uint128)
+tokenBalance()
+0xef09fb1e
+returnTokens()
+token()
+transferOwnership(address)
+bountyTransfer(address,uint256)
+bountyTransfer(address,uint256)
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

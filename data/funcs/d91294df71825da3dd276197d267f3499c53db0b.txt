@@ -1,0 +1,14 @@
+0x221be0e2
+0x328db171
+0x5f5b6989
+0x5f830deb
+ideal_warn_timed(uint256,uint128)
+oldToken()
+newToken()
+transferOwnership(address)
+available_assert_time(uint16,uint64)
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

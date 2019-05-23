@@ -1,0 +1,3 @@
+getContract(string)
+0xc00df47f
+0xfe46a2ca

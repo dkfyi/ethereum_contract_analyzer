@@ -1,0 +1,7 @@
+gamesPlayed(uint256)
+kill()
+CryptoRoulette()
+play(uint256)
+ownerAddr()
+lastPlayed()
+betPrice()

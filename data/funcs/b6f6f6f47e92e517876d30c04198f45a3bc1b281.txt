@@ -1,0 +1,6 @@
+rouletteOwner()
+result()
+Play(uint8)
+finished()
+StartRoulette(uint8)
+StopGame()

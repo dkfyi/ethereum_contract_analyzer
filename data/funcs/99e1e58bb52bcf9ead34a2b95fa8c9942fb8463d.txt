@@ -1,0 +1,12 @@
+withdraw(uint256)
+unregister(address)
+update(address,string,string)
+theGames(uint256)
+0x553de286
+0x637e9d5c
+register(address,string,string)
+transfer(address,address)
+0xc566d355
+distributeValue()
+0xfb1d925d
+0x1cc41b3b

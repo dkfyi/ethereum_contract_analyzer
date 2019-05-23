@@ -1,0 +1,4 @@
+getVersion()
+deleteAdmin(address)
+containsAdmin(address)
+addAdmin(address)

@@ -1,0 +1,5 @@
+0x1f491389
+riddle()
+play(string)
+answer()
+end(string)

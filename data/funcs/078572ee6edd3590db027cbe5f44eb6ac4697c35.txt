@@ -1,0 +1,9 @@
+0x0b16586e
+updateOwner(address)
+0x88278048
+ideal_warn_timed(uint256,uint128)
+0xdca751a6
+tradeContract()
+getApproved(uint256)
+isApprovedForAll(address,address)
+gasprice_bit_ether(int128)

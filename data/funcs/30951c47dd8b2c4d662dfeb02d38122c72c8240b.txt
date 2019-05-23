@@ -1,0 +1,8 @@
+isOwner(address)
+0x40404e3c
+confirm(bytes32)
+execute(address,uint256,bytes)
+revoke(bytes32)
+hasConfirmed(bytes32,address)
+getOwner(uint256)
+required()

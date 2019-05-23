@@ -1,0 +1,4 @@
+multiplicate(address)
+withdraw()
+Owner()
+Command(address,bytes)

@@ -1,0 +1,7 @@
+0x2113b139
+balances(address)
+0x3335a2b8
+burn(uint256)
+price()
+changePrice(uint256)
+buy()

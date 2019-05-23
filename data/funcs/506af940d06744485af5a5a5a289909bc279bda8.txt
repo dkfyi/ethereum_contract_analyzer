@@ -1,0 +1,10 @@
+0x3bcb2e66
+kill()
+ideal_warn_timed(uint256,uint128)
+0x9cd043ff
+changeTokenAddress(address)
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

@@ -1,0 +1,10 @@
+removeMultipleAllowedAddresses(address[])
+0x32d30157
+removeAllowedAddress(address)
+0x4120657a
+addMultipleAllowedAddresses(address[])
+ACCEPTED_AMOUNT()
+0x607ad0d7
+addAllowedAddress(address)
+RECEIVER_ADDRESS()
+end()

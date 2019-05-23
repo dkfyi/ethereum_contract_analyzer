@@ -1,0 +1,10 @@
+odds()
+0x2c4106bd
+0x2c5c53f4
+winningNumber()
+ideal_warn_timed(uint256,uint128)
+0x969a9b05
+setOdds(uint256)
+0xafa1c019
+increment()
+0xf0acd7d5

@@ -1,0 +1,7 @@
+0x07c20d97
+0x17dd222c
+0x4e5ba926
+0x84c0b0ef
+0xb58ae1e2
+0xe486dd3b
+checkPermission(address,address,bytes32)

@@ -1,0 +1,8 @@
+milestoneCount()
+getMilestone(uint256)
+MAX_MILESTONE()
+preicoContractAddress()
+calculatePrice(uint256,uint256,uint256,address)
+preicoPrice()
+0xe89e4ed6
+getCurrentPrice()

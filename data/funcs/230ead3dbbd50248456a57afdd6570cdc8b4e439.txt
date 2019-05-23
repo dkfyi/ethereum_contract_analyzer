@@ -1,0 +1,5 @@
+setOwner(address)
+0x723dda13
+getOwner()
+0xadc01ccb
+getEntry(uint256)

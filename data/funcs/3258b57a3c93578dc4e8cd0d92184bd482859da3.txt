@@ -1,0 +1,6 @@
+count()
+countUp()
+hello()
+countDown()
+destroy()
+getCount()

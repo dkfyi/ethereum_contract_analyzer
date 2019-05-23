@@ -1,0 +1,12 @@
+getAds()
+0x11a7a4c0
+pixelsPerCell()
+grid(uint256,uint256)
+withdraw()
+buy(uint256,uint256,uint256,uint256,string,string,string)
+update(uint256,string,string,string)
+setSale(uint256,bool,uint256)
+marketBuy(uint256)
+contractOwner()
+setActive(uint256,bool)
+pixelPrice()

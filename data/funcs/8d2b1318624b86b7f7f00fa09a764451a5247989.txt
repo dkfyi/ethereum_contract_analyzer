@@ -1,0 +1,16 @@
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+withdraw()
+sellPrice()
+balanceOf(address)
+buyPrice()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xbe2eaad4
+0xc5f60620
+sell(uint256)
+exit()
+donate()
+buy(address)
+reinvest()

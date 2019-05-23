@@ -1,0 +1,10 @@
+0x2157c46a
+fetchdivs()
+ideal_warn_timed(uint256,uint128)
+0xb51705f2
+newOwner()
+0xd95f98ce
+transferOwnership(address)
+0x358fcee9
+0xe19bdefb
+0xb0f482be

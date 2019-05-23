@@ -1,0 +1,6 @@
+invested(address)
+interestRate()
+nextBlock()
+0x8aac1362
+0xb113e7ce
+bonus(address)

@@ -1,0 +1,15 @@
+deliverPresaleTokens(address[],uint256[])
+maxGasPrice()
+0x71b429f2
+ideal_warn_timed(uint256,uint128)
+finalise()
+setGasPrice(uint256)
+0xcb9740f8
+transferOwnership(address)
+gasPrice()
+0xf113d9ba
+0x17bc8563
+buyTokens(address,uint256)
+finalizeSale()
+getSaleContractTokensMinted(address)
+tokenMint(address,uint256)

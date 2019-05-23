@@ -1,0 +1,17 @@
+sold()
+active()
+airDropAmount()
+tokensAvailable()
+destroy()
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+price()
+0xbdac4fc0
+setDropAmount(uint256)
+0xe96272e7
+getEther(uint256)
+transferOwnership(address)
+0xfae76f74
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

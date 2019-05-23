@@ -1,0 +1,4 @@
+getAllProducts()
+0x3cef64cc
+set(uint256)
+get()

@@ -1,0 +1,7 @@
+add(address)
+0x2b719ee2
+0x3bdec419
+minting()
+recipients(uint256)
+token()
+mint(address,uint256)

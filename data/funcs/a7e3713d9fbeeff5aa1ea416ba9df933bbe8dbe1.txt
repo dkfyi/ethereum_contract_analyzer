@@ -1,0 +1,6 @@
+weiRaised()
+wwamICOcontractAddress()
+tokenAddress()
+pricingStrategyAddress()
+calculatePrice(uint256,uint256,uint256,address,uint256)
+many_msg_babbage(bytes1)

@@ -1,0 +1,11 @@
+setOwner(address)
+totalplayers()
+investors(uint256)
+totalpaidout()
+investors_needed_until_jackpot()
+ideal_warn_timed(uint256,uint128)
+fees()
+balance()
+totaldeposited()
+enter()
+0x290decd9

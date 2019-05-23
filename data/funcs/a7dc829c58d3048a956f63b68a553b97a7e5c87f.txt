@@ -1,0 +1,14 @@
+mixGenes(uint256,uint256,uint256)
+0x42e68fdf
+isGeneScience()
+sqrt(uint256)
+0x97229be7
+getCode(uint256)
+randomGenes()
+0xcff840f0
+0xe6225630
+0xeb22daa3
+0x01000000
+0x01000000
+0x01000000
+0x01000000

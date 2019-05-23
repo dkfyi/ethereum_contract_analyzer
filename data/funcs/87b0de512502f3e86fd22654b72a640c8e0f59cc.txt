@@ -1,0 +1,14 @@
+0x82756460
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+returnEverything()
+getNumInvestors()
+investorIndex()
+investorIndex()
+0x205644d1
+returnInvestment()
+getNumInvestors()
+investorIndex()
+investorIndex()
+0x205644d1
+returnInvestment()

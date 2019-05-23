@@ -1,0 +1,7 @@
+getBalance()
+0x1691ebca
+0x681d1649
+0xe6f0aaf6
+getBalance(address)
+getBalance(address)
+balanceOf(address)

@@ -1,0 +1,5 @@
+0x1803334e
+withdraw(uint256)
+kill()
+topup()
+getBalance(address)

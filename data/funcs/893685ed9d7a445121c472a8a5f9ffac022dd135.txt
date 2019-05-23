@@ -1,0 +1,4 @@
+0x6e68f700
+destroy()
+sealedBids(address,bytes32)
+cancelBid(address,bytes32)

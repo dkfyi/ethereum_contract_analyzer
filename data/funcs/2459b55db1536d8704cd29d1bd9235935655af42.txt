@@ -1,0 +1,8 @@
+0x18f8cf1d
+0x69bdc62d
+random(uint256,uint256)
+0xb76b0b99
+0xf2a40db8
+withdraw()
+0x57f7ee3c
+play(uint256)

@@ -1,0 +1,5 @@
+kill()
+sendFunds(address,uint256)
+0x7b719e02
+0x8bdaefe6
+getFunds(address)

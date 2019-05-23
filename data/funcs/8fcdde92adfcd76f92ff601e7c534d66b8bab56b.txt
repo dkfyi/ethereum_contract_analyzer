@@ -1,0 +1,12 @@
+name()
+totalSupply()
+0x29354ab9
+_totalSupply()
+dividends(address)
+balanceOf(address)
+tokenHolder(uint256)
+tokenHolders()
+link_classic_internal(uint64,int64)
+contractVersion()
+many_msg_babbage(bytes1)
+tokenHolderCount()

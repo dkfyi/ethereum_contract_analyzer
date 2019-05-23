@@ -1,0 +1,11 @@
+weth()
+0x540fe246
+dex()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0xb2db6e33
+transferOwnership(address)
+dai()
+0xb2db6e33
+setAddress(string,address)
+getBuyAmount(address,address,uint256)

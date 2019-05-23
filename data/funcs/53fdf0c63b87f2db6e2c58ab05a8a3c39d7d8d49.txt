@@ -1,0 +1,8 @@
+signContract(bytes32,string,bool)
+removeAdmin(address)
+contracts(uint256)
+getContractSigners(bytes32)
+addAdmin(address)
+submitNewContract(string,address[],string,bytes32)
+checkIfSignedBy(bytes32,address)
+contractIndex(bytes32)

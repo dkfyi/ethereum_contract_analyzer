@@ -1,0 +1,2 @@
+createProxy(address,bytes)
+createManyProxies(uint256,address,bytes)

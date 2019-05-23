@@ -1,0 +1,11 @@
+checkGoalReached()
+deadline()
+beneficiary()
+tokenReward()
+balanceOf(address)
+fundingGoal()
+amountRaised()
+0x82fd987c
+price()
+safeWithdrawal()
+many_msg_babbage(bytes1)

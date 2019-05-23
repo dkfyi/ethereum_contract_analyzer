@@ -1,0 +1,12 @@
+0x33fbc1dd
+0x7a510116
+ideal_warn_timed(uint256,uint128)
+0x91efe98c
+setController(address)
+0xb393b31c
+0xc7b6350c
+0xd4f9955b
+tradeEnabled()
+0xf0c56606
+transferOwnership(address)
+controller()

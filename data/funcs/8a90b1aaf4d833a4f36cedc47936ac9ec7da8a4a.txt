@@ -1,0 +1,3 @@
+kill()
+test2()
+test()

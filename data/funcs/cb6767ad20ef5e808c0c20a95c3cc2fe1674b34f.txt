@@ -1,0 +1,6 @@
+setOwner(address)
+getAddress(bytes32)
+getConfig(bytes32)
+ideal_warn_timed(uint256,uint128)
+getUint(bytes32)
+addConfig(bytes32,bytes32)

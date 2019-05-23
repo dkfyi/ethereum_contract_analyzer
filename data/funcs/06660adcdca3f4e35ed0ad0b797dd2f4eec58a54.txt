@@ -1,0 +1,9 @@
+0x3059b1dc
+0x3e764713
+destroy()
+ideal_warn_timed(uint256,uint128)
+0xe95fb7a6
+transferOwnership(address)
+destroyAndSend(address)
+0xda66a9ad
+0xcb92dfef

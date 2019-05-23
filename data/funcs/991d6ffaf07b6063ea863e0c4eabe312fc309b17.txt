@@ -1,0 +1,3 @@
+ETHPrice()
+setAdmin(address,bool)
+updatePrice(uint256)

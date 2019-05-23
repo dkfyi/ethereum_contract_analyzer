@@ -1,0 +1,12 @@
+0x08f2d320
+kill()
+0x6afc03c7
+tokenReward()
+0x7b642d62
+ideal_warn_timed(uint256,uint128)
+0xa2478f92
+0xab347beb
+changeTokenAddress(address)
+transferOwnership(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

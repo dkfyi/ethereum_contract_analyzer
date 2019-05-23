@@ -1,0 +1,16 @@
+EXCHANGE_RATE()
+deadline()
+sendAfterIco(uint256)
+availableTokens()
+sellForBitcoin(address,uint256)
+tokenReward()
+balanceOf(address)
+amountRaised()
+ideal_warn_timed(uint256,uint128)
+price()
+START()
+0x5a5fb950
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+0x5a5fb950

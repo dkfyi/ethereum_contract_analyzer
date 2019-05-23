@@ -1,0 +1,12 @@
+0x0a3cf427
+getGen0IVs()
+0x42a5d7ca
+withdrawBalance()
+lockedMonsterStatsCount()
+ideal_warn_timed(uint256,uint128)
+addBaseStats(uint256,uint8[8])
+baseStats(uint256,uint256)
+getMonsterIVs()
+getMonsterStats(uint256)
+transferOwnership(address)
+0x01000000

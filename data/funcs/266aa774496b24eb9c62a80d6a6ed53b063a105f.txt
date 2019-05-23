@@ -1,0 +1,7 @@
+0x06488822
+0x2b42ba97
+0x8f955699
+exchange()
+MAX_UINT()
+quickConvert(address[],uint256,uint256)
+many_msg_babbage(bytes1)

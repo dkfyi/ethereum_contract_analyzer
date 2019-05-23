@@ -1,0 +1,7 @@
+calculateSha3(string)
+kill()
+0x462c9d92
+version()
+ideal_warn_timed(uint256,uint128)
+0xe128955a
+pendingOwner()

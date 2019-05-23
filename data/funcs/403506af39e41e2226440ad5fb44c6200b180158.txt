@@ -1,0 +1,8 @@
+freezeTransfers()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+unfreezeTransfers()
+balanceOf(address)
+many_msg_babbage(bytes1)
+allowance(address,address)

@@ -1,0 +1,4 @@
+getName()
+add()
+subtract()
+getCounter()

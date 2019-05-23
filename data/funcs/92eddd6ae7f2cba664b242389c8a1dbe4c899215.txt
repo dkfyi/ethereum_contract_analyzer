@@ -1,0 +1,7 @@
+deadline()
+tokenReward()
+fundingGoal()
+amountRaised()
+price()
+closeSale()
+many_msg_babbage(bytes1)

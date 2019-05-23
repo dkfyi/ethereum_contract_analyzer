@@ -1,0 +1,3 @@
+sameVar()
+test(uint256)
+destroy()

@@ -1,0 +1,9 @@
+changeMainContractInCoin(address,address)
+transfer(uint256,address,address,address,uint256,bytes,bytes)
+ping()
+0x9ace38c2
+transferWithChange(uint256,address,address,address,uint256,uint256,bytes,bytes,bytes)
+cashout(uint256,address,address,address,uint256,bytes,bytes)
+changeExchangeContract(address)
+cashout(address,address,uint256)
+transferMultisig(address,address,uint256)

@@ -1,0 +1,5 @@
+kill()
+ideal_warn_timed(uint256,uint128)
+0xd8f64b22
+0xdc9d2907
+mortal()

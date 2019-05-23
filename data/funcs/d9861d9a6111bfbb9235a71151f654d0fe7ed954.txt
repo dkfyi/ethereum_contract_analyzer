@@ -1,0 +1,2 @@
+isAvailableForTransfer(uint64)
+isListed(uint64)

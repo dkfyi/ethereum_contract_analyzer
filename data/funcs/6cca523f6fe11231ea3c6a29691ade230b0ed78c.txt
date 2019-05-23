@@ -1,0 +1,13 @@
+withdrawToken(address,address,uint256)
+0x1a202cd1
+withdrawEther(address,uint256)
+renounceOwnership()
+faucet(address,address)
+ideal_warn_timed(uint256,uint128)
+faucetThresholdSecs()
+setFaucetThresholdSecs(uint256)
+transferTokenFrom(address,address,address,uint256)
+transferOwnership(address)
+depositToken(address,address,uint256)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

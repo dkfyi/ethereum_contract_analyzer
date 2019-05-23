@@ -1,0 +1,9 @@
+0x4d19d515
+setAdmin(address)
+renounceOwnership()
+destroy()
+ideal_warn_timed(uint256,uint128)
+setSaleAuctionAddress(address,address)
+transferOwnership(address)
+destroyAndSend(address)
+admin()

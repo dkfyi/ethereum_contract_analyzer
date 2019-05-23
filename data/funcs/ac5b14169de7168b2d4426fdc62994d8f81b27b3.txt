@@ -1,0 +1,16 @@
+0x08560ace
+kill()
+buyer()
+ideal_warn_timed(uint256,uint128)
+price()
+init(uint256,uint256)
+buy()
+addBuyer(address)
+0xc1331ee8
+0xc52d404b
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

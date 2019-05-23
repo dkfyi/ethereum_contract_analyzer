@@ -1,0 +1,8 @@
+0x1ad100bb
+0x2bea500d
+0x3bf47720
+ideal_warn_timed(uint256,uint128)
+currentPrice()
+currentCycle()
+creatorAddress()
+0xf6f57127

@@ -1,0 +1,4 @@
+setContract(address)
+0xcf9d4afa
+test()
+setToken(address)

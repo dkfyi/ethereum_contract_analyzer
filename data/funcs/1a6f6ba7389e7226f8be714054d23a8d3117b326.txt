@@ -1,0 +1,12 @@
+0x1c615889
+0x314fb59d
+addCaller(address)
+0xaa03fa3d
+0xc054935c
+getNumeroCeldas()
+0xda3d6ca4
+0xdd42a140
+0xdef58399
+deleteCaller(uint256)
+transferCallership(address,uint256)
+0xff82ae8c

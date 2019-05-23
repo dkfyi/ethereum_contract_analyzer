@@ -1,0 +1,7 @@
+accountAddress()
+text()
+trueOrFalse()
+getData()
+storeData(bool,uint256,address,bytes32,string)
+amount()
+storedDataInBytes()

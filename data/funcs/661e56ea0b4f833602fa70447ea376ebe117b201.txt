@@ -1,0 +1,8 @@
+setSourcePrice(address)
+read(bytes32)
+acceptOwnership()
+sourcePrice()
+ideal_warn_timed(uint256,uint128)
+newOwner()
+transferOwnership(address)
+read(bytes32)

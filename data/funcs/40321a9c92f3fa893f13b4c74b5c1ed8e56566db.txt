@@ -1,0 +1,6 @@
+transfer(uint256)
+0x23972aef
+transferTo(address,uint256)
+change()
+check()
+random(uint8)

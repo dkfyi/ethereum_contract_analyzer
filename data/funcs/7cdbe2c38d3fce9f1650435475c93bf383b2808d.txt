@@ -1,0 +1,3 @@
+receiveApproval(address,uint256,address,bytes)
+0xa01ffdff
+owner_()

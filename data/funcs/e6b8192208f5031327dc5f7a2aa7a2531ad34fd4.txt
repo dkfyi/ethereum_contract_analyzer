@@ -1,0 +1,3 @@
+0x039f6251
+exchange()
+buyAllAmountPayEth(address,address,uint256,address)

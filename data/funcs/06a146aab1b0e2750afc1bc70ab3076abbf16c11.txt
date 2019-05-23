@@ -1,0 +1,13 @@
+getStatus(string)
+0x76acf1b6
+setStatus(string)
+0x88cdab94
+ideal_warn_timed(uint256,uint128)
+callOnRemoval()
+0xc979b05a
+callOnSignUp()
+transferOwnership(address)
+0xf9f451b8
+onSignUp(string,uint256)
+0x99734fe4
+withdrawFrom(string,address,uint256)

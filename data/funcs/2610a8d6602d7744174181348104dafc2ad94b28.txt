@@ -1,0 +1,13 @@
+beneficiaries(address)
+overflow_upper()
+setBeneficiary(address)
+setDealerCut(uint8)
+kill()
+dealer_cut()
+deployedOn()
+pitboss()
+setOverflowBounds(uint256,uint256)
+cashout(address,uint256)
+overflow_lower()
+0xb9f9cc9b
+deposit(address)

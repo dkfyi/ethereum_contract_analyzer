@@ -1,0 +1,8 @@
+name()
+raffleRewardAmount()
+totalSupply()
+available_assert_time(uint16,uint64)
+winningNumber()
+standard()
+link_classic_internal(uint64,int64)
+numberInRaffle()

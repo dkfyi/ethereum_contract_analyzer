@@ -1,0 +1,13 @@
+setToken(address)
+tokenFallback(address,uint256)
+wallet()
+retrieveTokens(address,address)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+setWallet(address)
+transferOwnership(address)
+0xf5715d56
+token()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

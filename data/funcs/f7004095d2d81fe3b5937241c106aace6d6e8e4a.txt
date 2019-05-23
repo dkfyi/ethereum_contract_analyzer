@@ -1,0 +1,10 @@
+ens()
+rootDomain()
+oracle()
+claim(bytes,bytes)
+proveAndClaim(bytes,bytes,bytes)
+rootNode()
+setSubnodeOwner(bytes32,bytes32,address)
+0x76a14d1d
+0x087991bc
+0x613d3078

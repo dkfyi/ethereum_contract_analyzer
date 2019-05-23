@@ -1,0 +1,6 @@
+name()
+contact()
+setContact(string)
+ideal_warn_timed(uint256,uint128)
+setName(string)
+transferOwnership(address)

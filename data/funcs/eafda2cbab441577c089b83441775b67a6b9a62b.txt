@@ -1,0 +1,13 @@
+contracts(uint256)
+getContractCount()
+0xcef55ae1
+0x11bb1537
+round()
+0x3fd5fe3a
+0x5b2f8752
+0x9d78325d
+0xa285c54a
+0xb7c4bf17
+0xb9127a60
+finished()
+0xc851b084

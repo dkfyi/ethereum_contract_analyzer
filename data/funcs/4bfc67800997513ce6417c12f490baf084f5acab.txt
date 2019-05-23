@@ -1,0 +1,6 @@
+totalGames()
+cashOut()
+0x824cbd56
+0xf5632bf1
+totalBet()
+deal()

@@ -1,0 +1,7 @@
+owners(uint256)
+ownerCount()
+removeOwner(address)
+isOwner(address)
+addOwner(address)
+MultiTransaction(address,address[],uint256[])
+many_msg_babbage(bytes1)

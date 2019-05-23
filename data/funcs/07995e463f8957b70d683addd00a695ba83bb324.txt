@@ -1,0 +1,6 @@
+certifier()
+vouch(bytes32)
+vouched(bytes32,uint256)
+unvouch(bytes32,uint256)
+vouchers(bytes32,uint256)
+certified(address)

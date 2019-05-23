@@ -1,0 +1,9 @@
+processTransaction(bytes,uint256)
+0x3192bed1
+tokensale()
+ideal_warn_timed(uint256,uint128)
+0xda86da4b
+0xe65e19d5
+transferOwnership(address)
+getFirstTwoOutputs(bytes)
+0x8cf292e4

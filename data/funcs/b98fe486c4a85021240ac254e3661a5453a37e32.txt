@@ -1,0 +1,6 @@
+destroy()
+0xa1566509
+place()
+destroy()
+destroy()
+place()

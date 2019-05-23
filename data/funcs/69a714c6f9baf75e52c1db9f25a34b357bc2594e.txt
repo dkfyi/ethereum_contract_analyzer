@@ -1,0 +1,9 @@
+0x3a3800f1
+withdraw()
+kill()
+0xb462b2bb
+0xe43ac633
+stock()
+checkBalance()
+withdraw()
+withdrawStock()

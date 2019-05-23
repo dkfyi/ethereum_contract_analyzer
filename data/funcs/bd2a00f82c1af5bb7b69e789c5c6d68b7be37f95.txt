@@ -1,0 +1,4 @@
+creator()
+getBalance()
+0x79e5fe47
+deposit()

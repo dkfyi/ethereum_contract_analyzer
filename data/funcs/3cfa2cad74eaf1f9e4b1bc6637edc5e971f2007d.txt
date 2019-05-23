@@ -1,0 +1,11 @@
+die()
+0x4001a81f
+0x6209ec2d
+ideal_warn_timed(uint256,uint128)
+0x99baa10c
+changeOwner(address)
+0xab377daa
+0xbf76c0ef
+0xd59933d5
+addShareholder(address)
+payDividends()

@@ -1,0 +1,16 @@
+rate()
+0x32557dc1
+weiRaised()
+0x4e914c73
+numberOfPurchasers()
+ideal_warn_timed(uint256,uint128)
+finishPresale()
+minContribution()
+hardcap()
+hardwareWallet()
+buyTokens(address)
+hasEnded()
+transferOwnership(address)
+0xf40f014a
+token()
+mint(address,uint256)

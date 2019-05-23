@@ -1,0 +1,8 @@
+setup(uint256,uint256)
+is_empty()
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+allowance(address,address)
+gasprice_bit_ether(int128)
+balanceOf(address)

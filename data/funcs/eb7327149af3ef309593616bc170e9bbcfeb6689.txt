@@ -1,0 +1,13 @@
+0x07558d22
+available_assert_time(uint16,uint64)
+0x3da165d4
+destroy()
+ideal_warn_timed(uint256,uint128)
+0x9c315aa8
+0xd45e4094
+transferOwnership(address)
+destroyAndSend(address)
+airdropSupply()
+token()
+allowance(address,address)
+gasprice_bit_ether(int128)

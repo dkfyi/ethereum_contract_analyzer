@@ -1,0 +1,2 @@
+0xc4a862e4
+totalSupply()

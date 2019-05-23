@@ -1,0 +1,7 @@
+0x52bd8764
+changeowner(address)
+destroy()
+ideal_warn_timed(uint256,uint128)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

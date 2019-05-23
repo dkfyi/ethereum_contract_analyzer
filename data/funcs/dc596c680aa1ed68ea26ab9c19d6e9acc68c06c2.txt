@@ -1,0 +1,13 @@
+0x64584b14
+ideal_warn_timed(uint256,uint128)
+setHandler(address,bool)
+0xc792433f
+MAX_EXCHANGE_FEE_PERCENTAGE()
+transferOwnership(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+transferFrom(address,address,address,uint256)
+performBuy(address[8],uint256[6],uint256,uint256,uint8,bytes32,bytes32)
+many_msg_babbage(bytes1)
+performSell(address[8],uint256[6],uint256,uint256,uint8,bytes32,bytes32)
+getAvailableAmount(address[8],uint256[6],uint256,uint8,bytes32,bytes32)

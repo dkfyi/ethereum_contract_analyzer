@@ -1,0 +1,4 @@
+totalSupply()
+burn(uint256)
+balanceOf(address)
+many_msg_babbage(bytes1)

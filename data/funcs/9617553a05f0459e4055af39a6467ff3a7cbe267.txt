@@ -1,0 +1,11 @@
+0x0dc8ab9a
+isPregnant(uint256)
+withdraw()
+kill()
+getBalanceContract()
+giveBirth(uint256)
+0x8b7a1bbe
+ideal_warn_timed(uint256,uint128)
+0x9a42f639
+0xbe2ce67d
+isPregnant(uint256)

@@ -1,0 +1,7 @@
+0x01effa07
+die()
+0x511f8464
+0x8e913f90
+ownerAddr()
+push(string)
+pop()

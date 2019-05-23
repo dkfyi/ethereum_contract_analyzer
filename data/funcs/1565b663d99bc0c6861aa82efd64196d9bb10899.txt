@@ -1,0 +1,13 @@
+0x49bdc2b8
+acceptOwnership()
+0x8085b2fa
+ideal_warn_timed(uint256,uint128)
+receiveApproval(address,uint256,address,bytes)
+transfer(address,address,uint256)
+newOwner()
+transferOwnership(address)
+getBool(bytes32)
+many_msg_babbage(bytes1)
+getAddress(bytes32)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

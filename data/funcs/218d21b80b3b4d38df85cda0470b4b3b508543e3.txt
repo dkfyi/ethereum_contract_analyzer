@@ -1,0 +1,8 @@
+addPeer(address)
+0x9f1a156c
+getTokens()
+addToken(address)
+0xeea29e3e
+isWhiteListed(address,address)
+balanceOf(address)
+many_msg_babbage(bytes1)

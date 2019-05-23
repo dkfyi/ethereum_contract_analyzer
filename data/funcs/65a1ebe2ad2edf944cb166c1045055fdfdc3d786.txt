@@ -1,0 +1,8 @@
+isStrategy()
+0x45f0a44f
+getCurrentBonus()
+0x77bbebe6
+0x932b37e0
+limit()
+currentAmount()
+defaultAmount()

@@ -1,0 +1,9 @@
+0x19990092
+0x3a1d49c1
+GetMoney(uint256,address)
+GetUserRank(uint8,address)
+0x71256345
+AddNewSmallContract(address)
+0x797fdd7b
+0x8a4c4527
+0xe91f2ac1

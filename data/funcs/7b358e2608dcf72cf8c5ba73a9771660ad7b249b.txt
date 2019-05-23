@@ -1,0 +1,9 @@
+0x196fa7ba
+store(uint256)
+setupAmbi2(address)
+0x9b6ffe1b
+0xc615a77a
+getGas(uint256)
+claimFor(address,address)
+isOwner(address,address)
+hasRole(address,bytes32,address)

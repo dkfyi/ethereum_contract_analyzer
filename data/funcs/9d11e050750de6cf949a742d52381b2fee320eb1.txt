@@ -1,0 +1,9 @@
+bet()
+bets(uint256)
+0x24aab996
+kill()
+0x58c90909
+ideal_warn_timed(uint256,uint128)
+0xa416f5ab
+0xb1e7de38
+0xd3f97605

@@ -1,0 +1,12 @@
+tokenChanger()
+version()
+withdrawTokens(address,address,uint256)
+acceptOwnership()
+0x890eba68
+ideal_warn_timed(uint256,uint128)
+buy()
+0xd40c79f0
+newOwner()
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)

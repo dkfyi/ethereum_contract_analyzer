@@ -1,0 +1,3 @@
+burn(address)
+burn(uint256)
+balanceOf(address)

@@ -1,0 +1,8 @@
+0x538a3f0e
+0x1648f38e
+setup(address)
+0x06f2bf62
+getToken(address)
+0xaa65a6c0
+0x1c2bbd18
+tokenCount()

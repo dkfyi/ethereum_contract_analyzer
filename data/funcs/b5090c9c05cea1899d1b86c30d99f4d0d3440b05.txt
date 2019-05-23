@@ -1,0 +1,2 @@
+validateEndowment(uint256,uint256,uint256,uint256,uint256,uint256,uint256)
+computeEndowment(uint256,uint256,uint256,uint256,uint256,uint256)

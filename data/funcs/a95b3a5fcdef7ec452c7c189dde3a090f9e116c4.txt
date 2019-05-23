@@ -1,0 +1,4 @@
+kill()
+setGreeting(string)
+greet()
+0xd52b6b8d

@@ -1,0 +1,8 @@
+totalInvestors()
+0x2df5e84b
+referrers(address)
+totalInvested()
+invested(address)
+0x8aac1362
+0xb2977aeb
+prizeFund()

@@ -1,0 +1,3 @@
+setColor8(uint256,uint8)
+NAME()
+getGrid8()

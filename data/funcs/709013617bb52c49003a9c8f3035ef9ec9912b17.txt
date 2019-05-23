@@ -1,0 +1,7 @@
+setTimeBlock(uint256)
+close()
+costs()
+setPrice(uint256)
+0xd686f9ee
+setDeposit(uint256)
+open()

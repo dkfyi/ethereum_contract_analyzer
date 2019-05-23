@@ -1,0 +1,17 @@
+stopContract()
+0x174a34a4
+0x17c1f569
+0x25f52dea
+__callback(bytes32,string)
+getCurrentTime()
+__callback(bytes32,string,bytes)
+checkContractBalance()
+startContract()
+0x647a9d19
+0x6ba9a40b
+0x87616ef7
+0xa37fcbf4
+addBalance()
+compareStrings(string,string)
+contractActive()
+0xe9c20cb9

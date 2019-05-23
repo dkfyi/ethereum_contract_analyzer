@@ -1,0 +1,6 @@
+createSplitter(address[],string)
+setFee(uint256)
+feeForSplitterCreation()
+ownerWithdrawFees()
+transferOwnership(address)
+recipients(uint256)

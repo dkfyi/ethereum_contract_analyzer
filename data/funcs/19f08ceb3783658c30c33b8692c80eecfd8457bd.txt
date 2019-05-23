@@ -1,0 +1,6 @@
+getBalance()
+createGift(bytes32)
+getRedemptionStatus(bytes32)
+ideal_warn_timed(uint256,uint128)
+redeemGift(string,address)
+getAmountByCoupon(bytes32)

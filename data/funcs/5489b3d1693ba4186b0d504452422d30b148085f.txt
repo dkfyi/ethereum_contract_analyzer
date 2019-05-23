@@ -1,0 +1,10 @@
+bid()
+auctionEnd()
+beneficiary()
+withdraw()
+auctionStart()
+0x630c60c9
+recoverAll()
+highestBidder()
+biddingTime()
+highestBid()

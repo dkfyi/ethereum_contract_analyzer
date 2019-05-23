@@ -1,0 +1,3 @@
+getRandomNumber(int256,int256)
+ideal_warn_timed(uint256,uint128)
+updateContractOwner(address)

@@ -1,0 +1,11 @@
+a()
+setOwner(address)
+forbid(address,address,bytes32)
+forbid(bytes32,bytes32,bytes32)
+ideal_warn_timed(uint256,uint128)
+ANY()
+canCall(address,address,bytes4)
+0xc40be495
+permit(address,address,bytes32)
+permit(bytes32,bytes32,bytes32)
+canCall(address,address,bytes4)

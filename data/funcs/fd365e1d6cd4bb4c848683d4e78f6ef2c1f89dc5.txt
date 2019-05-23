@@ -1,0 +1,7 @@
+length()
+getNode(bytes32)
+initialize()
+0x8994dd8e
+head()
+0xd86e697d
+0xeaa70991

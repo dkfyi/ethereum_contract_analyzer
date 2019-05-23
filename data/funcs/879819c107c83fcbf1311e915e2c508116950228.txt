@@ -1,0 +1,8 @@
+investor()
+niceGuys(uint256)
+currentNiceGuyIdx()
+beta()
+persons(uint256)
+payoutIdx()
+funnel()
+currentNiceGuy()

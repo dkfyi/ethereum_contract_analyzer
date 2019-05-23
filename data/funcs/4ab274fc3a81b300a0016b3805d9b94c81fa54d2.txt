@@ -1,0 +1,7 @@
+amountOfMeatInUnicorn()
+reliabilityPercentage()
+multiBlockRandomGen(uint256,uint256)
+changeMeatParameters(uint256,uint256)
+ideal_warn_timed(uint256,uint128)
+calculateMeat(uint256)
+transferOwnership(address)

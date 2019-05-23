@@ -1,0 +1,11 @@
+returnOwnership()
+0x80dbd126
+0xbc86e505
+0xc531ace8
+0xc96752d7
+0xf1cf413e
+0xbc86e505
+0x58fb3be3
+getHeroPower(uint256,uint256)
+0xa74954db
+getHeroPower(uint256,uint256)

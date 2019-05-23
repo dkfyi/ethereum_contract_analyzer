@@ -1,0 +1,17 @@
+0x03b6d838
+0x1444a363
+0x2a1fa30d
+0x3cfa52b5
+0x7086e7a4
+0x7f520499
+0xbc28cea4
+setGasLimit(uint256)
+0xf3e461a1
+defaultAmount()
+gasPrice()
+getReturn(address,address,uint256)
+0xcf93ebe3
+getExpectedRate(address,address,uint256)
+0x69700bb7
+0xd27dc3aa
+0x9dd406d8

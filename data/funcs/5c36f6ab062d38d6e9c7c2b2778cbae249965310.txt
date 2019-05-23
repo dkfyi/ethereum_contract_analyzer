@@ -1,0 +1,3 @@
+autoBirthFee()
+breedWithAuto(uint256,uint256)
+0x01000000

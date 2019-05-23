@@ -1,0 +1,4 @@
+0x7cadfa34
+0xa6622798
+buyXaddr(address,uint256)
+withdraw()

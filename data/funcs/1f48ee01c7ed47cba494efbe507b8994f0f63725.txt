@@ -1,0 +1,3 @@
+pay(address)
+getBalance()
+withdraw(uint256)

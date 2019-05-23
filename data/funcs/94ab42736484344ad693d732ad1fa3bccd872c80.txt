@@ -1,0 +1,12 @@
+creator()
+0x1e7d6de2
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+kill()
+oracle()
+update()
+getAddress()
+cbAddress()
+getAddress()
+getPrice(string)
+query(uint256,string,string)

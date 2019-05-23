@@ -1,0 +1,7 @@
+eliminate(address)
+idle()
+lastPing(address)
+countRemaining()
+organizer()
+join()
+claimReward()

@@ -1,0 +1,13 @@
+getNumberOfPayments(uint256)
+getStatusOfPayout(uint256)
+0x2655bd73
+0x29652e86
+newPayment(uint256,uint256)
+getPayment(uint256,uint256)
+0x88dab669
+ideal_warn_timed(uint256,uint128)
+newClient(uint256,address)
+payRequstedSum(uint256,uint256)
+getClient(uint256)
+vetoPayout(uint256,uint256)
+0xf88af21d

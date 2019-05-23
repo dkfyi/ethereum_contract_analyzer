@@ -1,0 +1,17 @@
+0x03dd0f92
+name()
+approve(address,uint256)
+getBalance()
+removeAdmin(address)
+totalSupply()
+broadcastMessage(string)
+gasprice_bit_ether(int128)
+isAdmin(address)
+available_assert_time(uint16,uint64)
+addAdmin(address)
+balanceOf(address)
+checkPayment()
+link_classic_internal(uint64,int64)
+transfer(address,address,uint256)
+allowance(address,address)
+0xed89c06f

@@ -1,0 +1,3 @@
+read(bytes32)
+0xceda0f0b
+read()

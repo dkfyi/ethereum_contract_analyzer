@@ -1,0 +1,9 @@
+0x4c773795
+getPrice(string)
+0x88f3543a
+0x980bfd4e
+0xa4c8a1c1
+query(uint256,string,string)
+0xc21b6291
+setBasePrice(uint256)
+init()

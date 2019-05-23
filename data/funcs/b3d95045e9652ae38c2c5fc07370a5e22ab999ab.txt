@@ -1,0 +1,13 @@
+0x071f0eff
+0x1fe0a0fa
+addAddress(address)
+0x6e37074b
+0x82d38954
+0xb20e06e0
+init(uint256)
+isReadyToBreed(uint256)
+giveBirth(uint256)
+clean()
+isReadyToBreed(uint256)
+giveBirth(uint256)
+clean()

@@ -1,0 +1,13 @@
+0x8594a98b
+transferManager(address)
+0xc3be3ce1
+0xd4ceaa9c
+balanceOf(address)
+allowance(address,address)
+burnFrom(address,uint256)
+0xc3f4f54f
+0xcfae931b
+0x145ef6e9
+0x145ef6e9
+0xc3f4f54f
+0xcfae931b

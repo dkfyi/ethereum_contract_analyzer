@@ -1,0 +1,6 @@
+nameRegAddress()
+0x9c2a4c3b
+named(bytes32)
+getPrice(bytes32)
+getPrice(bytes32)
+addressOf(bytes32)

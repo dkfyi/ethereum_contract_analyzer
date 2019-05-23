@@ -1,0 +1,17 @@
+0x15eb70d8
+setRegistryLogic(address)
+0x3c736778
+0x3c96be54
+0x3d0327f4
+setAdmin(address)
+ideal_warn_timed(uint256,uint128)
+0xada774a3
+0xbdf2eab0
+0xc35a7792
+transferOwnership(address)
+admin()
+0xa066447d
+0x7d88e1ea
+0x3c736778
+0x9a43a314
+endInitialization()

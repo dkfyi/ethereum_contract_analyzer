@@ -1,0 +1,4 @@
+getHash(bytes32)
+storeHash(bytes32)
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)

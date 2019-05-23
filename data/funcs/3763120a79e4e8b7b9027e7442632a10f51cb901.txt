@@ -1,0 +1,3 @@
+add(uint256,uint256)
+sub(uint256,uint256)
+mul(uint256,uint256)

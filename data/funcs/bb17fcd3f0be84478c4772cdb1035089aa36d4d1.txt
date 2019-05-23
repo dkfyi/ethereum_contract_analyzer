@@ -1,0 +1,10 @@
+collisionCount()
+UUID4()
+0x479c9254
+0x47ce07cc
+addEntropy()
+next()
+getEntropy()
+getByte()
+0x61adeef4
+0xfd30b1fb

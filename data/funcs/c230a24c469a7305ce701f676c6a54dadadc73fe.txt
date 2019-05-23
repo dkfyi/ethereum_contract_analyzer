@@ -1,0 +1,13 @@
+addEmitter(bytes4,address)
+versions(address)
+addVersion(address,string,string)
+setupAmbi2(address)
+versionInfo(uint256)
+latestVersion()
+emitters(bytes4)
+0x169f2bcd
+hasRole(address,bytes32,address)
+0x169f2bcd
+hasRole(address,bytes32,address)
+claimFor(address,address)
+isOwner(address,address)

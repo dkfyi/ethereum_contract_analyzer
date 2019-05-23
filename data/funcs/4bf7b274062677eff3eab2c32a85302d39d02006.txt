@@ -1,0 +1,5 @@
+0x5c596e4f
+bitSlice(uint256,uint256,uint256)
+0xe5726b7f
+0xe5919a4f
+random(uint256,uint8)

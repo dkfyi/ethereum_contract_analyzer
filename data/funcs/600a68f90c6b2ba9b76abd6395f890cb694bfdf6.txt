@@ -1,0 +1,4 @@
+getAddress()
+balance()
+0xdd0504e0
+gasprice_bit_ether(int128)

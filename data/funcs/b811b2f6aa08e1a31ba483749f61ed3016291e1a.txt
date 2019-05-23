@@ -1,0 +1,12 @@
+0x12bf7eba
+0x1cb79b88
+0x3e88b89e
+0x3ef8f2ba
+getRegistry()
+getClaim(uint256)
+0x7119ca76
+registry()
+0x9e72370b
+0xa888c2cd
+setRegistry(address)
+0xafe9823d

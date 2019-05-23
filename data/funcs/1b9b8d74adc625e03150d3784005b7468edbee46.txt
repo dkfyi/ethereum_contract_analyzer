@@ -1,0 +1,3 @@
+isAuthorized(address,address,bytes)
+0x608b326f
+validate()

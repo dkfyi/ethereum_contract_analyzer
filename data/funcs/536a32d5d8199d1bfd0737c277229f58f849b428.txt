@@ -1,0 +1,4 @@
+0x10cc2870
+0xa6750047
+suicaId()
+setTimeStamp(string,uint256)

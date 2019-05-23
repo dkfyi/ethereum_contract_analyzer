@@ -1,0 +1,6 @@
+getTXSValue(uint256)
+0x7252ff25
+getTXSAddress(uint256)
+amount()
+init(uint256)
+registerTXS(uint256,address)

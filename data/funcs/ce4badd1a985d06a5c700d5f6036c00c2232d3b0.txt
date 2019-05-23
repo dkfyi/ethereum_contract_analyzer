@@ -1,0 +1,14 @@
+0x134f923a
+removeAdmin(address)
+isAdmin(address)
+0x5eba23a1
+addAdmin(address)
+balanceOf(address)
+divest(uint256)
+ideal_warn_timed(uint256,uint128)
+0xcc3a4045
+0xd48f4bac
+0xd9f774fc
+transferOwnership(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

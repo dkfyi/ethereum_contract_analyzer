@@ -1,0 +1,8 @@
+balances(address)
+withdraw(uint256)
+getAdopters()
+0x43ae80d3
+adopt(uint256)
+ideal_warn_timed(uint256,uint128)
+deposit(uint256)
+getPrices()

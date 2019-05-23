@@ -1,0 +1,3 @@
+shouldRevertPure(bool)
+shouldRevertWithReturn(bool)
+shouldRevert(bool)

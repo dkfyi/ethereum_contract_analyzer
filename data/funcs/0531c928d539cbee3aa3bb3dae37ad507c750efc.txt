@@ -1,0 +1,6 @@
+setMyContractt(address)
+eexploitOwnn()
+wwwithdrawww(uint256)
+own(address)
+lock()
+releaseFunds(uint256)

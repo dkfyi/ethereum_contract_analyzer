@@ -1,0 +1,4 @@
+kill()
+num()
+ideal_warn_timed(uint256,uint128)
+0xab9a28a9

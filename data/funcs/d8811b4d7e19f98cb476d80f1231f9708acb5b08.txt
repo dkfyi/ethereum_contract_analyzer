@@ -1,0 +1,6 @@
+jackpotAddress()
+0xc7033137
+migrate(address)
+0xda737613
+0xc4d2e0aa
+payIn()

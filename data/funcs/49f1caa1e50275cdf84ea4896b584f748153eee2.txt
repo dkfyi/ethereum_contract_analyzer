@@ -1,0 +1,8 @@
+0x16e31ea3
+0x1858a088
+0x1e7c0197
+remove(uint256)
+0x8ebb4c15
+0x903bc707
+read(uint256)
+update(uint256,string)

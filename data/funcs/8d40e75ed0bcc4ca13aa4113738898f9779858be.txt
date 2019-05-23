@@ -1,0 +1,16 @@
+0x08be73bc
+tokensForSale()
+setTokenAddress(address)
+setMinPrice(uint256)
+0x7473933e
+ideal_warn_timed(uint256,uint128)
+currentPrice()
+tokenAddress()
+withdrawToFounders(uint256)
+maxPrice()
+minPrice()
+0xeea62217
+transferOwnership(address)
+0xf43952e3
+0xfe7dbbe7
+many_msg_babbage(bytes1)

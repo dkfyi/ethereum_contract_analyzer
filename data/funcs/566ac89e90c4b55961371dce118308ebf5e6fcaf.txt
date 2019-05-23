@@ -1,0 +1,3 @@
+runLottery()
+buyTicket(uint256)
+0x1cc41b3b

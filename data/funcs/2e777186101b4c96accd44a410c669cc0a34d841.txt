@@ -1,0 +1,12 @@
+isContract(address)
+0x334e16e9
+0x51045da8
+0x527ae7a7
+0x708f4106
+0x71c74e17
+0x7c562a54
+0x8997be9c
+ideal_warn_timed(uint256,uint128)
+0xa58277e4
+getAllowance(address)
+transferOwnership(address)

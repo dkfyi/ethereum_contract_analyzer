@@ -1,0 +1,8 @@
+transferOwner(address)
+tokenContract()
+ideal_warn_timed(uint256,uint128)
+transfer(address,address,uint256)
+get(address)
+transferCustomToken(address,address,uint256)
+getContractAddress(string)
+many_msg_babbage(bytes1)

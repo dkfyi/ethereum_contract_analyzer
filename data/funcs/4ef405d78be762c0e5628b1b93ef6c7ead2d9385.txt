@@ -1,0 +1,5 @@
+lastTimestamp()
+getWeiForCent(uint256)
+ideal_warn_timed(uint256,uint128)
+submitPrice(uint256,uint256)
+transferOwnership(address)

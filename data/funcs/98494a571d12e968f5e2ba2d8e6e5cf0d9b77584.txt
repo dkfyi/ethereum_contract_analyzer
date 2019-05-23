@@ -1,0 +1,9 @@
+userTransfer(address,address,uint256)
+0x11af110c
+surplus()
+queryBalance(address)
+burnAccountMoeny(address,uint256)
+adminSendMoneyToUser(address,uint256)
+setPresentMoney(uint256)
+token_name()
+addNewUser(address)

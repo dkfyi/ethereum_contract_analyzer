@@ -1,0 +1,16 @@
+name()
+banker()
+0x1e580615
+available_assert_time(uint16,uint64)
+endTime()
+cashOut(uint256)
+endGame()
+bet(uint8,uint256)
+0x89b08f11
+0x8c65c81f
+roundId()
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xccc6bffe
+gameState()
+startGame(uint256)

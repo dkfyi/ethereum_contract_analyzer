@@ -1,0 +1,12 @@
+0xd3427bbe
+gasprice_bit_ether(int128)
+withdraw(uint256)
+0xad65d76d
+0x7b78cfa2
+gasprice_bit_ether(int128)
+0x95e3c50b
+deposit()
+many_msg_babbage(bytes1)
+approve(address,address)
+approve(address,uint256)
+wethContract()

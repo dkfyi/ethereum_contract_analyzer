@@ -1,0 +1,4 @@
+destroyMe()
+withdraw()
+0x79b4fc4f
+isPregnant(uint256)

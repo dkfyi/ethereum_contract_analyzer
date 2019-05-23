@@ -1,0 +1,13 @@
+getInvestorInfo(address)
+getBalance()
+0x1b68adff
+0x29b30586
+0x38e669eb
+0x50be99ad
+getOwner()
+0xb781e47d
+kill(address)
+addInvestor(address,uint256,uint256)
+0xee12d4f2
+0xf5686444
+0xf7bfdbdb

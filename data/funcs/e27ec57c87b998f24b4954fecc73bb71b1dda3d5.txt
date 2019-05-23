@@ -1,0 +1,16 @@
+setTradersContract(address)
+transferFrom(address,address,address,uint256)
+totalSupply()
+setTotalsContract(address)
+balanceOf(address)
+0x71a7a792
+transfer(address,address,uint256)
+authority()
+totals()
+0xcb18c37c
+allowance(address,address)
+traders()
+approve(address,address,uint256)
+0x32454dbb
+coinBalance(address)
+canCall(address,address,bytes4)

@@ -1,0 +1,10 @@
+reward()
+isSolved()
+commit(bytes)
+sha3_512()
+reveal()
+proof_of_public_key()
+0xb18f0de2
+winner()
+authenticate(bytes)
+hash(uint64[8])

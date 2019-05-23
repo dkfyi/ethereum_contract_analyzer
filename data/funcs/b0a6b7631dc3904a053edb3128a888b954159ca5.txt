@@ -1,0 +1,15 @@
+getAddressBySymbol(string)
+0x16066e69
+0x2aaf0ed4
+0x3c8d830d
+claimOwnership()
+tokens(uint256)
+0x77860cdd
+ideal_warn_timed(uint256,uint128)
+0xafdbfec3
+0xb26a27a1
+registerToken(address,string)
+0xde50fcec
+0xdecb7e7b
+pendingOwner()
+transferOwnership(address)

@@ -1,0 +1,17 @@
+0x17db1071
+0x2cd060ce
+0x4231b30e
+0x8c569aac
+0x94d0169f
+symbolsCount()
+symbols(uint256)
+hasAssetRights(address,bytes32)
+0x94d0169f
+symbolsCount()
+symbols(uint256)
+hasAssetRights(address,bytes32)
+chronoBankPlatform()
+0x94d0169f
+hasAssetRights(address,bytes32)
+getBytes32(bytes32,bytes32)
+getUInt(bytes32,bytes32)

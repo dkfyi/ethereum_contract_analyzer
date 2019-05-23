@@ -1,0 +1,3 @@
+withdraw_funds()
+balanceOf(address)
+getNumInvestors()

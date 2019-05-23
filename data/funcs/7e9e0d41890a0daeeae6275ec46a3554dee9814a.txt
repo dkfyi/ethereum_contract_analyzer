@@ -1,0 +1,5 @@
+0x02b8b9bf
+setHash(string)
+0x98249222
+contractOwner()
+webAddress()

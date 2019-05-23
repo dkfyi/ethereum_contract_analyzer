@@ -1,0 +1,14 @@
+minStake()
+exists(bytes32)
+0x39f97626
+add(bytes32)
+remove(bytes32)
+0xa24aa468
+initialize(address,uint256)
+0xe0f04e27
+0xfb8ad6ff
+token()
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

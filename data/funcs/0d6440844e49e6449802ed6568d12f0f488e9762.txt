@@ -1,0 +1,8 @@
+name()
+0x1f3a3c5b
+0x262a9dff
+0x5b0c8d70
+ideal_warn_timed(uint256,uint128)
+0x969b6ab3
+setName(string)
+0xe4f525b4

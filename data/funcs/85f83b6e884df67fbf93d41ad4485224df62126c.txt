@@ -1,0 +1,12 @@
+checkRole(address,string)
+hasRole(address,string)
+0x4ce6b681
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+setController(address)
+multiSend(address,address[],uint256[])
+0xe28a3c81
+transferOwnership(address)
+removeController(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

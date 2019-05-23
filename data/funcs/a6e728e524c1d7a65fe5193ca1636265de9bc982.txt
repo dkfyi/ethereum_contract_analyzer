@@ -1,0 +1,17 @@
+maximumValueAfterGuaranteedPeriod()
+listAddresses(bool,bool,bool,bool,address[])
+setAddressesThatCanList(bool,address[])
+maximumValueWithoutProofOfAddress()
+getAllowedAmountToContribute(address)
+ideal_warn_timed(uint256,uint128)
+changeMaximumValueDuringGuaranteedPeriod(uint256)
+whitelist(address)
+0xafe53a3f
+maximumValueDuringGuaranteedPeriod()
+timeThatFinishGuaranteedPeriod()
+changeMaximumValueWithoutProofOfAddress(uint256)
+transferOwnership(address)
+0x01000000
+0xff000000
+0x01000000
+0x01000000

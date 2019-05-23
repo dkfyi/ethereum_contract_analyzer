@@ -1,0 +1,6 @@
+setOwner(address)
+addTag(uint256,string)
+getTag(string,uint256)
+getLastTag(uint256)
+setSource(address)
+readLog(uint256)

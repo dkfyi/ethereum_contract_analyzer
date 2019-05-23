@@ -1,0 +1,14 @@
+bid(uint256,string)
+0x115c9bf0
+0x1be65603
+0x1d92dcc7
+pendingReturns(address)
+0x2832b757
+withdraw(uint256)
+minBid()
+startBlockNumber()
+0x86433374
+winningBid()
+0xacc4bd08
+highestBid()
+endAuction()

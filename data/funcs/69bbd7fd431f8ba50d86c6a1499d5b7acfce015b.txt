@@ -1,0 +1,5 @@
+Sign(string,string)
+GetSign(string,address)
+toString(address)
+bytes32ToString(bytes32)
+GetSignVersion(string,address,uint256)

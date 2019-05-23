@@ -1,0 +1,5 @@
+getLongGap()
+getFastGap()
+getFastExtra()
+getLongExtra()
+0xc105c5ed

@@ -1,0 +1,12 @@
+multisendToken(address,address[],uint256[])
+changeAuthorizedCaller(address)
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+authorizedCaller()
+multisendEther(address[],uint256[])
+0xc716389a
+newOwner()
+getEtherBalance()
+transferOwnership(address)
+many_msg_babbage(bytes1)
+balanceOf(address)

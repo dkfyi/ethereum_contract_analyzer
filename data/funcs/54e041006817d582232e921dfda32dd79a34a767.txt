@@ -1,0 +1,7 @@
+initErc20Deal(bytes32,uint256,address,bytes20,bytes20,address)
+bobClaimsPayment(bytes32,uint256,address,address,bytes20,bytes)
+initEthDeal(bytes32,address,bytes20,bytes20)
+deals(bytes32)
+aliceClaimsPayment(bytes32,uint256,address,address,bytes20,bytes)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

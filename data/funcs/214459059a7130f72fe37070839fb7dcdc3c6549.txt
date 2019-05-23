@@ -1,0 +1,2 @@
+0xa795f9e2
+register(string)

@@ -1,0 +1,10 @@
+isWhitelisted(address)
+whitelistAddress(address)
+destroy()
+ideal_warn_timed(uint256,uint128)
+reclaimEther()
+0xc82a808a
+saleContract()
+transferOwnership(address)
+0xf3290d75
+destroyAndSend(address)

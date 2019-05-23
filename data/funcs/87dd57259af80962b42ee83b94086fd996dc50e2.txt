@@ -1,0 +1,6 @@
+0x3d647fe1
+destroy()
+place()
+destroy()
+destroy()
+place()

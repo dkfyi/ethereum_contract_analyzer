@@ -1,0 +1,6 @@
+doAirdrop2(address,address[],uint256)
+transfer(address,address,uint256)
+doAirdrop(address,address[],uint256)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

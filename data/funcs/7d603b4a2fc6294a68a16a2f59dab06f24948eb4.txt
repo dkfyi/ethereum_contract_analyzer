@@ -1,0 +1,9 @@
+0x1c4b118a
+kill()
+0x4dcc4f1e
+0x812e015c
+0x83719f59
+ideal_warn_timed(uint256,uint128)
+0x8e4de79d
+0xf4b93cf0
+0xffcc64d8

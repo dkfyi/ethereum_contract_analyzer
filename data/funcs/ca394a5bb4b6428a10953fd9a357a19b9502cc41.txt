@@ -1,0 +1,6 @@
+kill()
+initWallet(address[],uint256,uint256)
+isOwner(address)
+totalSupply()
+execute(address,uint256,bytes)
+kill(address)

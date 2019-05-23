@@ -1,0 +1,10 @@
+0x27cdbf4a
+0x3121db1c
+0x5cf3d346
+getName(address)
+0x65fc1253
+0x69c0ad93
+ideal_warn_timed(uint256,uint128)
+0xb75c4f80
+0xe6458f6e
+transferOwnership(address)

@@ -1,0 +1,8 @@
+0x19da83a8
+0x2c99fd84
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+newOwner()
+0xdcff88c6
+transferOwnership(address)
+many_msg_babbage(bytes1)

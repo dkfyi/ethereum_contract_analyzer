@@ -1,0 +1,17 @@
+name()
+approve(address,uint256)
+0x111d8171
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+tokens(address,address)
+balanceOf(address)
+setNews(string)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xb00df697
+allowance(address,address)
+0xe395a1ff
+transferOwnership(address)
+gasprice_bit_ether(int128)

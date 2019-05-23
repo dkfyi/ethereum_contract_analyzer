@@ -1,0 +1,11 @@
+0x65c2b426
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0x99c42e4e
+transferOwnership(address)
+balanceOf(address)
+mint(address,uint256)
+burn(address,uint256)
+getReferrer(address)
+setReferrer(address,address)

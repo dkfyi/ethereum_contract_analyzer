@@ -1,0 +1,4 @@
+hintURL(bytes32,string)
+hint(bytes32,string,bytes20)
+entries(bytes32)
+unhint(bytes32)

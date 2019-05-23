@@ -1,0 +1,4 @@
+Play()
+getBalance()
+close()
+getMaxBet()

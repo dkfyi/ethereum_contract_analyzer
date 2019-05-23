@@ -1,0 +1,7 @@
+swap(bytes32,address[5],uint256[6],uint8,bytes32,bytes32)
+deposit()
+gasprice_bit_ether(int128)
+approve(address,uint256)
+fillOrder(address[5],uint256[6],uint256,bool,uint8,bytes32,bytes32)
+withdraw(uint256)
+many_msg_babbage(bytes1)

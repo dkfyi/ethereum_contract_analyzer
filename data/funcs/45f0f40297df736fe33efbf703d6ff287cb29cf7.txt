@@ -1,0 +1,7 @@
+isWhitelisted(address)
+revoke(address)
+authorizeMany(address[50])
+ideal_warn_timed(uint256,uint128)
+whitelist(address)
+authorize(address)
+transferOwnership(address)

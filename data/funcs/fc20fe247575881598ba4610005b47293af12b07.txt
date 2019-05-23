@@ -1,0 +1,12 @@
+round()
+withdraw()
+getIndividualPercent()
+0x6f7bc9be
+0x72cdcc10
+destroy()
+pause()
+getInvestorCount()
+0x9a2ee358
+0xc5408d50
+getBankPercent()
+0xedf26d9b

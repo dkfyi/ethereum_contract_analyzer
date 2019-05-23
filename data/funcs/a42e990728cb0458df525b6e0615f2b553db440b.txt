@@ -1,0 +1,6 @@
+isContractMiniGame()
+0x8a56b230
+setupMiniGame(uint256,uint256)
+0xf91cdafd
+0xffa651b6
+addVirus(address,uint256)

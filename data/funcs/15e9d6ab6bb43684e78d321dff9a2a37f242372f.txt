@@ -1,0 +1,13 @@
+adPriceDay()
+updateAd(uint256)
+getBalance()
+purchaseTimestamp()
+adPriceMultiple()
+withdraw()
+0x4c4ef642
+setAdPriceMultiple(uint256)
+getPurchaseTimestampEnds()
+adPriceWeek()
+contractOwner()
+purchaseSeconds()
+0xfc6d8a11

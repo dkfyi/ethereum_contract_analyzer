@@ -1,0 +1,7 @@
+0x4ee4e807
+0x73d0e951
+0x7be1f5dc
+destroy()
+ideal_warn_timed(uint256,uint128)
+0xbef69367
+0xc4819b15

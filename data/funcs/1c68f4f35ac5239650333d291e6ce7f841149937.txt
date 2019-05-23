@@ -1,0 +1,15 @@
+getPriceProxy()
+USD()
+oneCentOfWei()
+initialize()
+WEI()
+getAddress()
+getAddress()
+0x0bbceb33
+getPrice(string,uint256)
+getAddress()
+0x0bbceb33
+getPrice(string,uint256)
+getAddress()
+getAddress()
+query(uint256,string,string)

@@ -1,0 +1,8 @@
+0x0e8aedcc
+0xa4d38984
+transferOwnership(address)
+loadCoreAddress(address)
+getTokenCount(bool)
+newChamp(uint256,uint256,uint256,uint256,uint256,uint256,uint256,uint256,uint256,uint256,bool,address)
+getTokenCount(bool)
+newItem(uint8,uint8,uint256,uint256,uint256,uint256,uint256,bool,bool,address)

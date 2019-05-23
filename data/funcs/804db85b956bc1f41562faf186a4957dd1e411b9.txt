@@ -1,0 +1,16 @@
+creator()
+0x039e29b9
+0x262ba96e
+kill()
+0x4942f65f
+transferOwner(address)
+0x820a6ca0
+ideal_warn_timed(uint256,uint128)
+0xa9fd8a69
+0xf5d49f41
+token()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

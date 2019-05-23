@@ -1,0 +1,6 @@
+curMax()
+stake()
+withdraw()
+solveTime()
+setNewValue()
+argCurMax()

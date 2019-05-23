@@ -1,0 +1,15 @@
+setOwner(address)
+processed()
+0x3bd610c3
+claim()
+0x543fd313
+0x62e80617
+endGame()
+restartGame()
+ideal_warn_timed(uint256,uint128)
+0xb82f31c1
+payments(address)
+0xec67fc3d
+0xf06106d9
+0xf33b8597
+0xf71d96cb

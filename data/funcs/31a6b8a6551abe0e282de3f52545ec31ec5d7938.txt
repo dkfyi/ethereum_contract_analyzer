@@ -1,0 +1,17 @@
+multiAsset()
+setupStackDepthLib(address)
+request()
+claimContractOwnership()
+changeContractOwnership(address)
+pendingContractOwner()
+forwardCall(address,uint256,bytes)
+0x8d0a9fc7
+link_classic_internal(uint64,int64)
+0x9c020061
+contractOwner()
+reissueAsset(bytes32,uint256)
+transfer(address,uint256,bytes32)
+isCreated(bytes32)
+issueAsset(bytes32,uint256,string,string,uint8,bool)
+0x06489899
+0x30d30c89

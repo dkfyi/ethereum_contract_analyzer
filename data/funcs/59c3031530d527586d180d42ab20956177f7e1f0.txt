@@ -1,0 +1,17 @@
+0x222223a2
+STAT_MAX()
+cashOut(uint256)
+transferMonster(address,address,uint64)
+setGame(address)
+0x9c0eff72
+execute(address,bytes,uint256)
+getScore()
+0xc5563720
+STAT_COUNT()
+0xe29940b9
+0xed30e558
+0xef4a7554
+0x681551d1
+cashOut(uint256)
+transferMonster(address,address,uint64)
+0x681551d1

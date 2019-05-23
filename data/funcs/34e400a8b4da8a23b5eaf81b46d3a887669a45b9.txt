@@ -1,0 +1,11 @@
+setFactories(address[],bool)
+0x0f04ba67
+addOffering(address,bytes32,address,uint256)
+emergencyRelease()
+0x290d10c4
+emergencyPause()
+ideal_warn_timed(uint256,uint128)
+0x9ecb8c3a
+fireOnOfferingChanged(uint256,bytes32,uint256[])
+0xdc6af758
+transferOwnership(address)

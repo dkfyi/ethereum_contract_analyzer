@@ -1,0 +1,12 @@
+0x21be96f0
+setTokenAddress(address)
+0x34c77b05
+0x8ca06f9c
+ideal_warn_timed(uint256,uint128)
+tokenAddress()
+unlock()
+0xb9f15f6f
+hashes(bytes32)
+lock()
+0xffe4aa8f
+many_msg_babbage(bytes1)

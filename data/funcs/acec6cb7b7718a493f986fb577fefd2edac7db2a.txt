@@ -1,0 +1,2 @@
+0x0a112c01
+balanceOf(address)

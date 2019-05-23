@@ -1,0 +1,6 @@
+Wallet()
+setOwner(address)
+kill()
+authorizeAddress(address)
+execute(address,uint256,bytes)
+deauthorizeAddress(address)

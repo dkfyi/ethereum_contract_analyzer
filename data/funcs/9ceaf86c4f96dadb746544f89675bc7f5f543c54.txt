@@ -1,0 +1,16 @@
+getBalance(string)
+0x4512009c
+0x73e387ec
+0x7f64aad3
+depositEther()
+0xa86ae534
+0xd6bd0bc5
+0xe9a734ff
+0xfc436770
+totalSupply()
+many_msg_babbage(bytes1)
+balanceOf(address)
+balanceOf(address)
+balanceOf(address)
+gasprice_bit_ether(int128)
+balanceOf(address)

@@ -1,0 +1,16 @@
+0x2ef4c53b
+withdrawCommission()
+unpause()
+investors(uint256)
+removeInvestor(address)
+paused()
+0x6fe2490b
+pause()
+ideal_warn_timed(uint256,uint128)
+getInvestors()
+PERCENT_DELIMITER()
+addInvestor(address,uint256)
+transferOwnership(address)
+token()
+balanceOf(address)
+many_msg_babbage(bytes1)

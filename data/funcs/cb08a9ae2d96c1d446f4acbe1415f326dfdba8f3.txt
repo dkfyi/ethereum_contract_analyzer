@@ -1,0 +1,16 @@
+unclaimedDividends(address)
+hasDividends()
+0x233bdd69
+putProfit()
+0x3cbcb74b
+claimDividends()
+renounceOwnership()
+0x7dfb3383
+ideal_warn_timed(uint256,uint128)
+totalDividends()
+0xd9da8dad
+dividendBalanceOf(address)
+transferOwnership(address)
+token()
+balanceOf(address)
+totalSupply()

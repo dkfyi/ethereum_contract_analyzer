@@ -1,0 +1,8 @@
+0x01e88208
+0x02b19c36
+getAddress(bytes32)
+0xa4c52b86
+0xab4f1958
+0xc7eb4522
+setPermission(address,uint8)
+contracts(bytes32)

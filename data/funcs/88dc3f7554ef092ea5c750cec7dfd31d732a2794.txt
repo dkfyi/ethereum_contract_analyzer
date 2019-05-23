@@ -1,0 +1,10 @@
+isAuthorized(address,address,bytes)
+0x42053ac5
+0x4899e107
+validate()
+setCanCall(address,address,bytes4,bool)
+0x87633209
+0x8b8ff718
+0x930e957b
+canCall(address,address,bytes4)
+isApproved(bytes32,uint256,bytes)

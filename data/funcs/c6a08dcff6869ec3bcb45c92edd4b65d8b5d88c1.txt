@@ -1,0 +1,17 @@
+0x1b064526
+0x2052465e
+GetBalance(address)
+0x528b7b8f
+bid(uint256,uint256)
+ownerOf(uint256)
+0x64cc1ef3
+0x665b2bdc
+0x6f19bc84
+createRandomZombie(string)
+0x7c7bb99c
+0x82040a1e
+0x8cc25dd5
+ideal_warn_timed(uint256,uint128)
+0xb5db5791
+transferOwnership(address)
+0xff344fd2

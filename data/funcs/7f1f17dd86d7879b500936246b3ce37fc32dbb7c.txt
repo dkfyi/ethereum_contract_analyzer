@@ -1,0 +1,15 @@
+0x011d0091
+0x1f5c1e34
+version()
+ideal_warn_timed(uint256,uint128)
+0x9051651e
+0x9e7db388
+getUint(bytes32)
+getAddress(bytes32)
+setUint(bytes32,uint256)
+0x65892933
+getUint(bytes32)
+getAddress(bytes32)
+setUint(bytes32,uint256)
+0x9abed57d
+getAddress(bytes32)

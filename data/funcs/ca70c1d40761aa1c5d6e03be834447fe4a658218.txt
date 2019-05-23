@@ -1,0 +1,6 @@
+withdraw()
+run()
+SetPass(bytes32)
+SetGiftTime(uint256)
+SetReciver(address)
+GetGift()

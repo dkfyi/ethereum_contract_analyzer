@@ -1,0 +1,4 @@
+newRequest(uint256)
+remove()
+getLastNonPublished()
+closeRequest()

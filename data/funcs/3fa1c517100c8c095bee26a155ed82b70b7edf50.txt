@@ -1,0 +1,9 @@
+buyCoin()
+getBalance()
+totalVotesFor(bytes32)
+0x35154986
+validCandidate(bytes32)
+0x7021939f
+0xb13c744b
+voteForCandidate(bytes32)
+voteForCandidate(bytes32)

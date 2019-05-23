@@ -1,0 +1,4 @@
+richest()
+withdraw()
+mostSent()
+becomeRichest()

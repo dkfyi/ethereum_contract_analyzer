@@ -1,0 +1,6 @@
+transfer(address)
+isOwner(address)
+0x7519ab50
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+price()

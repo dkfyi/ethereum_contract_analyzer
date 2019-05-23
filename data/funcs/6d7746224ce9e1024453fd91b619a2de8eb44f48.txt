@@ -1,0 +1,11 @@
+setOwner(address)
+__callback(bytes32,string)
+kill()
+transfer(string,string)
+0x59eaac53
+0x5ad77157
+getAddress()
+cbAddress()
+getAddress()
+useCoupon(string)
+setProofType(bytes1)

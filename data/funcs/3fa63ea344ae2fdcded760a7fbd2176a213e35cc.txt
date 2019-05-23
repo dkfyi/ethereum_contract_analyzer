@@ -1,0 +1,7 @@
+getApproved(uint256)
+approve(address,uint256)
+totalSupply()
+buyToken(uint256)
+tokenByIndex(uint256)
+ownerOf(uint256)
+balanceOf(address)

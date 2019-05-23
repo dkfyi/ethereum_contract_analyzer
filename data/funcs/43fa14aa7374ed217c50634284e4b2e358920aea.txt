@@ -1,0 +1,3 @@
+0x69400e8e
+0x731843bd
+stamps(uint256)

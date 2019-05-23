@@ -1,0 +1,10 @@
+killContract()
+withdraw()
+0x6bce508f
+0x7259c6db
+transferETHS(address[])
+withdrawForeignTokens(address)
+0x041eebf5
+0x041eebf5
+balanceOf(address)
+many_msg_babbage(bytes1)

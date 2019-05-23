@@ -1,0 +1,6 @@
+percent2()
+0x369231de
+percent1()
+0x9e787870
+0xb31ef96a
+withdraw2()

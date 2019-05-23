@@ -1,0 +1,10 @@
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+withdraw(uint256)
+0x82e72e8f
+withdrawToken(address,uint256)
+deposit()
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+withdraw(uint256)
+withdrawToken(address,uint256)
+many_msg_babbage(bytes1)
+deposit()

@@ -1,0 +1,8 @@
+available_assert_time(uint16,uint64)
+balanceOfAt(address,uint256)
+link_classic_internal(uint64,int64)
+totalSupplyAt(uint256)
+token()
+available_assert_time(uint16,uint64)
+balanceOf(address)
+totalSupply()

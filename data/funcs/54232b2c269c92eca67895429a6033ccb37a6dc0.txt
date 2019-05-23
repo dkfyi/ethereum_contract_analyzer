@@ -1,0 +1,5 @@
+setAvatar(uint256,bytes)
+0x21e27fde
+getAvatarCount(address)
+deleteAllAvatars()
+deleteAvatar(uint256)

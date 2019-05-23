@@ -1,0 +1,2 @@
+0x3396441b
+registerPackage(bytes32,string)

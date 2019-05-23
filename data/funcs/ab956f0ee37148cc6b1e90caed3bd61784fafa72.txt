@@ -1,0 +1,12 @@
+0x197d66d5
+0x6e5ecdff
+ideal_warn_timed(uint256,uint128)
+selfDestruct()
+0xc1ca69c4
+0xecca1fad
+transferOwnership(address)
+0x87cd29a4
+0x2316a9ff
+0x87cd29a4
+0x2316a9ff
+getContract(string)

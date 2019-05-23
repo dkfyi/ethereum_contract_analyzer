@@ -1,0 +1,3 @@
+getSomeVar()
+0x4b3e79a8
+0xfdc658e0

@@ -1,0 +1,4 @@
+0x77ccfb1e
+ideal_warn_timed(uint256,uint128)
+get(bytes32)
+set(bytes32,address)

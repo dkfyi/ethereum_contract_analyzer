@@ -1,0 +1,7 @@
+0x034886d9
+kill()
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+nonce()
+0xcd9b19cc
+storeData(string)

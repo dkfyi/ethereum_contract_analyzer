@@ -1,0 +1,3 @@
+pause(bool)
+0x06aba4f5
+0xfa482ae3

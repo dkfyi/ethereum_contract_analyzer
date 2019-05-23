@@ -1,0 +1,3 @@
+createUsername(string)
+checkDupe(string)
+getUsername(address)

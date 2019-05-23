@@ -1,0 +1,15 @@
+checkRole(address,string)
+hasRole(address,string)
+0x25d18e31
+getContributorsLength()
+tokenBalances(address)
+totalWeiRaised()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+addOperator(address)
+ROLE_OPERATOR()
+removeOperator(address)
+0xcfad7410
+totalSoldTokens()
+0xedf26d9b
+transferOwnership(address)

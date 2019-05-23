@@ -1,0 +1,3 @@
+die()
+get(string)
+set(string,string)

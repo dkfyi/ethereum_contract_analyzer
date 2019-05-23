@@ -1,0 +1,12 @@
+0x0f43a677
+isInitialized()
+removeValidator(address)
+addValidator(address)
+0x52af719f
+setRequiredSignatures(uint256)
+requiredSignatures()
+ideal_warn_timed(uint256,uint128)
+deployedAtBlock()
+transferOwnership(address)
+0xfa52c7d8
+isValidator(address)

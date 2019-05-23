@@ -1,0 +1,5 @@
+kill()
+0xc193f670
+0xc8a009ea
+getOccupies(uint8)
+getOccupies(uint8)

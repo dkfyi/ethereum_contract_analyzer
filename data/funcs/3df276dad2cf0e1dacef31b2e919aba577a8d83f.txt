@@ -1,0 +1,6 @@
+0x4276c647
+AddAuthority()
+0x7b2f4b73
+destroy()
+0x8661856b
+0x8d83a427

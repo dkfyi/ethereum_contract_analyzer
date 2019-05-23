@@ -1,0 +1,7 @@
+0x05615628
+cancelBet(uint256)
+kill()
+0x4a1342cc
+0x577a8cd2
+acceptBet(uint256)
+0x99c5b4ed

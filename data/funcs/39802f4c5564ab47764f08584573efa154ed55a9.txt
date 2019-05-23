@@ -1,0 +1,11 @@
+name()
+0x4830503e
+0x5fa520bb
+acceptOwnership()
+0x8554fbab
+ideal_warn_timed(uint256,uint128)
+0x8f0553d2
+0xa805f1ca
+0xaec2ccae
+newOwner()
+transferOwnership(address)

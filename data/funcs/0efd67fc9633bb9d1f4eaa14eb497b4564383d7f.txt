@@ -1,0 +1,3 @@
+allBalances(address[],address)
+balanceOf(address)
+depositLock(address)

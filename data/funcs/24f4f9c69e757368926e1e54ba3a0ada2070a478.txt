@@ -1,0 +1,7 @@
+getApproved(uint256)
+totalSupply()
+tokenByIndex(uint256)
+ownerOf(uint256)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+buyToken()

@@ -1,0 +1,4 @@
+shapeshiftTransfer(uint256,string,string)
+test()
+getAddress()
+transfer(string,string)

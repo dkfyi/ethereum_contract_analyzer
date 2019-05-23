@@ -1,0 +1,16 @@
+setTokenAddress(address)
+setAmount(uint256)
+0x2aff1a74
+0x4bb77d68
+0x5c9c85c1
+setEnable(bool)
+ideal_warn_timed(uint256,uint128)
+dailyCount()
+tokenAddress()
+0xa0076e84
+amount()
+0xb6c9c173
+0xc43de39a
+0xdc26914a
+transferOwnership(address)
+many_msg_babbage(bytes1)

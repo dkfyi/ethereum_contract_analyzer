@@ -1,0 +1,4 @@
+destroyMe()
+withdraw()
+0xdafab04c
+0xef888003

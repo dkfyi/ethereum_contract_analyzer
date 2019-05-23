@@ -1,0 +1,5 @@
+0x110ba0f9
+ideal_warn_timed(uint256,uint128)
+random(uint256)
+randomJackpot(uint32,bytes32,uint32)
+maxRandom()

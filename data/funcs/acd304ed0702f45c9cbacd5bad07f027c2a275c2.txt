@@ -1,0 +1,5 @@
+kill()
+ideal_warn_timed(uint256,uint128)
+0x97d327c0
+transferOwnership(address)
+balanceOf(address)

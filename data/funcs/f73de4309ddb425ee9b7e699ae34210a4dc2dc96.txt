@@ -1,0 +1,4 @@
+kill()
+0xeb6cad41
+getKitty(uint256)
+giveBirth(uint256)

@@ -1,0 +1,8 @@
+0x0b4ca1cd
+kill()
+croupier()
+setSigner(address)
+0x83ce63b5
+0xa501123d
+withdraw(address,uint256)
+setCroupier(address)

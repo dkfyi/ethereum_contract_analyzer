@@ -1,0 +1,5 @@
+destroyMe()
+withdraw()
+0xbdab22de
+totalSupply()
+getKitty(uint256)

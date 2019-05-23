@@ -1,0 +1,8 @@
+0x56905d50
+0x81f3c8ea
+0x98689001
+0xf3ad65f4
+getExpectedRate(address,address,uint256)
+approve(address,uint256)
+trade(address,uint256,address,address,uint256,uint256,address)
+getAddr(string)

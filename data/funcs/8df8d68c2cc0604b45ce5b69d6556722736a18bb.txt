@@ -1,0 +1,15 @@
+setStopDay(uint256)
+0x10dfea72
+getAllETH(address)
+startBalance()
+addManager(address)
+isOwner(address)
+addOwner(address)
+delOwner(address)
+0x845ddcb2
+getETH(uint256,address)
+addStage(uint256,uint256)
+delManager(address)
+transferETH(address)
+stageCount()
+isManager(address)

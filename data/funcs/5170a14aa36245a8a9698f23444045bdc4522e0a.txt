@@ -1,0 +1,9 @@
+0x5391ba7e
+lottery(uint256)
+token()
+balanceOf(address)
+many_msg_babbage(bytes1)
+allowance(address,address)
+allowance(address,address)
+balanceOf(address)
+gasprice_bit_ether(int128)

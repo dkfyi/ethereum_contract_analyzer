@@ -1,0 +1,13 @@
+recordNum()
+addPack(address[],uint24[],uint24[],uint16)
+start()
+allowed(address)
+chunkNr()
+controlSum()
+admin()
+isSetupMode()
+VERSION()
+0x01000000
+0x01000000
+0x01000000
+0x01000000

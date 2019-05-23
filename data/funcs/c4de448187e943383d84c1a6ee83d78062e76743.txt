@@ -1,0 +1,11 @@
+getBalance()
+0x1eb45a14
+blockNum()
+mine()
+stats(uint256)
+0xb71a37b0
+test(uint256,uint256)
+myBalance()
+mine()
+0xd6bb77bc
+0xd6bb77bc

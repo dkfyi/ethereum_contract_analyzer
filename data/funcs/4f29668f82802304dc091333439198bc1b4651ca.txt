@@ -1,0 +1,3 @@
+kill()
+0xd52f6a5c
+greeter(string)

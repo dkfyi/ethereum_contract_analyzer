@@ -1,0 +1,13 @@
+setRefund(address)
+cancelRefund(address)
+withdrawTokens(address,address,uint256)
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+0xbc3da535
+newOwner()
+xcc()
+transferOwnership(address)
+withdraw(address,uint256)
+balanceOf(address)
+originBurn(uint256)
+many_msg_babbage(bytes1)

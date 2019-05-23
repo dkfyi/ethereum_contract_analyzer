@@ -1,0 +1,11 @@
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+Contract()
+balanceOf(address)
+0x8308d69c
+currentnumber()
+getAddress()
+cbAddress()
+getAddress()
+getPrice(string)
+query(uint256,string,string)

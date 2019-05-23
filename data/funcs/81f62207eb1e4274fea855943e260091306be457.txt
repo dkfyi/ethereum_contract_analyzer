@@ -1,0 +1,10 @@
+checkRole(address,string)
+hasRole(address,string)
+0x2533c180
+ROLE_PAUSE_ADMIN()
+deadDragons()
+adminRemoveRole(address,string)
+addDragon(address,uint256,uint256)
+adminAddRole(address,string)
+0xd2a59d69
+ROLE_ADMIN()

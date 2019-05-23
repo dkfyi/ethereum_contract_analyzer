@@ -1,0 +1,9 @@
+kill()
+expiration()
+ideal_warn_timed(uint256,uint128)
+fund()
+lock(uint256)
+0xe9203609
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

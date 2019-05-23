@@ -1,0 +1,7 @@
+0x05ad94c3
+addContract(address)
+0x69a28006
+destory()
+0x9c8e5a3d
+removeContract(address)
+deposit(address)

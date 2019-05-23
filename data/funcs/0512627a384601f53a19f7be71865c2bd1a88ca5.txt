@@ -1,0 +1,10 @@
+getRegistrants()
+isActiveRegistrant(address)
+registrantIndex(address)
+0x380cd218
+0x52b98b69
+registrants(uint256)
+0x6b7dfb40
+registry()
+0xa2d92d66
+0xb7630118

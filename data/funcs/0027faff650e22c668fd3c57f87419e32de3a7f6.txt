@@ -1,0 +1,5 @@
+getBalance()
+withdraw(uint256)
+0xb6c2974c
+deposit()
+0xe39295d6

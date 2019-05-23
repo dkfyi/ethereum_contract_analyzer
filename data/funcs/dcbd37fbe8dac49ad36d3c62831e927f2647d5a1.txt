@@ -1,0 +1,11 @@
+0x1de9ecc8
+0x582ca07d
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+0xb70449f7
+setAgent(address)
+0xca21707f
+newOwner()
+0xe2eb41ff
+0xe90f5700
+transferOwnership(address)

@@ -1,0 +1,14 @@
+removeAdmin(address)
+0x34e80ea3
+0x3b68f8aa
+pauseContract()
+0x6436434e
+addAdmin(address)
+renounceOwnership()
+airdrop(address,uint256)
+ideal_warn_timed(uint256,uint128)
+activateContract()
+0xa052f024
+0xd499a1d6
+0xe52c9da1
+transferOwnership(address)

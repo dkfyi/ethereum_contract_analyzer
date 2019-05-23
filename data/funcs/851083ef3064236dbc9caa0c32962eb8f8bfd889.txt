@@ -1,0 +1,17 @@
+groom()
+groomVow()
+getStatus()
+marriedAt()
+brideAddr()
+groomSignedAt()
+brideVow()
+bride()
+groomAddr()
+cancel()
+0x01e13380
+0x01e28500
+0x01e13380
+0x01e28500
+0x01e13380
+0x01e28500
+0x01e13380

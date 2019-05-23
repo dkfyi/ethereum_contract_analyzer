@@ -1,0 +1,11 @@
+0x0ca1a6a0
+placeBet(uint256)
+canBet()
+0x6246d7fb
+currentGame(address)
+ideal_warn_timed(uint256,uint128)
+currentBet()
+changeBet(uint256)
+transferOwnership(address)
+contractAddress()
+lastWinner()

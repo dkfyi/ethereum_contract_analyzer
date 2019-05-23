@@ -1,0 +1,3 @@
+0x48bfe40f
+ideal_warn_timed(uint256,uint128)
+setUserCategory(address,uint256)

@@ -1,0 +1,10 @@
+proposals(uint256)
+richest()
+memberId(address)
+withdraw()
+0x46232d21
+members(uint256)
+mostSent()
+becomeRichest()
+0x7cd7ee3d
+0x3b9aca00

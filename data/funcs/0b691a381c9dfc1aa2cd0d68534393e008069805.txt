@@ -1,0 +1,10 @@
+name()
+available_assert_time(uint16,uint64)
+kill()
+0x573ef62b
+balanceOf(address)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+frozenAccount(address)
+0xc9e696c2
+freezeAccount(address,bool)

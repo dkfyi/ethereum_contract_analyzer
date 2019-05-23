@@ -1,0 +1,9 @@
+creator()
+setCreator(address)
+0x51637422
+0x8f5ae6e3
+spawn()
+move(uint16)
+0xcf69e857
+0xd4d51269
+0xe2eb41ff

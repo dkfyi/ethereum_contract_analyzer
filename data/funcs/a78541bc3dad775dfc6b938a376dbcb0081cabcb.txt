@@ -1,0 +1,4 @@
+_checkLedger(string)
+_storeProof(string)
+proofExists(string)
+postProof(string)

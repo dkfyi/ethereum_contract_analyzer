@@ -1,0 +1,7 @@
+issueBounty(address,uint256)
+setTokenSaleAddress(address)
+ideal_warn_timed(uint256,uint128)
+tokenSale()
+transferOwnership(address)
+issueTokens(address,uint256)
+issueTokens(address,uint256)

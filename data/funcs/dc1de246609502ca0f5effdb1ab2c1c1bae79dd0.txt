@@ -1,0 +1,15 @@
+0x366390ad
+verifyIdentity(address,bytes32,uint256)
+wallet()
+bringuPort(address)
+getVerifiedHashID(address,bytes32)
+0x7aa51e21
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+claimIFactor(bytes32,uint256)
+price()
+revokeMyId(bytes32)
+setCode(address,bytes32,uint256)
+getHashID(address,bytes32)
+setWallet(address)
+revoke(bytes32,address)

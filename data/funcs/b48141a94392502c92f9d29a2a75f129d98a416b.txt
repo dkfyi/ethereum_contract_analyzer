@@ -1,0 +1,12 @@
+allowOwnership(address)
+removeOwnership(address)
+owner(address)
+0x987c6b9d
+transferOwnership(address)
+setBool(bytes32,bool)
+setUint(bytes32,uint256)
+getUint(bytes32)
+setUint(bytes32,uint256)
+getUint(bytes32)
+getBool(bytes32)
+getAddress(bytes32)

@@ -1,0 +1,17 @@
+0x077af096
+getPools()
+ideal_warn_timed(uint256,uint128)
+createPool(string,uint256,uint256)
+0xac4afa38
+platformWallet()
+name()
+0x077af096
+users(uint256)
+goal()
+progress()
+get()
+unit()
+random(uint256)
+buy(uint256)
+winner()
+platformWallet()

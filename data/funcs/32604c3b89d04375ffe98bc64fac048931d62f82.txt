@@ -1,0 +1,11 @@
+getBalance()
+withdraw(uint256)
+kill()
+withdrawAll()
+0x96db5ba5
+0x97a10519
+0xa8240937
+0xa91fef1c
+0xafbc765e
+0xb1c7ad33
+0xd5425587

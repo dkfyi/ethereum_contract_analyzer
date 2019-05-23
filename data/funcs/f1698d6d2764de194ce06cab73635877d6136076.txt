@@ -1,0 +1,12 @@
+checkGoalReached()
+0x17a5410b
+bid()
+beneficiary()
+0x4a707247
+tokenReward()
+0x7121809a
+fundingGoal()
+amountRaised()
+token_price()
+funders(uint256)
+sendCoin(address,uint256)

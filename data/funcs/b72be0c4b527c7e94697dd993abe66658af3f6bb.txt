@@ -1,0 +1,8 @@
+0x2f9ae612
+0x832d2d58
+computeResult(uint32,uint32)
+cashout()
+ideal_warn_timed(uint256,uint128)
+numRolls()
+roll(uint8)
+payoutPreviousRoll()

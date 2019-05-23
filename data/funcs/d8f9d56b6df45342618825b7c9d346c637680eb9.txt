@@ -1,0 +1,14 @@
+0x45cefcec
+renounceOwnership()
+update(uint256)
+ideal_warn_timed(uint256,uint128)
+0xa87430ba
+amount()
+0xb01ed82d
+receiveToken()
+transferOwnership(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)
+allowance(address,address)
+gasprice_bit_ether(int128)

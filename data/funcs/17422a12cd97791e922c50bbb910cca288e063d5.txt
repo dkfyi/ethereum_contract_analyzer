@@ -1,0 +1,11 @@
+checkAddress(address)
+0x18f80bb9
+getAddress()
+balanceOf(address)
+getMyAddress()
+many_msg_babbage(bytes1)
+withdrawEtherOnlyOwner()
+0xd2f947e0
+Name()
+many_msg_babbage(bytes1)
+withdrawEtherOnlyOwner()

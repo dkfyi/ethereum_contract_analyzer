@@ -1,0 +1,15 @@
+0x0b62f0f3
+checkPrizeAlreadyReceived(address,uint256,uint256)
+getBetterBettingInfo(address)
+0x86027322
+ideal_warn_timed(uint256,uint128)
+claimPrizes(uint256,uint256,uint256,uint256)
+getNumOfBettersForMatchAndPrice(uint256,uint256)
+0x9b62d3ae
+getInfoPanel()
+getBetterBettingInfo2(address)
+CheckPrivilegeAccomplishment(uint256)
+getBetterNumOfWinnings(address)
+0xde9a2b53
+checkDuplicateMatchId(address,uint256,uint256)
+placeBet(uint256,uint256,uint256,uint256)

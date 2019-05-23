@@ -1,0 +1,11 @@
+0x0a0a05e6
+0x16ad9542
+accept(uint256)
+0x25386183
+setMinimum(uint256)
+ideal_warn_timed(uint256,uint128)
+maxValue()
+minValue()
+destination()
+setLimits(uint256,uint256)
+transferOwnership(address)

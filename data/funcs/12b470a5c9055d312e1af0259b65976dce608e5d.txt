@@ -1,0 +1,14 @@
+changeAuth(address)
+peekData()
+read()
+peek()
+setMaxAge(uint256)
+write(uint256,uint256)
+peekUpdated()
+peekLastNonce()
+0xd6e848ac
+0xde9375f2
+notTooLongSinceUpdated()
+poke()
+identify()
+0x0da4b055

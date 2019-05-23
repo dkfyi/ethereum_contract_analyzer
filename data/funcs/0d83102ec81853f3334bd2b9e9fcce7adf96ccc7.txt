@@ -1,0 +1,4 @@
+luckyNumberOfAddress(address)
+kill()
+forceReseed()
+participate()

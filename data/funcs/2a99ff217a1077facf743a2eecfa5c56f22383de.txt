@@ -1,0 +1,6 @@
+createdTimestamp()
+deadline()
+beneficiary()
+balanceOf(address)
+amountRaised()
+start()

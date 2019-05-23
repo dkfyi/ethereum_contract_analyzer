@@ -1,0 +1,4 @@
+0x0716326d
+wasPaid(bytes32)
+createLink(bytes32)
+getPaid(string,address)

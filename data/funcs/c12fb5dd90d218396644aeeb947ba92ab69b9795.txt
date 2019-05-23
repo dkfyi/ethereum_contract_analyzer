@@ -1,0 +1,13 @@
+keys(uint256)
+0x301cbd79
+kill()
+setPriceOracle(address)
+0x6577ba5a
+0x6c6784ca
+ideal_warn_timed(uint256,uint128)
+0x9170fafd
+0xe07e3d71
+0xeadab7a0
+0xf1228d15
+0xfd714544
+0x771c0925

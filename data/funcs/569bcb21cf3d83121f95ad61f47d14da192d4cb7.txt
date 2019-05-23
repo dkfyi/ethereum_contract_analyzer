@@ -1,0 +1,2 @@
+enableFeatures(uint256,bool)
+isSupported(address,uint256)

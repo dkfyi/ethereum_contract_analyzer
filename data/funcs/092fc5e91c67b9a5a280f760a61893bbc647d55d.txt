@@ -1,0 +1,4 @@
+randomNext(uint256,uint256)
+random(uint256)
+maxRandom()
+0x41c64e6d

@@ -1,0 +1,6 @@
+numTickets()
+0x4ed02622
+0x5586f624
+getTicket(uint256)
+0xc8fec00d
+0xf73fd76a

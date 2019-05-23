@@ -1,0 +1,9 @@
+0x1da05199
+withdraw()
+0x66634a16
+0x94c6116f
+0xa098a04b
+0xb20b0ef5
+getRandomNumber(uint256)
+airdrop(address,uint256)
+getAnimalsCount()

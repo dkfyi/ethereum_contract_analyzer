@@ -1,0 +1,12 @@
+execute(bytes)
+grantAccess(address)
+getBalance()
+totalSupply()
+withdraw(uint256)
+store(uint256)
+ideal_warn_timed(uint256,uint128)
+isAuthorized(address)
+giveBirth(uint256)
+0xdeadbeef
+0xdeadbeef
+0xdeadbeef

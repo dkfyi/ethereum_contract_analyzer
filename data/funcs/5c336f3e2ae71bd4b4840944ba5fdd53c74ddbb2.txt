@@ -1,0 +1,7 @@
+0x085461ef
+status()
+participants(uint256)
+0x4e2f8d3a
+candidate()
+0xc1fa5aea
+blocks(uint256)

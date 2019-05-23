@@ -1,0 +1,5 @@
+withdraw(uint256)
+kill()
+director()
+getBalanceOf(address)
+many_msg_babbage(bytes1)

@@ -1,0 +1,5 @@
+kill()
+random()
+0x6dd1f0ed
+reveal(bytes32)
+commit(bytes32)

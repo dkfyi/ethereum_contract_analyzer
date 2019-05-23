@@ -1,0 +1,5 @@
+set(uint256,uint256)
+kill()
+0xb088aedd
+0xb145926d
+0xdf58636d

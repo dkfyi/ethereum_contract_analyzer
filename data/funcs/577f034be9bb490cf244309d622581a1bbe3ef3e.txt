@@ -1,0 +1,12 @@
+0x03c0fa01
+0x1788880f
+0x5475a16f
+0x65d3e726
+dev_share()
+ideal_warn_timed(uint256,uint128)
+appstore_share()
+transferOwnership(address)
+token()
+allowance(address,address)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

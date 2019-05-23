@@ -1,0 +1,6 @@
+setOwner(address)
+getQueryAddress()
+kill()
+getResponseAddress()
+setResponseAddress(address)
+setQueryAddress(address)

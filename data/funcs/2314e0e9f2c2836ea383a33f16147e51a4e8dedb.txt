@@ -1,0 +1,6 @@
+killContract()
+setMinPrice(uint256)
+0x66a83a4f
+getNow()
+getMinPrice()
+gasprice_bit_ether(int128)

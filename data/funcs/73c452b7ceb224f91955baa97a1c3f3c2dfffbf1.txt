@@ -1,0 +1,7 @@
+rate()
+setRate(uint256)
+weiRaised()
+wallet()
+buyTokens(address)
+token()
+gasprice_bit_ether(int128)

@@ -1,0 +1,5 @@
+getFinalval()
+getInitialval()
+kill()
+convertMsgValueToBytes20()
+getUint80val()

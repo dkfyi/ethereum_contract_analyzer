@@ -1,0 +1,5 @@
+campaigns(uint256)
+numCampaigns()
+checkGoalReached(uint256)
+contribute(uint256)
+newCampaign(address,uint256)

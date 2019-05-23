@@ -1,0 +1,7 @@
+Put(bytes32,uint256)
+unlockTime()
+Take(bytes)
+hashPass()
+Lock(bytes)
+GetHash(bytes)
+locked()

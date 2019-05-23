@@ -1,0 +1,3 @@
+0x8035f0ce
+getBalance(uint8)
+deposit(address,uint256,bytes32,uint256)

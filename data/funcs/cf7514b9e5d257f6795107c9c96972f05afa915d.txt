@@ -1,0 +1,8 @@
+totalSupply()
+endTime()
+wallet()
+balanceOf(address)
+finishContract()
+ideal_warn_timed(uint256,uint128)
+contractFinished()
+transferOwnership(address)

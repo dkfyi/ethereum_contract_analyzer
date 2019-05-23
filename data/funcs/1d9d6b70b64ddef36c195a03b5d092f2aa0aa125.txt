@@ -1,0 +1,7 @@
+withdraw()
+0x4c773795
+getPrice(string)
+withdrawAll()
+0xa4c8a1c1
+query(uint256,string,string)
+getBalance(address)

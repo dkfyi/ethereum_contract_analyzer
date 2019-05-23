@@ -1,0 +1,3 @@
+name()
+addNote(string)
+0xbd93644a

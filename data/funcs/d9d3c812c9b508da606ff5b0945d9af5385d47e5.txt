@@ -1,0 +1,11 @@
+tail()
+transfer(address)
+length()
+0x284cc0a9
+0x29249393
+isOwner(address)
+kill()
+isOwner()
+head()
+0xca4fffad
+0xd321411c

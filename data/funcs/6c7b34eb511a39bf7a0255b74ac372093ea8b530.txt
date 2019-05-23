@@ -1,0 +1,9 @@
+0x1a26720c
+0x399e0792
+0x5d44011e
+0xc6441798
+0xf200e404
+many_msg_babbage(bytes1)
+allowance(address,address)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

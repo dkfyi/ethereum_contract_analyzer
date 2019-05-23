@@ -1,0 +1,8 @@
+ticketPrice()
+ticketsAvailable()
+owner(uint256)
+getTicketOwner(uint256)
+newLottery()
+purchaseTicket(uint256)
+lotteryStart()
+completeLottery()

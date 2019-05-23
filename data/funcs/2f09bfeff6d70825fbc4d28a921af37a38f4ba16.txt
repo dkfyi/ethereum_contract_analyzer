@@ -1,0 +1,12 @@
+clearWizzType(uint256[2])
+0x3019a8c1
+isGeneScience()
+0x65c54162
+mixGenes(uint256[2],uint256[2],uint256,uint256,uint256)
+getWizzType(uint256[2])
+0x7da17c87
+0x7f251dfe
+0xa61fb126
+0xc3e05032
+getPureFromGene(uint256[2])
+getSex(uint256[2])

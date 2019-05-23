@@ -1,0 +1,4 @@
+0x2fd2e742
+buyTile(uint256)
+setTile(uint256,string,string,uint256)
+getTile(uint256)

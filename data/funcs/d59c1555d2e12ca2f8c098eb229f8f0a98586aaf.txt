@@ -1,0 +1,7 @@
+lockAmount(bytes32,bytes32,bytes32)
+proofs(bytes32)
+generateProof(string,address,address,uint8)
+ideal_warn_timed(uint256,uint128)
+0xb07c411f
+deposit(bytes32)
+unlockAmount(string,uint8)

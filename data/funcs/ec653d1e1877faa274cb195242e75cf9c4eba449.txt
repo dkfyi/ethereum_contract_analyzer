@@ -1,0 +1,5 @@
+0x149882e3
+0x4c773795
+0x719b1491
+query(uint256,string,string)
+id()

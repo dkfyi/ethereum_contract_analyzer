@@ -1,0 +1,16 @@
+0x035186d6
+checkRole(address,string)
+ROLE_WHITELISTED()
+hasRole(address,string)
+removeAddressesFromWhitelist(address[])
+removeAddressFromWhitelist(address)
+0x663c2e30
+renounceOwnership()
+addAddressToWhitelist(address)
+ideal_warn_timed(uint256,uint128)
+whitelist(address)
+reclaimEther()
+0xbc24612c
+addAddressesToWhitelist(address[])
+0xe3e7399e
+transferOwnership(address)

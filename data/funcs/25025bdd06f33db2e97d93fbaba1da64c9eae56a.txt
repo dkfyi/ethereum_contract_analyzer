@@ -1,0 +1,3 @@
+0x387b36c0
+random(uint256)
+maxRandom()

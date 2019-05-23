@@ -1,0 +1,6 @@
+ln(uint256)
+e_exp(uint256)
+deleteContract()
+changeCreator(address)
+0x802a01f8
+MarketsContract()

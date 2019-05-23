@@ -1,0 +1,9 @@
+setLimit(uint256)
+0x69db5457
+update(uint256)
+transfer()
+0x9977c78a
+getCount()
+0xac211347
+balance(address)
+add(address,uint256)

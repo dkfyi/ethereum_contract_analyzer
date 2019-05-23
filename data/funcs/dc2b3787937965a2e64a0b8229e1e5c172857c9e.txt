@@ -1,0 +1,6 @@
+getVersion()
+deleteAdmin(address)
+completePost(address,address)
+containsAdmin(address)
+addAdmin(address)
+addPost(bytes32)

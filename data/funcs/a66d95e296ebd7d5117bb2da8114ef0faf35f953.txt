@@ -1,0 +1,4 @@
+0x2706cd3b
+kill()
+getInfo()
+0xed56900f

@@ -1,0 +1,6 @@
+name()
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+0x9ace38c2
+0xebe29d74
+0xef7e63e0

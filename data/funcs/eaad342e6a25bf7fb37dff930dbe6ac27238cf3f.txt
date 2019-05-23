@@ -1,0 +1,6 @@
+beneficiary()
+release()
+releaseTime()
+token()
+balanceOf(address)
+gasprice_bit_ether(int128)

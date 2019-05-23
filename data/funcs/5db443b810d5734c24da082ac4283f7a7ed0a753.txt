@@ -1,0 +1,4 @@
+kill()
+0x5e4ee9ab
+0x661314b1
+fund()

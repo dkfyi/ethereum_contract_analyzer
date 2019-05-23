@@ -1,0 +1,17 @@
+0x5f3e849f
+0x778935ad
+setupAmbi2(address)
+0x7dace1f9
+0xe78b6fce
+hasRole(address,bytes32,address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+0x8bbbbfd3
+claimFor(address,address)
+isOwner(address,address)
+balanceOf(address)
+0x1c2b648c
+balanceOf(address)
+balanceOf(address)
+0x807c9bf6
+balanceOf(address)

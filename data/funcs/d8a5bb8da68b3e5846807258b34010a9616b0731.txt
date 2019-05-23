@@ -1,0 +1,12 @@
+0x2867cc44
+withdraw()
+kill()
+0x50bd0e13
+0x5ae5d4aa
+0x987a696f
+0x99f8c9b8
+0x9a830909
+0xbaad9b0a
+Donate()
+transferOwnership(address)
+0xfb212977

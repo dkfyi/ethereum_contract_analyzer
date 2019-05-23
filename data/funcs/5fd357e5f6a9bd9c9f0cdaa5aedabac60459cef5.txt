@@ -1,0 +1,16 @@
+0x1c505d1d
+removeAddressesFromWhitelist(address[])
+removeAddressFromWhitelist(address)
+getMember(address)
+addAddressToWhitelist(address)
+0x8c411561
+ideal_warn_timed(uint256,uint128)
+0x9095fc0f
+0x989226ae
+0x9a663305
+whitelist(address)
+isMember(address)
+addAddressesToWhitelist(address[])
+getNickName(address)
+0xec177861
+transferOwnership(address)

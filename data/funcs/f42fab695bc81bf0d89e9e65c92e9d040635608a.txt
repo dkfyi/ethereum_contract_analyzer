@@ -1,0 +1,8 @@
+kill()
+0x87835895
+ideal_warn_timed(uint256,uint128)
+0xa0be17a9
+0xcf9d71b9
+0xe78d8ee1
+costWei()
+sendText(string,string)

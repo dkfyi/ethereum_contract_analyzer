@@ -1,0 +1,12 @@
+setBeneficiary(address)
+setTokenReward(address)
+beneficiary()
+exchangeRate()
+exOwner(address)
+tokenReward()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+setExchangeRate(uint256)
+0xe2a34e88
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

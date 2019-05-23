@@ -1,0 +1,8 @@
+killContract()
+destroy(uint256,string)
+dev()
+tokenAddress()
+setTokenContract(address)
+curator()
+setDestructionCurator(address)
+destroyOldCoins(address,uint256,string)

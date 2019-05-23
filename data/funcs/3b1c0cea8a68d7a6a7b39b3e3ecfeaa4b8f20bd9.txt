@@ -1,0 +1,4 @@
+add(string,uint256)
+kill()
+ideal_warn_timed(uint256,uint128)
+contentCount()

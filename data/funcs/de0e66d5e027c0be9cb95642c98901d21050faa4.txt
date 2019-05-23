@@ -1,0 +1,6 @@
+0x27507605
+0x4c58cd8d
+ideal_warn_timed(uint256,uint128)
+getRandom(bytes32)
+transferOwnership(address)
+0x932a3ca1

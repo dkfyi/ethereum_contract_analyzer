@@ -1,0 +1,11 @@
+name()
+0x516fb343
+birthday()
+renounceOwnership()
+0x78393600
+ideal_warn_timed(uint256,uint128)
+weight()
+timestamp()
+named(string)
+transferOwnership(address)
+0xf758ceab

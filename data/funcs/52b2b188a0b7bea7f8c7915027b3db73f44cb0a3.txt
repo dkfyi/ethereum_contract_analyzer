@@ -1,0 +1,10 @@
+0x06c933d8
+isWhitelisted(address)
+kill()
+admins(address)
+0x486581ea
+setAdmin(address,bool)
+ticker()
+setWhitelisted(address,bool)
+transferRoot(address)
+root()

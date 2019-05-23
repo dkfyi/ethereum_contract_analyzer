@@ -1,0 +1,14 @@
+0x0a1ad345
+ticketPrice()
+0x154e878d
+0x16b585fe
+0x1ae706ae
+reward()
+0x22c5842f
+0x2a14793f
+ideal_warn_timed(uint256,uint128)
+0x93066b4c
+0x95292b80
+changeOwner(address)
+0xaad63c77
+0xcaf5f67d

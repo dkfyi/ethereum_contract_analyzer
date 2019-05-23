@@ -1,0 +1,3 @@
+kill()
+0xccd302f4
+getArray()

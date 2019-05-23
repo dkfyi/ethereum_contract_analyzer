@@ -1,0 +1,5 @@
+signer(bytes)
+r(bytes)
+msgHash(bytes)
+s(bytes)
+tryauthenticate(bytes)

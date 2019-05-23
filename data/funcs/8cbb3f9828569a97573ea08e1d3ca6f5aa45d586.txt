@@ -1,0 +1,15 @@
+0x1ff38308
+kill()
+0x5600d2fa
+dividends(address)
+withdrawDividend()
+ideal_warn_timed(uint256,uint128)
+contractVersion()
+tokenHoldersCount()
+tokenHolder(uint256)
+frozenAccount(address)
+balanceOf(address)
+tokenHoldersCount()
+tokenHolder(uint256)
+frozenAccount(address)
+balanceOf(address)

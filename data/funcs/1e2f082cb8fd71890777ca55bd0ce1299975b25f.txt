@@ -1,0 +1,12 @@
+isDev(address)
+getTotalBalance()
+0x5b1eca38
+myDividends(bool)
+0x8a68cf9c
+0xb91d3ace
+setTokenContract(address)
+0xc4026d7b
+0xd404d6c2
+0xef1055b8
+myDividends(bool)
+withdraw()

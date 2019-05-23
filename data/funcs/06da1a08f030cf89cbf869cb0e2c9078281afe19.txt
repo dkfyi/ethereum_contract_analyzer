@@ -1,0 +1,16 @@
+bancorToken()
+manager()
+0x4e8d9701
+treasury()
+etherToken()
+0xbd38837b
+0xc005c7dc
+0xf30247fe
+deposit()
+convert(address,address,uint256,uint256)
+approve(address,uint256)
+convert(address,address,uint256,uint256)
+convert(address,address,uint256,uint256)
+balanceOf(address)
+withdrawTo(address,uint256)
+balanceOf(address)

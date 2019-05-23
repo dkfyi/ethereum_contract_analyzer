@@ -1,0 +1,12 @@
+payout(address)
+duration()
+subscribe(address)
+kill()
+0x5745ae28
+set(uint256)
+get()
+setPrice(uint256)
+numSubscribed()
+price()
+balance()
+setDuration(uint256)

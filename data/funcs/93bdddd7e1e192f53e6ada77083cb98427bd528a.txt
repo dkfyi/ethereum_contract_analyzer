@@ -1,0 +1,10 @@
+isWhitelisted(address)
+whitelistAddress(address)
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+whitelist(address)
+reclaimEther()
+0xb9181611
+removeAuthority(address)
+transferOwnership(address)
+0xf3290d75

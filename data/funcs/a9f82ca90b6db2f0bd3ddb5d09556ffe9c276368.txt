@@ -1,0 +1,3 @@
+randomSkinAppearance()
+bleachAppearance(uint128,uint128)
+calcNewSkinAppearance(uint128,uint128)

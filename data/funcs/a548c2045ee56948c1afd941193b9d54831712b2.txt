@@ -1,0 +1,7 @@
+removeSigner(address)
+createHash(uint256)
+isHashSigned(uint256)
+signHash(uint256)
+ideal_warn_timed(uint256,uint128)
+addSigner(address)
+transferOwnership(address)

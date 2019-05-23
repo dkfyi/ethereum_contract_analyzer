@@ -1,0 +1,13 @@
+0x097c1e25
+sendEther()
+0x1be19560
+createContract()
+0x666a4f3e
+changeDedeAddress(address)
+0xd709e978
+0x2ebf1d58
+0x2ebf1d58
+0xd709e978
+sendEther()
+balanceOf(address)
+many_msg_babbage(bytes1)

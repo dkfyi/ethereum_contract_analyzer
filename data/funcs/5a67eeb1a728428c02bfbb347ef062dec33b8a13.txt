@@ -1,0 +1,6 @@
+transferERC20Token(address,address,uint256)
+0xb17e210e
+0xe43560bf
+isManager(address)
+many_msg_babbage(bytes1)
+isAdministrator(address)

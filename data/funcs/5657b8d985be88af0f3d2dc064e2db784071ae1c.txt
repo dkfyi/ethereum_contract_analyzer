@@ -1,0 +1,13 @@
+WEI_PER_ETHER()
+0x1c7d5c42
+accept()
+withdraw()
+marriageDate()
+0x68909825
+0x69305bc8
+0x7399a259
+changeStatus(string)
+ipfsHash()
+marriageStatus()
+isSigned()
+changeIPFSHash(string)

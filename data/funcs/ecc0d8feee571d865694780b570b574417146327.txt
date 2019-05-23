@@ -1,0 +1,12 @@
+bid(uint256)
+0x6ba9a40b
+renounceOwnership()
+0x72a62cef
+ideal_warn_timed(uint256,uint128)
+cancelAuction(uint256)
+getCurrentPrice(uint256)
+0xeec30bfd
+transferOwnership(address)
+0xb1a1f603
+0xd2bd621a
+0xbb9a5908

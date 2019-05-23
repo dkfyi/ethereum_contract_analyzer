@@ -1,0 +1,13 @@
+startDate()
+exchangeRate()
+0x68d110a2
+withdrawEther()
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+endDate()
+newOwner()
+0xea7d351f
+0xf1e939e1
+transferOwnership(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

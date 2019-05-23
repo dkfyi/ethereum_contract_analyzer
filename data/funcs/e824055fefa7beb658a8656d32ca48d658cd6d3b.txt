@@ -1,0 +1,13 @@
+getLambosCount()
+unpause()
+addLambo(string,uint256,bool)
+0x4c410b49
+paused()
+destroy()
+pause()
+withdrawAll()
+ideal_warn_timed(uint256,uint128)
+enableLambo(uint256)
+buy(uint256,string,string)
+transferOwnership(address)
+destroyAndSend(address)

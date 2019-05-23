@@ -1,0 +1,7 @@
+transfer(uint256)
+withdraw()
+0x7994b3ae
+many_msg_babbage(bytes1)
+ownerOf(uint256)
+bid(uint256)
+gasprice_bit_ether(int128)

@@ -1,0 +1,3 @@
+shittyRandom()
+addFortune(string)
+drawFortune()

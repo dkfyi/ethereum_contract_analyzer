@@ -1,0 +1,7 @@
+bid()
+withdrawDividends()
+withdraw()
+withdrawEarnings()
+bid()
+withdrawDividends()
+withdrawEarnings()

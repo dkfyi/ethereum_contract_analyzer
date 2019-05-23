@@ -1,0 +1,7 @@
+setOwner(address)
+setToken(address)
+0x4ca5da95
+0xaaae15ea
+0xca205797
+createDefaultZodiac(uint256,uint256,uint256,address,uint256,uint256)
+createDefaultGen0Zodiac(uint256,address,uint256,uint256,uint256)

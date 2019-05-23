@@ -1,0 +1,11 @@
+ownerWithdraw()
+ownerDeposit()
+ideal_warn_timed(uint256,uint128)
+0x9c53c0ca
+0x9f657426
+deposits(uint256)
+0xb52eea74
+transferOwnership(address)
+checkDividend(address)
+totalSupply()
+balanceOf(address)

@@ -1,0 +1,3 @@
+0x8458f011
+buyObject(address)
+many_msg_babbage(bytes1)

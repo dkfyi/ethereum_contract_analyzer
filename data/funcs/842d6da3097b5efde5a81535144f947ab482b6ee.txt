@@ -1,0 +1,6 @@
+0x529a1baf
+0x5cf3d346
+setName(string)
+pullFunds()
+setNameRefer(string,address)
+numberOfNames()

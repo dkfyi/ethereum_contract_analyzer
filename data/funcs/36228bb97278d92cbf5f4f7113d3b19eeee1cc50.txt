@@ -1,0 +1,14 @@
+0x1ca451a3
+0x23423fd7
+cancelOwnershipTransfer()
+0x3eb869f5
+getAttributes(address)
+claimOwnership()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+setManager(address)
+pendingOwner()
+transferOwnership(address)
+accessManager()
+0x755fe57a
+0x755fe57a

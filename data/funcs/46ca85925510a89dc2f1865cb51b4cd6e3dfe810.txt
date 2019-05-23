@@ -1,0 +1,10 @@
+0x0305c040
+__callback(bytes32,string)
+exchangeRate()
+0x50f9b6cd
+0x8bdfaa9c
+getAddress()
+getPrice(string)
+query(uint256,string,string)
+getAddress()
+cbAddress()

@@ -1,0 +1,10 @@
+totalVotes()
+registerCandidate(string,string)
+0x204cd2c8
+castVote(uint256,uint256)
+0x4fc8a20d
+voteName()
+candidateInformation(uint256)
+ideal_warn_timed(uint256,uint128)
+nextCandidateId()
+transferOwnership(address)

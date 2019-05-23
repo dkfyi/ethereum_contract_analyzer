@@ -1,0 +1,14 @@
+publicGetDeposit(uint256)
+contractBoost(uint256)
+0x2df4e21e
+next()
+publicGetStatus()
+main_balance()
+ideal_warn_timed(uint256,uint128)
+userReinvest()
+0x9e837db4
+userWithdraw()
+deposits(uint256)
+userDeposit(address)
+publicGetBalance(address)
+userPayout()

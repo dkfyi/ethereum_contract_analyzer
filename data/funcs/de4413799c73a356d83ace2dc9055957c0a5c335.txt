@@ -1,0 +1,12 @@
+getWalletAddress()
+0x090e7a71
+0x23226654
+getAddress()
+0x471e6c37
+getOwner()
+setWalletAddress(address)
+getControllerAddress()
+setAddress(address)
+0xef559e6b
+setControllerAddress(address)
+setNewOwner(address)

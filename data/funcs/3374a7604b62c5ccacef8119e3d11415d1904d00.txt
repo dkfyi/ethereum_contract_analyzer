@@ -1,0 +1,8 @@
+tranferPresaleTokens(address,uint256)
+ideal_warn_timed(uint256,uint128)
+0x8f47a451
+changeOwner(address)
+transferOwnership(address)
+token()
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

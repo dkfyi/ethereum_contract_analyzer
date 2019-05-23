@@ -1,0 +1,5 @@
+hash()
+number()
+f2()
+0xba1663ca
+f1()

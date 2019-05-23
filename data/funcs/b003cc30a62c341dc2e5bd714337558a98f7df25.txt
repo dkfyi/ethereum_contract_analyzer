@@ -1,0 +1,6 @@
+weiRaised()
+wallet()
+price()
+buyTokens(address)
+token()
+many_msg_babbage(bytes1)

@@ -1,0 +1,12 @@
+setDestinationWallet(address)
+isOwner(uint256,address)
+halt()
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0xb2d891e4
+halted()
+unhalt()
+buy(uint256)
+getPrice(uint256)
+transferOwnership(address)
+setPrice(uint256,uint256)

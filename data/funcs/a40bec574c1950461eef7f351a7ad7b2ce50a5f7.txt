@@ -1,0 +1,5 @@
+ideal_warn_timed(uint256,uint128)
+setEns(string,address)
+getAddress(string)
+getEns(address)
+transferOwnership(address)

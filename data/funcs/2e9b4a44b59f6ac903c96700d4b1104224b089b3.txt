@@ -1,0 +1,11 @@
+name()
+kill()
+disputes(uint256)
+0x586ee122
+ideal_warn_timed(uint256,uint128)
+0xa656e7e8
+withdraw(uint256,string)
+fee()
+transferOwnership(address)
+0xfa200550
+0xfd33be0d

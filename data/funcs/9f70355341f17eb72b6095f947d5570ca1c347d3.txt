@@ -1,0 +1,11 @@
+setup(uint256)
+get()
+0x86147b63
+airDropPot_()
+0x87f7d378
+get()
+0x87f7d378
+nonce()
+airDropTracker_()
+buyXaddr(address,uint256)
+withdraw()

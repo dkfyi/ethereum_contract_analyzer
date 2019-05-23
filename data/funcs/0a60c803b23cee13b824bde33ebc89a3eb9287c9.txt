@@ -1,0 +1,13 @@
+withdrawAmount(uint256)
+setOwner(address)
+removeAdmin(address)
+kill()
+setBetLimit(uint256,uint256)
+setDevfee(uint256)
+addAdmin(address)
+0x779da967
+withdrawAll()
+0x9b6a935c
+buy(uint256,uint256)
+setCalleeContract(address)
+random()

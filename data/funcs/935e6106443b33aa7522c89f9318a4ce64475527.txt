@@ -1,0 +1,7 @@
+isInitialized()
+weiCollected()
+0x54ab3170
+0xa08ed830
+0xbfd772fc
+0xc3c78b21
+forward()

@@ -1,0 +1,8 @@
+maxBet()
+roll(uint8)
+getGameChance()
+0x79131a19
+ideal_warn_timed(uint256,uint128)
+minBet()
+getGameState()
+transferOwnership(address)

@@ -1,0 +1,11 @@
+supplier()
+burn()
+purpose()
+burnPerweiYearly()
+burnable()
+lastBurn()
+start()
+MAXPERWEI()
+supplyBurn(uint256)
+0x01e13380
+balanceOf(address)

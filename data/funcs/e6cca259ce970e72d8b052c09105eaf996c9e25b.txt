@@ -1,0 +1,4 @@
+getTimestamp()
+getController()
+setController(address)
+getTypeName()

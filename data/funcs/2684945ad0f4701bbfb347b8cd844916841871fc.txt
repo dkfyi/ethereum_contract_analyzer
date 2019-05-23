@@ -1,0 +1,8 @@
+name()
+cancelMigration()
+status()
+setup(address)
+finishMigration()
+startMigration(address)
+deposit()
+migrationReceiver_setup()

@@ -1,0 +1,4 @@
+getAddress(uint256)
+register(uint256,address)
+curator()
+0xedf26d9b

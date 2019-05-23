@@ -1,0 +1,11 @@
+name()
+issuer()
+kill()
+balanceOf(address)
+mintToken(address,uint256)
+0x956c4700
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+frozenAccount(address)
+freezeAccount(address,bool)
+0x2129dded

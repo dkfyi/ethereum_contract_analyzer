@@ -1,0 +1,16 @@
+name()
+totalSupply()
+0x2f38b961
+available_assert_time(uint16,uint64)
+0x34e62946
+getReferrer(address)
+0x573b9070
+0x6bc17c76
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+0x92a0a078
+link_classic_internal(uint64,int64)
+poolBalance()
+0x98421a21
+many_msg_babbage(bytes1)
+0xc4a11628

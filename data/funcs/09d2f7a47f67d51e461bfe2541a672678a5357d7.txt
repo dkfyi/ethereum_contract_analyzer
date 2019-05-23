@@ -1,0 +1,14 @@
+setProtocolVersion(address,bytes32)
+tickerRegistry()
+protocolVersion()
+0x75f9f597
+ideal_warn_timed(uint256,uint128)
+getSecurityTokenData(address)
+moduleRegistry()
+0xeb87bcbc
+transferOwnership(address)
+getSecurityTokenAddress(string)
+0xff61c0de
+ideal_warn_timed(uint256,uint128)
+checkValidity(string,address,string)
+0x7cb9a2d2

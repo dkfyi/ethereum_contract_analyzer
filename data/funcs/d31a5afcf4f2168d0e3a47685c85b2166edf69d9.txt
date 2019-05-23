@@ -1,0 +1,15 @@
+weiToOwner(address,uint256)
+0x28f14573
+requestReward()
+nextReward()
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+newOwner()
+0xdea21027
+setWaitingTimeBuffer(uint256)
+setWaitingTime(uint256)
+transferOwnership(address)
+queryWaitingTimeBuffer()
+queryWaitingTime()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

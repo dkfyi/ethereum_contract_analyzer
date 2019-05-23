@@ -1,0 +1,12 @@
+0x07e274d1
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+orderFills(address,bytes32)
+0x3f0a76a2
+0x4bf4f423
+0x6e6e15e7
+changeAdmin(address)
+0xa4664894
+myBalance()
+admin()
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+orderFills(address,bytes32)

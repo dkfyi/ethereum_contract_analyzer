@@ -1,0 +1,4 @@
+recycle()
+0x5648e2d0
+setActive(bool)
+0xe209a49a

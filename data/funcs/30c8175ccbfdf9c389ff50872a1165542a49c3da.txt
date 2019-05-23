@@ -1,0 +1,4 @@
+getFact(bytes16)
+0x11411904
+signFact(bytes16)
+isSigned(bytes16,address)

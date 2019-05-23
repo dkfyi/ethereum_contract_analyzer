@@ -1,0 +1,8 @@
+name(address)
+0x1b562aa5
+updateContact(string)
+updateImageAddress(string)
+updateName(string)
+0x9ec200d1
+updateDescription(string)
+imageAddress(address)

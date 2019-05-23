@@ -1,0 +1,5 @@
+owners(address)
+removeOwner(address)
+kill()
+addOwner(address)
+hash(bytes)

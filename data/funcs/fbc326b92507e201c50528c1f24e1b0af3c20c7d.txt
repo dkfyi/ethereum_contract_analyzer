@@ -1,0 +1,3 @@
+kill()
+0x80368114
+claim(address,string)

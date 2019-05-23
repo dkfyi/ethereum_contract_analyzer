@@ -1,0 +1,5 @@
+kill()
+ideal_warn_timed(uint256,uint128)
+get(bytes32)
+hashes(bytes32)
+set(bytes32,bytes32)

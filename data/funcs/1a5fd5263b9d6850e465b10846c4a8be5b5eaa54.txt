@@ -1,0 +1,4 @@
+setFundManager(address)
+forwardFunds()
+changeOwner(address)
+refund(address)

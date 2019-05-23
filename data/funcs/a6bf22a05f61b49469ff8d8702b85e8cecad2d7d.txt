@@ -1,0 +1,5 @@
+0x02fbcc19
+ideal_warn_timed(uint256,uint128)
+authenticate(string)
+0xb04352f4
+transferOwnership(address)

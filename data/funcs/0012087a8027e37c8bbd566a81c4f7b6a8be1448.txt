@@ -1,0 +1,11 @@
+0x3045e9ec
+0x31e9a2f2
+0x431458cc
+0xa89161dd
+0xba5d3078
+partner()
+0xc63b9c45
+token()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

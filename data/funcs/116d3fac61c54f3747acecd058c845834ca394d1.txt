@@ -1,0 +1,7 @@
+0x037a4c38
+getVersion()
+0x3a7941f8
+_version()
+ideal_warn_timed(uint256,uint128)
+bytes32ToString(bytes32)
+transferOwnership(address)

@@ -1,0 +1,16 @@
+0x083e2360
+0x10595ed6
+0x5c9350b7
+acceptOwnership()
+totalVesting()
+ideal_warn_timed(uint256,uint128)
+0x9e04fa0c
+retrieveTokens(address)
+0xb869cea3
+newOwner()
+claimVestedTokens()
+transferOwnership(address)
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

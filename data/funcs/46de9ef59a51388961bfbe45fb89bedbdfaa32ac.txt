@@ -1,0 +1,5 @@
+Try(string)
+NewQuestion(string,bytes32)
+question()
+Start_quiz_qz(string,string)
+StopGame()

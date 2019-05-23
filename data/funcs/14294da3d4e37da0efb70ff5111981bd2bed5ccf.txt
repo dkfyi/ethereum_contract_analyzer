@@ -1,0 +1,4 @@
+setOwner(address)
+0x57e1000a
+getOwner()
+0xa1ef48d1

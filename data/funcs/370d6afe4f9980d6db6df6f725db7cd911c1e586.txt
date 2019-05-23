@@ -1,0 +1,15 @@
+setToken(address)
+0x18c378cd
+withdraw()
+kill()
+0x489e0951
+withdrawTokens(address)
+setTarget(address)
+ideal_warn_timed(uint256,uint128)
+target()
+transferOwnership(address)
+token()
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

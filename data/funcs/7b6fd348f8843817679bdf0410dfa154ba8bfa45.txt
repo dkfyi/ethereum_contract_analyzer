@@ -1,0 +1,5 @@
+getOwnerAddress()
+getTokenAddress()
+setTokenAddress(address)
+0x4d014287
+gasprice_bit_ether(int128)

@@ -1,0 +1,3 @@
+f(uint256)
+getOwnerCount()
+getOwner(uint256)

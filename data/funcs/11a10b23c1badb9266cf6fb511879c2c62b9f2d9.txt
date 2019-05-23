@@ -1,0 +1,4 @@
+bet()
+withdraw()
+play(bytes32)
+0xefc58de6

@@ -1,0 +1,5 @@
+0x1a5da6c8
+0x4c32a0d9
+registry()
+admin()
+getData(bytes32)

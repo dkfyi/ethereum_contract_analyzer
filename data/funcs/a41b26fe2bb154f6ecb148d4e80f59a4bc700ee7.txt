@@ -1,0 +1,14 @@
+0x1995ecea
+0x1d4d1023
+withdraw()
+0x4f794973
+0x702cfb30
+ideal_warn_timed(uint256,uint128)
+0x99df9024
+0xe53ac7a1
+sell(uint256)
+many_msg_babbage(bytes1)
+exit()
+0x5bbbe170
+buy(address)
+withdraw()

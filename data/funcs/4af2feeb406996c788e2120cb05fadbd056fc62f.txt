@@ -1,0 +1,3 @@
+confirm(bytes32)
+kill(address)
+withdraw(address,uint256)

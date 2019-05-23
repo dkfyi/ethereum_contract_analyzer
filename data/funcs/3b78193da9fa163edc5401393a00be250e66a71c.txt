@@ -1,0 +1,16 @@
+getCreator()
+buy(uint8)
+getTotalInfo()
+getBlock()
+getAddressLength()
+kill()
+0x5629365b
+getEndowmentBalance()
+getLastRoundInfo()
+getAddressArray()
+getCurrentInfo()
+withdrawFee(uint256)
+getFee()
+getPlayerInfoByAddress(address)
+0xf0a3843d
+getCurrentRoundLeft()

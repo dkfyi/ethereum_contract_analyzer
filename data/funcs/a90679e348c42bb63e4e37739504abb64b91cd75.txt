@@ -1,0 +1,12 @@
+getName()
+0x394354cb
+0x3aaff033
+0x4062fe62
+setIssuer(address)
+setPrice(uint256)
+0xb22d3a74
+0xc37a7d71
+checkBalance()
+0xc80d3360
+0xcd09d0da
+open()

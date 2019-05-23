@@ -1,0 +1,8 @@
+name()
+migrationReceiver_setup()
+setWithdrawer(address)
+withdraw()
+getContractBalance()
+ideal_warn_timed(uint256,uint128)
+withdrawer()
+deposit(address)

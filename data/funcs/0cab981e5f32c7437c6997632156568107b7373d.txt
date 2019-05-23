@@ -1,0 +1,13 @@
+approve(address,uint256)
+totalSupply()
+registerUser(address)
+gasprice_bit_ether(int128)
+0x4ed2ebb9
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+many_msg_babbage(bytes1)
+allowance(address,address)
+transferOwnership(address)
+INITIAL_TOKEN_SUPPLY()
+0x342770c0
+0x342770c0

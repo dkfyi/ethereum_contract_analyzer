@@ -1,0 +1,16 @@
+stop()
+setAdminAddress(address)
+0x4aec716e
+0x63fd42c1
+stopped()
+0x78b379be
+ideal_warn_timed(uint256,uint128)
+0x8fa1a376
+0x9683881c
+cooldowns(uint256)
+0xada8f07f
+start()
+0xd8e50d51
+0xdf813bd7
+0xfa18d8fb
+adminAddress()

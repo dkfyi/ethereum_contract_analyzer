@@ -1,0 +1,13 @@
+0x43bba2bb
+0x44f75550
+0x516f2996
+0x5284fcca
+amountRaised()
+0x8ac0e8a2
+ideal_warn_timed(uint256,uint128)
+0x95b3e40d
+price()
+0xa0e6f87e
+deposit(uint256)
+0xefe61ee9
+getBalance(address)

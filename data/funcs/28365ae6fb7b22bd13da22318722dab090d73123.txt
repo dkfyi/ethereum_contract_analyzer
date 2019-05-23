@@ -1,0 +1,9 @@
+0x39d0f37f
+rand()
+withdraw()
+0x8c4ec5fd
+ideal_warn_timed(uint256,uint128)
+minBets()
+maxBets()
+0xa6ef8137
+changeOwner(address)

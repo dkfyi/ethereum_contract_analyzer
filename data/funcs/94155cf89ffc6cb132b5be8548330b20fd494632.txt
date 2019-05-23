@@ -1,0 +1,17 @@
+totalSupply()
+multivestBuy(address,uint256)
+DECIMALS()
+0x381b058b
+unsetAllowedMultivest(address)
+allowedMultivests(address)
+multivestBuy(address,uint8,bytes32,bytes32)
+setAllowedMultivest(address)
+etherPriceInUSD()
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+0xc884ef83
+newOwner()
+0xdeb55ef5
+0xec4e139e
+transferOwnership(address)
+mint(address,uint256)

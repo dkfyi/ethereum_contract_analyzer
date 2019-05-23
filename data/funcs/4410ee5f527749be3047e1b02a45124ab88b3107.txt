@@ -1,0 +1,2 @@
+isReadyToBreed(uint256)
+isReadyToBreed(uint256)

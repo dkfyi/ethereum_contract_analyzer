@@ -1,0 +1,7 @@
+getBalance()
+setOwner(address)
+total()
+withdraw(uint256)
+withdrawAll()
+ideal_warn_timed(uint256,uint128)
+limit()

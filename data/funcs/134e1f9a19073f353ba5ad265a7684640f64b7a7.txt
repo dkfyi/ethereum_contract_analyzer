@@ -1,0 +1,4 @@
+beneficiary()
+tokenReward()
+price()
+many_msg_babbage(bytes1)

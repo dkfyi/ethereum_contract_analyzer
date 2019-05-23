@@ -1,0 +1,12 @@
+0x1a66e5ab
+0x750f83b3
+contractName()
+0x90dd93c5
+0x96518f5e
+0xc639d48a
+0xd7194ccb
+0xdcc9843f
+bytes32ToStr(bytes32)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

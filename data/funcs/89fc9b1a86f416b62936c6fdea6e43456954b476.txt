@@ -1,0 +1,4 @@
+setBounty(bytes32)
+claimBounty(uint256,string)
+collectFees()
+addBountyReward(uint256)

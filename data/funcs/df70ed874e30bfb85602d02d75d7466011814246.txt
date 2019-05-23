@@ -1,0 +1,17 @@
+0x05da2e29
+setBehalfer(address)
+balances(address)
+betMatch(uint256,uint256)
+withdraw(uint256)
+behalfBet(address,uint256,uint256)
+unpause()
+manager()
+behalfer()
+paused()
+withdrawOwner(uint256)
+pause()
+issue(uint256,uint256,address[],uint256[])
+ideal_warn_timed(uint256,uint128)
+0xb83bcb25
+setManager(address)
+transferOwnership(address)

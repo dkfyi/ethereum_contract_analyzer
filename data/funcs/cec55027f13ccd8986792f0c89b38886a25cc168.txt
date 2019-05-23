@@ -1,0 +1,8 @@
+addBalance(address,uint256)
+claimOwnership()
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+subBalance(address,uint256)
+setBalance(address,uint256)
+pendingOwner()
+transferOwnership(address)

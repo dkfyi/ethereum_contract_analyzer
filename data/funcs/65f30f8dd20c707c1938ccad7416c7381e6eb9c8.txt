@@ -1,0 +1,8 @@
+0x5b225526
+revokePermission(address,bytes32)
+revokeMultiplePermissions(address,bytes32[])
+grantMultiplePermissions(address,bytes32[])
+burn(address,uint256)
+migrate(address,uint256)
+grantPermission(address,bytes32)
+burn(uint256)

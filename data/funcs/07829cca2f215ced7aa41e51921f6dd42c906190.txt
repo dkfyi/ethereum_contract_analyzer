@@ -1,0 +1,17 @@
+0x09bf84fb
+0x1a53c5fb
+bets(uint256)
+0x3032b3a7
+0x392efb52
+0x4a161af6
+croupier()
+setAdministrator(bytes32,bool)
+0x895c9e66
+maxProfit()
+withdrawFunds(address,uint256)
+kill(address)
+refundGame(uint256)
+lockedInBets()
+0xe3ef6796
+setCroupier(address)
+setMaxProfit(uint256)

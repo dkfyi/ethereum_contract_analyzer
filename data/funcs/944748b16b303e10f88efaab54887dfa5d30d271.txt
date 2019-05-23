@@ -1,0 +1,13 @@
+0x04288dba
+setBeneficiary(address)
+beneficiary()
+withdraw()
+kill()
+claimOwnership()
+ideal_warn_timed(uint256,uint128)
+isClosed()
+raisedAmount()
+emergencyWithdraw()
+pendingOwner()
+transferOwnership(address)
+min()

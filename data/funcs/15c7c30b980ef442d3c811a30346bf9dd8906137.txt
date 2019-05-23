@@ -1,0 +1,8 @@
+setAuthorized(address)
+investmentRefunded(address)
+newInvestment(address,uint256)
+getInvestedAmount(address)
+0x2ccc8727
+0x6f7bc9be
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)

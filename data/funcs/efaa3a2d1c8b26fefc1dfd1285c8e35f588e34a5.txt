@@ -1,0 +1,13 @@
+0x12cccf8e
+0x34f1d29b
+withdraw()
+kill()
+0xf4f3b200
+getAmount(bytes32)
+0xabb60c80
+getNumTicks()
+publicFillOrder(bytes32,uint256,bytes32)
+0xabb60c80
+publicFillOrder(bytes32,uint256,bytes32)
+many_msg_babbage(bytes1)
+balanceOf(address)

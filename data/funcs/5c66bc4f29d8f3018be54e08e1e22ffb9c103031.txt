@@ -1,0 +1,14 @@
+0x06bc520e
+0x236d50b2
+0x2c3bac10
+0x34e25da8
+renounceOwnership()
+transferAdmin(address)
+0x8bdcf453
+ideal_warn_timed(uint256,uint128)
+0x93dc0f19
+0xaa65e817
+0xb87aa796
+getTotalRuns()
+transferOwnership(address)
+admin()

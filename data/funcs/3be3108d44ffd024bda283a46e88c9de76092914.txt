@@ -1,0 +1,12 @@
+withdrawDividends()
+0x465ad773
+sellTokens()
+buyTokens()
+getBalance(address)
+extractFund(uint256)
+withdraw()
+many_msg_babbage(bytes1)
+sell(uint256)
+buy(address)
+balanceOf(address)
+0x63657373

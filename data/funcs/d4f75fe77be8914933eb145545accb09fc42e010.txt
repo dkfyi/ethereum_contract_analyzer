@@ -1,0 +1,9 @@
+0x119241cb
+campaigns(uint256)
+getCampaign(uint256)
+0x75970193
+0x7e6253da
+0x980f2e66
+signalToken()
+0xf207eefe
+gasprice_bit_ether(int128)

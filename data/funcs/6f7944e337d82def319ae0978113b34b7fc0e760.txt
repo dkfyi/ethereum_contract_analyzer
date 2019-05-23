@@ -1,0 +1,9 @@
+getName()
+0x2ebabd89
+getPost(uint256)
+0x41f3004a
+0x48351529
+0x756f7730
+setName(string)
+0xfa165e8f
+0xfb7e06d8

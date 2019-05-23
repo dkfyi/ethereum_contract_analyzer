@@ -1,0 +1,17 @@
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+withdraw(uint256)
+0x4145bfe4
+0x474fe211
+tokens(address,address)
+0x5d49c863
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+deposit()
+testTrade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256,address)
+balanceOf(address,address)
+withdrawToken(address,uint256)
+approve(address,uint256)
+quickConvert(address[],uint256,uint256)
+deposit()
+balanceOf(address,address)
+withdrawToken(address,uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)

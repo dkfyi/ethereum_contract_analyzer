@@ -1,0 +1,3 @@
+changeLink(bytes,address)
+setLink(bytes)
+getOwner(bytes)

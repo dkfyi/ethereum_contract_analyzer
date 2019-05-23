@@ -1,0 +1,13 @@
+0x25386183
+setMinimum(uint256)
+0x3c2474ca
+ideal_warn_timed(uint256,uint128)
+setController(address)
+maxValue()
+minValue()
+0xa31f831f
+setLimits(uint256,uint256)
+transferOwnership(address)
+controller()
+0xfc954144
+0xa31f831f

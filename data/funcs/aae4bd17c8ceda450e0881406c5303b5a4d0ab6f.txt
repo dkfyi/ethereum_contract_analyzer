@@ -1,0 +1,10 @@
+0x3ffa884c
+masterTokenBalanceHolder()
+getApprovedTokenCount()
+0x647dfbed
+ideal_warn_timed(uint256,uint128)
+0xd9667b98
+transferOwnership(address)
+token()
+allowance(address,address)
+gasprice_bit_ether(int128)

@@ -1,0 +1,2 @@
+issues(uint256)
+addIssue(string)

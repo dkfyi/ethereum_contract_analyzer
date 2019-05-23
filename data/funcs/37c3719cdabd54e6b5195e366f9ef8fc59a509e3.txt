@@ -1,0 +1,6 @@
+lookup(address,bytes32)
+revokeAndPublish(address,bytes32,bytes32,address)
+publish(address,bytes32,bytes32)
+0xd4d2e7f2
+getClaim(address,address,bytes32)
+setClaim(address,bytes32,bytes32)

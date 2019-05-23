@@ -1,0 +1,7 @@
+getPermissions(address)
+removeAdmin(address)
+addManager(address)
+getContract(string)
+setContract(string,address)
+addAdmin(address)
+removeManager(address)

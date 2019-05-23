@@ -1,0 +1,4 @@
+add(string,uint256,uint256,uint256)
+kill()
+flush()
+contentCount()

@@ -1,0 +1,9 @@
+makeupLegendary(uint256)
+makeupShiny(uint256)
+0xc0e2ed67
+shiny()
+legendary()
+0xff3d7fcf
+0x8392fe31
+mint(address,uint256)
+0x8392fe31

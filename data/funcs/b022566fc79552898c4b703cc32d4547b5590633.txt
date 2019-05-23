@@ -1,0 +1,16 @@
+_setBugFixVersion(string,uint32,bytes32,uint32)
+_setDepositAccount(address)
+_setLagParams(string,uint16,uint8)
+submit(string,uint64,uint32,uint32,bytes32)
+getPlayerSubmissionFromCompetition(string,uint8,address)
+increaseJackpot(string)
+_setOrganiser(address)
+start(string,uint64,uint8,uint32)
+_startNextCompetition(string,uint32,uint88,uint8,uint8,uint16,uint64,uint32,bytes32,uint32[])
+getSeedAndState(string,address)
+getCompetitionValues(string,uint8)
+getPlayersFromCompetition(string,uint8)
+getCurrentCompetitionValues(string)
+_rewardWinners(string,uint8,address[])
+0xffff0000
+0xffff0000

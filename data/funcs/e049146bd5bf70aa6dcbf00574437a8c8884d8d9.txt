@@ -1,0 +1,15 @@
+name()
+totalSupply()
+0x2fc2dfbb
+available_assert_time(uint16,uint64)
+0x43e2984e
+minBalanceForAccounts()
+version()
+balanceOf(address)
+mintToken(address,uint256)
+burnFrom(address,uint256)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+setMinBalance(uint256)
+transferOwnership(address)

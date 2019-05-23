@@ -1,0 +1,6 @@
+0x09e2d1a6
+0x2f96dee6
+0x3a722d0d
+kill()
+getInfo()
+getPrizePool()

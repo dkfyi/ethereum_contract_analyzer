@@ -1,0 +1,13 @@
+0x57232422
+0x57232422
+0x8838583a
+amountEthRaised()
+0xf2aa8218
+tokenPriceWei()
+0x0f8b270f
+0x14c26303
+0x53b71eb7
+approve(address,uint256)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)
+balanceOf(address)

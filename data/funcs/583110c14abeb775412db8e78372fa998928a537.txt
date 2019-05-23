@@ -1,0 +1,9 @@
+owners(address)
+addressStorage(bytes32)
+0x0abde58e
+removeOwner(address)
+0x6e57d15b
+addOwner(address)
+0x9a5e4eb4
+ownersCount()
+deleteEntry(bytes32)

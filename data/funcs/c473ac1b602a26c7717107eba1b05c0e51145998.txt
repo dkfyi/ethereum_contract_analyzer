@@ -1,0 +1,15 @@
+getUserMoney(address)
+setOwner(address)
+getGameStats()
+0x21846771
+0x33bd98a4
+withdrawUserPrize()
+buildLeft(address,uint256)
+0x8c778462
+0xaefe89b2
+buildRight(address,uint256)
+daCall()
+getBlockBuildFee(uint256)
+0xec20e3bd
+doCallNumber()
+gameLength()

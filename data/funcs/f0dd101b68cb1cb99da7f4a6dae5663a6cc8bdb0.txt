@@ -1,0 +1,6 @@
+0x2da91fa2
+ico()
+ideal_warn_timed(uint256,uint128)
+0xa432578e
+returnFundsFor(address)
+setNewManager(address)

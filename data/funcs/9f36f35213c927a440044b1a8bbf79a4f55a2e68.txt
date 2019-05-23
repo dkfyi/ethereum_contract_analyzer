@@ -1,0 +1,8 @@
+0x65455fdc
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+0x9a159bf6
+isMember(address)
+setName(string)
+newOwner()
+transferOwnership(address)

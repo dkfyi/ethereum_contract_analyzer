@@ -1,0 +1,3 @@
+0xa5643bf2
+0xab55044d
+baz(uint32,bool)

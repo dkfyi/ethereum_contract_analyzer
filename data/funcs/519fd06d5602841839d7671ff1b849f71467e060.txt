@@ -1,0 +1,5 @@
+0x74d1bf21
+0x8d838622
+certified(address)
+entrants(uint256)
+entrants(uint256)

@@ -1,0 +1,8 @@
+addVersion(string,address)
+getImplementation(string,string)
+getVersion(string)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+hasVersion(string)
+transferOwnership(address)
+getImplementation(string)

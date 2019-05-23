@@ -1,0 +1,11 @@
+toAddress()
+0x63d1302c
+setTo(address)
+setFrom(address)
+0xf25b0b17
+ownerOf(uint32)
+getRabbitDNK(uint32)
+getBunny(uint32)
+0x7dfb56c6
+getBunny(uint32)
+0x73d0df20

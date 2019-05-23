@@ -1,0 +1,9 @@
+0x41ed24a2
+multiTransferEth(address[],uint256[])
+withdrawToken(address)
+ideal_warn_timed(uint256,uint128)
+withdrawEth()
+transferOwnership(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

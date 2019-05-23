@@ -1,0 +1,5 @@
+kill()
+Random()
+0xb6ee3b86
+0xd8f64b22
+0xdc9d2907

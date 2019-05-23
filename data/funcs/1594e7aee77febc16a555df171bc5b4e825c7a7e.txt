@@ -1,0 +1,13 @@
+0x141382ae
+0x2708d8fb
+0x317c5a4a
+0x6b99e98b
+destroy()
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+0xab154a54
+0xc24cebf0
+0xcaf39fea
+0xd0100285
+0xe7dff327
+0xe87cd878

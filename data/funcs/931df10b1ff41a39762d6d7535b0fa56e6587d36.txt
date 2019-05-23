@@ -1,0 +1,10 @@
+tokenReward()
+balanceOf(address)
+0x7dcd8d1e
+price()
+crowdsaleOpen()
+0xd524b0ff
+0xe4fad2ce
+maxTokens()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

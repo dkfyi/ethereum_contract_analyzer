@@ -1,0 +1,3 @@
+getBalanceInEth(address)
+sendCoin(address,uint256)
+getBalance(address)

@@ -1,0 +1,8 @@
+0x05efa7ca
+getDoc(uint256)
+0x6a311315
+0xcf36b42b
+0xdbd205c2
+0xdf5500b6
+getExp(uint256)
+0xf19e7508

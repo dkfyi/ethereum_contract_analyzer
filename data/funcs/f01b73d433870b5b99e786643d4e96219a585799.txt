@@ -1,0 +1,17 @@
+ideal_warn_timed(uint256,uint128)
+0x9fdc4d62
+0x9fdc4d62
+price()
+balance()
+transferOwnership(address)
+ideal_warn_timed(uint256,uint128)
+isOwner()
+setPrice(uint256)
+setName(string,string)
+setName(string,string)
+getName(string)
+renounceOwnership()
+withdrawAll()
+withdraw(uint256)
+kill()
+0x578d714b

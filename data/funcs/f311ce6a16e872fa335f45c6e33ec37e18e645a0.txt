@@ -1,0 +1,4 @@
+getFact(bytes16)
+signFact(bytes16)
+postFact(bytes16,address,string)
+isSigned(bytes16,address)

@@ -1,0 +1,17 @@
+setMinimum(uint256)
+beyond()
+kill()
+isOpen()
+minimum()
+tokenContract()
+0x833b71e2
+ideal_warn_timed(uint256,uint128)
+giveFor(address)
+0xd24f8cdd
+0xd269857d
+0xd3abfc06
+0xdbb350f6
+endPreSale()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+balanceOf(address)

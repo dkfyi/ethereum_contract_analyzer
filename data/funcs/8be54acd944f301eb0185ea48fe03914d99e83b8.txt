@@ -1,0 +1,7 @@
+Try(string)
+NewQuestion(string,bytes32)
+question()
+0x59988dce
+minBet()
+0x9995aafd
+StopGame()

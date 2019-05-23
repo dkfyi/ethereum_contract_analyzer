@@ -1,0 +1,5 @@
+registerAsSlaven(string)
+withdraw()
+ideal_warn_timed(uint256,uint128)
+slavenAdress()
+deposit()

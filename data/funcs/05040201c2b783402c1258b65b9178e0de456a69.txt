@@ -1,0 +1,11 @@
+0x1f5ddb4f
+0x663b3e22
+0x7843bb79
+ideal_warn_timed(uint256,uint128)
+0xce5f7317
+0x019c08f5
+0x14390cc1
+issuer()
+0x4bd834c7
+productId()
+0x8fa88d78

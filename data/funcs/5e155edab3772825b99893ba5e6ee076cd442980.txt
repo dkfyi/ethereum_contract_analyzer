@@ -1,0 +1,15 @@
+keys(uint256)
+0x0f79a4ab
+kill()
+getOwner(uint32)
+getRecordAtIndex(uint256)
+0x86fd3068
+ideal_warn_timed(uint256,uint128)
+0x91890e42
+0xa4e208bc
+numRecords()
+creationTime()
+0xe978222a
+withdraw(address,uint256)
+0xf4e9fb56
+0xfe9e68d4

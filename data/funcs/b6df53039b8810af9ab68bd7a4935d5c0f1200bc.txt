@@ -1,0 +1,6 @@
+balanceOf(address)
+0x9e72d52e
+topUp()
+getAddress()
+getPrice(string)
+query(uint256,string,string)

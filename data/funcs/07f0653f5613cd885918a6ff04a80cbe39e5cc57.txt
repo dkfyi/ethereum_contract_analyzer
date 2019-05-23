@@ -1,0 +1,3 @@
+0x80cd180d
+0x9f3af7b2
+checkReward(address)

@@ -1,0 +1,8 @@
+getUserValues(address)
+agendaOf(address)
+usernameOf(address)
+ownerOf(string)
+unset()
+set(string,string)
+setUsername(string)
+setAgenda(string)

@@ -1,0 +1,6 @@
+highestPrice()
+totalSold()
+minAmount()
+0xdc4a7765
+0xefc85770
+0xfa033f0d

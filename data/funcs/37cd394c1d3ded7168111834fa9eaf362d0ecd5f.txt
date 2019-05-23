@@ -1,0 +1,17 @@
+name()
+0x0f96cf34
+totalSupply()
+available_assert_time(uint16,uint64)
+lockedCounts()
+unpause()
+paused()
+unlock(uint256)
+balanceOf(address)
+0x71501b23
+pause()
+ideal_warn_timed(uint256,uint128)
+setAddressArr(address[])
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+0xd23e92ba
+transferOwnership(address)

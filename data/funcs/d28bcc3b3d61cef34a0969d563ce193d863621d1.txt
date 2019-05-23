@@ -1,0 +1,8 @@
+0x18538312
+0x365e0c32
+0x690f5a43
+0x6dd2579b
+0x6eaadc49
+0xb9a298c6
+isCurrentAdmin(address)
+isCurrentAdmin(address)

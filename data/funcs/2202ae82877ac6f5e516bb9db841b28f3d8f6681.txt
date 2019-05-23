@@ -1,0 +1,16 @@
+removeOwner(address)
+0x2e7a0107
+isOwner(address)
+m_numOwners()
+0x553500b4
+addOwner(address)
+m_required()
+confirm(bytes32)
+revoke(bytes32)
+changeRequirement(uint256)
+hasConfirmed(bytes32,address)
+getOwner(uint256)
+kill(address)
+0xd27e87be
+changeOwner(address,address)
+many_msg_babbage(bytes1)

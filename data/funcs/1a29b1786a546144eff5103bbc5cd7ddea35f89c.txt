@@ -1,0 +1,6 @@
+0x1db23cf5
+repossess()
+collateralAmount()
+lender()
+token()
+many_msg_babbage(bytes1)

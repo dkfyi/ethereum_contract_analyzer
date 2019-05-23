@@ -1,0 +1,4 @@
+0x61550f45
+0xa6eedf13
+sealedBids(address,bytes32)
+cancelBid(address,bytes32)

@@ -1,0 +1,9 @@
+frozen()
+0x06419fe5
+0x30b7be29
+freeze()
+getImplementation(string)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+transferOwnership(address)

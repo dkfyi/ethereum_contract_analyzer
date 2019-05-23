@@ -1,0 +1,6 @@
+getBalance()
+withdraw(uint256)
+flipCoin()
+playSlot()
+random(uint256,uint8)
+random(uint256,uint8)

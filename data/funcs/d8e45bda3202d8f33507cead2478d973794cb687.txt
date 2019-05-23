@@ -1,0 +1,16 @@
+__callback(bytes32,string)
+kill()
+ethusd()
+ideal_warn_timed(uint256,uint128)
+enter()
+contractAddress()
+0xfdee8711
+getAddress()
+getAddress()
+cbAddress()
+getAddress()
+getAddress()
+getPrice(string)
+0x05f5e0d0
+0x3b9ac9d0
+query(uint256,string,string)

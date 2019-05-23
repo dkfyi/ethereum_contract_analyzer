@@ -1,0 +1,3 @@
+withdraw(string)
+unlock()
+lock()

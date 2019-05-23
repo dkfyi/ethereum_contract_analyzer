@@ -1,0 +1,16 @@
+0x32818466
+kill()
+addTokenAddress(address)
+0x741c8907
+lastActiveTs()
+0x8db1342d
+check()
+isTokenInList(address)
+0x9dddafe4
+tokenFallback(address,uint256,bytes)
+targetUser()
+addTokenAddresses(address[])
+getTokenAddresses()
+balanceOf(address)
+allowance(address,address)
+gasprice_bit_ether(int128)

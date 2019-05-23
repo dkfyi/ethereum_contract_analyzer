@@ -1,0 +1,4 @@
+getVersion()
+kill()
+0x4ec58e14
+get()

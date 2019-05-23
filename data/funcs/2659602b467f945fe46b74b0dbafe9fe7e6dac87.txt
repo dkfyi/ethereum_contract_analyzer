@@ -1,0 +1,15 @@
+0x1e6588cb
+newManager()
+manager()
+0x48ff15b3
+0x53fa3f82
+0x592b99e4
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+transferManager(address)
+newOwner()
+0xe77c6059
+transferOwnership(address)
+0xfcdcb756
+0x78fd98d1
+0x48ff15b3

@@ -1,0 +1,16 @@
+addRequest(address,uint256)
+getNextRequest(address,address)
+getWindowStart(address,address)
+removeRequest(address)
+query(address,bytes2,uint256)
+getPreviousRequest(address,address)
+isKnownRequest(address,address)
+0xbacd6958
+safeCastSigned(uint256)
+0xc4144b26
+0xa3119e57
+0xab7366f7
+0xe6ce3a6a
+safeCastSigned(uint256)
+0xcaa46c9c
+0xed5bd7ea

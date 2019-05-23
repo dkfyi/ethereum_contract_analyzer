@@ -1,0 +1,8 @@
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+0x4ee5c2ee
+0xbee666d8
+getAddress()
+getAddress()
+getPrice(string,uint256)
+query_withGasLimit(uint256,string,string,uint256)

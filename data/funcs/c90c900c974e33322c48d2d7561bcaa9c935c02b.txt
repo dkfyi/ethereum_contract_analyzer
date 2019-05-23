@@ -1,0 +1,2 @@
+getTokenPrice()
+getReturn(address,address,uint256)

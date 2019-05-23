@@ -1,0 +1,5 @@
+getFinalval()
+getInitialval()
+kill()
+getUint80val()
+0xd0b3f5c8

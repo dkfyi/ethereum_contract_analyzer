@@ -1,0 +1,7 @@
+restoreOwner()
+addStudent(string,string,string,bytes32)
+0x8c0105bb
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)
+removeStudent(string)
+getHashDigest(string)

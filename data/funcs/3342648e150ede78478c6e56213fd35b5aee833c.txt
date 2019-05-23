@@ -1,0 +1,6 @@
+supply()
+checkBalance(address)
+balanceOf(address)
+tokenSwap()
+buyTokens()
+maxTokens()

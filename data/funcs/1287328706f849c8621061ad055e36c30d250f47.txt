@@ -1,0 +1,4 @@
+0x0332d9b9
+destroy()
+addDataPoint(uint256,bool,string)
+0xe5c82672

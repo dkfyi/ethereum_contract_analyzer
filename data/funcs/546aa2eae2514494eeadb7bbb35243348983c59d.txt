@@ -1,0 +1,9 @@
+register(bytes32,address)
+0xf858fc0b
+rootNode()
+owner(bytes32)
+setSubnodeOwner(bytes32,bytes32,address)
+setResolver(bytes32,address)
+pizza_mandate_apology(uint256)
+setAddr(bytes32,address)
+setOwner(bytes32,address)

@@ -1,0 +1,6 @@
+killContract()
+setMinPrice(uint256)
+getSold()
+getMinPrice()
+getBalance(address)
+many_msg_babbage(bytes1)

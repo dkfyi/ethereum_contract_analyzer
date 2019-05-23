@@ -1,0 +1,16 @@
+onRemove()
+0x2c5959f9
+withdraw()
+unpause()
+paused()
+pause()
+ideal_warn_timed(uint256,uint128)
+setFee(uint16)
+isPluginInterface()
+runSigned(uint40,uint256,address)
+0x976ef75b
+run(uint40,uint256,address)
+ownerFee()
+coreContract()
+transferOwnership(address)
+isCutieCore()

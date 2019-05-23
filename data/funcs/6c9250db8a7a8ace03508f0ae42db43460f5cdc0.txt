@@ -1,0 +1,13 @@
+0x02e4af01
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+getBalanceInEth(address)
+sendCoin(address,uint256)
+addCoin(uint256)
+getRandom()
+randomNumber()
+getBalance(address)
+convert(uint256,uint256)
+getAddress()
+getPrice(string)
+query2(uint256,string,string,string)

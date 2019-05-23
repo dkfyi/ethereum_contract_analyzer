@@ -1,0 +1,4 @@
+rate()
+setRate(uint256)
+ideal_warn_timed(uint256,uint128)
+0xc8f33c91

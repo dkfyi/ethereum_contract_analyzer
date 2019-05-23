@@ -1,0 +1,10 @@
+0x074540da
+checkRole(address,string)
+removeBouncer(address)
+hasRole(address,string)
+renounceOwnership()
+addBouncer(address)
+ideal_warn_timed(uint256,uint128)
+ROLE_BOUNCER()
+transferOwnership(address)
+withdraw(address,address,uint256)

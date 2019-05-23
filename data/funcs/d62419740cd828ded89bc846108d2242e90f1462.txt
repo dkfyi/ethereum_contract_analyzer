@@ -1,0 +1,12 @@
+name()
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+Token(address)
+available_assert_time(uint16,uint64)
+balanceOf(address)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+SetupToken(string,string,uint256)
+allowance(address,address)
+0x029020c0

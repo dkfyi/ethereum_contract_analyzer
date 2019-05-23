@@ -1,0 +1,7 @@
+__callback(bytes32,string)
+oraclize_query(string,string)
+getAddress()
+cbAddress()
+getAddress()
+query(uint256,string,string)
+getPrice(string)

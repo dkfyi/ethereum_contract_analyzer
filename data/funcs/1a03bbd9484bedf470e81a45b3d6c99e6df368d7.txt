@@ -1,0 +1,8 @@
+setRate(uint256)
+withdraw()
+CurrentRate()
+TokenLinked()
+transferAnyERC20Token(address,uint256)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

@@ -1,0 +1,7 @@
+withdraw(uint256)
+setMinBlockPurchase(uint256)
+expirations(address)
+weiPerBlock()
+setWeiPerBlock(uint256)
+minBlockPurchase()
+blocksForWei(uint256)

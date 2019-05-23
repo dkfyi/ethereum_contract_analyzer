@@ -1,0 +1,17 @@
+ln(uint256,uint256,uint8)
+ceilLog2(uint256,uint256)
+fixedExp(uint256,uint8)
+fixedLog2(uint256,uint8)
+calculateBestPrecision(uint256,uint256,uint256,uint256)
+fixedLoge(uint256,uint8)
+floorLog2(uint256)
+version()
+lnUpperBound(uint256,uint256)
+calculatePurchaseReturn(uint256,uint256,uint8,uint256)
+power(uint256,uint256,uint256,uint256,uint8)
+calculateSaleReturn(uint256,uint256,uint8,uint256)
+fixedExpUnsafe(uint256,uint8)
+0x80000000
+0xb17217f8
+0x39b78e80
+0x01fd8080

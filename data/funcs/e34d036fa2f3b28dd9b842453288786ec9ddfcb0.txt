@@ -1,0 +1,9 @@
+0x0e07ebf5
+games(uint256)
+0x2cf003c2
+withdraw(uint256)
+manager()
+getLastGame()
+getNewGame()
+0xd5be3c7b
+addIn(address)

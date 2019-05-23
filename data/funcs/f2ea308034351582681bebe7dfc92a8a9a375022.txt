@@ -1,0 +1,12 @@
+withdrawFunds()
+wallet()
+ideal_warn_timed(uint256,uint128)
+changeWallet(address)
+0x9bdc727c
+getDeposit(uint256)
+deposits(uint256)
+transferOwnership(address)
+token()
+balanceOf(address)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

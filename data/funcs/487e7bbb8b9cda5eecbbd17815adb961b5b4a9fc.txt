@@ -1,0 +1,16 @@
+reclaimToken(address)
+0x18d10021
+electNewMayor(address)
+0x787b8d47
+issue(address,uint256)
+ideal_warn_timed(uint256,uint128)
+reclaimEther()
+0xcf0e416f
+0xe5a0af37
+0xe5face61
+transferOwnership(address)
+balanceOf(address)
+electNewMayor(address)
+issue(address,uint256)
+issue(address,uint256)
+many_msg_babbage(bytes1)

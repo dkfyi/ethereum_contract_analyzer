@@ -1,0 +1,8 @@
+transferAllToOwner()
+acceptOwnership()
+batchTransfer(address[],uint256)
+batchTransfer(address[],uint256[])
+ideal_warn_timed(uint256,uint128)
+many_msg_babbage(bytes1)
+newOwner()
+transferOwnership(address)

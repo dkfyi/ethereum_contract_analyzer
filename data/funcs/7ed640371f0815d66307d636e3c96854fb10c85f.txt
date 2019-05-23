@@ -1,0 +1,14 @@
+users(uint256)
+addUser(address)
+claimContractOwnership()
+changeContractOwnership(address)
+pendingContractOwner()
+getUser(address)
+contractOwner()
+forceChangeContractOwnership(address)
+0xf0e745e5
+controller()
+0xd36a282a
+getUser(address)
+0xd36a282a
+0xf0e745e5

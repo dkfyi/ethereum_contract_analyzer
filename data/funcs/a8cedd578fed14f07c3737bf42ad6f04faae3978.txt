@@ -1,0 +1,13 @@
+total()
+isWhitelisted(address)
+whitelistAddresses(address[],bool)
+isOperator(address)
+MAX_OPS()
+removeFromWhitelist(address)
+ideal_warn_timed(uint256,uint128)
+addOperator(address)
+removeOperator(address)
+removeAllOps()
+0xe28d4906
+addToWhitelist(address)
+transferOwnership(address)

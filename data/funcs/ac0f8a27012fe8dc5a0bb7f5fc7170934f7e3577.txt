@@ -1,0 +1,2 @@
+orderSubmitted(bytes32)
+submitOrder(bytes)

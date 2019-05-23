@@ -1,0 +1,12 @@
+bet()
+0x16136590
+__callback(bytes32,string)
+__callback(bytes32,string,bytes)
+oraclizeFee()
+0xb11558ee
+0xc270e794
+getAddress()
+getPrice(string,uint256)
+getAddress()
+getPrice(string,uint256)
+query_withGasLimit(uint256,string,string,uint256)

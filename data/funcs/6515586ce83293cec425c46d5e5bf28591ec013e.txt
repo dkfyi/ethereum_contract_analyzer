@@ -1,0 +1,17 @@
+0x18bb329f
+0x19dad680
+setBeneficiary(address)
+beneficiary()
+0x54c03c46
+0x766985d8
+withdrawal(uint256)
+ideal_warn_timed(uint256,uint128)
+0x96799760
+0xc2fb15ac
+0xc8c87d59
+setManager(address)
+transferOwnership(address)
+withdrawalAll()
+managers(address)
+0xf698a095
+0xf698a095

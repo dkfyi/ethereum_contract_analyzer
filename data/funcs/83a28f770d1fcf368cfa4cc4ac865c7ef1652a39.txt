@@ -1,0 +1,10 @@
+setPaused(bool)
+stake(address)
+0x26767f90
+0x80760bda
+totalStake()
+0xaec2ccae
+0xbc4dc022
+0xe781194c
+isManager(address)
+voteFor()

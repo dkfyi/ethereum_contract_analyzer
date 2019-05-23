@@ -1,0 +1,9 @@
+amountOf(address)
+0x18a042ec
+MAX_UINT256()
+withdrawAmount()
+ideal_warn_timed(uint256,uint128)
+totalFunds()
+addFunds()
+0xb4cb741a
+0xd2fafb19

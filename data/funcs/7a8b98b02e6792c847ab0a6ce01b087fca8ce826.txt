@@ -1,0 +1,14 @@
+name()
+approveMember(address)
+rate()
+members(uint256)
+tasks(uint256)
+0x9490a015
+getMemberCount()
+0x9fa29fc0
+addMember(address,string)
+0xc17a340e
+0xdbc84c59
+0xe9cdc38a
+0xf7a4e0df
+0xffd725e6

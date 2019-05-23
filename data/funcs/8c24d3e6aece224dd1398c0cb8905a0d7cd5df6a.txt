@@ -1,0 +1,12 @@
+viewCoinsKarmaBySymbol(string)
+viewKarmaVotesBySymbol(string,address)
+viewKarmaVotes(uint256)
+0x74530e8d
+withdrawFromContract(address,uint256)
+ideal_warn_timed(uint256,uint128)
+viewCoinsKarma(uint256)
+0xbbef1bd0
+alterGiveKarmaFee(uint256)
+giveKarma(uint256,string,string)
+viewGiveKarmaFee()
+transferOwnership(address)

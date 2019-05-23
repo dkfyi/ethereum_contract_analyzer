@@ -1,0 +1,11 @@
+0x03787ce5
+assignReferral(address,address)
+setOwner(address)
+getAffiliateCount()
+getReferrals(address)
+admins(address)
+setAdmin(address,bool)
+0x4f51e294
+ideal_warn_timed(uint256,uint128)
+getAffiliate(address)
+referrals(address,uint256)

@@ -1,0 +1,15 @@
+name()
+totalSupply()
+0x295a5432
+available_assert_time(uint16,uint64)
+0x5addd0a1
+balanceOf(address)
+getOwner()
+sendCoin(address,uint256)
+link_classic_internal(uint64,int64)
+coinOwner()
+many_msg_babbage(bytes1)
+0xb8d4248b
+getUsername(address)
+transferOwnership(address)
+getBalance(address)

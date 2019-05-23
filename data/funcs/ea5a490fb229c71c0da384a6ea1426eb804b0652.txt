@@ -1,0 +1,13 @@
+version()
+acceptOwnership()
+0x7ee005ab
+0x8085b2fa
+ideal_warn_timed(uint256,uint128)
+setInfo(string,string)
+newOwner()
+transferAnyERC20Token(address,uint256)
+transferOwnership(address)
+getString(bytes32)
+getBool(bytes32)
+setString(bytes32,string)
+many_msg_babbage(bytes1)

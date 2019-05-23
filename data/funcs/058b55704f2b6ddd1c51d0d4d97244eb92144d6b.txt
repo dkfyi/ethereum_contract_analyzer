@@ -1,0 +1,7 @@
+setSendGodz(uint256)
+accountsHolding(uint256)
+indexAccount()
+SaveAccountBuyingGodz(address,uint256)
+ideal_warn_timed(uint256,uint128)
+swapContract()
+getAccountInformation(uint256)

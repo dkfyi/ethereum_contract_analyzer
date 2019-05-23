@@ -1,0 +1,4 @@
+getProof(string,string,string)
+setOracle(address)
+oraclize(bytes32,bytes,bytes,bytes,string,bytes,bytes,uint256,bytes)
+0xeb84e7f2

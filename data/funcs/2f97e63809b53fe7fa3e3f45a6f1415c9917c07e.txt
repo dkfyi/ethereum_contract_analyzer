@@ -1,0 +1,2 @@
+get_s()
+set_s(string)

@@ -1,0 +1,6 @@
+0x5ffa4bce
+changeOwner(address)
+claim(bytes32)
+balanceOf(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

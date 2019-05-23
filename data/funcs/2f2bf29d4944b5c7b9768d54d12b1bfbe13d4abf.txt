@@ -1,0 +1,2 @@
+ownerOf(uint256)
+getMonsterObj(uint64)

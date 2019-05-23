@@ -1,0 +1,6 @@
+0x3e59148f
+getOwner()
+0x9c868e67
+getTimestamp(bytes32)
+0xd977ebd2
+0xe55c121b

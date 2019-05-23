@@ -1,0 +1,12 @@
+cancelApprove(bytes32)
+0x12cab545
+0x323a1a5c
+setBOPSAddress(address)
+0x4d9cdf98
+ideal_warn_timed(uint256,uint128)
+cancelTransfer(bytes32)
+releaseTransfer(bytes32,uint8,bytes32,bytes32)
+transferOwnership(address)
+releaseApprove(bytes32,uint8,bytes32,bytes32)
+0x52ec8529
+many_msg_babbage(bytes1)

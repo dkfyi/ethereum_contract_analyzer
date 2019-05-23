@@ -1,0 +1,17 @@
+started()
+0x2db78d93
+withdrawTokens(uint256)
+weiRaised()
+0x42e94c90
+wallet()
+addressOfTokenUsedAsReward()
+setPrice(uint256)
+getList()
+changeWallet(address)
+price()
+0xcc616028
+buyTokens(address)
+0xedf26d9b
+lastIndex()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

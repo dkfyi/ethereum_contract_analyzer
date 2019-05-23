@@ -1,0 +1,8 @@
+addReferral(address,address)
+dao()
+0xae3f9c27
+getPartner(address)
+0xd6300201
+0xe5782278
+0x9a9ad4aa
+0x9a9ad4aa

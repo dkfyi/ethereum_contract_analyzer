@@ -1,0 +1,14 @@
+0x8195ed24
+0x8195ed24
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0xb075bfb4
+releaseToken(address)
+transferOwnership(address)
+0x0e77e5e3
+setTokenAddress(address)
+setVesting(address,uint256,uint256,uint256,uint256)
+renounceOwnership()
+revoke(address)
+0x7e851e13
+many_msg_babbage(bytes1)

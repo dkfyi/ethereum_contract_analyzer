@@ -1,0 +1,13 @@
+0x5f78e700
+createMarket(address,address,uint24)
+getOutcomeCount()
+creator()
+marketMaker()
+createdAtBlock()
+netOutcomeTokensSold(uint256)
+masterCopy()
+stage()
+funding()
+fee()
+eventContract()
+FEE_RANGE()

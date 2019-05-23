@@ -1,0 +1,9 @@
+allowAddress(address)
+setupAmbi2(address)
+0xac2ac064
+isRestricted(address)
+blacklist(address)
+hasRole(address,bytes32,address)
+claimFor(address,address)
+isOwner(address,address)
+hasRole(address,bytes32,address)

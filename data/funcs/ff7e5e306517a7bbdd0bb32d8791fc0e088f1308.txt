@@ -1,0 +1,3 @@
+0x0af6e01a
+addAllowedToken(address)
+contractOwner()

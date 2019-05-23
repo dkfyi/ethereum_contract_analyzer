@@ -1,0 +1,11 @@
+withdrawAll()
+changeAdmin(address)
+0xd0d0167d
+deposit()
+0xde7d4327
+0xe2eca592
+admin()
+deposit()
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+withdraw(uint256)
+deposit()

@@ -1,0 +1,17 @@
+0x05a8749d
+name()
+totalSupply()
+0x1e1e3e0f
+getStat()
+available_assert_time(uint16,uint64)
+balanceOf(address)
+team()
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+withdrawTeamFunds()
+0xa77078e7
+many_msg_babbage(bytes1)
+0xafe8abbf
+0xe5ce8200
+0xf00f9b4d
+0x5dfe3370

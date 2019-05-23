@@ -1,0 +1,17 @@
+fallback()
+setExpirationTime(uint256)
+setExpirationTime(uint256)
+delegate()
+setDelegate(address)
+rates(bytes32)
+fallback()
+url()
+ideal_warn_timed(uint256,uint128)
+0x0f58119d
+setOwner(address)
+setUrl(string)
+setFallback(address)
+getRate(bytes32,bytes)
+expiration()
+0x1d71357d
+getRate(bytes32,bytes)

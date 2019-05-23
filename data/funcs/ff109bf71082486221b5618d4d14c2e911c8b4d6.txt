@@ -1,0 +1,7 @@
+0x04fc5100
+0x3a92700e
+0x6e9410b6
+challengeNumber()
+miningTarget()
+miningTarget()
+mint(uint256,bytes32)

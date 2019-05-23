@@ -1,0 +1,4 @@
+getState()
+getCounter()
+iterate(string)
+getHash()

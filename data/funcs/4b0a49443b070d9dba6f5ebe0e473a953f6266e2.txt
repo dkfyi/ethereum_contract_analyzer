@@ -1,0 +1,5 @@
+0x310bd74b
+0x61dff1f3
+jackpot()
+0x8765d1c6
+denominator()

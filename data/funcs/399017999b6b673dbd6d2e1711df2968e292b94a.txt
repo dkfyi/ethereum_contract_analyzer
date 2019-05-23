@@ -1,0 +1,8 @@
+getAddress()
+setPongAddress(address)
+getPongvalRemote()
+getPongvalConstant()
+kill()
+getPongAddress()
+getPongvalTransactional()
+getPongvalTransactional()

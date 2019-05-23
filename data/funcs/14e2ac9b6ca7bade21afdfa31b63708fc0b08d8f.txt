@@ -1,0 +1,7 @@
+numberOfPreviousEntries()
+seed()
+ideal_warn_timed(uint256,uint128)
+previousEntries(uint256)
+timeLimit()
+lastKing()
+currentKing()

@@ -1,0 +1,10 @@
+removeAdmin(address)
+0x3f565f52
+0x560b5c7c
+0x5d657b83
+0x6c9cd097
+0x7026fe9c
+addAdmin(address)
+0xa876a56c
+ROLE_ADMIN()
+0xfe6fdc7e

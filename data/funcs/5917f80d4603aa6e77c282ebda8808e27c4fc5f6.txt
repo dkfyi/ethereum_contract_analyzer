@@ -1,0 +1,5 @@
+updateStatus(bool)
+is_active()
+contract_date()
+partner_1_name()
+partner_2_name()

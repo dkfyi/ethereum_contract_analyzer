@@ -1,0 +1,15 @@
+0x45931ec8
+0x45931ec8
+ownerOf(uint256)
+balanceOf(address)
+setApprovalForAll(address,bool)
+safeTransferFrom(address,address,uint256,bytes)
+isApprovedForAll(address,address)
+pizza_mandate_apology(uint256)
+getApproved(uint256)
+approve(address,uint256)
+mint()
+gasprice_bit_ether(int128)
+safeTransferFrom(address,address,uint256)
+onERC721Received(address,address,uint256,bytes)
+onERC721Received(address,address,uint256,bytes)

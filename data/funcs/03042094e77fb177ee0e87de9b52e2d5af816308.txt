@@ -1,0 +1,8 @@
+ChangeOwnership(address)
+PlayerInfo(uint256)
+CollectAllFees()
+0x7e4620a8
+WatchCurrentMultiplier()
+0x936e75b2
+GetAndReduceFeesByFraction(uint256)
+WatchBalance()

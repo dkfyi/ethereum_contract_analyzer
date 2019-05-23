@@ -1,0 +1,6 @@
+hashes(uint16)
+spin(bytes32)
+last_hash()
+get_hash(uint16)
+round_count()
+controller()

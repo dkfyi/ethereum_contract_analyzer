@@ -1,0 +1,15 @@
+approve(address,uint256)
+gasprice_bit_ether(int128)
+isAdmin(address)
+_decimals()
+increaseAllowance(address,uint256)
+_totalSupply()
+0x5ab212a6
+balanceOf(address)
+setNewAdmin(address)
+0x97d65830
+decreaseAllowance(address,uint256)
+many_msg_babbage(bytes1)
+_symbol()
+_name()
+allowance(address,address)

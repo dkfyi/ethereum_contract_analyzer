@@ -1,0 +1,6 @@
+setOwner(address)
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+authority()
+0xe9b1a792
+0x91413637

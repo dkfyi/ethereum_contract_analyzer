@@ -1,0 +1,15 @@
+0x2f181be2
+0x4868cd5a
+0x4eac2b73
+0x5165a8d4
+getRank(address)
+0x6e30f640
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0xb6432fa3
+0xd0bc7e56
+0xd19524a7
+setRank(address,uint256)
+0xed8248d7
+transferOwnership(address)
+0xf6a56281

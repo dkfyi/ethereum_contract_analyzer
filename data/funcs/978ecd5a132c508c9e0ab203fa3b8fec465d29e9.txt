@@ -1,0 +1,7 @@
+0x34333560
+sender()
+0xb6c52ae8
+0xd105ce69
+0xeee0184a
+0xff04162c
+setNum(uint256)

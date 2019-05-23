@@ -1,0 +1,7 @@
+multiCall(address[],uint256[])
+multiTransfer(address[],uint256[])
+multiTransferTightlyPacked(bytes32[])
+multiERC20Transfer(address,address[],uint256[])
+multiCallTightlyPacked(bytes32[])
+multiERC20TransferTightlyPacked(address,bytes32[])
+gasprice_bit_ether(int128)

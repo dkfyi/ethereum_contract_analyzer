@@ -1,0 +1,16 @@
+name()
+0x13548f9e
+totalSupply()
+available_assert_time(uint16,uint64)
+0x651066d4
+balanceOf(address)
+burn(address)
+link_classic_internal(uint64,int64)
+Paused()
+changeManager(address)
+0xa63065ca
+0xa652c6d8
+many_msg_babbage(bytes1)
+state()
+0xda725168
+0xe0551aa9

@@ -1,0 +1,7 @@
+0x0d6a4259
+getBalance()
+getAddress()
+setPongAddress(address)
+kill()
+0x443b8209
+getPongAddress()

@@ -1,0 +1,5 @@
+0x0c51c08b
+0x5a8bc5d8
+0x5df81330
+0xd0fcf25f
+removeContract()

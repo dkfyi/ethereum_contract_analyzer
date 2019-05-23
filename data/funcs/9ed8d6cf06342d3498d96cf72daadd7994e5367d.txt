@@ -1,0 +1,8 @@
+hypes(uint256)
+ceoAddress()
+seatPrice()
+0x223337f6
+setMessage(string)
+payout()
+purchase()
+getHype(uint256)

@@ -1,0 +1,16 @@
+0x012a5124
+count()
+getNext(uint256)
+getPrev(uint256)
+0x11b245a3
+getFirst()
+exists(string)
+kill()
+getLast()
+0x5aacfc1c
+0x5af3cf0e
+get(string)
+isAvailable()
+0xcba2506b
+0xddc2a251
+setAvailable(bool)

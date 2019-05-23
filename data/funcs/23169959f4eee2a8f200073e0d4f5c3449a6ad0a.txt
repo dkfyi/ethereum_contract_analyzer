@@ -1,0 +1,5 @@
+transfer(address,uint8)
+balances(address)
+cap()
+balanceOf(address)
+0xdce11375

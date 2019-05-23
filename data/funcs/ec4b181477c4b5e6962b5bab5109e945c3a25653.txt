@@ -1,0 +1,17 @@
+name()
+totalSupply()
+unlock(address)
+available_assert_time(uint16,uint64)
+isLocked(address)
+balanceOf(address)
+destroy()
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+many_msg_babbage(bytes1)
+transfer(address,uint256,bytes)
+transferOwnership(address)
+lock(address)
+destroyAndSend(address)
+0x5c6b5377
+0x5c6b5377
+tokenFallback(address,uint256,bytes)

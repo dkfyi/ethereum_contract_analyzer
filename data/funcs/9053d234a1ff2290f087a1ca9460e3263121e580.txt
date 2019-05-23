@@ -1,0 +1,11 @@
+abi()
+version()
+create(address,bytes32,uint256)
+process(bytes32)
+kill()
+taxman()
+ledger()
+delegate(address)
+ideal_warn_timed(uint256,uint128)
+taxPerc()
+0x6f6e7374

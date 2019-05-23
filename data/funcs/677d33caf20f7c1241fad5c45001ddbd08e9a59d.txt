@@ -1,0 +1,4 @@
+set(string)
+ownerOf(string)
+nickOf(address)
+unset()

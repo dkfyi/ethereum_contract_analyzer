@@ -1,0 +1,17 @@
+0x035e898a
+getInvestorInfo(address)
+getBalance()
+0x1d66ff8e
+0x32492f96
+0x3e25fdd4
+0x4fcb9e2f
+runLottery()
+0x5ea63913
+getLotteryBalance()
+0x8aebebd9
+getInvestorCount()
+0xb91fe64b
+0xc03bd292
+payout(uint256)
+0xe5b5a527
+getLastWinner()

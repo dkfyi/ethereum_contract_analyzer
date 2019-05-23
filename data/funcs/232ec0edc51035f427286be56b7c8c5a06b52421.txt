@@ -1,0 +1,9 @@
+compare(string,string)
+kill()
+equal(string,string)
+0x5f59bb40
+counter()
+0x7d8d4ef1
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+resolveAddress(address)

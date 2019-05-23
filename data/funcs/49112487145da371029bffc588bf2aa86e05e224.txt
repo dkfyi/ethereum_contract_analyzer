@@ -1,0 +1,6 @@
+0x3a083b3a
+remove(uint256)
+update(uint256,string,string,string)
+0x68130719
+0xc490dc8b
+read(uint256)

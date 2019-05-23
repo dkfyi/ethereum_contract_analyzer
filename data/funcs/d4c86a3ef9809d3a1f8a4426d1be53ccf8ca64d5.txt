@@ -1,0 +1,15 @@
+0x107504cf
+register()
+0x2fb057e1
+cancel(uint256)
+0x5c59d8d1
+getAvailableBalance(address)
+0xa37516ff
+issue(uint256)
+send(address,uint256)
+0xd076f4b0
+adminTransfer(address,address,uint256)
+admin()
+getBalance(address)
+isAuthorized(address)
+register(bytes32)

@@ -1,0 +1,15 @@
+payoutDate()
+getInvestorDeposit(address)
+getInvestorDatePayout(address)
+payoutSelf(address)
+setPayoutCumulativeInterval(uint256)
+0x6f7bc9be
+lastPaymentDate()
+getDepositAmount()
+ideal_warn_timed(uint256,uint128)
+getInvestorCount()
+getInvestorUnPaidAmount(address)
+getPayoutCumulativeInterval()
+setDatePayout(address,uint256)
+payout(uint256)
+0xedf26d9b

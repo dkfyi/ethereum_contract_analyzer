@@ -1,0 +1,11 @@
+0x1b68adff
+0x544b255a
+ideal_warn_timed(uint256,uint128)
+setPartner(address)
+0xb781e47d
+partner()
+0xc8d1c6cf
+0xe557498b
+0xee12d4f2
+0xee1596e5
+0xfc4fcc5a

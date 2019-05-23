@@ -1,0 +1,12 @@
+0x068593cc
+addReferral(address,address)
+0x3622cc76
+0x39b66128
+0x4357f515
+0xafb26159
+0xb6b6691e
+addGame(address)
+0xe09f4559
+allowed(address)
+allowed(address)
+allowed(address)

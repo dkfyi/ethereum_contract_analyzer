@@ -1,0 +1,16 @@
+getApproved(uint256)
+approve(address,uint256)
+0x12c5a0e0
+totalSupply()
+0x1caaa487
+gasprice_bit_ether(int128)
+0x2f31819c
+exists(uint256)
+tokensOf(address)
+0x5a9abb07
+ownerOf(uint256)
+balanceOf(address)
+0x74e24367
+0xa2d488e0
+0xacdeb5b9
+0xe149f036

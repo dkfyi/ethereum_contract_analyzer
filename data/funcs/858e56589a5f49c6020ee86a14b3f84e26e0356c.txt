@@ -1,0 +1,10 @@
+0x16709c22
+fillWithHashes()
+getImage(uint256,bytes32[],uint256,uint256)
+getFinalSeed(uint256,uint256)
+pickRandomAssetPosition(uint256,uint256,uint256)
+calculateSeed(uint256[],uint256)
+toHex(uint256)
+decodeAssets(bytes32[])
+pickRandomAssets(uint256,bytes32[])
+getRandomHashesLength()

@@ -1,0 +1,15 @@
+0x11376314
+emitTransfer(address,address,uint256)
+emitGenericLog(string,string)
+emitApproval(address,address,uint256)
+acceptOwnership()
+emitIssuance(uint256)
+transferOwnershipNow(address)
+ideal_warn_timed(uint256,uint128)
+0x9eb121b5
+emitDestruction(uint256)
+emitProjectCreated(uint256,uint256,address)
+emitNewSmartToken(address)
+newOwner()
+emitTaskCreated(uint256,uint256)
+transferOwnership(address)

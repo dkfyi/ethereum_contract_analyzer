@@ -1,0 +1,9 @@
+setWinner(uint256)
+euroTeams(uint256)
+sendEarnings(address)
+collectEarnings()
+globalBet()
+collectFee()
+checkEarnings(address)
+betOnATeam(uint256)
+0x290decd9

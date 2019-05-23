@@ -1,0 +1,5 @@
+settle(bytes32,bytes32,uint8,bytes32,bytes32)
+getCommitment(bytes32)
+getMyCommitmentCount()
+makeCommitment(uint256,bytes32,address,address)
+getMyCommitmentHash(uint256)

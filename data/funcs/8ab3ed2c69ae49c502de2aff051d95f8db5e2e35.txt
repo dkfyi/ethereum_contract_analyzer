@@ -1,0 +1,8 @@
+updateStatus(bool)
+is_active()
+changeOwner(address)
+declaration()
+confirmOwner()
+contract_date()
+partner_1_name()
+partner_2_name()

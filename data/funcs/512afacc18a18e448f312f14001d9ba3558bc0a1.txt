@@ -1,0 +1,6 @@
+kill()
+num()
+0x544cf771
+ideal_warn_timed(uint256,uint128)
+0x96da9e00
+many_msg_babbage(bytes1)

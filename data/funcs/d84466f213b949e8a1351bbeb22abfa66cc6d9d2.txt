@@ -1,0 +1,13 @@
+0x17f85f85
+0x75d0884d
+ideal_warn_timed(uint256,uint128)
+0x8fc5dad8
+getVote(string)
+0xe2048503
+transferOwnership(address)
+0xf8722b47
+vote(string)
+balanceOf(address)
+balanceOf(address)
+balanceOf(address)
+totalSupply()

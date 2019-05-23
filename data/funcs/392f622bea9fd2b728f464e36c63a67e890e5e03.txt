@@ -1,0 +1,5 @@
+GuardaProva(string,string,string,string)
+ConsultaProva(string)
+provas(bytes32)
+TrocarAdmin(address)
+admin()

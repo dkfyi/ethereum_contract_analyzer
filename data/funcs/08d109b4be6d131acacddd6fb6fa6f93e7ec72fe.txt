@@ -1,0 +1,7 @@
+owners(uint256)
+length()
+ownerAddress()
+snake(uint256)
+stamps(uint256)
+buy(uint256)
+getToken(uint256)

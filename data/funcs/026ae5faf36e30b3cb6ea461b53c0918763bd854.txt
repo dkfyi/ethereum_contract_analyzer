@@ -1,0 +1,11 @@
+0x13555794
+identify(address)
+setUint(uint256,uint256)
+renounceOwnership()
+revoke(address)
+ideal_warn_timed(uint256,uint128)
+selfDestruct()
+getUint(uint256)
+setAddress(uint256,address)
+getAddress(uint256)
+transferOwnership(address)

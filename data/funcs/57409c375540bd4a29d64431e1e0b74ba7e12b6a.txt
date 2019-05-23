@@ -1,0 +1,5 @@
+messageNumber()
+0x0d80fefd
+withdraw()
+sendMessage(string)
+MESSAGE_PRICE()

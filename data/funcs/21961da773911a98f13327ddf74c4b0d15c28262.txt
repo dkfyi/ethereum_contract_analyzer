@@ -1,0 +1,6 @@
+balanceOf(address)
+batchTransfer(address[],uint256[])
+many_msg_babbage(bytes1)
+balanceOf(address)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

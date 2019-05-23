@@ -1,0 +1,3 @@
+betConditions()
+betHash()
+publishConditions(string)

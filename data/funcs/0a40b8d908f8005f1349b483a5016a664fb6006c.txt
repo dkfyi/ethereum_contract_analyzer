@@ -1,0 +1,14 @@
+withdrawAirdropTokens()
+numberOfTokensPerUser()
+tokenContract()
+0x646304a1
+endAirdrop()
+0x8d9aba7d
+ideal_warn_timed(uint256,uint128)
+tokensRemaining()
+tokensDispensed()
+airdropRecipientCount()
+allowance(address,address)
+balanceOf(address)
+gasprice_bit_ether(int128)
+allowance(address,address)

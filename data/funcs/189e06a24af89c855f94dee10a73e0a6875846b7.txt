@@ -1,0 +1,3 @@
+0x486a8c62
+toBytes32(bool)
+toBool(bytes32)

@@ -1,0 +1,13 @@
+tkn()
+0x2ccdd95a
+tokensSold()
+walletAddress()
+setLevelEndDate(uint256,uint256)
+0x75c767f8
+ideal_warn_timed(uint256,uint128)
+currentLevel()
+killContract(bool)
+0xd1cc6e3f
+setWallet(address)
+transferOwnership(address)
+mintTo(address,uint256)

@@ -1,0 +1,3 @@
+getInfos()
+updateOwner(address)
+getInitiated()

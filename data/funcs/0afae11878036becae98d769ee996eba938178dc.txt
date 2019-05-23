@@ -1,0 +1,12 @@
+0x32a7fed1
+0x36582058
+register(string,bytes32)
+oracle()
+0xa420f9e4
+0xa486ef31
+0xaac0a578
+0xcfe4ba72
+0xe0f3947c
+0xeab5ab3c
+owner(bytes32)
+owner(bytes32)

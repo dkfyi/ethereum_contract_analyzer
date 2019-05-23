@@ -1,0 +1,8 @@
+0x58fc82ef
+addCaller(address)
+0xaa03fa3d
+0xd1de5139
+0xd489b68f
+0xd819c426
+deleteCaller(uint256)
+transferCallership(address,uint256)

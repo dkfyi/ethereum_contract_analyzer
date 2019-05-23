@@ -1,0 +1,15 @@
+isLock()
+transferToOwner()
+0x68b9a64a
+ideal_warn_timed(uint256,uint128)
+createInviteName(bytes32)
+oldInviteAddr()
+updateLock(bool)
+GetAddressByName(bytes32)
+checkUp(address,bytes32)
+0xd9af3da0
+transferOwnership(address)
+0xf6b06d75
+0xf6b06d75
+GetAddressByName(bytes32)
+checkUp(address,bytes32)

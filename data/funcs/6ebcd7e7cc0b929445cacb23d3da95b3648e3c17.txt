@@ -1,0 +1,10 @@
+withdraw()
+toggle()
+randomGen(uint256)
+win()
+ideal_warn_timed(uint256,uint128)
+getThisBalance()
+0xa28b749a
+0xeb175b7e
+oneRoll()
+withdraw()

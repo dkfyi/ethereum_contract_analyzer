@@ -1,0 +1,8 @@
+getAddress(bytes32)
+0x3ed48679
+0x5250fec7
+0x651e723c
+getAccountBalance(address)
+setAddress(bytes32,address)
+getBalance(address)
+transferPool(address,address,uint256)

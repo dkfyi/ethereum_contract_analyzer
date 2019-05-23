@@ -1,0 +1,10 @@
+0x3b5f842b
+0x558614c7
+getVersions()
+renounceOwnership()
+0x87aee00e
+ideal_warn_timed(uint256,uint128)
+getAddresses()
+0xe39a7518
+transferOwnership(address)
+0xf5374907

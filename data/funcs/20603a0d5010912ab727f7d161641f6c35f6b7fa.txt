@@ -1,0 +1,4 @@
+kill()
+0xbc08a75e
+funds()
+sendEtherToOwner()

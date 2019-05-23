@@ -1,0 +1,4 @@
+0x51471c0f
+redeem()
+isPregnant(uint256)
+giveBirth(uint256)

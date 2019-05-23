@@ -1,0 +1,7 @@
+newEtherdelta(address)
+etherdelta()
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)
+balanceOf(address,address)
+balanceOf(address)
+balanceOf(address,address)

@@ -1,0 +1,13 @@
+placeBet(address)
+0x49d30c13
+0x60818807
+0x761e8787
+ideal_warn_timed(uint256,uint128)
+changeAdmin(address)
+0xa075648c
+0xacfb8b6a
+0xae84c341
+sponsors(address)
+takeAll()
+0xe1c627ed
+admin()

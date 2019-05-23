@@ -1,0 +1,5 @@
+coin()
+bounty()
+exchangeBounty(address,uint256)
+balanceOf(address)
+exchangeBounty(address,uint256)

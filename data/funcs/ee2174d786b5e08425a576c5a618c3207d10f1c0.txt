@@ -1,0 +1,8 @@
+changeContractOwner(address)
+0x91223d69
+0xb879e4b3
+0xc19dd8ab
+addTrustedIssuer(address,string)
+0xe89b9236
+removeTrustedIssuer(address,string)
+assertFact(uint256,string)

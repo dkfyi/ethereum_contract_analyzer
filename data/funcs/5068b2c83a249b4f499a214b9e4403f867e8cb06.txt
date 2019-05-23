@@ -1,0 +1,4 @@
+getBalance()
+kill()
+0x523b840f
+donate()

@@ -1,0 +1,10 @@
+deauthorize(address)
+checkHash(uint256)
+counter()
+random(uint256,uint256,uint256)
+ideal_warn_timed(uint256,uint128)
+authorize(address)
+0xb9035c17
+0xb9181611
+transferOwnership(address)
+0xf65a74dc

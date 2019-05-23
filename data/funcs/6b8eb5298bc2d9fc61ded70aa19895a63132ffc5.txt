@@ -1,0 +1,8 @@
+0x302df083
+kill()
+0x447b15f4
+addBeneficiary(address)
+ideal_warn_timed(uint256,uint128)
+0xd61f31c5
+beneficiaries(uint256)
+transferOwnership(address)

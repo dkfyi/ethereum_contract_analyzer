@@ -1,0 +1,16 @@
+reclaimToken(address)
+0x3177f530
+claimOwnership()
+0x61cb4e77
+0x707e1f43
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0x8e378b0d
+reclaimEther()
+0xde112b9a
+pendingOwner()
+transferOwnership(address)
+balanceOf(address)
+many_msg_babbage(bytes1)
+0x5477c4d8
+0x5477c4d8

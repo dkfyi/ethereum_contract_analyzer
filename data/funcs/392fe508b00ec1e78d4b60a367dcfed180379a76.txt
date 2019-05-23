@@ -1,0 +1,14 @@
+name()
+0x0c3e3c58
+available_assert_time(uint16,uint64)
+upgradeTo(address)
+isPauser(address)
+implementation()
+0x68f5d173
+removePauser(address)
+0x6f741cff
+0x7f5ae339
+addPauser(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)
+0xde08c364

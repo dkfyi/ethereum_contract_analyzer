@@ -1,0 +1,12 @@
+getSales()
+0x210cb8c3
+getNumberOfTransactions()
+kill()
+0x8ce2df4a
+0x9ace38c2
+0xa318cedc
+getPurchases()
+0xcfc405c7
+0xe69fd1c5
+0xee9228e9
+transferOwnership(address)

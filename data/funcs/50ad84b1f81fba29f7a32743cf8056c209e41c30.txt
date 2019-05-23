@@ -1,0 +1,12 @@
+lockGate()
+equal(string,string)
+manager()
+lastConsolationPrize(uint256)
+pickWinner()
+pickConsolationPrize(uint256[])
+getPlayers()
+getLastConsolationPrize()
+enter(string)
+compareByte(string,string)
+0xf71d96cb
+lastWinner()

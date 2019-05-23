@@ -1,0 +1,9 @@
+0xa8e9a539
+0xa8e9a539
+0xc7956b5c
+newOwner()
+transferOwnership(address)
+modifyExecutorAddr(address)
+acceptOwnership()
+0x82ff6512
+ideal_warn_timed(uint256,uint128)

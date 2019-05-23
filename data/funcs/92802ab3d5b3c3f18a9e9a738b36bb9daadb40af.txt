@@ -1,0 +1,6 @@
+getBet(uint256)
+withdraw()
+getMaxBet()
+doBet(uint256)
+setNonce(uint256)
+doBet(uint256[],uint256[],uint256[],uint256)

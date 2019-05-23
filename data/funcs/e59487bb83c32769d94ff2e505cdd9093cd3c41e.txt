@@ -1,0 +1,10 @@
+name()
+isdelegatinglisted(address)
+0x69f99001
+revoke(address)
+authorizeMany(address[50])
+ideal_warn_timed(uint256,uint128)
+0x8df92b8c
+authorize(address)
+0xd82d8d03
+0xe1686f4e

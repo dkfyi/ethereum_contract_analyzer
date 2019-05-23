@@ -1,0 +1,10 @@
+bid()
+auctionEnd()
+beneficiary()
+withdraw()
+auctionStart()
+biddingPeriod()
+recoverAll()
+highestBidder()
+0xc0e8788c
+highestBid()

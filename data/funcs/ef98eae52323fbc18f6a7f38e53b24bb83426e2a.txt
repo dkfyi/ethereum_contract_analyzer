@@ -1,0 +1,12 @@
+0x01be21aa
+0x0fc59e78
+0x1064b9d5
+0x2cc79f00
+0x33790845
+computeNextPrice(uint256)
+unpause()
+paused()
+0x7fff5201
+pause()
+ideal_warn_timed(uint256,uint128)
+transferOwnership(address)

@@ -1,0 +1,16 @@
+ideal_warn_timed(uint256,uint128)
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0x8fd631af
+0x99cc9e73
+transferOwnership(address)
+hashedParameters()
+0x02506804
+0x197275f1
+updateParameters(bytes32)
+0x43cfe6b2
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isSchemeRegistered(address,address)
+ideal_warn_timed(uint256,uint128)
+getSchemeParameters(address,address)

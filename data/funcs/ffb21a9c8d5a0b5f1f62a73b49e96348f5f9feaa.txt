@@ -1,0 +1,11 @@
+0x4ee86350
+0x5f775372
+renounceOwnership()
+0x77cf7630
+ideal_warn_timed(uint256,uint128)
+tokenBalanceOf(address)
+transferOwnership(address)
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)
+allowance(address,address)
+balanceOf(address)

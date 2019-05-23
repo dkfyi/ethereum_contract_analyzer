@@ -1,0 +1,17 @@
+castVote()
+0x16114acd
+0x28d5e117
+0x2b26fac4
+0x31f2c8a5
+0x519be2f5
+0x5961e4fb
+renounceOwnership()
+destroy()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+votesPerChoice(uint8)
+currentResult()
+transferOwnership(address)
+destroyAndSend(address)
+balanceOf(address)
+many_msg_babbage(bytes1)

@@ -1,0 +1,6 @@
+isTrustedBy(uint256,address)
+pointer()
+attest(uint256)
+0xc4c3366a
+newFact(string,string)
+0xf167cada

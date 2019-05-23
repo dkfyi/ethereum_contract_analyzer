@@ -1,0 +1,16 @@
+PRESALE_LIMIT()
+PRESALE_BONUS()
+TEAM_LIMIT()
+weiRaised()
+0x48cfd2e3
+finalize()
+wallet()
+0x6f766f59
+isFinalized()
+ideal_warn_timed(uint256,uint128)
+buyTokens()
+collect()
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)
+balanceOf(address)

@@ -1,0 +1,6 @@
+0x099f76ef
+0x20cec6fd
+0x97ddbef9
+0xa3d38743
+getContract(bytes32)
+getTime()

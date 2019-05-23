@@ -1,0 +1,10 @@
+isWhitelisted(address)
+cofounderB()
+0x654d5933
+0x93ac2e41
+0xbb42e2ae
+0xca28f1a1
+cofounderA()
+addAdvisor(address,uint256)
+dnnToken()
+issueTokens(address,uint256,uint8)

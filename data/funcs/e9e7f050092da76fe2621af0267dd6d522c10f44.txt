@@ -1,0 +1,15 @@
+0x04692d5f
+getDay()
+0x1e19dc55
+0x36a63477
+soldTokens()
+getRate()
+finishMinting()
+ideal_warn_timed(uint256,uint128)
+0xd2a53c3d
+0xe812d3f5
+transferOwnership(address)
+token()
+mint(address,uint256)
+mint(address,uint256)
+finishMinting()

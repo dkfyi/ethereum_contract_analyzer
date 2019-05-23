@@ -1,0 +1,4 @@
+amountOfLovers()
+createLover(string,string,string)
+0xae91751c
+findLover(address)

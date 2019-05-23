@@ -1,0 +1,17 @@
+removeAddressesFromWhitelist(address[])
+removeAddressFromWhitelist(address)
+0x3e54d868
+unpause()
+paused()
+0x655990ec
+addAddressToWhitelist(address)
+pause()
+ideal_warn_timed(uint256,uint128)
+whitelist(address)
+0x9bf3cda9
+reclaimEther()
+0xdf1094b4
+addAddressesToWhitelist(address[])
+0xf1982b8f
+transferOwnership(address)
+0xf5a8e9bb

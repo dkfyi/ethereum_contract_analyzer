@@ -1,0 +1,3 @@
+balanceOf(address)
+send(address,uint256)
+getBalance(address)

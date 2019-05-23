@@ -1,0 +1,8 @@
+get_deposit_balance(address,uint256)
+get_deposit_term(address,uint256)
+get_list_deposit_key(address)
+withdrawal(uint256)
+service_founder()
+deposit_period(uint256)
+many_msg_babbage(bytes1)
+deposit(uint256)

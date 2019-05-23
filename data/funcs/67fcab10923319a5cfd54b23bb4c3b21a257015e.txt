@@ -1,0 +1,12 @@
+0x186fac7c
+0x33e747b3
+0x5ce568c6
+0x6ce7e739
+ideal_warn_timed(uint256,uint128)
+addBonus(uint256,uint256)
+_now()
+getNow()
+refundable()
+0xd3bd7713
+setNow(uint256)
+transferOwnership(address)

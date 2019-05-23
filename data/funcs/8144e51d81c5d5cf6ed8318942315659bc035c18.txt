@@ -1,0 +1,15 @@
+0x1aeaaae8
+CheckBalance(address)
+0x50883b2d
+0x67ab711c
+withdrawEther()
+0x7ab73d4f
+0x7fcff511
+withdrawToken(address)
+ideal_warn_timed(uint256,uint128)
+0xa1799cae
+0xbef2a366
+0xc04de175
+transferOwnership(address)
+0xf75d5572
+many_msg_babbage(bytes1)

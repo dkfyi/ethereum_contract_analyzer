@@ -1,0 +1,16 @@
+0x05dbac91
+0x082463f7
+ceoAddress()
+getBalance()
+0x24169c2d
+0x3f98c876
+kill()
+balanceOf(address)
+renounceOwnership()
+0x83c64ec4
+ideal_warn_timed(uint256,uint128)
+0x91519017
+0xcc07202f
+0xcf1814bc
+0xde561a3b
+transferOwnership(address)

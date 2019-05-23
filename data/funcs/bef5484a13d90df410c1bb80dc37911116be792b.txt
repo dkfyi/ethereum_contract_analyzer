@@ -1,0 +1,6 @@
+purchase(uint256,uint256)
+withdrawAll()
+getToken(uint256)
+buyToken(uint256)
+purchase(uint256,uint256)
+getToken(uint256)

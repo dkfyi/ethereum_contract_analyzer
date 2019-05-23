@@ -1,0 +1,4 @@
+0x19ea1b2e
+0x46eee9a5
+0x6f10e285
+getResult()

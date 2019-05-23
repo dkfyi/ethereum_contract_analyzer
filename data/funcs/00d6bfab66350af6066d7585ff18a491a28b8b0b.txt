@@ -1,0 +1,11 @@
+0x10c42eaf
+0x4d63a542
+0x4fe870ab
+0x58908a0f
+0x5bee6f92
+ideal_warn_timed(uint256,uint128)
+isAuthorized(address)
+isAuthorized(address)
+0x359d1f11
+isAuthorized(address)
+many_msg_babbage(bytes1)

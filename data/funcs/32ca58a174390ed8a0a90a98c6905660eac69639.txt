@@ -1,0 +1,7 @@
+terminate()
+withdraw()
+sweep(address,bytes32)
+cancel(address,bytes32)
+donate()
+sealedBids(address,bytes32)
+cancelBid(address,bytes32)

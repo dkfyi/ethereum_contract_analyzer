@@ -1,0 +1,13 @@
+setOwner(address)
+execute(address[],bytes)
+setAuthority(address)
+ideal_warn_timed(uint256,uint128)
+0xac394f8c
+authority()
+balanceOf(address)
+allowance(address,address)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)
+balanceOf(address)
+approve(address,uint256)
+canCall(address,address,bytes4)

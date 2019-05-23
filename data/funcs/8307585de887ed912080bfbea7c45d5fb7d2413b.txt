@@ -1,0 +1,16 @@
+0x04703a09
+0x18a3d904
+totalShares()
+kill()
+returnFunds(uint256)
+members(uint256)
+0x6e423e2f
+totalMembers()
+ideal_warn_timed(uint256,uint128)
+addMember(address,uint256)
+0x9d16dc2d
+0xb730f6dd
+0xcd8d06c2
+depositFunds()
+transferOwnership(address)
+0xfbaafa8d

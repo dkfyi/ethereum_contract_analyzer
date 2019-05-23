@@ -1,0 +1,13 @@
+0x169770a7
+0x2129dded
+kill()
+0x4d46b656
+balanceOf(address)
+0x76a39356
+many_msg_babbage(bytes1)
+0xb41448f8
+frozenAccount(address)
+0xb7bc2f34
+0xc9e696c2
+0xcd93d132
+freezeAccount(address,bool)

@@ -1,0 +1,14 @@
+setNextSnapshotTime(uint256)
+0x576d56d6
+cards()
+0x6c3fb63c
+0x6cdb1b75
+0x7eca07d3
+getNextSnapshotTime()
+JadeCoinMining(address,uint256)
+0xf3da01e6
+setRoughSupply(uint256)
+setJadeCoin(address,uint256,bool)
+getTotalEtherPool(uint8)
+setCoinBalance(address,uint256,uint8,bool)
+setTotalEtherPool(uint256,uint8,bool)

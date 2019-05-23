@@ -1,0 +1,17 @@
+name()
+getAddress(bytes32)
+0x3751707c
+0x3ed48679
+0x651e723c
+setAmbiAddress(address,bytes32)
+getAccountBalance(address)
+remove()
+0x0a1add51
+hasRelation(bytes32,bytes32,address)
+getNodeAddress(bytes32)
+0x0a1add51
+hasRelation(bytes32,bytes32,address)
+getNodeAddress(bytes32)
+addNode(bytes32,address)
+getBalance(address)
+transferPool(address,address,uint256)

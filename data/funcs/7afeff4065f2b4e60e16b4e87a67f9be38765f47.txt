@@ -1,0 +1,12 @@
+0x01174f78
+tokenBalance(address,address)
+0x24665e19
+0xb4c11f22
+getTokenBalance(address,address)
+getEtherBalance(address)
+0xe1369f06
+0xe1a2f315
+0xf0c2cf2f
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

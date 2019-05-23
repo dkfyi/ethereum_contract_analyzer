@@ -1,0 +1,11 @@
+0x1a40372d
+memberId(address)
+numProposals()
+0x842395d6
+ideal_warn_timed(uint256,uint128)
+receiveApproval(address,uint256,address,bytes)
+0x99c1aadc
+0xc5bb8758
+transferOwnership(address)
+price()
+gasprice_bit_ether(int128)

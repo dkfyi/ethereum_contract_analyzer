@@ -1,0 +1,5 @@
+withdraw()
+balanceOf(address)
+canWithdraw()
+balance()
+0x5e0be100

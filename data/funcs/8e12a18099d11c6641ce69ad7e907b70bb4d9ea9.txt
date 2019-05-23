@@ -1,0 +1,9 @@
+name()
+available_assert_time(uint16,uint64)
+returnFunds(uint256)
+addDeveloper(address,string)
+balanceOf(address)
+link_classic_internal(uint64,int64)
+payOut(uint256,string)
+invest()
+0xeff25cd6

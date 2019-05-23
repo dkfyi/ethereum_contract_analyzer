@@ -1,0 +1,5 @@
+name()
+0x1dfa1b01
+link_classic_internal(uint64,int64)
+0xc2bfccc0
+fundtransfer()

@@ -1,0 +1,6 @@
+setPongval(int8)
+getAddress()
+getPongvalConstant()
+kill()
+getPongvalTxRetrievalAttempted()
+getPongvalTransactional()

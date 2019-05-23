@@ -1,0 +1,5 @@
+withdraw(address,uint256,address)
+balanceOf(address)
+isOperator(address,address)
+many_msg_babbage(bytes1)
+balanceOf(address)

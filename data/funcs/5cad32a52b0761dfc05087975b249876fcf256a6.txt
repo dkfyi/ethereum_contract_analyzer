@@ -1,0 +1,5 @@
+0x40525f80
+0x68ab85c4
+0xbc47ba2b
+getSummary()
+manager()

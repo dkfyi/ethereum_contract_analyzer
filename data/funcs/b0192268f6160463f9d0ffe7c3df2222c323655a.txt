@@ -1,0 +1,8 @@
+transferToken(address,uint256)
+yeedToken()
+ideal_warn_timed(uint256,uint128)
+tokenOwner()
+setupToken(address,address)
+balanceOf(address)
+balanceOf(address)
+gasprice_bit_ether(int128)

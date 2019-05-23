@@ -1,0 +1,8 @@
+distribute(uint256)
+buy(address)
+sell(uint256)
+balanceOf(address)
+reinvest()
+sell(uint256)
+balanceOf(address)
+withdraw()

@@ -1,0 +1,4 @@
+updateClientVersion(bytes32)
+clientVersion()
+poolContract()
+updatePoolContract(address)

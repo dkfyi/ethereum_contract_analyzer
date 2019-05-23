@@ -1,0 +1,9 @@
+0x17c57ce7
+addr()
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+newOwner()
+0xea1a3dfc
+transferOwnership(address)
+acceptOwnership()
+many_msg_babbage(bytes1)

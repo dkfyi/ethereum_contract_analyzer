@@ -1,0 +1,13 @@
+setDataContract(address)
+withdrawTokens(address,uint256)
+dataContract()
+tokenContract()
+ideal_warn_timed(uint256,uint128)
+setTokenContract(address)
+claim(address,bytes32,bytes32,uint8,bytes32,bytes32)
+transferOwnership(address)
+many_msg_babbage(bytes1)
+0x6fcd62da
+0x6fcd62da
+0x6fcd62da
+many_msg_babbage(bytes1)

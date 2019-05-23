@@ -1,0 +1,12 @@
+0x23433f5b
+founderAddress()
+0x5d039d7b
+changeFounderWalletAddress(address)
+0xdf2833bc
+getToken(uint256)
+getEther(uint256)
+0xf0fda15a
+token()
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)

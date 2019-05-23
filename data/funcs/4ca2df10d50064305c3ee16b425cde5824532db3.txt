@@ -1,0 +1,12 @@
+0x1065cf73
+0x18287008
+0x5167a0b6
+0x6d427fa3
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+buyers(address)
+referrals(address)
+transferOwnership(address)
+min_payment()
+0xff69909e

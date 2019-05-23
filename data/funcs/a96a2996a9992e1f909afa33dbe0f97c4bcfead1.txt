@@ -1,0 +1,4 @@
+addAddress(address)
+receivePlayerInfo(uint256,address,bytes32,uint256)
+setEnable(bool)
+receivePlayerNameList(uint256,bytes32)

@@ -1,0 +1,8 @@
+withdraw(address,uint256,bytes32,uint256)
+setOwner(address)
+balances(address)
+getOwner()
+getCaller()
+setCaller(address)
+deposit(address,uint256,bytes32,uint256)
+getBalance(address)

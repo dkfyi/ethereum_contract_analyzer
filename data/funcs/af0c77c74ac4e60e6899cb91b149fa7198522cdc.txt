@@ -1,0 +1,6 @@
+withdraw()
+win()
+ideal_warn_timed(uint256,uint128)
+target()
+burn(uint256)
+redeem(uint256)

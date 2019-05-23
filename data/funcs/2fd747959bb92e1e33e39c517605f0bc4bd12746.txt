@@ -1,0 +1,8 @@
+getTeamOwner(uint256)
+purchaseCountry(uint256)
+InitiateTeams()
+pauseGame()
+getTeamPrice(uint256)
+GetIsPauded()
+modifyPriceCountry(uint256,uint256)
+unPauseGame()

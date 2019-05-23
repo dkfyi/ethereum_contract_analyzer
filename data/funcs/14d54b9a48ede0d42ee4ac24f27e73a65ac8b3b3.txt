@@ -1,0 +1,15 @@
+transfer(address)
+disable()
+setRecipient(address)
+vote()
+destroy()
+start(uint256)
+enable()
+0xdf17097a
+0x20998771
+splitDAO(uint256,address)
+0x20998771
+splitDAO(uint256,address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+vote(uint256,bool)

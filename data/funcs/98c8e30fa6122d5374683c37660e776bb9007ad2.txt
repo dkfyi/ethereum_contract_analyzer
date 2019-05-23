@@ -1,0 +1,11 @@
+getRemainingAirdropSurplusAddressesLength()
+claimedAirdropTokens(address)
+ideal_warn_timed(uint256,uint128)
+0xa5f34bef
+multisend(address[],uint256[])
+0xd0397a6c
+0xdf36bb72
+setPreviousSurplus(address[],uint256[])
+transferOwnership(address)
+token()
+gasprice_bit_ether(int128)

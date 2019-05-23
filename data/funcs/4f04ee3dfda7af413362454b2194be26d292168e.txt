@@ -1,0 +1,16 @@
+make(address,address,uint128,uint128)
+0x1c0a1282
+last_offer_id()
+0x2a1da982
+cancel(uint256)
+take(bytes32,uint128)
+0x87fbfdc7
+offers(uint256)
+ideal_warn_timed(uint256,uint128)
+kill(bytes32)
+getOwner(uint256)
+transferOwnership(address)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)
+gasprice_bit_ether(int128)
+many_msg_babbage(bytes1)

@@ -1,0 +1,3 @@
+ideal_warn_timed(uint256,uint128)
+kill(address)
+0xe14355d5

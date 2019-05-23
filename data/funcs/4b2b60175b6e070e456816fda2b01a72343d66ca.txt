@@ -1,0 +1,5 @@
+go()
+get()
+setlock(bool)
+Press(uint256,uint256)
+withdrawReward()

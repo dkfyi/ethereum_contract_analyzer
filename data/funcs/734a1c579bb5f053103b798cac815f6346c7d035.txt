@@ -1,0 +1,5 @@
+segundos()
+horas()
+dias()
+today()
+minutos()

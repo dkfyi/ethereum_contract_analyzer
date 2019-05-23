@@ -1,0 +1,11 @@
+registerName(string)
+0x146a32ee
+registrationFee_()
+0x36390a44
+checkIfNameValid(string)
+withdrawBalance(address)
+ideal_warn_timed(uint256,uint128)
+getPlayerName()
+0xa96c3e6e
+0xd5fabe13
+transferOwnership(address)

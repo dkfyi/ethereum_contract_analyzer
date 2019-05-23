@@ -1,0 +1,16 @@
+deadlinePreIcoTwo()
+0x1a15ab71
+0x1e494510
+deadline()
+vmaxEtherPerPurchase()
+0x3e6c9328
+sentToken()
+deadlinePreIcoOne()
+vminEtherPerPurchase()
+balanceOf(address)
+fundingGoal()
+amountRaised()
+price()
+startdate()
+0xf387c708
+many_msg_babbage(bytes1)

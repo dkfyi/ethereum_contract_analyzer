@@ -1,0 +1,9 @@
+withdraw()
+kill()
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+0xb8363c8b
+newOwner()
+0xd7c31bf6
+transferOwnership(address)
+tokenGenerationEvent(address)

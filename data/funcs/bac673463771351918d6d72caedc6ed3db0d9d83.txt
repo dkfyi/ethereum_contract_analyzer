@@ -1,0 +1,8 @@
+0x1de1bcb4
+object()
+buyObject(address)
+0x8308abd4
+ideal_warn_timed(uint256,uint128)
+closeShop()
+shopSettings()
+transferOwnership(address)

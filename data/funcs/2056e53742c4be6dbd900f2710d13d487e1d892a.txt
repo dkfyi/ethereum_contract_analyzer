@@ -1,0 +1,5 @@
+0x13f57c3e
+0x20c38e2b
+register(bytes32,bytes32)
+transfer(bytes32,address)
+0xb2fccc7f

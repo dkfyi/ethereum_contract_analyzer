@@ -1,0 +1,3 @@
+withdraw()
+play(uint256)
+AddTicket()

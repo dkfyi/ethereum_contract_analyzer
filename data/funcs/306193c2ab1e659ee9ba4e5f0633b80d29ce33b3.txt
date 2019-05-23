@@ -1,0 +1,6 @@
+resolver()
+registrar()
+0x633cf84c
+registry()
+0x80869853
+0xef0d54c8

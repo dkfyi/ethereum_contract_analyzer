@@ -1,0 +1,14 @@
+hash()
+setHash(bytes32)
+0x1de77253
+0x20822abc
+0x3ce35b62
+claimContractOwnership()
+changeContractOwnership(address)
+pendingContractOwner()
+finalized()
+0xb7fbc8b4
+contractOwner()
+forceChangeContractOwnership(address)
+0xde0cc45b
+0xdf15602a

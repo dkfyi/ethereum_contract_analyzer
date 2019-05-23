@@ -1,0 +1,3 @@
+getBalance()
+0x2aaf6af8
+kill()

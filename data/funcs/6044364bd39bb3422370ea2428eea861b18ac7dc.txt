@@ -1,0 +1,4 @@
+0x45d03fce
+0xb4b31bec
+bet(uint8,bool,uint8)
+queuePayment(bytes)

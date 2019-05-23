@@ -1,0 +1,10 @@
+0x04d72b75
+WEI_PER_ETHER()
+issuerName()
+0x47a2d83e
+directorName()
+ideal_warn_timed(uint256,uint128)
+0x9553de4e
+0xa766bc98
+0xb508ba31
+isSigned()

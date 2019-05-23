@@ -1,0 +1,5 @@
+withdraw(uint256)
+kill()
+tokens(address,address)
+deposit()
+balanceOf(address,address)

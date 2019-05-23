@@ -1,0 +1,7 @@
+weiToOwner(address,uint256)
+acceptOwnership()
+ideal_warn_timed(uint256,uint128)
+changePrice(uint256)
+crystalPrice()
+newOwner()
+transferOwnership(address)

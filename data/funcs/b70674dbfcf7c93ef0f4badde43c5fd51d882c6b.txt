@@ -1,0 +1,3 @@
+get_ptc_count(address)
+ptc_addr()
+balanceOf(address)

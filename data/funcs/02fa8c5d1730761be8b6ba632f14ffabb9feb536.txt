@@ -1,0 +1,9 @@
+name()
+currentState()
+0x5b9b4031
+0xa52ef3fa
+minWager()
+blocked(address)
+closeBet()
+VERSION()
+placeBet(address)

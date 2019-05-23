@@ -1,0 +1,3 @@
+0x52ca29eb
+0xeb996f4b
+ideal_warn_timed(uint256,uint128)

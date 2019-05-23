@@ -1,0 +1,10 @@
+0x0db494ec
+withdraw(uint256)
+getContractBalance()
+renounceOwnership()
+0x8230c5eb
+0x88403e66
+ideal_warn_timed(uint256,uint128)
+isOwner()
+minimumWager()
+transferOwnership(address)

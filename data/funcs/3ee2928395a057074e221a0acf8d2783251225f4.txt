@@ -1,0 +1,8 @@
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+decreaseApproval(address,uint256)
+balanceOf(address)
+many_msg_babbage(bytes1)
+increaseApproval(address,uint256)
+allowance(address,address)

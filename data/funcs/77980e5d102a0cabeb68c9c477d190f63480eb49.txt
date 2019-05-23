@@ -1,0 +1,16 @@
+0x3cb24cf8
+withdraw()
+0x47882240
+withdrawBalance()
+myTokens()
+many_msg_babbage(bytes1)
+buyTokens(address,uint256,uint256)
+sell(uint256)
+exit()
+withdraw()
+myTokens()
+many_msg_babbage(bytes1)
+buy(address)
+myTokens()
+sell(uint256)
+exit()

@@ -1,0 +1,17 @@
+round()
+0x2acc69e1
+0x3d4cfa6b
+depositAmount()
+0x45f450ab
+0x6f7bc9be
+lastPaymentDate()
+adminAddr()
+pause()
+ideal_warn_timed(uint256,uint128)
+getInvestorCount()
+addInvestors(address[],uint256[],uint256[],address[])
+getInvestorDividendsAmount(address)
+payout(uint256)
+0xedf26d9b
+transferOwnership(address)
+0xff60dfb6

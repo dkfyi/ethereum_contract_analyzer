@@ -1,0 +1,17 @@
+addBalance(address,uint256)
+cancelOwnershipTransfer()
+claimOwnership()
+0x66ab910a
+balanceOf(address)
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+0x9ab587ea
+subBalance(address,uint256)
+setBalance(address,uint256)
+pendingOwner()
+getHolder(uint256)
+transferOwnership(address)
+0x0870188e
+0x5fab6f82
+contains(address)
+add(address)

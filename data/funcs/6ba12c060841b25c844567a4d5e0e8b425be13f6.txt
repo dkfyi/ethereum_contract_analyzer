@@ -1,0 +1,10 @@
+iteration()
+castVote(uint256,uint256)
+0x5df81330
+payout()
+numVotes()
+history(uint256)
+developer()
+0xd4cf9af7
+0xf6fd7fde
+next(string,string,string,string,string,string)

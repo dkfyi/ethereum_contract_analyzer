@@ -1,0 +1,11 @@
+0x03988f84
+refund(uint256)
+createNew(address)
+0x82fd5bac
+confirm(uint256,uint256)
+ideal_warn_timed(uint256,uint128)
+0xba464048
+setAgent(address)
+0xdbc23cf3
+transferOwnership(address)
+agent()

@@ -1,0 +1,13 @@
+0x033da70b
+isDelegate(address)
+totalSupply()
+0x1a46ec82
+addBalance(address,uint256)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+subAllowance(address,address,uint256)
+decreaseSupply(uint256)
+increaseSupply(uint256)
+subBalance(address,uint256)
+setAllowance(address,address,uint256)
+transferOwnership(address)

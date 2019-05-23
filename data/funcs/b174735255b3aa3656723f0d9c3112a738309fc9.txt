@@ -1,0 +1,4 @@
+0x5b61adeb
+0x616299e8
+destroy()
+donations(bytes32,uint256)

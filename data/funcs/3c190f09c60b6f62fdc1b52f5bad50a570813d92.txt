@@ -1,0 +1,12 @@
+0x272a180d
+resumeSale()
+endSale()
+getTokenBalance(address)
+pauseSale()
+changeOwner(address)
+0xb5c604ff
+buyTokens()
+getEtherBalance(address)
+getTokensSold()
+getCurrentStage()
+0xf10746f4

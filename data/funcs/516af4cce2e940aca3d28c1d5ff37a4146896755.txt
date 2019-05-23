@@ -1,0 +1,7 @@
+totalSupply()
+balanceOf(address)
+allowance(address,address)
+erc20Store()
+totalSupply()
+balances(address)
+allowed(address,address)

@@ -1,0 +1,8 @@
+countHolders()
+getItemHolder(uint256)
+kill()
+stopPreICO()
+getMoney()
+startPreICO()
+isPreIco()
+balancsHolder(address)

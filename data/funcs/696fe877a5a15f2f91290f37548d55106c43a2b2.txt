@@ -1,0 +1,7 @@
+0xd5314a5f
+isReadyToBreed(uint256)
+giveBirth(uint256)
+isReadyToBreed(uint256)
+giveBirth(uint256)
+isReadyToBreed(uint256)
+giveBirth(uint256)

@@ -1,0 +1,12 @@
+getComment(uint256)
+addComment(bytes3,string)
+0x21ea3bb0
+0x61c3a7e6
+commentsLength()
+addNote(bytes32,string)
+0x8ebb4c15
+setComment(uint256,bytes3,string)
+getNote(uint256)
+setNote(uint256,bytes32,string)
+notesLength()
+constuctor()

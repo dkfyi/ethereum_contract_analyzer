@@ -1,0 +1,13 @@
+0x058260d7
+setOwner(address)
+transferFrom(address,address,address,uint256)
+0x2d8bf0c5
+0x367605ca
+0x79fd0387
+getOwner()
+ideal_warn_timed(uint256,uint128)
+safeTransferFrom(address,address,address,uint256)
+approve(address,address,uint256)
+0xee1fe2ad
+0xf46eccc4
+0xf8c2c1eb

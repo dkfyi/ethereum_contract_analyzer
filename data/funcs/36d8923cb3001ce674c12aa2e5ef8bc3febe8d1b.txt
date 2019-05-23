@@ -1,0 +1,6 @@
+0x60020f47
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+addressOf(string)
+transferOwnership(address)

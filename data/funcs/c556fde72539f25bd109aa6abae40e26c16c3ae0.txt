@@ -1,0 +1,15 @@
+0x1cf456f8
+getByAddress(address)
+0x3f06108e
+renounceOwnership()
+0x75c342b5
+0x839c750d
+0x8cb7e757
+ideal_warn_timed(uint256,uint128)
+0x9cf7a664
+0x9f73b389
+0xa748a057
+0xa8e9929c
+0xb5151200
+transferOwnership(address)
+update(uint256,string,string)

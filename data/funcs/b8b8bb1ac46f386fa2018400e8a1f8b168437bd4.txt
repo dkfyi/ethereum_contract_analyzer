@@ -1,0 +1,17 @@
+icoStages(uint256)
+rate()
+endTime()
+BTCP()
+0x40dd73ab
+tokensSold()
+totalTokensForSale()
+0x7402c2b8
+startTime()
+ideal_warn_timed(uint256,uint128)
+0xe5d5e745
+buyTokens(address)
+mintTokens(address,uint256)
+transferOwnership(address)
+mintTokens(address,uint256)
+finishMinting()
+mintTokens(address,uint256)

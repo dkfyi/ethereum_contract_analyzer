@@ -1,0 +1,15 @@
+settleBet(uint256,uint256)
+setBotAddress(address)
+placeBet(uint8)
+0x4bf4f423
+setMinAmount(uint256)
+teamBalance()
+ideal_warn_timed(uint256,uint128)
+setPrice(uint256)
+minAmount()
+withdrawFunds(address,uint256)
+betAmount()
+lockedInBets()
+refundBet(uint256)
+transferOwnership(address)
+0xfc8cc92b

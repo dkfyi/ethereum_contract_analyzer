@@ -1,0 +1,8 @@
+setOwner(address)
+messagetodovie()
+date()
+location()
+setMessagefromdovie(string)
+getOwner()
+parsha()
+0xc18ca89c

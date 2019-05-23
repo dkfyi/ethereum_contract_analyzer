@@ -1,0 +1,14 @@
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+increaseAllowance(address,uint256)
+mint(address,uint256)
+0x56e288cd
+balanceOf(address)
+addMinter(address)
+renounceMinter()
+decreaseAllowance(address,uint256)
+many_msg_babbage(bytes1)
+isMinter(address)
+0xba0fb861
+allowance(address,address)

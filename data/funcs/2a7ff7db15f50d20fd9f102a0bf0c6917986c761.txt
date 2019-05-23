@@ -1,0 +1,2 @@
+read()
+store(uint32)

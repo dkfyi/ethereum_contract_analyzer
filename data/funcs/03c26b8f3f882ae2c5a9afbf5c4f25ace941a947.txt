@@ -1,0 +1,5 @@
+unchainedMultisigVersionMajor()
+spendNonce()
+unchainedMultisigVersionMinor()
+spend(address,uint256,uint8,bytes32,bytes32,uint8,bytes32,bytes32)
+generateMessageToSign(address,uint256)

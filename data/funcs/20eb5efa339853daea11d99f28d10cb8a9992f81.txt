@@ -1,0 +1,10 @@
+checkGoalReached()
+deadline()
+beneficiary()
+tokenReward()
+fundingGoal()
+amountRaised()
+price()
+0xc8f5f526
+funders(uint256)
+sendCoin(address,uint256)

@@ -1,0 +1,3 @@
+getAuthorizer(uint256)
+addAuthorized(address)
+isAuthorized(address)

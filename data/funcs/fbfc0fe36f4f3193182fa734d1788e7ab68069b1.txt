@@ -1,0 +1,6 @@
+getCreator()
+setNumber(uint256)
+kill()
+0x5b4ef819
+0x772f8390
+getNumber()

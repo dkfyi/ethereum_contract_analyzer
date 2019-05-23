@@ -1,0 +1,11 @@
+creator()
+count()
+0x0d80fefd
+date()
+setMessage(string)
+kill()
+price()
+author()
+reset()
+message()
+step()

@@ -1,0 +1,7 @@
+numcalls()
+numcallsinternal()
+sendIfNotForked()
+selfDestruct()
+doCall(uint256)
+forked()
+sendIfNotForked()

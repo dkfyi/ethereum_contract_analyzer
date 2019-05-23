@@ -1,0 +1,4 @@
+close(bool)
+get()
+set()
+end()

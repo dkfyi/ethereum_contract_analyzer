@@ -1,0 +1,14 @@
+CONTRACT_VERSION()
+0x8b0e38f7
+ideal_warn_timed(uint256,uint128)
+setHandler(address,bool)
+0xc792433f
+MAX_EXCHANGE_FEE_PERCENTAGE()
+transferOwnership(address)
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)
+transferFrom(address,address,address,uint256)
+0x18dc661c
+many_msg_babbage(bytes1)
+0xb6de4097
+0x8027beda

@@ -1,0 +1,11 @@
+0x0d80fefd
+writeMessage(string,string,string,string,string)
+multNumerator()
+getMessagesCount()
+getSummary()
+price()
+getSecondsToExpiration()
+multDenominator()
+startingPrice()
+expirationTime()
+expirationSeconds()

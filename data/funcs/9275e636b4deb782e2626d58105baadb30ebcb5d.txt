@@ -1,0 +1,11 @@
+0x096edbdd
+add(uint256)
+max()
+0x6b695280
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+random(uint256)
+0xe5fba6cc
+replace(uint256,uint256)
+transferOwnership(address)
+min()

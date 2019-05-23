@@ -1,0 +1,6 @@
+latestReleaseUrl()
+releaseChecksum(uint8)
+addRelease(bytes32,string)
+releaseUrl(uint8)
+releaseCount()
+latestReleaseChecksum()

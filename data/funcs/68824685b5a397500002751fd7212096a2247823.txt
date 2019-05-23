@@ -1,0 +1,6 @@
+Success()
+buyDepo(address)
+stopSaleDepo()
+showUnpaidDepositPercent(address)
+startSaleDepo(uint256)
+showDeposit(address)

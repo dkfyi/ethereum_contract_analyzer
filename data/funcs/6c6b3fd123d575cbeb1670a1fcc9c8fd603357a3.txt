@@ -1,0 +1,13 @@
+getBidsNum(address,uint256)
+getEventId(address,bytes32)
+determineWinner(address,uint256,bytes32)
+makeBet(address,uint256,bytes32)
+getBetsNums(address,uint256)
+createEvent(bytes32,bytes32[],address,uint256)
+getBet(address,uint256,uint256)
+getBid(address,uint256,uint256)
+getWhoBet(address,uint256,uint256)
+requestWithdraw()
+finishEvent(address,uint256)
+pendingWithdrawals(address)
+0xf4e10de2

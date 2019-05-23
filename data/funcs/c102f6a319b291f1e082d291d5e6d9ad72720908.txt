@@ -1,0 +1,7 @@
+isInitialized()
+0x84e84506
+0xb893e86e
+0xdd1e2e0f
+0xe7221785
+token()
+disableMinting()

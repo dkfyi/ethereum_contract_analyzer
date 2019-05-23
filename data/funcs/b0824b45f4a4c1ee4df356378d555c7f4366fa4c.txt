@@ -1,0 +1,5 @@
+getPlayerGainLossOnLastFlip()
+betAndFlip()
+kill()
+getEndowmentBalance()
+getResultOfLastFlip()

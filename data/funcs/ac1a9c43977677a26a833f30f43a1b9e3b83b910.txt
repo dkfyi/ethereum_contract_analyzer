@@ -1,0 +1,15 @@
+0x0299ed38
+0x14989308
+0x2530ea71
+getETHBalance(address)
+0x565a673c
+0x7f81e207
+ideal_warn_timed(uint256,uint128)
+0x964d042c
+0x990dc9db
+0xb00a503f
+0xc253f145
+0xedb2272d
+0xeecefbf1
+transferOwnership(address)
+0xff703700

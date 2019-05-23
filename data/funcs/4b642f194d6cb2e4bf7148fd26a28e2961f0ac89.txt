@@ -1,0 +1,6 @@
+tokenName()
+balanceOf(address)
+tokenSymbol()
+transfer(address,uint32)
+initSupply()
+0xf28bc50a

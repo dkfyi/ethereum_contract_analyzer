@@ -1,0 +1,3 @@
+0xd2c19d79
+buyAllAmountPayEth(address,address,uint256,address)
+wipe(address,bytes32,uint256,address)

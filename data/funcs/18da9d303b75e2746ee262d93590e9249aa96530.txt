@@ -1,0 +1,16 @@
+0x13d0cdab
+0x170610ff
+withdraw(uint256)
+ideal_warn_timed(uint256,uint128)
+wipe()
+balance()
+0xc7afbe3e
+deposit()
+balanceOf(address,address)
+withdrawToken(address,uint256)
+many_msg_babbage(bytes1)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+trade(address,uint256,address,uint256,uint256,uint256,address,uint8,bytes32,bytes32,uint256)
+withdraw(uint256)
+balanceOf(address,address)
+deposit()

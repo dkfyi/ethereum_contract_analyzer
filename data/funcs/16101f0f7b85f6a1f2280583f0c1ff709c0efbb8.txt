@@ -1,0 +1,6 @@
+transferTokens(address)
+hasCompleted()
+token()
+owners(address)
+totalSupply()
+transferTokensFromVault(address,address,uint256)

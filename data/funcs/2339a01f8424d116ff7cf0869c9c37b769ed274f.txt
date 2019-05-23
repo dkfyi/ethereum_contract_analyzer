@@ -1,0 +1,3 @@
+PLATprice()
+setAdmin(address,bool)
+updatePrice(uint256)

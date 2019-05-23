@@ -1,0 +1,2 @@
+transferAdminship(address)
+admin()

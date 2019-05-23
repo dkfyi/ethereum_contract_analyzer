@@ -1,0 +1,13 @@
+approve(address,uint256)
+totalSupply()
+gasprice_bit_ether(int128)
+available_assert_time(uint16,uint64)
+_decimals()
+_totalSupply()
+balanceOf(address)
+many_msg_babbage(bytes1)
+_symbol()
+_name()
+allowance(address,address)
+0x3b9aca00
+0x3b9aca00

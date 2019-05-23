@@ -1,0 +1,16 @@
+name()
+transfer(address,uint256,uint256)
+totalSupply()
+available_assert_time(uint16,uint64)
+standard()
+approveAccount(address,bool)
+0x6bc40dde
+balanceOf(address)
+mintToken(address,uint256)
+link_classic_internal(uint64,int64)
+centralBank()
+0xb25fa0b0
+approvedAccount(address)
+0xdb5cb3ac
+allowance(address,address)
+0xfe99ad5a

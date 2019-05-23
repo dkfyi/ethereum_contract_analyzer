@@ -1,0 +1,15 @@
+0x1f0ac3c8
+NormalizeRanks()
+SendAllMoney()
+GetMoney(uint256,address)
+0x3ffd80df
+CalcAll()
+Reset()
+GetUserRank(uint8,address)
+GetCategoryValue(uint8)
+AddNewSmallContract(address)
+GetCategoryNumber(bytes4)
+0x797fdd7b
+GetSmallCotractIndex(address)
+0x85a1c950
+SetRank(uint8,address,uint16)

@@ -1,0 +1,12 @@
+0x1ea80c21
+getContractAddress()
+operator()
+setDebt(uint256,address)
+ideal_warn_timed(uint256,uint128)
+0x9c885315
+0xb27e29bf
+0xb938f619
+0xdc5bd0a8
+0xe178e91a
+mortal()
+setDebt(uint256)

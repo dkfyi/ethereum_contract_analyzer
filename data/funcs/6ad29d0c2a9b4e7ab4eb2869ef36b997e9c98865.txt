@@ -1,0 +1,2 @@
+register(address[])
+registerWallet(address)

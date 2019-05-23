@@ -1,0 +1,8 @@
+cup()
+updateTabRap(bytes32)
+updateRest()
+tab(bytes32)
+rap(bytes32)
+din()
+chi()
+rhi()

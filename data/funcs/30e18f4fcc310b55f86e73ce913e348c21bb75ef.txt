@@ -1,0 +1,7 @@
+getEventsCount(string)
+authorizedLoggers(address)
+kill()
+addEvent(uint256,uint256,uint8,string,string)
+authorize(address)
+getEvent(string,uint256)
+isAuthorized(address)

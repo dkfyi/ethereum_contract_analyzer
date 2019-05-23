@@ -1,0 +1,7 @@
+__callback(bytes32,string)
+kill()
+update()
+ETHXBT()
+getAddress()
+0x4c773795
+getAddress()

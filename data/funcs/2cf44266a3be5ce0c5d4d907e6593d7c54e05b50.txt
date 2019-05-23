@@ -1,0 +1,9 @@
+0x76fe3828
+setupAmbi2(address)
+0x9776d171
+whitelist(address)
+0xc62b0795
+hasRole(address,bytes32,address)
+claimFor(address,address)
+isOwner(address,address)
+hasRole(address,bytes32,address)

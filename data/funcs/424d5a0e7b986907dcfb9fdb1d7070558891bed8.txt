@@ -1,0 +1,2 @@
+getResult()
+balanceOf(address)

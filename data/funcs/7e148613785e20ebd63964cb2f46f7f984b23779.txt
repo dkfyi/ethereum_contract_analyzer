@@ -1,0 +1,7 @@
+name()
+totalSupply()
+available_assert_time(uint16,uint64)
+Transfer(address,uint256)
+balanceOf(address)
+ideal_warn_timed(uint256,uint128)
+link_classic_internal(uint64,int64)

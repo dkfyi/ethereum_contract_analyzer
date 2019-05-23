@@ -1,0 +1,6 @@
+addMerkleTreeRoot(bytes32,bytes)
+getBlockNumber(bytes32)
+getUserInfo(bytes20)
+ideal_warn_timed(uint256,uint128)
+0xb01c68be
+getMerkleTreeRoot(bytes20)

@@ -1,0 +1,7 @@
+bot()
+changeBot(address)
+kill()
+setMembershipPrice(uint8,uint256)
+getMembershipPrice(uint8)
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)

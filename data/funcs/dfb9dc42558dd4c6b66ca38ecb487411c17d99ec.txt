@@ -1,0 +1,5 @@
+contracts(uint256)
+ContractAddress()
+newCookie()
+flush()
+destinationAddress()

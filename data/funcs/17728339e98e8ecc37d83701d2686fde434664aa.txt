@@ -1,0 +1,9 @@
+0x2168129d
+tickets(uint256)
+payout()
+buyTicket(uint256)
+0x7c1c1716
+lastBlock()
+0xa294958b
+balance()
+payoutReady()

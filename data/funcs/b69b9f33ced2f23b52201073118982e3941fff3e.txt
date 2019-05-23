@@ -1,0 +1,15 @@
+total()
+0x310f767d
+withdraw()
+0x3fd0a40f
+wallet()
+0x844c9026
+ideal_warn_timed(uint256,uint128)
+0x90be10cc
+0xaa082a9d
+0xbd4ca607
+setWallet(address)
+0xe4a9f192
+transferOwnership(address)
+token()
+many_msg_babbage(bytes1)

@@ -1,0 +1,10 @@
+trade()
+0x35ece4a6
+refund()
+0x5f4a019b
+0x6a84fc4b
+token()
+balanceOf(address)
+many_msg_babbage(bytes1)
+balanceOf(address)
+many_msg_babbage(bytes1)

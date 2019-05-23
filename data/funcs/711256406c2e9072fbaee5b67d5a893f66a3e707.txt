@@ -1,0 +1,9 @@
+MAX_HOST_PERCENT()
+MAX_NUM_AVAIL()
+defineReward(string,address,uint256,uint256)
+HOST_CUT()
+reviseNumAvailable(uint256,uint256)
+0xf301af42
+ELIX_ADDRESS()
+gasprice_bit_ether(int128)
+gasprice_bit_ether(int128)

@@ -1,0 +1,2 @@
+addData(uint8,string,string,string)
+getDataById(uint8)

@@ -1,0 +1,10 @@
+0x0e197ed9
+0x2297c58f
+getSecret(address)
+0x3b66e9f6
+kill()
+testEvent()
+bet(uint256)
+0x74065c5b
+ideal_warn_timed(uint256,uint128)
+0xeaa65613

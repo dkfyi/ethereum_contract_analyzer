@@ -1,0 +1,11 @@
+invest(address)
+0x1a57c210
+0x21774a3f
+0x2ae2b643
+getBonus(address)
+0x42eb89cb
+0x67679360
+destory()
+ideal_warn_timed(uint256,uint128)
+0xbd3f04a5
+0xe22c6128

@@ -1,0 +1,7 @@
+0x2e952f9f
+kill()
+batchTransfer(address,address[],uint256)
+0xed629438
+0xfa643b4c
+many_msg_babbage(bytes1)
+many_msg_babbage(bytes1)

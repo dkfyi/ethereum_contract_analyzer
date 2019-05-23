@@ -1,0 +1,9 @@
+0x083e2eae
+0x0ab852e0
+0x1aea6257
+setAdministrator(bytes32,bool)
+transferOwnership(address)
+0xf8704355
+0x909d694e
+deduct(address,uint256)
+0x43f262e3

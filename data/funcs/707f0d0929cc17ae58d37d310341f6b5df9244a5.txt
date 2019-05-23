@@ -1,0 +1,11 @@
+0x06d5e47c
+0x40466b83
+tickets(uint256)
+0x66e144ac
+renounceOwnership()
+ideal_warn_timed(uint256,uint128)
+isOwner()
+0x9a8b4296
+0xb067514e
+0xcae79941
+transferOwnership(address)

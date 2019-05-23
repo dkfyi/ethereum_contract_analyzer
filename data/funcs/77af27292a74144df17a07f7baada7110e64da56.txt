@@ -1,0 +1,5 @@
+Try(string)
+question()
+0xbedf0f4a
+0xc76de3e9
+New(string,bytes32)

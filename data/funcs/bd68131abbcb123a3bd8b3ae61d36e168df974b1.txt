@@ -1,0 +1,11 @@
+generateNumberWinner()
+0x1900874b
+numberOfBets()
+checkPlayerExists(address)
+kill()
+distributePrizes(uint256)
+bet(uint256)
+minimumBet()
+0xe08a96cd
+0xf71d96cb
+totalBet()

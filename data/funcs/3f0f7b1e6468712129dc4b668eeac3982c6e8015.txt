@@ -1,0 +1,5 @@
+proposals(uint256)
+0x2fdae3c5
+getNumProposals()
+vote(uint256,uint256)
+getProposal(uint256)

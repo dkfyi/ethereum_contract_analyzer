@@ -1,0 +1,2 @@
+0x22e670b4
+ownerOf(uint256)

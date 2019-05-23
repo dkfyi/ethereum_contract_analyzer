@@ -1,0 +1,16 @@
+0x0b0aee69
+setBlacklist(address,bool)
+moderator()
+getModerator()
+0x53cd089c
+getBlacklist(address)
+getValue(bytes32)
+0x6cfd19ea
+setAdmin(address)
+setModerator(address)
+0xc23aa65a
+0xcca14931
+0xccc2195f
+0xd34a3fd9
+admin()
+blacklist(address)

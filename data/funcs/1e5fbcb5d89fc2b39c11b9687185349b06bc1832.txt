@@ -1,0 +1,5 @@
+removeAllowedAddress(address)
+random(uint256,uint256,uint256)
+addAllowedAddress(address)
+ideal_warn_timed(uint256,uint128)
+changeOwner(address)

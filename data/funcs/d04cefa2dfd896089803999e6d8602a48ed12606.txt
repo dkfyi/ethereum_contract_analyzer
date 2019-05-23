@@ -1,0 +1,9 @@
+totalVotesFor(bytes32)
+validCandidate(bytes32)
+kill()
+0x516c3c57
+0x7021939f
+0x8199fb34
+0xb13c744b
+voteForCandidate(bytes32)
+mortal()

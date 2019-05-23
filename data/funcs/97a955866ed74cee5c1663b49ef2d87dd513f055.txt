@@ -1,0 +1,4 @@
+killContract()
+getSender()
+setMinPrice(uint256)
+getMinPrice()

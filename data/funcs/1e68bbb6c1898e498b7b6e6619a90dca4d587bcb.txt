@@ -1,0 +1,7 @@
+getTokenAddress()
+setTokenAddress(address)
+getTokenPrice()
+setTokenPrice(uint256)
+contractOwner()
+0xec1406ea
+0xfd24100f

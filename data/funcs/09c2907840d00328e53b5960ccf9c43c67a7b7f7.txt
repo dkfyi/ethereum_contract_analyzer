@@ -1,0 +1,7 @@
+bid()
+auctionEnd()
+beneficiary()
+auctionStart()
+highestBidder()
+biddingTime()
+highestBid()

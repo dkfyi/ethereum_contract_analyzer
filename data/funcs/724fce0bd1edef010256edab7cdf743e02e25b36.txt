@@ -1,0 +1,4 @@
+times(uint256,uint256)
+plus(uint256,uint256)
+divides(uint256,uint256)
+minus(uint256,uint256)

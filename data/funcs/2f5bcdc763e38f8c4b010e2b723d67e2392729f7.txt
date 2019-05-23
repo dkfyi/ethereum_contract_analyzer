@@ -1,0 +1,7 @@
+checkGoalReached()
+deadline()
+beneficiary()
+balanceOf(address)
+fundingGoal()
+amountRaised()
+safeWithdrawal()

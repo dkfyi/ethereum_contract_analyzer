@@ -1,0 +1,6 @@
+withdraw(address,bytes8)
+deposit(uint256)
+authentication(bytes8)
+getDepositor()
+cancel()
+register(bytes7)

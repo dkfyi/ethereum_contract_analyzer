@@ -1,0 +1,9 @@
+0x12800c3f
+0x52185b6c
+XBLContract_addr()
+0x8e5e8f49
+0xd96795b8
+0xf99450b9
+allowance(address,address)
+balanceOf(address)
+gasprice_bit_ether(int128)

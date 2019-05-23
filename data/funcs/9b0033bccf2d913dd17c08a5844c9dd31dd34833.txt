@@ -1,0 +1,6 @@
+numInvestors()
+balances(address)
+withdraw()
+investors(uint256)
+depth()
+MINIMUM_INVESTMENT()

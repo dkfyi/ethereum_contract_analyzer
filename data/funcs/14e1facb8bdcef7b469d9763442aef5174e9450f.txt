@@ -1,0 +1,8 @@
+0x45bcc288
+0x77028d93
+claim_reward(uint256,bytes32)
+get_parameters()
+register(bytes32)
+claim_reward(uint256,bytes32)
+register(bytes32)
+claim_reward(uint256,bytes32)

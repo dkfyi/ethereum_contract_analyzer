@@ -1,0 +1,3 @@
+0x8fec5661
+balance()
+GetEthBalance(address)

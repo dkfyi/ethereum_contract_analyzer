@@ -1,0 +1,6 @@
+approve(address,uint8,uint8)
+isContract(address)
+ideal_warn_timed(uint256,uint128)
+getBonuses(address)
+approved(address)
+transferOwnership(address)

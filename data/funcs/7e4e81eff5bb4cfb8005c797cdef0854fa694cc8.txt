@@ -1,0 +1,11 @@
+claimOwnership()
+allowAddress(address,bool)
+0x741eb073
+0x7d340a77
+0x89b49eb3
+ideal_warn_timed(uint256,uint128)
+0xc2fe2022
+0xc59e15cd
+0xdb512e85
+pendingOwner()
+transferOwnership(address)

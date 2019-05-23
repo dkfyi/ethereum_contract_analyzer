@@ -1,0 +1,3 @@
+getVersion()
+0x773b6a16
+getHash()

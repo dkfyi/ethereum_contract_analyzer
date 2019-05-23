@@ -1,0 +1,6 @@
+hash()
+__callback(bytes32,string)
+kill()
+lol()
+0xb11558ee
+output()

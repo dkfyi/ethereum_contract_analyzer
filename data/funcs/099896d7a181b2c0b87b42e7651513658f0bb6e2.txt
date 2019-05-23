@@ -1,0 +1,6 @@
+totalSupply()
+0x4596d3e9
+balanceOf(address)
+0x8e6ac07f
+many_msg_babbage(bytes1)
+allowance(address,address)

@@ -1,0 +1,8 @@
+activateDevice(address)
+setupAmbi2(address)
+isActivated(address)
+deactivateDevice(address)
+hasRole(address,bytes32,address)
+claimFor(address,address)
+isOwner(address,address)
+hasRole(address,bytes32,address)

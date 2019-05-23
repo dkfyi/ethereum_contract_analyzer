@@ -1,0 +1,5 @@
+getBalance()
+withdraw()
+kill()
+0xb4a1f440
+deposit()

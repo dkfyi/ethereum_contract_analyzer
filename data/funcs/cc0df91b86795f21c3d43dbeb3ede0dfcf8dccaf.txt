@@ -1,0 +1,15 @@
+parameterizerFactory()
+newRegistryWithToken(uint256,string,uint8,string,uint256[],string)
+0x7cc5a42e
+proxyFactory()
+canonizedRegistry()
+newParameterizerWithToken(uint256,string,uint8,string,uint256[])
+token()
+many_msg_babbage(bytes1)
+voting()
+createProxy(address,bytes)
+init(address,address,address,string)
+0x7087ec14
+voting()
+createProxy(address,bytes)
+init(address,address,address,string)

@@ -1,0 +1,9 @@
+auctusTokenAddress()
+redeemBounty(uint256,uint256,uint8,bytes32,bytes32)
+ideal_warn_timed(uint256,uint128)
+0x9f4568ef
+tokenFallback(address,uint256,bytes)
+escrowedTokens()
+forcedRedeem(address,uint256)
+transferOwnership(address)
+many_msg_babbage(bytes1)

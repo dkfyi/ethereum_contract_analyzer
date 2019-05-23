@@ -1,0 +1,17 @@
+getVirusLength()
+totalPopulation()
+cos(uint16)
+mutate(bytes32,bytes32)
+ideal_warn_timed(uint256,uint128)
+withdraw(bytes32)
+0xa60080cf
+totalBalance()
+withdrawExcess(address)
+infect(bytes32)
+totalPayed()
+genesisVirus()
+0xddd68674
+transferOwnership(address)
+0xf3e2be4a
+sin(uint16)
+getOwnerVirusLength(address)
